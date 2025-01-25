@@ -9,5 +9,3 @@ http://127.0.0.1:8000/docs # to use swagger
 ```
 
 [Postman Collection](Repo.postman_collection.json)
-
-https://onetimesecret.com/private/2b10yxl804em89l99zb6opkqj10gz7x
