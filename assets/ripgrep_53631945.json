@@ -1,0 +1,428 @@
+{
+    "id": 53631945,
+    "node_id": "MDEwOlJlcG9zaXRvcnk1MzYzMTk0NQ==",
+    "name": "ripgrep",
+    "full_name": "BurntSushi/ripgrep",
+    "private": false,
+    "owner": {
+        "login": "BurntSushi",
+        "id": 456674,
+        "node_id": "MDQ6VXNlcjQ1NjY3NA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/456674?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/BurntSushi",
+        "html_url": "https://github.com/BurntSushi",
+        "followers_url": "https://api.github.com/users/BurntSushi/followers",
+        "following_url": "https://api.github.com/users/BurntSushi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/BurntSushi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/BurntSushi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/BurntSushi/subscriptions",
+        "organizations_url": "https://api.github.com/users/BurntSushi/orgs",
+        "repos_url": "https://api.github.com/users/BurntSushi/repos",
+        "events_url": "https://api.github.com/users/BurntSushi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/BurntSushi/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/BurntSushi/ripgrep",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "fork": false,
+    "url": "https://api.github.com/repos/BurntSushi/ripgrep",
+    "forks_url": "https://api.github.com/repos/BurntSushi/ripgrep/forks",
+    "keys_url": "https://api.github.com/repos/BurntSushi/ripgrep/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/BurntSushi/ripgrep/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/BurntSushi/ripgrep/teams",
+    "hooks_url": "https://api.github.com/repos/BurntSushi/ripgrep/hooks",
+    "issue_events_url": "https://api.github.com/repos/BurntSushi/ripgrep/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/BurntSushi/ripgrep/events",
+    "assignees_url": "https://api.github.com/repos/BurntSushi/ripgrep/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/BurntSushi/ripgrep/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/BurntSushi/ripgrep/tags",
+    "blobs_url": "https://api.github.com/repos/BurntSushi/ripgrep/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/BurntSushi/ripgrep/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/BurntSushi/ripgrep/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/BurntSushi/ripgrep/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/BurntSushi/ripgrep/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/BurntSushi/ripgrep/languages",
+    "stargazers_url": "https://api.github.com/repos/BurntSushi/ripgrep/stargazers",
+    "contributors_url": "https://api.github.com/repos/BurntSushi/ripgrep/contributors",
+    "subscribers_url": "https://api.github.com/repos/BurntSushi/ripgrep/subscribers",
+    "subscription_url": "https://api.github.com/repos/BurntSushi/ripgrep/subscription",
+    "commits_url": "https://api.github.com/repos/BurntSushi/ripgrep/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/BurntSushi/ripgrep/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/BurntSushi/ripgrep/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/BurntSushi/ripgrep/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/BurntSushi/ripgrep/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/BurntSushi/ripgrep/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/BurntSushi/ripgrep/merges",
+    "archive_url": "https://api.github.com/repos/BurntSushi/ripgrep/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/BurntSushi/ripgrep/downloads",
+    "issues_url": "https://api.github.com/repos/BurntSushi/ripgrep/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/BurntSushi/ripgrep/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/BurntSushi/ripgrep/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/BurntSushi/ripgrep/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/BurntSushi/ripgrep/labels{/name}",
+    "releases_url": "https://api.github.com/repos/BurntSushi/ripgrep/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/BurntSushi/ripgrep/deployments",
+    "created_at": "2016-03-11T02:02:33Z",
+    "updated_at": "2025-01-25T16:45:17Z",
+    "pushed_at": "2025-01-13T15:16:09Z",
+    "git_url": "git://github.com/BurntSushi/ripgrep.git",
+    "ssh_url": "git@github.com:BurntSushi/ripgrep.git",
+    "clone_url": "https://github.com/BurntSushi/ripgrep.git",
+    "svn_url": "https://github.com/BurntSushi/ripgrep",
+    "homepage": "",
+    "size": 4935,
+    "stargazers_count": 49957,
+    "watchers_count": 49957,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2041,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 154,
+    "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cli",
+        "command-line",
+        "command-line-tool",
+        "gitignore",
+        "grep",
+        "recursively-search",
+        "regex",
+        "ripgrep",
+        "rust",
+        "search"
+    ],
+    "visibility": "public",
+    "forks": 2041,
+    "open_issues": 154,
+    "watchers": 49957,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "wincolor-0.1.6",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/wincolor-0.1.6",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/wincolor-0.1.6",
+            "commit": {
+                "sha": "7718ee362e405f709886e24d62e352dd361a4dd6",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/7718ee362e405f709886e24d62e352dd361a4dd6"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3dpbmNvbG9yLTAuMS42"
+        },
+        {
+            "name": "wincolor-0.1.5",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/wincolor-0.1.5",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/wincolor-0.1.5",
+            "commit": {
+                "sha": "07c837e7400516bb4f1996d0405f59fc07596a74",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/07c837e7400516bb4f1996d0405f59fc07596a74"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3dpbmNvbG9yLTAuMS41"
+        },
+        {
+            "name": "wincolor-0.1.4",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/wincolor-0.1.4",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/wincolor-0.1.4",
+            "commit": {
+                "sha": "9d7b6eb09a471cdf1eac981b5800f126a7dff92e",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/9d7b6eb09a471cdf1eac981b5800f126a7dff92e"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3dpbmNvbG9yLTAuMS40"
+        },
+        {
+            "name": "wincolor-0.1.3",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/wincolor-0.1.3",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/wincolor-0.1.3",
+            "commit": {
+                "sha": "c648eadbaa9e6e8ab819a7ac2a699a7f4a3ceae4",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/c648eadbaa9e6e8ab819a7ac2a699a7f4a3ceae4"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3dpbmNvbG9yLTAuMS4z"
+        },
+        {
+            "name": "wincolor-0.1.2",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/wincolor-0.1.2",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/wincolor-0.1.2",
+            "commit": {
+                "sha": "79e5e6671f3f71e5c93d37bd3b53a8e8597ba1fc",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/79e5e6671f3f71e5c93d37bd3b53a8e8597ba1fc"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3dpbmNvbG9yLTAuMS4y"
+        },
+        {
+            "name": "wincolor-0.1.0",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/wincolor-0.1.0",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/wincolor-0.1.0",
+            "commit": {
+                "sha": "df72d8d1e0016b2235504b17451348e68522e187",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/df72d8d1e0016b2235504b17451348e68522e187"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3dpbmNvbG9yLTAuMS4w"
+        },
+        {
+            "name": "termcolor-0.3.6",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.6",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.6",
+            "commit": {
+                "sha": "835600794fa567f00ef23942b0bf647c4aa667a6",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/835600794fa567f00ef23942b0bf647c4aa667a6"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuNg=="
+        },
+        {
+            "name": "termcolor-0.3.5",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.5",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.5",
+            "commit": {
+                "sha": "ab1b877c205c0920b41773bf0267c0f016d04a51",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/ab1b877c205c0920b41773bf0267c0f016d04a51"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuNQ=="
+        },
+        {
+            "name": "termcolor-0.3.4",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.4",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.4",
+            "commit": {
+                "sha": "5d15f49f0c5ac3d74dabc82a5bd4032b79b2aba4",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/5d15f49f0c5ac3d74dabc82a5bd4032b79b2aba4"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuNA=="
+        },
+        {
+            "name": "termcolor-0.3.3",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.3",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.3",
+            "commit": {
+                "sha": "12a78a992cb5d77a5e2023fa023a9481e4ba9925",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/12a78a992cb5d77a5e2023fa023a9481e4ba9925"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuMw=="
+        },
+        {
+            "name": "termcolor-0.3.2",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.2",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.2",
+            "commit": {
+                "sha": "2f3a8c7f6915c417cc481edfd8b420a617e32120",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/2f3a8c7f6915c417cc481edfd8b420a617e32120"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuMg=="
+        },
+        {
+            "name": "termcolor-0.3.1",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.1",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.1",
+            "commit": {
+                "sha": "c648eadbaa9e6e8ab819a7ac2a699a7f4a3ceae4",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/c648eadbaa9e6e8ab819a7ac2a699a7f4a3ceae4"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuMQ=="
+        },
+        {
+            "name": "termcolor-0.3.0",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.3.0",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.3.0",
+            "commit": {
+                "sha": "a5a16ebb27aa5426de0f95849c731d2b92ba1496",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/a5a16ebb27aa5426de0f95849c731d2b92ba1496"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjMuMA=="
+        },
+        {
+            "name": "termcolor-0.1.1",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.1.1",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.1.1",
+            "commit": {
+                "sha": "506f046b8b3882567bb589de574373c9c0f310c2",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/506f046b8b3882567bb589de574373c9c0f310c2"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjEuMQ=="
+        },
+        {
+            "name": "termcolor-0.1.0",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/termcolor-0.1.0",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/termcolor-0.1.0",
+            "commit": {
+                "sha": "df72d8d1e0016b2235504b17451348e68522e187",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/df72d8d1e0016b2235504b17451348e68522e187"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL3Rlcm1jb2xvci0wLjEuMA=="
+        },
+        {
+            "name": "ignore-0.4.22",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.22",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.22",
+            "commit": {
+                "sha": "2c3897585d3a6d0709954bc389bed3d957878048",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/2c3897585d3a6d0709954bc389bed3d957878048"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMjI="
+        },
+        {
+            "name": "ignore-0.4.21",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.21",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.21",
+            "commit": {
+                "sha": "381c521d02e26f86d69fbbec6e697a4609bea056",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/381c521d02e26f86d69fbbec6e697a4609bea056"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMjE="
+        },
+        {
+            "name": "ignore-0.4.20",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.20",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.20",
+            "commit": {
+                "sha": "fe97c0a152cabc1bc07ec36b4b1e27cd230c3014",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/fe97c0a152cabc1bc07ec36b4b1e27cd230c3014"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMjA="
+        },
+        {
+            "name": "ignore-0.4.19",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.19",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.19",
+            "commit": {
+                "sha": "a0e8dbe9df412f68f9b3a64c2f18fba4f8a2147a",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/a0e8dbe9df412f68f9b3a64c2f18fba4f8a2147a"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTk="
+        },
+        {
+            "name": "ignore-0.4.18",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.18",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.18",
+            "commit": {
+                "sha": "14860b0f16ce9cab3c8bb9205a8268b5be22dc30",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/14860b0f16ce9cab3c8bb9205a8268b5be22dc30"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTg="
+        },
+        {
+            "name": "ignore-0.4.17",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.17",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.17",
+            "commit": {
+                "sha": "a6d05475fb353c756e88f605fd5366a67943e591",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/a6d05475fb353c756e88f605fd5366a67943e591"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTc="
+        },
+        {
+            "name": "ignore-0.4.16",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.16",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.16",
+            "commit": {
+                "sha": "72bdde677100d8384c89da0ef1d7136dda03d1f3",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/72bdde677100d8384c89da0ef1d7136dda03d1f3"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTY="
+        },
+        {
+            "name": "ignore-0.4.15",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.15",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.15",
+            "commit": {
+                "sha": "568018386b850cca3d6759397b18d604ae91e6eb",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/568018386b850cca3d6759397b18d604ae91e6eb"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTU="
+        },
+        {
+            "name": "ignore-0.4.14",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.14",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.14",
+            "commit": {
+                "sha": "09a4b75bafe8798de2835f6a65a9bfa645bc3fce",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/09a4b75bafe8798de2835f6a65a9bfa645bc3fce"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTQ="
+        },
+        {
+            "name": "ignore-0.4.13",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.13",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.13",
+            "commit": {
+                "sha": "67c0f576b6e1197c3cf80fe5d53cfd8326cf1d56",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/67c0f576b6e1197c3cf80fe5d53cfd8326cf1d56"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTM="
+        },
+        {
+            "name": "ignore-0.4.12",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.12",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.12",
+            "commit": {
+                "sha": "92daa34eb3031ae2c61bb81da4d9245b1fa7fff9",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/92daa34eb3031ae2c61bb81da4d9245b1fa7fff9"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTI="
+        },
+        {
+            "name": "ignore-0.4.11",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.11",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.11",
+            "commit": {
+                "sha": "00bfcd14a6a40b79777d5d3ec29a532669e1a1b7",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/00bfcd14a6a40b79777d5d3ec29a532669e1a1b7"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTE="
+        },
+        {
+            "name": "ignore-0.4.10",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.10",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.10",
+            "commit": {
+                "sha": "345124a7fa030cfa922fd9dc4675cdff769cd7a3",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/345124a7fa030cfa922fd9dc4675cdff769cd7a3"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuMTA="
+        },
+        {
+            "name": "ignore-0.4.9",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.9",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.9",
+            "commit": {
+                "sha": "709ca91f503e4cef777352f2abafaa421d02668b",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/709ca91f503e4cef777352f2abafaa421d02668b"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuOQ=="
+        },
+        {
+            "name": "ignore-0.4.8",
+            "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/refs/tags/ignore-0.4.8",
+            "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/refs/tags/ignore-0.4.8",
+            "commit": {
+                "sha": "7a6903bd4ebaba372e55346f045ccb6da18452f0",
+                "url": "https://api.github.com/repos/BurntSushi/ripgrep/commits/7a6903bd4ebaba372e55346f045ccb6da18452f0"
+            },
+            "node_id": "MDM6UmVmNTM2MzE5NDU6cmVmcy90YWdzL2lnbm9yZS0wLjQuOA=="
+        }
+    ]
+}

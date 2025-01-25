@@ -1,0 +1,422 @@
+{
+    "id": 49970642,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0OTk3MDY0Mg==",
+    "name": "yarn",
+    "full_name": "yarnpkg/yarn",
+    "private": false,
+    "owner": {
+        "login": "yarnpkg",
+        "id": 22247014,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMjQ3MDE0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22247014?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/yarnpkg",
+        "html_url": "https://github.com/yarnpkg",
+        "followers_url": "https://api.github.com/users/yarnpkg/followers",
+        "following_url": "https://api.github.com/users/yarnpkg/following{/other_user}",
+        "gists_url": "https://api.github.com/users/yarnpkg/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/yarnpkg/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/yarnpkg/subscriptions",
+        "organizations_url": "https://api.github.com/users/yarnpkg/orgs",
+        "repos_url": "https://api.github.com/users/yarnpkg/repos",
+        "events_url": "https://api.github.com/users/yarnpkg/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/yarnpkg/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/yarnpkg/yarn",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry",
+    "fork": false,
+    "url": "https://api.github.com/repos/yarnpkg/yarn",
+    "forks_url": "https://api.github.com/repos/yarnpkg/yarn/forks",
+    "keys_url": "https://api.github.com/repos/yarnpkg/yarn/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yarnpkg/yarn/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yarnpkg/yarn/teams",
+    "hooks_url": "https://api.github.com/repos/yarnpkg/yarn/hooks",
+    "issue_events_url": "https://api.github.com/repos/yarnpkg/yarn/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yarnpkg/yarn/events",
+    "assignees_url": "https://api.github.com/repos/yarnpkg/yarn/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yarnpkg/yarn/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yarnpkg/yarn/tags",
+    "blobs_url": "https://api.github.com/repos/yarnpkg/yarn/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yarnpkg/yarn/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yarnpkg/yarn/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yarnpkg/yarn/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yarnpkg/yarn/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yarnpkg/yarn/languages",
+    "stargazers_url": "https://api.github.com/repos/yarnpkg/yarn/stargazers",
+    "contributors_url": "https://api.github.com/repos/yarnpkg/yarn/contributors",
+    "subscribers_url": "https://api.github.com/repos/yarnpkg/yarn/subscribers",
+    "subscription_url": "https://api.github.com/repos/yarnpkg/yarn/subscription",
+    "commits_url": "https://api.github.com/repos/yarnpkg/yarn/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yarnpkg/yarn/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yarnpkg/yarn/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yarnpkg/yarn/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yarnpkg/yarn/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yarnpkg/yarn/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yarnpkg/yarn/merges",
+    "archive_url": "https://api.github.com/repos/yarnpkg/yarn/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yarnpkg/yarn/downloads",
+    "issues_url": "https://api.github.com/repos/yarnpkg/yarn/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yarnpkg/yarn/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yarnpkg/yarn/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yarnpkg/yarn/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yarnpkg/yarn/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yarnpkg/yarn/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yarnpkg/yarn/deployments",
+    "created_at": "2016-01-19T17:39:16Z",
+    "updated_at": "2025-01-25T06:03:31Z",
+    "pushed_at": "2025-01-16T04:45:28Z",
+    "git_url": "git://github.com/yarnpkg/yarn.git",
+    "ssh_url": "git@github.com:yarnpkg/yarn.git",
+    "clone_url": "https://github.com/yarnpkg/yarn.git",
+    "svn_url": "https://github.com/yarnpkg/yarn",
+    "homepage": "https://classic.yarnpkg.com",
+    "size": 119826,
+    "stargazers_count": 41478,
+    "watchers_count": 41478,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 2733,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2068,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "javascript",
+        "npm",
+        "package-manager",
+        "yarn"
+    ],
+    "visibility": "public",
+    "forks": 2733,
+    "open_issues": 2068,
+    "watchers": 41478,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.22.22",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.22",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.22",
+            "commit": {
+                "sha": "740c38c3a962c30ddb344a919bbfb7065620714b",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/740c38c3a962c30ddb344a919bbfb7065620714b"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjIy"
+        },
+        {
+            "name": "v1.22.21",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.21",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.21",
+            "commit": {
+                "sha": "1c6b0973cc51dc5c1ace7d3b2f0c7c78a8043150",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/1c6b0973cc51dc5c1ace7d3b2f0c7c78a8043150"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjIx"
+        },
+        {
+            "name": "v1.22.20",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.20",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.20",
+            "commit": {
+                "sha": "efdccc174ba69620752738ead018c6002d203093",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/efdccc174ba69620752738ead018c6002d203093"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjIw"
+        },
+        {
+            "name": "v1.22.19",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.19",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.19",
+            "commit": {
+                "sha": "015b20b3f5ec682f6f6a7fe5e6ed6542ab2407df",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/015b20b3f5ec682f6f6a7fe5e6ed6542ab2407df"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE5"
+        },
+        {
+            "name": "v1.22.18",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.18",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.18",
+            "commit": {
+                "sha": "751c895ce2b4c335ee5f6de990d6a0f05f011a1a",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/751c895ce2b4c335ee5f6de990d6a0f05f011a1a"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE4"
+        },
+        {
+            "name": "v1.22.17",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.17",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.17",
+            "commit": {
+                "sha": "2d73345615d28f2f2fcd9fc9d39ab2ae89f3b2cb",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/2d73345615d28f2f2fcd9fc9d39ab2ae89f3b2cb"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE3"
+        },
+        {
+            "name": "v1.22.16",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.16",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.16",
+            "commit": {
+                "sha": "efa4cbb023216bd2483914bc3e1f2f1ca59ad2c4",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/efa4cbb023216bd2483914bc3e1f2f1ca59ad2c4"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE2"
+        },
+        {
+            "name": "v1.22.15",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.15",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.15",
+            "commit": {
+                "sha": "42682fa9cfbf729140d764c60c192c17f6bd64a1",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/42682fa9cfbf729140d764c60c192c17f6bd64a1"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE1"
+        },
+        {
+            "name": "v1.22.14",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.14",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.14",
+            "commit": {
+                "sha": "dac4134db36f6c3d7cfb4fe4ba3bc978b8fa2514",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/dac4134db36f6c3d7cfb4fe4ba3bc978b8fa2514"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE0"
+        },
+        {
+            "name": "v1.22.13",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.13",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.13",
+            "commit": {
+                "sha": "1c92d6980a4d385993c689c577c627de5face64d",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/1c92d6980a4d385993c689c577c627de5face64d"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjEz"
+        },
+        {
+            "name": "v1.22.12",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.12",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.12",
+            "commit": {
+                "sha": "4a13eb3fa94f8f2ae173ba64aec604c99aa061c1",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/4a13eb3fa94f8f2ae173ba64aec604c99aa061c1"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjEy"
+        },
+        {
+            "name": "v1.22.11",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.11",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.11",
+            "commit": {
+                "sha": "59cb57be4c856346adf11d2099b9a1b40a387d32",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/59cb57be4c856346adf11d2099b9a1b40a387d32"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjEx"
+        },
+        {
+            "name": "v1.22.10",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.10",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.10",
+            "commit": {
+                "sha": "785cda8020aa5f513d6f60b8349bca8dab9dd79b",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/785cda8020aa5f513d6f60b8349bca8dab9dd79b"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjEw"
+        },
+        {
+            "name": "v1.22.5",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.5",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.5",
+            "commit": {
+                "sha": "a3b963cf0956f0c92d024fbab9df5d1bb4a38a93",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/a3b963cf0956f0c92d024fbab9df5d1bb4a38a93"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjU="
+        },
+        {
+            "name": "v1.22.4",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.4",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.4",
+            "commit": {
+                "sha": "e5327c5f6db9d73760443caf8702af2a5548c24c",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/e5327c5f6db9d73760443caf8702af2a5548c24c"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjQ="
+        },
+        {
+            "name": "v1.22.3",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.3",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.3",
+            "commit": {
+                "sha": "92a539cca9437b03109042b049f3bc626ec1db8d",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/92a539cca9437b03109042b049f3bc626ec1db8d"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjM="
+        },
+        {
+            "name": "v1.22.2",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.2",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.2",
+            "commit": {
+                "sha": "460e0ee3da25054b2e490693af8d435bb776c871",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/460e0ee3da25054b2e490693af8d435bb776c871"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjI="
+        },
+        {
+            "name": "v1.22.1",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.1",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.1",
+            "commit": {
+                "sha": "4d6f90931d2062540d7dbb963a47ab62b5b0deba",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/4d6f90931d2062540d7dbb963a47ab62b5b0deba"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjE="
+        },
+        {
+            "name": "v1.22.0",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.22.0",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.22.0",
+            "commit": {
+                "sha": "eee67d02ed09172d5360df0fa0b9c73e23449818",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/eee67d02ed09172d5360df0fa0b9c73e23449818"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIyLjA="
+        },
+        {
+            "name": "v1.21.1",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.21.1",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.21.1",
+            "commit": {
+                "sha": "95186d5f61ea34de7be6c59b7cfb934cc3b31988",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/95186d5f61ea34de7be6c59b7cfb934cc3b31988"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIxLjE="
+        },
+        {
+            "name": "v1.21.0",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.21.0",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.21.0",
+            "commit": {
+                "sha": "604b4c89515830271910c0981cb5a7c008d35b70",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/604b4c89515830271910c0981cb5a7c008d35b70"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIxLjA="
+        },
+        {
+            "name": "v1.20.0",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.20.0",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.20.0",
+            "commit": {
+                "sha": "9c05a1c2928913b7eb28c0bebd90dce388e2f149",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/9c05a1c2928913b7eb28c0bebd90dce388e2f149"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjIwLjA="
+        },
+        {
+            "name": "v1.19.2",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.19.2",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.19.2",
+            "commit": {
+                "sha": "823b64c4597ba33050dbe71415223ecd77b609ef",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/823b64c4597ba33050dbe71415223ecd77b609ef"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE5LjI="
+        },
+        {
+            "name": "v1.19.1",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.19.1",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.19.1",
+            "commit": {
+                "sha": "cabd2c5d07910d99dc47cb5736899f24aa720fc0",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/cabd2c5d07910d99dc47cb5736899f24aa720fc0"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE5LjE="
+        },
+        {
+            "name": "v1.19.0",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.19.0",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.19.0",
+            "commit": {
+                "sha": "c3d256fcf641de4fe8d4d6034a2b046fafae30c0",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/c3d256fcf641de4fe8d4d6034a2b046fafae30c0"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE5LjA="
+        },
+        {
+            "name": "v1.18.0",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.18.0",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.18.0",
+            "commit": {
+                "sha": "c08d0e31d769bf18680f86f0ffd8efcc56fb4c61",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/c08d0e31d769bf18680f86f0ffd8efcc56fb4c61"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE4LjA="
+        },
+        {
+            "name": "v1.17.3",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.17.3",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.17.3",
+            "commit": {
+                "sha": "2c915bda5f35bb805820c159257d96df23e3e9d8",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/2c915bda5f35bb805820c159257d96df23e3e9d8"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE3LjM="
+        },
+        {
+            "name": "v1.17.2",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.17.2",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.17.2",
+            "commit": {
+                "sha": "77c2630a60ddca1ff4df559585697b301b283aa3",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/77c2630a60ddca1ff4df559585697b301b283aa3"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE3LjI="
+        },
+        {
+            "name": "v1.17.1",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.17.1",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.17.1",
+            "commit": {
+                "sha": "6b44fb17d09f14e37ca6053db79639879c205e51",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/6b44fb17d09f14e37ca6053db79639879c205e51"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE3LjE="
+        },
+        {
+            "name": "v1.17.0",
+            "zipball_url": "https://api.github.com/repos/yarnpkg/yarn/zipball/refs/tags/v1.17.0",
+            "tarball_url": "https://api.github.com/repos/yarnpkg/yarn/tarball/refs/tags/v1.17.0",
+            "commit": {
+                "sha": "ddceddc5a3437fb5eece710293162986ce5cc4d7",
+                "url": "https://api.github.com/repos/yarnpkg/yarn/commits/ddceddc5a3437fb5eece710293162986ce5cc4d7"
+            },
+            "node_id": "MDM6UmVmNDk5NzA2NDI6cmVmcy90YWdzL3YxLjE3LjA="
+        }
+    ]
+}

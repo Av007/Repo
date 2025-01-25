@@ -1,0 +1,438 @@
+{
+    "id": 535360445,
+    "node_id": "R_kgDOH-jzvQ",
+    "name": "ultralytics",
+    "full_name": "ultralytics/ultralytics",
+    "private": false,
+    "owner": {
+        "login": "ultralytics",
+        "id": 26833451,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2ODMzNDUx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26833451?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ultralytics",
+        "html_url": "https://github.com/ultralytics",
+        "followers_url": "https://api.github.com/users/ultralytics/followers",
+        "following_url": "https://api.github.com/users/ultralytics/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ultralytics/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ultralytics/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ultralytics/subscriptions",
+        "organizations_url": "https://api.github.com/users/ultralytics/orgs",
+        "repos_url": "https://api.github.com/users/ultralytics/repos",
+        "events_url": "https://api.github.com/users/ultralytics/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ultralytics/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/ultralytics/ultralytics",
+    "description": "Ultralytics YOLO11 \ud83d\ude80",
+    "fork": false,
+    "url": "https://api.github.com/repos/ultralytics/ultralytics",
+    "forks_url": "https://api.github.com/repos/ultralytics/ultralytics/forks",
+    "keys_url": "https://api.github.com/repos/ultralytics/ultralytics/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ultralytics/ultralytics/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ultralytics/ultralytics/teams",
+    "hooks_url": "https://api.github.com/repos/ultralytics/ultralytics/hooks",
+    "issue_events_url": "https://api.github.com/repos/ultralytics/ultralytics/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ultralytics/ultralytics/events",
+    "assignees_url": "https://api.github.com/repos/ultralytics/ultralytics/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ultralytics/ultralytics/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ultralytics/ultralytics/tags",
+    "blobs_url": "https://api.github.com/repos/ultralytics/ultralytics/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ultralytics/ultralytics/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ultralytics/ultralytics/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ultralytics/ultralytics/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ultralytics/ultralytics/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ultralytics/ultralytics/languages",
+    "stargazers_url": "https://api.github.com/repos/ultralytics/ultralytics/stargazers",
+    "contributors_url": "https://api.github.com/repos/ultralytics/ultralytics/contributors",
+    "subscribers_url": "https://api.github.com/repos/ultralytics/ultralytics/subscribers",
+    "subscription_url": "https://api.github.com/repos/ultralytics/ultralytics/subscription",
+    "commits_url": "https://api.github.com/repos/ultralytics/ultralytics/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ultralytics/ultralytics/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ultralytics/ultralytics/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ultralytics/ultralytics/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ultralytics/ultralytics/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ultralytics/ultralytics/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ultralytics/ultralytics/merges",
+    "archive_url": "https://api.github.com/repos/ultralytics/ultralytics/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ultralytics/ultralytics/downloads",
+    "issues_url": "https://api.github.com/repos/ultralytics/ultralytics/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ultralytics/ultralytics/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ultralytics/ultralytics/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ultralytics/ultralytics/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ultralytics/ultralytics/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ultralytics/ultralytics/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ultralytics/ultralytics/deployments",
+    "created_at": "2022-09-11T16:39:45Z",
+    "updated_at": "2025-01-25T16:56:25Z",
+    "pushed_at": "2025-01-25T17:16:34Z",
+    "git_url": "git://github.com/ultralytics/ultralytics.git",
+    "ssh_url": "git@github.com:ultralytics/ultralytics.git",
+    "clone_url": "https://github.com/ultralytics/ultralytics.git",
+    "svn_url": "https://github.com/ultralytics/ultralytics",
+    "homepage": "https://docs.ultralytics.com",
+    "size": 29673,
+    "stargazers_count": 35759,
+    "watchers_count": 35759,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 6896,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 926,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "cli",
+        "computer-vision",
+        "deep-learning",
+        "hub",
+        "image-classification",
+        "instance-segmentation",
+        "machine-learning",
+        "object-detection",
+        "pose-estimation",
+        "python",
+        "pytorch",
+        "rotated-object-detection",
+        "segment-anything",
+        "tracking",
+        "ultralytics",
+        "yolo",
+        "yolo-world",
+        "yolo11",
+        "yolov10",
+        "yolov8"
+    ],
+    "visibility": "public",
+    "forks": 6896,
+    "open_issues": 926,
+    "watchers": 35759,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v8.3.67",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.67",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.67",
+            "commit": {
+                "sha": "9181ff62f539e445f2d992e2e7f08df4d49f5c00",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/9181ff62f539e445f2d992e2e7f08df4d49f5c00"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42Nw"
+        },
+        {
+            "name": "v8.3.66",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.66",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.66",
+            "commit": {
+                "sha": "5d9535b008b92ba86e90b1a67281dbd93f53e43e",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/5d9535b008b92ba86e90b1a67281dbd93f53e43e"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42Ng"
+        },
+        {
+            "name": "v8.3.65",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.65",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.65",
+            "commit": {
+                "sha": "b5e0cee94393ebb9aa019a453a36e674cca20472",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/b5e0cee94393ebb9aa019a453a36e674cca20472"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42NQ"
+        },
+        {
+            "name": "v8.3.64",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.64",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.64",
+            "commit": {
+                "sha": "673b43ce17e010101c311eb2b02fce8136d4b373",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/673b43ce17e010101c311eb2b02fce8136d4b373"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42NA"
+        },
+        {
+            "name": "v8.3.63",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.63",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.63",
+            "commit": {
+                "sha": "f777b63c8baf8b733d3ddd6e41e42bbd7c88778e",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/f777b63c8baf8b733d3ddd6e41e42bbd7c88778e"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42Mw"
+        },
+        {
+            "name": "v8.3.62",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.62",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.62",
+            "commit": {
+                "sha": "d9292fb7f10a2ee0265af28fad5d56b8ab79eece",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/d9292fb7f10a2ee0265af28fad5d56b8ab79eece"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42Mg"
+        },
+        {
+            "name": "v8.3.61",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.61",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.61",
+            "commit": {
+                "sha": "4922016901c9dad258acf57b233f318c7d3305f7",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/4922016901c9dad258acf57b233f318c7d3305f7"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42MQ"
+        },
+        {
+            "name": "v8.3.60",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.60",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.60",
+            "commit": {
+                "sha": "a6303020e6e4097fdcd425a5c0bf01a9fdd1c707",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/a6303020e6e4097fdcd425a5c0bf01a9fdd1c707"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy42MA"
+        },
+        {
+            "name": "v8.3.59",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.59",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.59",
+            "commit": {
+                "sha": "cc1e77138c2a124563b898d8e267a3045fa7bedf",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/cc1e77138c2a124563b898d8e267a3045fa7bedf"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41OQ"
+        },
+        {
+            "name": "v8.3.58",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.58",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.58",
+            "commit": {
+                "sha": "00aefd795c13bb6a5364b63798c383adc15248d4",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/00aefd795c13bb6a5364b63798c383adc15248d4"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41OA"
+        },
+        {
+            "name": "v8.3.57",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.57",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.57",
+            "commit": {
+                "sha": "7e4416f64f635883826b3f98a6d5db41036c74ff",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/7e4416f64f635883826b3f98a6d5db41036c74ff"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41Nw"
+        },
+        {
+            "name": "v8.3.56",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.56",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.56",
+            "commit": {
+                "sha": "5d8e15800ebd9ae6998d1b5936d91451c82344eb",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/5d8e15800ebd9ae6998d1b5936d91451c82344eb"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41Ng"
+        },
+        {
+            "name": "v8.3.55",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.55",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.55",
+            "commit": {
+                "sha": "cf9ab17426d5bf36ed614caedf5b398ac6009ed6",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/cf9ab17426d5bf36ed614caedf5b398ac6009ed6"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41NQ"
+        },
+        {
+            "name": "v8.3.54",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.54",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.54",
+            "commit": {
+                "sha": "51026a9a4a0b5e1ea8a1c76b16f8de12b9a71530",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/51026a9a4a0b5e1ea8a1c76b16f8de12b9a71530"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41NA"
+        },
+        {
+            "name": "v8.3.53",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.53",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.53",
+            "commit": {
+                "sha": "1d13575ba16623d711c682118ee118615383ba99",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/1d13575ba16623d711c682118ee118615383ba99"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41Mw"
+        },
+        {
+            "name": "v8.3.52",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.52",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.52",
+            "commit": {
+                "sha": "e3c46920e7a5ffed6a49d23daeab3de20f63a5f8",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/e3c46920e7a5ffed6a49d23daeab3de20f63a5f8"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41Mg"
+        },
+        {
+            "name": "v8.3.51",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.51",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.51",
+            "commit": {
+                "sha": "31aaf0e057450ea0bf42426e9e9e2d0b2b5f0a32",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/31aaf0e057450ea0bf42426e9e9e2d0b2b5f0a32"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41MQ"
+        },
+        {
+            "name": "v8.3.50",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.50",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.50",
+            "commit": {
+                "sha": "a3d807be13af2d8fa008f522020411d2d37e4860",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/a3d807be13af2d8fa008f522020411d2d37e4860"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy41MA"
+        },
+        {
+            "name": "v8.3.49",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.49",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.49",
+            "commit": {
+                "sha": "6c65d756e4886828ac4060472348a49668a9fc3e",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/6c65d756e4886828ac4060472348a49668a9fc3e"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy40OQ"
+        },
+        {
+            "name": "v8.3.48",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.48",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.48",
+            "commit": {
+                "sha": "e0f8eda366c7cf08a1c311a17eaaaf87914f8012",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/e0f8eda366c7cf08a1c311a17eaaaf87914f8012"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy40OA"
+        },
+        {
+            "name": "v8.3.47",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.47",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.47",
+            "commit": {
+                "sha": "baee8c3eb7cf88ccdcee5c0dca8010d1f5cb132a",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/baee8c3eb7cf88ccdcee5c0dca8010d1f5cb132a"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy40Nw"
+        },
+        {
+            "name": "v8.3.44",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.44",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.44",
+            "commit": {
+                "sha": "c284a9e9744afb867c1acb6518d65cb21b7a1e75",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/c284a9e9744afb867c1acb6518d65cb21b7a1e75"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy40NA"
+        },
+        {
+            "name": "v8.3.43",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.43",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.43",
+            "commit": {
+                "sha": "63026d821759cd38f4bb4800111e7761be45e727",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/63026d821759cd38f4bb4800111e7761be45e727"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy40Mw"
+        },
+        {
+            "name": "v8.3.40",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.40",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.40",
+            "commit": {
+                "sha": "dbdb451512ad4b3c636e6d61ad7af31e07301ece",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/dbdb451512ad4b3c636e6d61ad7af31e07301ece"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy40MA"
+        },
+        {
+            "name": "v8.3.39",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.39",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.39",
+            "commit": {
+                "sha": "e60992214c91d3ba169965053af69d6eb233b45e",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/e60992214c91d3ba169965053af69d6eb233b45e"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy4zOQ"
+        },
+        {
+            "name": "v8.3.38",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.38",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.38",
+            "commit": {
+                "sha": "dcc9bd536f37e0521d0f4cba56afcda37e5f15e5",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/dcc9bd536f37e0521d0f4cba56afcda37e5f15e5"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy4zOA"
+        },
+        {
+            "name": "v8.3.37",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.37",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.37",
+            "commit": {
+                "sha": "ee6fde0beb75e96c44fe6665c6296e81ea1f686a",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/ee6fde0beb75e96c44fe6665c6296e81ea1f686a"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy4zNw"
+        },
+        {
+            "name": "v8.3.36",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.36",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.36",
+            "commit": {
+                "sha": "426879d80d49d0180b525c4fc2484772f9f6f8cc",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/426879d80d49d0180b525c4fc2484772f9f6f8cc"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy4zNg"
+        },
+        {
+            "name": "v8.3.35",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.35",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.35",
+            "commit": {
+                "sha": "b7e9e91d4655b568f6244494be53a391c51c7ffc",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/b7e9e91d4655b568f6244494be53a391c51c7ffc"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy4zNQ"
+        },
+        {
+            "name": "v8.3.34",
+            "zipball_url": "https://api.github.com/repos/ultralytics/ultralytics/zipball/refs/tags/v8.3.34",
+            "tarball_url": "https://api.github.com/repos/ultralytics/ultralytics/tarball/refs/tags/v8.3.34",
+            "commit": {
+                "sha": "1c6bfd3039d0456c18611f475ace661111413c85",
+                "url": "https://api.github.com/repos/ultralytics/ultralytics/commits/1c6bfd3039d0456c18611f475ace661111413c85"
+            },
+            "node_id": "REF_kwDOH-jzvbFyZWZzL3RhZ3MvdjguMy4zNA"
+        }
+    ]
+}

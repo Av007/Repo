@@ -1,0 +1,434 @@
+{
+    "id": 527591471,
+    "node_id": "R_kgDOH3JoLw",
+    "name": "stable-diffusion-webui",
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "private": false,
+    "owner": {
+        "login": "AUTOMATIC1111",
+        "id": 20920490,
+        "node_id": "MDQ6VXNlcjIwOTIwNDkw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20920490?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/AUTOMATIC1111",
+        "html_url": "https://github.com/AUTOMATIC1111",
+        "followers_url": "https://api.github.com/users/AUTOMATIC1111/followers",
+        "following_url": "https://api.github.com/users/AUTOMATIC1111/following{/other_user}",
+        "gists_url": "https://api.github.com/users/AUTOMATIC1111/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/AUTOMATIC1111/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/AUTOMATIC1111/subscriptions",
+        "organizations_url": "https://api.github.com/users/AUTOMATIC1111/orgs",
+        "repos_url": "https://api.github.com/users/AUTOMATIC1111/repos",
+        "events_url": "https://api.github.com/users/AUTOMATIC1111/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/AUTOMATIC1111/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "fork": false,
+    "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui",
+    "forks_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/forks",
+    "keys_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/teams",
+    "hooks_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/hooks",
+    "issue_events_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/events",
+    "assignees_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tags",
+    "blobs_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/languages",
+    "stargazers_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/stargazers",
+    "contributors_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/contributors",
+    "subscribers_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/subscribers",
+    "subscription_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/subscription",
+    "commits_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/merges",
+    "archive_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/downloads",
+    "issues_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/labels{/name}",
+    "releases_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/deployments",
+    "created_at": "2022-08-22T14:05:26Z",
+    "updated_at": "2025-01-25T17:03:07Z",
+    "pushed_at": "2024-12-28T22:57:08Z",
+    "git_url": "git://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
+    "ssh_url": "git@github.com:AUTOMATIC1111/stable-diffusion-webui.git",
+    "clone_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
+    "svn_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "homepage": "",
+    "size": 36304,
+    "stargazers_count": 146336,
+    "watchers_count": 146336,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 27426,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2347,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "ai",
+        "ai-art",
+        "deep-learning",
+        "diffusion",
+        "gradio",
+        "image-generation",
+        "image2image",
+        "img2img",
+        "pytorch",
+        "stable-diffusion",
+        "text2image",
+        "torch",
+        "txt2img",
+        "unstable",
+        "upscaling",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 27426,
+    "open_issues": 2347,
+    "watchers": 146336,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "82a973c04367123ae98bd9abdf80d9eda9b910e2",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/82a973c04367123ae98bd9abdf80d9eda9b910e2"
+            },
+            "node_id": "REF_kwDOH3JoL7FyZWZzL3RhZ3MvdjEuMTAuMQ"
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "c19d04436496ab29ddca4758a792831ae41b31de",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/c19d04436496ab29ddca4758a792831ae41b31de"
+            },
+            "node_id": "REF_kwDOH3JoL7FyZWZzL3RhZ3MvdjEuMTAuMA"
+        },
+        {
+            "name": "v1.10.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.10.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.10.0-RC",
+            "commit": {
+                "sha": "340a9108ca800774e274b61a70517d1938b39ead",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/340a9108ca800774e274b61a70517d1938b39ead"
+            },
+            "node_id": "REF_kwDOH3JoL7RyZWZzL3RhZ3MvdjEuMTAuMC1SQw"
+        },
+        {
+            "name": "v1.9.4",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.9.4",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.9.4",
+            "commit": {
+                "sha": "feee37d75f1b168768014e4634dcb156ee649c05",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/feee37d75f1b168768014e4634dcb156ee649c05"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuOS40"
+        },
+        {
+            "name": "v1.9.3",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.9.3",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.9.3",
+            "commit": {
+                "sha": "1c0a0c4c26f78c32095ebc7f8af82f5c04fca8c0",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/1c0a0c4c26f78c32095ebc7f8af82f5c04fca8c0"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuOS4z"
+        },
+        {
+            "name": "v1.9.2",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.9.2",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.9.2",
+            "commit": {
+                "sha": "e2b177c508447cd3068993c67e165880348ff0d8",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/e2b177c508447cd3068993c67e165880348ff0d8"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuOS4y"
+        },
+        {
+            "name": "v1.9.1",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.9.1",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.9.1",
+            "commit": {
+                "sha": "e84703b2539c21d68881852f7e9738d76e7de26f",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/e84703b2539c21d68881852f7e9738d76e7de26f"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuOS4x"
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "adadb4e3c7382bf3e4f7519126cd6c70f4f8557b",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/adadb4e3c7382bf3e4f7519126cd6c70f4f8557b"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuOS4w"
+        },
+        {
+            "name": "v1.9.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.9.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.9.0-RC",
+            "commit": {
+                "sha": "e1640314df34b4cc8ed0422ab04a2886a3d9beb3",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/e1640314df34b4cc8ed0422ab04a2886a3d9beb3"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuOS4wLVJD"
+        },
+        {
+            "name": "v1.8.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.8.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.8.0",
+            "commit": {
+                "sha": "bef51aed032c0aaa5cfd80445bc4cf0d85b408b5",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/bef51aed032c0aaa5cfd80445bc4cf0d85b408b5"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuOC4w"
+        },
+        {
+            "name": "v1.8.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.8.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.8.0-RC",
+            "commit": {
+                "sha": "310d6b9075c6edb3b884bd2a41e1c17259b141e1",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/310d6b9075c6edb3b884bd2a41e1c17259b141e1"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuOC4wLVJD"
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "cf2772fab0af5573da775e7437e6acdca424f26e",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/cf2772fab0af5573da775e7437e6acdca424f26e"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNy4w"
+        },
+        {
+            "name": "v1.7.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.7.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.7.0-RC",
+            "commit": {
+                "sha": "48fae7ccdc2fe2d2ba8e8cfcb17b56028734e570",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/48fae7ccdc2fe2d2ba8e8cfcb17b56028734e570"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuNy4wLVJD"
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "4afaaf8a020c1df457bcf7250cb1c7f609699fa7",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/4afaaf8a020c1df457bcf7250cb1c7f609699fa7"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNi4x"
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "5ef669de080814067961f28357256e8fe27544f4",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/5ef669de080814067961f28357256e8fe27544f4"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNi4w"
+        },
+        {
+            "name": "v1.6.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.6.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.6.0-RC",
+            "commit": {
+                "sha": "935d9d899c40dba006a24553934b4b895c65a15f",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/935d9d899c40dba006a24553934b4b895c65a15f"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuNi4wLVJD"
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "c9c8485bc1e8720aba70f029d25cba1c4abf2b5c",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/c9c8485bc1e8720aba70f029d25cba1c4abf2b5c"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNS4y"
+        },
+        {
+            "name": "v1.5.2-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.5.2-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.5.2-RC",
+            "commit": {
+                "sha": "31f2be3dcedf85c036c5f784c640208d122b62ed",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/31f2be3dcedf85c036c5f784c640208d122b62ed"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuNS4yLVJD"
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "68f336bd994bed5442ad95bad6b6ad5564a5409a",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/68f336bd994bed5442ad95bad6b6ad5564a5409a"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNS4x"
+        },
+        {
+            "name": "v1.5.1-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.5.1-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.5.1-RC",
+            "commit": {
+                "sha": "99ef3b6c5218c3b6b6ecd24be53e6e8c8b7b8384",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/99ef3b6c5218c3b6b6ecd24be53e6e8c8b7b8384"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuNS4xLVJD"
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "a3ddf464a2ed24c999f67ddfef7969f8291567be",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/a3ddf464a2ed24c999f67ddfef7969f8291567be"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNS4w"
+        },
+        {
+            "name": "v1.5.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.5.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.5.0-RC",
+            "commit": {
+                "sha": "eb7c9b58fc2fbab205d4bc9f708800870dcda3fb",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/eb7c9b58fc2fbab205d4bc9f708800870dcda3fb"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuNS4wLVJD"
+        },
+        {
+            "name": "v1.4.1",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.4.1",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.4.1",
+            "commit": {
+                "sha": "f865d3e11647dfd6c7b2cdf90dde24680e58acd8",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/f865d3e11647dfd6c7b2cdf90dde24680e58acd8"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNC4x"
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "394ffa7b0a7fff3ec484bcd084e673a8b301ccc8",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/394ffa7b0a7fff3ec484bcd084e673a8b301ccc8"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuNC4w"
+        },
+        {
+            "name": "v1.4.0-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.4.0-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.4.0-RC",
+            "commit": {
+                "sha": "3b11f17a374520e493e120e7f47443acd97393c8",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/3b11f17a374520e493e120e7f47443acd97393c8"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuNC4wLVJD"
+        },
+        {
+            "name": "v1.3.2",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.3.2",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.3.2",
+            "commit": {
+                "sha": "baf6946e06249c5af9851c60171692c44ef633e0",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/baf6946e06249c5af9851c60171692c44ef633e0"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuMy4y"
+        },
+        {
+            "name": "v1.3.2-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.3.2-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.3.2-RC",
+            "commit": {
+                "sha": "6f754ab98bcd4b61f5cc6d6a9bfc6be7722373a9",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/6f754ab98bcd4b61f5cc6d6a9bfc6be7722373a9"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuMy4yLVJD"
+        },
+        {
+            "name": "v1.3.1",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.3.1",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.3.1",
+            "commit": {
+                "sha": "b6af0a3809ea869fb180633f9affcae4b199ffcf",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/b6af0a3809ea869fb180633f9affcae4b199ffcf"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuMy4x"
+        },
+        {
+            "name": "v1.3.1-RC",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.3.1-RC",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.3.1-RC",
+            "commit": {
+                "sha": "3690e4e82c58264f3ff79216ed4ba94ebcc1c982",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/3690e4e82c58264f3ff79216ed4ba94ebcc1c982"
+            },
+            "node_id": "REF_kwDOH3JoL7NyZWZzL3RhZ3MvdjEuMy4xLVJD"
+        },
+        {
+            "name": "v1.3.0",
+            "zipball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/zipball/refs/tags/v1.3.0",
+            "tarball_url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/tarball/refs/tags/v1.3.0",
+            "commit": {
+                "sha": "20ae71faa8ef035c31aa3a410b707d792c8203a3",
+                "url": "https://api.github.com/repos/AUTOMATIC1111/stable-diffusion-webui/commits/20ae71faa8ef035c31aa3a410b707d792c8203a3"
+            },
+            "node_id": "REF_kwDOH3JoL7ByZWZzL3RhZ3MvdjEuMy4w"
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+{
+    "id": 144590939,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNDQ1OTA5Mzk=",
+    "name": "vscodium",
+    "full_name": "VSCodium/vscodium",
+    "private": false,
+    "owner": {
+        "login": "VSCodium",
+        "id": 40338071,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwMzM4MDcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/40338071?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/VSCodium",
+        "html_url": "https://github.com/VSCodium",
+        "followers_url": "https://api.github.com/users/VSCodium/followers",
+        "following_url": "https://api.github.com/users/VSCodium/following{/other_user}",
+        "gists_url": "https://api.github.com/users/VSCodium/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/VSCodium/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/VSCodium/subscriptions",
+        "organizations_url": "https://api.github.com/users/VSCodium/orgs",
+        "repos_url": "https://api.github.com/users/VSCodium/repos",
+        "events_url": "https://api.github.com/users/VSCodium/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/VSCodium/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/VSCodium/vscodium",
+    "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+    "fork": false,
+    "url": "https://api.github.com/repos/VSCodium/vscodium",
+    "forks_url": "https://api.github.com/repos/VSCodium/vscodium/forks",
+    "keys_url": "https://api.github.com/repos/VSCodium/vscodium/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/VSCodium/vscodium/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/VSCodium/vscodium/teams",
+    "hooks_url": "https://api.github.com/repos/VSCodium/vscodium/hooks",
+    "issue_events_url": "https://api.github.com/repos/VSCodium/vscodium/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/VSCodium/vscodium/events",
+    "assignees_url": "https://api.github.com/repos/VSCodium/vscodium/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/VSCodium/vscodium/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/VSCodium/vscodium/tags",
+    "blobs_url": "https://api.github.com/repos/VSCodium/vscodium/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/VSCodium/vscodium/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/VSCodium/vscodium/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/VSCodium/vscodium/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/VSCodium/vscodium/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/VSCodium/vscodium/languages",
+    "stargazers_url": "https://api.github.com/repos/VSCodium/vscodium/stargazers",
+    "contributors_url": "https://api.github.com/repos/VSCodium/vscodium/contributors",
+    "subscribers_url": "https://api.github.com/repos/VSCodium/vscodium/subscribers",
+    "subscription_url": "https://api.github.com/repos/VSCodium/vscodium/subscription",
+    "commits_url": "https://api.github.com/repos/VSCodium/vscodium/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/VSCodium/vscodium/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/VSCodium/vscodium/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/VSCodium/vscodium/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/VSCodium/vscodium/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/VSCodium/vscodium/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/VSCodium/vscodium/merges",
+    "archive_url": "https://api.github.com/repos/VSCodium/vscodium/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/VSCodium/vscodium/downloads",
+    "issues_url": "https://api.github.com/repos/VSCodium/vscodium/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/VSCodium/vscodium/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/VSCodium/vscodium/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/VSCodium/vscodium/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/VSCodium/vscodium/labels{/name}",
+    "releases_url": "https://api.github.com/repos/VSCodium/vscodium/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/VSCodium/vscodium/deployments",
+    "created_at": "2018-08-13T14:26:58Z",
+    "updated_at": "2025-01-25T16:42:51Z",
+    "pushed_at": "2025-01-25T14:44:29Z",
+    "git_url": "git://github.com/VSCodium/vscodium.git",
+    "ssh_url": "git@github.com:VSCodium/vscodium.git",
+    "clone_url": "https://github.com/VSCodium/vscodium.git",
+    "svn_url": "https://github.com/VSCodium/vscodium",
+    "homepage": "https://vscodium.com",
+    "size": 31601,
+    "stargazers_count": 26129,
+    "watchers_count": 26129,
+    "language": "Shell",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1155,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 123,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "editor",
+        "floss",
+        "ide",
+        "open-source-licensing",
+        "vscode"
+    ],
+    "visibility": "public",
+    "forks": 1155,
+    "open_issues": 123,
+    "watchers": 26129,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "1.96.4.25017",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.96.4.25017",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.96.4.25017",
+            "commit": {
+                "sha": "6c79f574342dd09560f4f640be172beecc3e9a59",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/6c79f574342dd09560f4f640be172beecc3e9a59"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk2LjQuMjUwMTc="
+        },
+        {
+            "name": "1.96.3.25013",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.96.3.25013",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.96.3.25013",
+            "commit": {
+                "sha": "0b8e88072a28708ef8df17a7aceec7da806b98fc",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/0b8e88072a28708ef8df17a7aceec7da806b98fc"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk2LjMuMjUwMTM="
+        },
+        {
+            "name": "1.96.2.24355",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.96.2.24355",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.96.2.24355",
+            "commit": {
+                "sha": "6aae07dad985776cfdf058cbdbde582c2613a20d",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/6aae07dad985776cfdf058cbdbde582c2613a20d"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk2LjIuMjQzNTU="
+        },
+        {
+            "name": "1.96.1.24353",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.96.1.24353",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.96.1.24353",
+            "commit": {
+                "sha": "a6ae85fa523a0e7724a38507a43d0d2ca91da37e",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/a6ae85fa523a0e7724a38507a43d0d2ca91da37e"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk2LjEuMjQzNTM="
+        },
+        {
+            "name": "1.96.0.24352",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.96.0.24352",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.96.0.24352",
+            "commit": {
+                "sha": "3a9708856a49ec893f044673c547d2f0e54be3d4",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/3a9708856a49ec893f044673c547d2f0e54be3d4"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk2LjAuMjQzNTI="
+        },
+        {
+            "name": "1.96.0.24347",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.96.0.24347",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.96.0.24347",
+            "commit": {
+                "sha": "91fa81be9890a4210e5abf2d9c20bdbe48fd984b",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/91fa81be9890a4210e5abf2d9c20bdbe48fd984b"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk2LjAuMjQzNDc="
+        },
+        {
+            "name": "1.95.3.24321",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.95.3.24321",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.95.3.24321",
+            "commit": {
+                "sha": "81562bbd3ac11a0e69abe39bb5b4940c9b767d5f",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/81562bbd3ac11a0e69abe39bb5b4940c9b767d5f"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk1LjMuMjQzMjE="
+        },
+        {
+            "name": "1.95.3.24320",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.95.3.24320",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.95.3.24320",
+            "commit": {
+                "sha": "b9b5425af18389b7d2ff1397a965a209b3f9d88f",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/b9b5425af18389b7d2ff1397a965a209b3f9d88f"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk1LjMuMjQzMjA="
+        },
+        {
+            "name": "1.95.2.24313",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.95.2.24313",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.95.2.24313",
+            "commit": {
+                "sha": "023fee37a35a5445ff4353d2c1cd1ed840f40e0f",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/023fee37a35a5445ff4353d2c1cd1ed840f40e0f"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk1LjIuMjQzMTM="
+        },
+        {
+            "name": "1.95.1.24307",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.95.1.24307",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.95.1.24307",
+            "commit": {
+                "sha": "fe2d6e465b286c7ec80b2cf061ce7fb84a63d0b0",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/fe2d6e465b286c7ec80b2cf061ce7fb84a63d0b0"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk1LjEuMjQzMDc="
+        },
+        {
+            "name": "1.94.2.24286",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.94.2.24286",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.94.2.24286",
+            "commit": {
+                "sha": "95fd5b764af5395b9c03fddf8deef4d16f1531f1",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/95fd5b764af5395b9c03fddf8deef4d16f1531f1"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk0LjIuMjQyODY="
+        },
+        {
+            "name": "1.94.2.24284",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.94.2.24284",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.94.2.24284",
+            "commit": {
+                "sha": "d5c18fc23102c86fd8855331f44eaae73edfc0ab",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/d5c18fc23102c86fd8855331f44eaae73edfc0ab"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk0LjIuMjQyODQ="
+        },
+        {
+            "name": "1.94.1.24283",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.94.1.24283",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.94.1.24283",
+            "commit": {
+                "sha": "d1f10c1c24f028eb6bd0431b8d3987ccaf1ce96b",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/d1f10c1c24f028eb6bd0431b8d3987ccaf1ce96b"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk0LjEuMjQyODM="
+        },
+        {
+            "name": "1.94.0.24282",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.94.0.24282",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.94.0.24282",
+            "commit": {
+                "sha": "826c2fab92117a86496fc5c6e4d0fa62d56bac6f",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/826c2fab92117a86496fc5c6e4d0fa62d56bac6f"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk0LjAuMjQyODI="
+        },
+        {
+            "name": "1.94.0.24281",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.94.0.24281",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.94.0.24281",
+            "commit": {
+                "sha": "48cabed6bad5d02fc63cfdd9f21225f2be445676",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/48cabed6bad5d02fc63cfdd9f21225f2be445676"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjk0LjAuMjQyODE="
+        },
+        {
+            "name": "1.93.1.24256",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.93.1.24256",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.93.1.24256",
+            "commit": {
+                "sha": "30ee9c1f6998c8c8274052a8e3cac92a8d9b3bc6",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/30ee9c1f6998c8c8274052a8e3cac92a8d9b3bc6"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkzLjEuMjQyNTY="
+        },
+        {
+            "name": "1.93.0.24253",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.93.0.24253",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.93.0.24253",
+            "commit": {
+                "sha": "e336b1a3ff9b5c44ef4748f51cbfff1248daa0c4",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/e336b1a3ff9b5c44ef4748f51cbfff1248daa0c4"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkzLjAuMjQyNTM="
+        },
+        {
+            "name": "1.92.2.24228",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.92.2.24228",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.92.2.24228",
+            "commit": {
+                "sha": "ae80c0cd05a74e94379855358a3432ba6964bcc7",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/ae80c0cd05a74e94379855358a3432ba6964bcc7"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkyLjIuMjQyMjg="
+        },
+        {
+            "name": "1.92.1.24225",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.92.1.24225",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.92.1.24225",
+            "commit": {
+                "sha": "9d70d6b0a2a42a54f1fdec6e4fa55bd62f4c30cf",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/9d70d6b0a2a42a54f1fdec6e4fa55bd62f4c30cf"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkyLjEuMjQyMjU="
+        },
+        {
+            "name": "1.91.1.24193",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.91.1.24193",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.91.1.24193",
+            "commit": {
+                "sha": "b70e809fb6915660c9e2e31f91b906291a522e95",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/b70e809fb6915660c9e2e31f91b906291a522e95"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkxLjEuMjQxOTM="
+        },
+        {
+            "name": "1.91.0.24190",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.91.0.24190",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.91.0.24190",
+            "commit": {
+                "sha": "8451268bb4c15afa0f05731fe092772f798f32b4",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/8451268bb4c15afa0f05731fe092772f798f32b4"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkxLjAuMjQxOTA="
+        },
+        {
+            "name": "1.90.2.24171",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.90.2.24171",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.90.2.24171",
+            "commit": {
+                "sha": "baa7fe41555f6b1042d3868e6c39a748b31a71c9",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/baa7fe41555f6b1042d3868e6c39a748b31a71c9"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkwLjIuMjQxNzE="
+        },
+        {
+            "name": "1.90.1.24165",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.90.1.24165",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.90.1.24165",
+            "commit": {
+                "sha": "1709f8b501aec801d663f025127f988d260e8031",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/1709f8b501aec801d663f025127f988d260e8031"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkwLjEuMjQxNjU="
+        },
+        {
+            "name": "1.90.0.24158",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.90.0.24158",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.90.0.24158",
+            "commit": {
+                "sha": "6a38a6e9db4afdb987f1bc688940965735432653",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/6a38a6e9db4afdb987f1bc688940965735432653"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjkwLjAuMjQxNTg="
+        },
+        {
+            "name": "1.89.1.24130",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.89.1.24130",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.89.1.24130",
+            "commit": {
+                "sha": "02a9d031543a918703950b81d56bef2dd04d94c5",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/02a9d031543a918703950b81d56bef2dd04d94c5"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjg5LjEuMjQxMzA="
+        },
+        {
+            "name": "1.89.0.24127",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.89.0.24127",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.89.0.24127",
+            "commit": {
+                "sha": "f93746b30016790a90e99e87826af4f17cc67dd5",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/f93746b30016790a90e99e87826af4f17cc67dd5"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjg5LjAuMjQxMjc="
+        },
+        {
+            "name": "1.89.0.24126",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.89.0.24126",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.89.0.24126",
+            "commit": {
+                "sha": "0d28b4dfb78f2781edef3bcec95d6a22962305fd",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/0d28b4dfb78f2781edef3bcec95d6a22962305fd"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjg5LjAuMjQxMjY="
+        },
+        {
+            "name": "1.88.1.24104",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.88.1.24104",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.88.1.24104",
+            "commit": {
+                "sha": "ac0f6f2011f896731da16e67ff2dc6100c80d17e",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/ac0f6f2011f896731da16e67ff2dc6100c80d17e"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjg4LjEuMjQxMDQ="
+        },
+        {
+            "name": "1.88.1.24102",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.88.1.24102",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.88.1.24102",
+            "commit": {
+                "sha": "50cd49e73c664f29943186da526f51e77a5232b7",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/50cd49e73c664f29943186da526f51e77a5232b7"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjg4LjEuMjQxMDI="
+        },
+        {
+            "name": "1.88.0.24096",
+            "zipball_url": "https://api.github.com/repos/VSCodium/vscodium/zipball/refs/tags/1.88.0.24096",
+            "tarball_url": "https://api.github.com/repos/VSCodium/vscodium/tarball/refs/tags/1.88.0.24096",
+            "commit": {
+                "sha": "4dc6ac4efb3828c31226794020ca9ff4b3410453",
+                "url": "https://api.github.com/repos/VSCodium/vscodium/commits/4dc6ac4efb3828c31226794020ca9ff4b3410453"
+            },
+            "node_id": "MDM6UmVmMTQ0NTkwOTM5OnJlZnMvdGFncy8xLjg4LjAuMjQwOTY="
+        }
+    ]
+}

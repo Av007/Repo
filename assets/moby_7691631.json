@@ -1,0 +1,422 @@
+{
+    "id": 7691631,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3NjkxNjMx",
+    "name": "moby",
+    "full_name": "moby/moby",
+    "private": false,
+    "owner": {
+        "login": "moby",
+        "id": 27259197,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3MjU5MTk3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/27259197?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/moby",
+        "html_url": "https://github.com/moby",
+        "followers_url": "https://api.github.com/users/moby/followers",
+        "following_url": "https://api.github.com/users/moby/following{/other_user}",
+        "gists_url": "https://api.github.com/users/moby/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/moby/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/moby/subscriptions",
+        "organizations_url": "https://api.github.com/users/moby/orgs",
+        "repos_url": "https://api.github.com/users/moby/repos",
+        "events_url": "https://api.github.com/users/moby/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/moby/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/moby/moby",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "fork": false,
+    "url": "https://api.github.com/repos/moby/moby",
+    "forks_url": "https://api.github.com/repos/moby/moby/forks",
+    "keys_url": "https://api.github.com/repos/moby/moby/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/moby/moby/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/moby/moby/teams",
+    "hooks_url": "https://api.github.com/repos/moby/moby/hooks",
+    "issue_events_url": "https://api.github.com/repos/moby/moby/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/moby/moby/events",
+    "assignees_url": "https://api.github.com/repos/moby/moby/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/moby/moby/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/moby/moby/tags",
+    "blobs_url": "https://api.github.com/repos/moby/moby/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/moby/moby/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/moby/moby/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/moby/moby/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/moby/moby/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/moby/moby/languages",
+    "stargazers_url": "https://api.github.com/repos/moby/moby/stargazers",
+    "contributors_url": "https://api.github.com/repos/moby/moby/contributors",
+    "subscribers_url": "https://api.github.com/repos/moby/moby/subscribers",
+    "subscription_url": "https://api.github.com/repos/moby/moby/subscription",
+    "commits_url": "https://api.github.com/repos/moby/moby/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/moby/moby/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/moby/moby/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/moby/moby/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/moby/moby/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/moby/moby/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/moby/moby/merges",
+    "archive_url": "https://api.github.com/repos/moby/moby/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/moby/moby/downloads",
+    "issues_url": "https://api.github.com/repos/moby/moby/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/moby/moby/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/moby/moby/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/moby/moby/labels{/name}",
+    "releases_url": "https://api.github.com/repos/moby/moby/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/moby/moby/deployments",
+    "created_at": "2013-01-18T18:10:57Z",
+    "updated_at": "2025-01-25T15:08:54Z",
+    "pushed_at": "2025-01-23T19:41:08Z",
+    "git_url": "git://github.com/moby/moby.git",
+    "ssh_url": "git@github.com:moby/moby.git",
+    "clone_url": "https://github.com/moby/moby.git",
+    "svn_url": "https://github.com/moby/moby",
+    "homepage": "https://mobyproject.org/",
+    "size": 225164,
+    "stargazers_count": 69059,
+    "watchers_count": 69059,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 18676,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 3510,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "containers",
+        "docker",
+        "go",
+        "golang"
+    ],
+    "visibility": "public",
+    "forks": 18676,
+    "open_issues": 3510,
+    "watchers": 69059,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "xdocs-v1.10-28-mar-2016",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/xdocs-v1.10-28-mar-2016",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/xdocs-v1.10-28-mar-2016",
+            "commit": {
+                "sha": "0e63b073ac8f33335a4d4df3f2aa22120e0b7f43",
+                "url": "https://api.github.com/repos/moby/moby/commits/0e63b073ac8f33335a4d4df3f2aa22120e0b7f43"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MveGRvY3MtdjEuMTAtMjgtbWFyLTIwMTY="
+        },
+        {
+            "name": "xdocs-v1.10-09-05-2016",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/xdocs-v1.10-09-05-2016",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/xdocs-v1.10-09-05-2016",
+            "commit": {
+                "sha": "2d51863b706537b988785d03d0f983242948e328",
+                "url": "https://api.github.com/repos/moby/moby/commits/2d51863b706537b988785d03d0f983242948e328"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MveGRvY3MtdjEuMTAtMDktMDUtMjAxNg=="
+        },
+        {
+            "name": "v27.5.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.5.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.5.1",
+            "commit": {
+                "sha": "4c9b3b011ae4c30145a7b344c870bdda01b454e2",
+                "url": "https://api.github.com/repos/moby/moby/commits/4c9b3b011ae4c30145a7b344c870bdda01b454e2"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjUuMQ=="
+        },
+        {
+            "name": "v27.5.0",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.5.0",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.5.0",
+            "commit": {
+                "sha": "38b84dce32c45732606fe09ffebef8b29a783644",
+                "url": "https://api.github.com/repos/moby/moby/commits/38b84dce32c45732606fe09ffebef8b29a783644"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjUuMA=="
+        },
+        {
+            "name": "v27.5.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.5.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.5.0-rc.2",
+            "commit": {
+                "sha": "43fc912ef59a83054ea7f6706df4d53a7dea4d80",
+                "url": "https://api.github.com/repos/moby/moby/commits/43fc912ef59a83054ea7f6706df4d53a7dea4d80"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjUuMC1yYy4y"
+        },
+        {
+            "name": "v27.5.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.5.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.5.0-rc.1",
+            "commit": {
+                "sha": "c23af2910987f9f3528f60140a5b3d7fedcabbe0",
+                "url": "https://api.github.com/repos/moby/moby/commits/c23af2910987f9f3528f60140a5b3d7fedcabbe0"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjUuMC1yYy4x"
+        },
+        {
+            "name": "v27.4.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.4.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.4.1",
+            "commit": {
+                "sha": "c710b88579fcb5e0d53f96dcae976d79323b9166",
+                "url": "https://api.github.com/repos/moby/moby/commits/c710b88579fcb5e0d53f96dcae976d79323b9166"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjQuMQ=="
+        },
+        {
+            "name": "v27.4.0",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.4.0",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.4.0",
+            "commit": {
+                "sha": "92a83937d0280dcbea92099b01e01aa4251c1777",
+                "url": "https://api.github.com/repos/moby/moby/commits/92a83937d0280dcbea92099b01e01aa4251c1777"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjQuMA=="
+        },
+        {
+            "name": "v27.4.0-rc.4",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.4.0-rc.4",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.4.0-rc.4",
+            "commit": {
+                "sha": "92a83937d0280dcbea92099b01e01aa4251c1777",
+                "url": "https://api.github.com/repos/moby/moby/commits/92a83937d0280dcbea92099b01e01aa4251c1777"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjQuMC1yYy40"
+        },
+        {
+            "name": "v27.4.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.4.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.4.0-rc.3",
+            "commit": {
+                "sha": "7f11005a3dfd03e94b1c51020b8653b25d090ccd",
+                "url": "https://api.github.com/repos/moby/moby/commits/7f11005a3dfd03e94b1c51020b8653b25d090ccd"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjQuMC1yYy4z"
+        },
+        {
+            "name": "v27.4.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.4.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.4.0-rc.2",
+            "commit": {
+                "sha": "a080c3f32fbe2becd55b4bfad077268e2177a024",
+                "url": "https://api.github.com/repos/moby/moby/commits/a080c3f32fbe2becd55b4bfad077268e2177a024"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjQuMC1yYy4y"
+        },
+        {
+            "name": "v27.4.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.4.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.4.0-rc.1",
+            "commit": {
+                "sha": "5765e9f35b0016dbd931efe9f23cb6bfc7b00bc3",
+                "url": "https://api.github.com/repos/moby/moby/commits/5765e9f35b0016dbd931efe9f23cb6bfc7b00bc3"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjQuMC1yYy4x"
+        },
+        {
+            "name": "v27.3.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.3.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.3.1",
+            "commit": {
+                "sha": "41ca978a0a5400cc24b274137efa9f25517fcc0b",
+                "url": "https://api.github.com/repos/moby/moby/commits/41ca978a0a5400cc24b274137efa9f25517fcc0b"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjMuMQ=="
+        },
+        {
+            "name": "v27.3.0",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.3.0",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.3.0",
+            "commit": {
+                "sha": "41ca978a0a5400cc24b274137efa9f25517fcc0b",
+                "url": "https://api.github.com/repos/moby/moby/commits/41ca978a0a5400cc24b274137efa9f25517fcc0b"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjMuMA=="
+        },
+        {
+            "name": "v27.3.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.3.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.3.0-rc.2",
+            "commit": {
+                "sha": "41ca978a0a5400cc24b274137efa9f25517fcc0b",
+                "url": "https://api.github.com/repos/moby/moby/commits/41ca978a0a5400cc24b274137efa9f25517fcc0b"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjMuMC1yYy4y"
+        },
+        {
+            "name": "v27.3.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.3.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.3.0-rc.1",
+            "commit": {
+                "sha": "bf60e5cced830ee3034275c1792095fbfa40caf4",
+                "url": "https://api.github.com/repos/moby/moby/commits/bf60e5cced830ee3034275c1792095fbfa40caf4"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjMuMC1yYy4x"
+        },
+        {
+            "name": "v27.2.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.2.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.2.1",
+            "commit": {
+                "sha": "8b539b8df24032dabeaaa099cf1d0535ef0286a3",
+                "url": "https://api.github.com/repos/moby/moby/commits/8b539b8df24032dabeaaa099cf1d0535ef0286a3"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjIuMQ=="
+        },
+        {
+            "name": "v27.2.0",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.2.0",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.2.0",
+            "commit": {
+                "sha": "3ab5c7d0036ca8fc43141e83b167456ec79828aa",
+                "url": "https://api.github.com/repos/moby/moby/commits/3ab5c7d0036ca8fc43141e83b167456ec79828aa"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjIuMA=="
+        },
+        {
+            "name": "v27.2.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.2.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.2.0-rc.1",
+            "commit": {
+                "sha": "9942d656bade692b7ae4ca334545e0f115f37294",
+                "url": "https://api.github.com/repos/moby/moby/commits/9942d656bade692b7ae4ca334545e0f115f37294"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjIuMC1yYy4x"
+        },
+        {
+            "name": "v27.1.2",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.1.2",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.1.2",
+            "commit": {
+                "sha": "f9522e5e96c3ab5a6b8a643d15a92700ca864da6",
+                "url": "https://api.github.com/repos/moby/moby/commits/f9522e5e96c3ab5a6b8a643d15a92700ca864da6"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjEuMg=="
+        },
+        {
+            "name": "v27.1.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.1.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.1.1",
+            "commit": {
+                "sha": "cc13f952511154a2866bddbb7dddebfe9e83b801",
+                "url": "https://api.github.com/repos/moby/moby/commits/cc13f952511154a2866bddbb7dddebfe9e83b801"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjEuMQ=="
+        },
+        {
+            "name": "v27.1.0",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.1.0",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.1.0",
+            "commit": {
+                "sha": "a21b1a2d12e2c01542cb191eb526d7bfad0641e3",
+                "url": "https://api.github.com/repos/moby/moby/commits/a21b1a2d12e2c01542cb191eb526d7bfad0641e3"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjEuMA=="
+        },
+        {
+            "name": "v27.0.3",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.0.3",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.0.3",
+            "commit": {
+                "sha": "662f78c0b1bb5114172427cfcb40491d73159be2",
+                "url": "https://api.github.com/repos/moby/moby/commits/662f78c0b1bb5114172427cfcb40491d73159be2"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjAuMw=="
+        },
+        {
+            "name": "v27.0.2",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.0.2",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.0.2",
+            "commit": {
+                "sha": "e953d76450b64bd64b2374137b0580223a114fdb",
+                "url": "https://api.github.com/repos/moby/moby/commits/e953d76450b64bd64b2374137b0580223a114fdb"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjAuMg=="
+        },
+        {
+            "name": "v27.0.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.0.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.0.1",
+            "commit": {
+                "sha": "ff1e2c0de72a1bbbe4cdbe1558da57d327899df5",
+                "url": "https://api.github.com/repos/moby/moby/commits/ff1e2c0de72a1bbbe4cdbe1558da57d327899df5"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjAuMQ=="
+        },
+        {
+            "name": "v27.0.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.0.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.0.1-rc.1",
+            "commit": {
+                "sha": "018d93decfb51ce7c1a8edecdf4f62ed07564e8f",
+                "url": "https://api.github.com/repos/moby/moby/commits/018d93decfb51ce7c1a8edecdf4f62ed07564e8f"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjAuMS1yYy4x"
+        },
+        {
+            "name": "v27.0.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.0.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.0.0-rc.2",
+            "commit": {
+                "sha": "caf502a0bc44c19b4e1dde50428de07ff756a8d3",
+                "url": "https://api.github.com/repos/moby/moby/commits/caf502a0bc44c19b4e1dde50428de07ff756a8d3"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjAuMC1yYy4y"
+        },
+        {
+            "name": "v27.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v27.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v27.0.0-rc.1",
+            "commit": {
+                "sha": "4fec999c1182face1fd9d2c25a5d6c0167603a77",
+                "url": "https://api.github.com/repos/moby/moby/commits/4fec999c1182face1fd9d2c25a5d6c0167603a77"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI3LjAuMC1yYy4x"
+        },
+        {
+            "name": "v26.1.5",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v26.1.5",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v26.1.5",
+            "commit": {
+                "sha": "411e817ddf710ff8e08fa193da80cb78af708191",
+                "url": "https://api.github.com/repos/moby/moby/commits/411e817ddf710ff8e08fa193da80cb78af708191"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI2LjEuNQ=="
+        },
+        {
+            "name": "v26.1.4",
+            "zipball_url": "https://api.github.com/repos/moby/moby/zipball/refs/tags/v26.1.4",
+            "tarball_url": "https://api.github.com/repos/moby/moby/tarball/refs/tags/v26.1.4",
+            "commit": {
+                "sha": "de5c9cf0b96e4e172b96db54abababa4a328462f",
+                "url": "https://api.github.com/repos/moby/moby/commits/de5c9cf0b96e4e172b96db54abababa4a328462f"
+            },
+            "node_id": "MDM6UmVmNzY5MTYzMTpyZWZzL3RhZ3MvdjI2LjEuNA=="
+        }
+    ]
+}

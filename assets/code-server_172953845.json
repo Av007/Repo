@@ -1,0 +1,425 @@
+{
+    "id": 172953845,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNzI5NTM4NDU=",
+    "name": "code-server",
+    "full_name": "coder/code-server",
+    "private": false,
+    "owner": {
+        "login": "coder",
+        "id": 95932066,
+        "node_id": "O_kgDOBbfOog",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95932066?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/coder",
+        "html_url": "https://github.com/coder",
+        "followers_url": "https://api.github.com/users/coder/followers",
+        "following_url": "https://api.github.com/users/coder/following{/other_user}",
+        "gists_url": "https://api.github.com/users/coder/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/coder/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/coder/subscriptions",
+        "organizations_url": "https://api.github.com/users/coder/orgs",
+        "repos_url": "https://api.github.com/users/coder/repos",
+        "events_url": "https://api.github.com/users/coder/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/coder/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/coder/code-server",
+    "description": "VS Code in the browser",
+    "fork": false,
+    "url": "https://api.github.com/repos/coder/code-server",
+    "forks_url": "https://api.github.com/repos/coder/code-server/forks",
+    "keys_url": "https://api.github.com/repos/coder/code-server/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/coder/code-server/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/coder/code-server/teams",
+    "hooks_url": "https://api.github.com/repos/coder/code-server/hooks",
+    "issue_events_url": "https://api.github.com/repos/coder/code-server/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/coder/code-server/events",
+    "assignees_url": "https://api.github.com/repos/coder/code-server/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/coder/code-server/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/coder/code-server/tags",
+    "blobs_url": "https://api.github.com/repos/coder/code-server/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/coder/code-server/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/coder/code-server/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/coder/code-server/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/coder/code-server/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/coder/code-server/languages",
+    "stargazers_url": "https://api.github.com/repos/coder/code-server/stargazers",
+    "contributors_url": "https://api.github.com/repos/coder/code-server/contributors",
+    "subscribers_url": "https://api.github.com/repos/coder/code-server/subscribers",
+    "subscription_url": "https://api.github.com/repos/coder/code-server/subscription",
+    "commits_url": "https://api.github.com/repos/coder/code-server/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/coder/code-server/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/coder/code-server/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/coder/code-server/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/coder/code-server/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/coder/code-server/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/coder/code-server/merges",
+    "archive_url": "https://api.github.com/repos/coder/code-server/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/coder/code-server/downloads",
+    "issues_url": "https://api.github.com/repos/coder/code-server/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/coder/code-server/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/coder/code-server/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/coder/code-server/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/coder/code-server/labels{/name}",
+    "releases_url": "https://api.github.com/repos/coder/code-server/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/coder/code-server/deployments",
+    "created_at": "2019-02-27T16:50:41Z",
+    "updated_at": "2025-01-25T15:52:54Z",
+    "pushed_at": "2025-01-21T00:33:44Z",
+    "git_url": "git://github.com/coder/code-server.git",
+    "ssh_url": "git@github.com:coder/code-server.git",
+    "clone_url": "https://github.com/coder/code-server.git",
+    "svn_url": "https://github.com/coder/code-server",
+    "homepage": "https://coder.com",
+    "size": 53244,
+    "stargazers_count": 69512,
+    "watchers_count": 69512,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5730,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 145,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "browser-ide",
+        "dev-tools",
+        "development-environment",
+        "ide",
+        "remote-work",
+        "vscode",
+        "vscode-remote"
+    ],
+    "visibility": "public",
+    "forks": 5730,
+    "open_issues": 145,
+    "watchers": 69512,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.96.4",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.96.4",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.96.4",
+            "commit": {
+                "sha": "b7ef8f9bd70cb5b342fa8ec8a0086bad676d8124",
+                "url": "https://api.github.com/repos/coder/code-server/commits/b7ef8f9bd70cb5b342fa8ec8a0086bad676d8124"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45Ni40"
+        },
+        {
+            "name": "v4.96.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.96.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.96.2",
+            "commit": {
+                "sha": "08cbdfbdf11925e8a14ee03de97b942bba7e8a94",
+                "url": "https://api.github.com/repos/coder/code-server/commits/08cbdfbdf11925e8a14ee03de97b942bba7e8a94"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45Ni4y"
+        },
+        {
+            "name": "v4.96.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.96.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.96.1",
+            "commit": {
+                "sha": "272e28abc68ef068e4dde44e8a4f7eca26c42efb",
+                "url": "https://api.github.com/repos/coder/code-server/commits/272e28abc68ef068e4dde44e8a4f7eca26c42efb"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45Ni4x"
+        },
+        {
+            "name": "v4.95.3",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.95.3",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.95.3",
+            "commit": {
+                "sha": "b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb",
+                "url": "https://api.github.com/repos/coder/code-server/commits/b0c935a6e0742adde9f7a5f6e5816553ee0e7ffb"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45NS4z"
+        },
+        {
+            "name": "v4.95.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.95.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.95.2",
+            "commit": {
+                "sha": "fc97e248c354be27a054c182669a6984dd73cd41",
+                "url": "https://api.github.com/repos/coder/code-server/commits/fc97e248c354be27a054c182669a6984dd73cd41"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45NS4y"
+        },
+        {
+            "name": "v4.95.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.95.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.95.1",
+            "commit": {
+                "sha": "344df3875fee5979b5fda0c6bf00778d0ef1be48",
+                "url": "https://api.github.com/repos/coder/code-server/commits/344df3875fee5979b5fda0c6bf00778d0ef1be48"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45NS4x"
+        },
+        {
+            "name": "v4.95.1-rc.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.95.1-rc.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.95.1-rc.2",
+            "commit": {
+                "sha": "344df3875fee5979b5fda0c6bf00778d0ef1be48",
+                "url": "https://api.github.com/repos/coder/code-server/commits/344df3875fee5979b5fda0c6bf00778d0ef1be48"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45NS4xLXJjLjI="
+        },
+        {
+            "name": "v4.95.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.95.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.95.1-rc.1",
+            "commit": {
+                "sha": "952523f288b1351f622a19507eb699b97c1d6410",
+                "url": "https://api.github.com/repos/coder/code-server/commits/952523f288b1351f622a19507eb699b97c1d6410"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45NS4xLXJjLjE="
+        },
+        {
+            "name": "v4.94.2-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.94.2-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.94.2-rc.1",
+            "commit": {
+                "sha": "dd2e9fce277ff4f8699d9b4d9b41526943385e17",
+                "url": "https://api.github.com/repos/coder/code-server/commits/dd2e9fce277ff4f8699d9b4d9b41526943385e17"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45NC4yLXJjLjE="
+        },
+        {
+            "name": "v4.93.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.93.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.93.1",
+            "commit": {
+                "sha": "69df01185ce2f80e99c9e4f8c8de1907cc7a9bc5",
+                "url": "https://api.github.com/repos/coder/code-server/commits/69df01185ce2f80e99c9e4f8c8de1907cc7a9bc5"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45My4x"
+        },
+        {
+            "name": "v4.93.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.93.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.93.1-rc.1",
+            "commit": {
+                "sha": "69df01185ce2f80e99c9e4f8c8de1907cc7a9bc5",
+                "url": "https://api.github.com/repos/coder/code-server/commits/69df01185ce2f80e99c9e4f8c8de1907cc7a9bc5"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45My4xLXJjLjE="
+        },
+        {
+            "name": "v4.92.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.92.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.92.2",
+            "commit": {
+                "sha": "de65bfc9477f61bc22d0b1a23085d1f18bb25202",
+                "url": "https://api.github.com/repos/coder/code-server/commits/de65bfc9477f61bc22d0b1a23085d1f18bb25202"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45Mi4y"
+        },
+        {
+            "name": "v4.92.2-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.92.2-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.92.2-rc.1",
+            "commit": {
+                "sha": "34c6751bf8ae4e343f908d8aee691a4778f1d3a2",
+                "url": "https://api.github.com/repos/coder/code-server/commits/34c6751bf8ae4e343f908d8aee691a4778f1d3a2"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45Mi4yLXJjLjE="
+        },
+        {
+            "name": "v4.91.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.91.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.91.1",
+            "commit": {
+                "sha": "1962f48b7f71772dc2c060dbaa5a6b4c0792a549",
+                "url": "https://api.github.com/repos/coder/code-server/commits/1962f48b7f71772dc2c060dbaa5a6b4c0792a549"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MS4x"
+        },
+        {
+            "name": "v4.91.0",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.91.0",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.91.0",
+            "commit": {
+                "sha": "fb3e3e1546d571e9973e86482bcd925c1918ec27",
+                "url": "https://api.github.com/repos/coder/code-server/commits/fb3e3e1546d571e9973e86482bcd925c1918ec27"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MS4w"
+        },
+        {
+            "name": "v4.91.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.91.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.91.0-rc.1",
+            "commit": {
+                "sha": "901191e0f96af661a4df7b7988b8f90e854c65b4",
+                "url": "https://api.github.com/repos/coder/code-server/commits/901191e0f96af661a4df7b7988b8f90e854c65b4"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MS4wLXJjLjE="
+        },
+        {
+            "name": "v4.90.3",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.90.3",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.90.3",
+            "commit": {
+                "sha": "26c763485b9101fcae2ce56fc0903f0e2d48abe3",
+                "url": "https://api.github.com/repos/coder/code-server/commits/26c763485b9101fcae2ce56fc0903f0e2d48abe3"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MC4z"
+        },
+        {
+            "name": "v4.90.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.90.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.90.2",
+            "commit": {
+                "sha": "dce1d6e172cc5f935b9732e7dee4b7a992529eda",
+                "url": "https://api.github.com/repos/coder/code-server/commits/dce1d6e172cc5f935b9732e7dee4b7a992529eda"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MC4y"
+        },
+        {
+            "name": "v4.90.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.90.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.90.1",
+            "commit": {
+                "sha": "a73549539bb205169189158532c32d0fc44b104e",
+                "url": "https://api.github.com/repos/coder/code-server/commits/a73549539bb205169189158532c32d0fc44b104e"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MC4x"
+        },
+        {
+            "name": "v4.90.0",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.90.0",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.90.0",
+            "commit": {
+                "sha": "0c802ba1652296c79d26ff3e990578e67e6734b1",
+                "url": "https://api.github.com/repos/coder/code-server/commits/0c802ba1652296c79d26ff3e990578e67e6734b1"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MC4w"
+        },
+        {
+            "name": "v4.90.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.90.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.90.0-rc.1",
+            "commit": {
+                "sha": "3b467dec95d049cb2a4138300154eee2487d3db0",
+                "url": "https://api.github.com/repos/coder/code-server/commits/3b467dec95d049cb2a4138300154eee2487d3db0"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC45MC4wLXJjLjE="
+        },
+        {
+            "name": "v4.89.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.89.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.89.1",
+            "commit": {
+                "sha": "effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c",
+                "url": "https://api.github.com/repos/coder/code-server/commits/effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC44OS4x"
+        },
+        {
+            "name": "v4.89.0",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.89.0",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.89.0",
+            "commit": {
+                "sha": "ab4b36f573c6d336dd79efa7859ed922fa00f81b",
+                "url": "https://api.github.com/repos/coder/code-server/commits/ab4b36f573c6d336dd79efa7859ed922fa00f81b"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC44OS4w"
+        },
+        {
+            "name": "v4.89.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.89.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.89.0-rc.1",
+            "commit": {
+                "sha": "ab4b36f573c6d336dd79efa7859ed922fa00f81b",
+                "url": "https://api.github.com/repos/coder/code-server/commits/ab4b36f573c6d336dd79efa7859ed922fa00f81b"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC44OS4wLXJjLjE="
+        },
+        {
+            "name": "v4.23.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.23.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.23.1",
+            "commit": {
+                "sha": "9a28bc29dbddb6886dfe03dc1c31320249a901ce",
+                "url": "https://api.github.com/repos/coder/code-server/commits/9a28bc29dbddb6886dfe03dc1c31320249a901ce"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC4yMy4x"
+        },
+        {
+            "name": "v4.23.0",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.23.0",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.23.0",
+            "commit": {
+                "sha": "73e615da4e78fa28b71331e4c31913099aa887b4",
+                "url": "https://api.github.com/repos/coder/code-server/commits/73e615da4e78fa28b71331e4c31913099aa887b4"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC4yMy4w"
+        },
+        {
+            "name": "v4.23.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.23.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.23.0-rc.2",
+            "commit": {
+                "sha": "73e615da4e78fa28b71331e4c31913099aa887b4",
+                "url": "https://api.github.com/repos/coder/code-server/commits/73e615da4e78fa28b71331e4c31913099aa887b4"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC4yMy4wLXJjLjI="
+        },
+        {
+            "name": "v4.23.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.23.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.23.0-rc.1",
+            "commit": {
+                "sha": "ebd79ed958ca862c019de5952b271ffcde802d7f",
+                "url": "https://api.github.com/repos/coder/code-server/commits/ebd79ed958ca862c019de5952b271ffcde802d7f"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC4yMy4wLXJjLjE="
+        },
+        {
+            "name": "v4.22.1",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.22.1",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.22.1",
+            "commit": {
+                "sha": "760d1318e98945d05133c6121f99541ca7a39bf8",
+                "url": "https://api.github.com/repos/coder/code-server/commits/760d1318e98945d05133c6121f99541ca7a39bf8"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC4yMi4x"
+        },
+        {
+            "name": "v4.22.1-rc.2",
+            "zipball_url": "https://api.github.com/repos/coder/code-server/zipball/refs/tags/v4.22.1-rc.2",
+            "tarball_url": "https://api.github.com/repos/coder/code-server/tarball/refs/tags/v4.22.1-rc.2",
+            "commit": {
+                "sha": "760d1318e98945d05133c6121f99541ca7a39bf8",
+                "url": "https://api.github.com/repos/coder/code-server/commits/760d1318e98945d05133c6121f99541ca7a39bf8"
+            },
+            "node_id": "MDM6UmVmMTcyOTUzODQ1OnJlZnMvdGFncy92NC4yMi4xLXJjLjI="
+        }
+    ]
+}

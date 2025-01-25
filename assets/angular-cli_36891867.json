@@ -1,0 +1,422 @@
+{
+    "id": 36891867,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNjg5MTg2Nw==",
+    "name": "angular-cli",
+    "full_name": "angular/angular-cli",
+    "private": false,
+    "owner": {
+        "login": "angular",
+        "id": 139426,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTQyNg==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139426?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/angular",
+        "html_url": "https://github.com/angular",
+        "followers_url": "https://api.github.com/users/angular/followers",
+        "following_url": "https://api.github.com/users/angular/following{/other_user}",
+        "gists_url": "https://api.github.com/users/angular/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/angular/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/angular/subscriptions",
+        "organizations_url": "https://api.github.com/users/angular/orgs",
+        "repos_url": "https://api.github.com/users/angular/repos",
+        "events_url": "https://api.github.com/users/angular/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/angular/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "fork": false,
+    "url": "https://api.github.com/repos/angular/angular-cli",
+    "forks_url": "https://api.github.com/repos/angular/angular-cli/forks",
+    "keys_url": "https://api.github.com/repos/angular/angular-cli/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/angular/angular-cli/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/angular/angular-cli/teams",
+    "hooks_url": "https://api.github.com/repos/angular/angular-cli/hooks",
+    "issue_events_url": "https://api.github.com/repos/angular/angular-cli/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/angular/angular-cli/events",
+    "assignees_url": "https://api.github.com/repos/angular/angular-cli/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/angular/angular-cli/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/angular/angular-cli/tags",
+    "blobs_url": "https://api.github.com/repos/angular/angular-cli/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/angular/angular-cli/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/angular/angular-cli/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/angular/angular-cli/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/angular/angular-cli/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/angular/angular-cli/languages",
+    "stargazers_url": "https://api.github.com/repos/angular/angular-cli/stargazers",
+    "contributors_url": "https://api.github.com/repos/angular/angular-cli/contributors",
+    "subscribers_url": "https://api.github.com/repos/angular/angular-cli/subscribers",
+    "subscription_url": "https://api.github.com/repos/angular/angular-cli/subscription",
+    "commits_url": "https://api.github.com/repos/angular/angular-cli/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/angular/angular-cli/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/angular/angular-cli/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/angular/angular-cli/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/angular/angular-cli/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/angular/angular-cli/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/angular/angular-cli/merges",
+    "archive_url": "https://api.github.com/repos/angular/angular-cli/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/angular/angular-cli/downloads",
+    "issues_url": "https://api.github.com/repos/angular/angular-cli/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/angular/angular-cli/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/angular/angular-cli/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/angular/angular-cli/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/angular/angular-cli/labels{/name}",
+    "releases_url": "https://api.github.com/repos/angular/angular-cli/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/angular/angular-cli/deployments",
+    "created_at": "2015-06-04T19:49:37Z",
+    "updated_at": "2025-01-25T16:43:42Z",
+    "pushed_at": "2025-01-24T15:20:51Z",
+    "git_url": "git://github.com/angular/angular-cli.git",
+    "ssh_url": "git@github.com:angular/angular-cli.git",
+    "clone_url": "https://github.com/angular/angular-cli.git",
+    "svn_url": "https://github.com/angular/angular-cli",
+    "homepage": "https://cli.angular.dev",
+    "size": 180483,
+    "stargazers_count": 26802,
+    "watchers_count": 26802,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 11981,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 300,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "angular",
+        "angular-cli",
+        "cli",
+        "typescript"
+    ],
+    "visibility": "public",
+    "forks": 11981,
+    "open_issues": 300,
+    "watchers": 26802,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v12.2.0-next.2",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.2.0-next.2",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.2.0-next.2",
+            "commit": {
+                "sha": "792bdb9f342af32dfa71c1666447bdc1ddd69dd3",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/792bdb9f342af32dfa71c1666447bdc1ddd69dd3"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4yLjAtbmV4dC4y"
+        },
+        {
+            "name": "v12.2.0-next.1",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.2.0-next.1",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.2.0-next.1",
+            "commit": {
+                "sha": "0c285d3e987af34d3957f7af18087c2c94f4fd0f",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/0c285d3e987af34d3957f7af18087c2c94f4fd0f"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4yLjAtbmV4dC4x"
+        },
+        {
+            "name": "v12.2.0-next.0",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.2.0-next.0",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.2.0-next.0",
+            "commit": {
+                "sha": "c666d0b73b87fdfb328fbd07d7be2885045a9bb9",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/c666d0b73b87fdfb328fbd07d7be2885045a9bb9"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4yLjAtbmV4dC4w"
+        },
+        {
+            "name": "v12.1.2",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.2",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.2",
+            "commit": {
+                "sha": "ccb67c913fbd2d4aebcd5fa60d3549ffca14d580",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/ccb67c913fbd2d4aebcd5fa60d3549ffca14d580"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjI="
+        },
+        {
+            "name": "v12.1.1",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.1",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.1",
+            "commit": {
+                "sha": "32986fcc47c5d5cda8e4d2b1e8647562c49eb552",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/32986fcc47c5d5cda8e4d2b1e8647562c49eb552"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjE="
+        },
+        {
+            "name": "v12.1.0",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.0",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.0",
+            "commit": {
+                "sha": "d9fc97198da1a76773cc4dc840ec04b5416c22a8",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/d9fc97198da1a76773cc4dc840ec04b5416c22a8"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjA="
+        },
+        {
+            "name": "v12.1.0-next.6",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.0-next.6",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.0-next.6",
+            "commit": {
+                "sha": "b150093bbebca543d760bde38e5cea66d910b28b",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/b150093bbebca543d760bde38e5cea66d910b28b"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjAtbmV4dC42"
+        },
+        {
+            "name": "v12.1.0-next.5",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.0-next.5",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.0-next.5",
+            "commit": {
+                "sha": "c9fe66ab7924ebbdddc0b6d1b469ea8753fcbe10",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/c9fe66ab7924ebbdddc0b6d1b469ea8753fcbe10"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjAtbmV4dC41"
+        },
+        {
+            "name": "v12.1.0-next.4",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.0-next.4",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.0-next.4",
+            "commit": {
+                "sha": "8690ed0a35fdedc003e440b53d72f12cef716f5c",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/8690ed0a35fdedc003e440b53d72f12cef716f5c"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjAtbmV4dC40"
+        },
+        {
+            "name": "v12.1.0-next.3",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.0-next.3",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.0-next.3",
+            "commit": {
+                "sha": "2f295963d7f23f0cbf204bba18af521df73e3ef0",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/2f295963d7f23f0cbf204bba18af521df73e3ef0"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjAtbmV4dC4z"
+        },
+        {
+            "name": "v12.1.0-next.2",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.1.0-next.2",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.1.0-next.2",
+            "commit": {
+                "sha": "1ac3931d3e229ec29ea830e5fa8afd9b3ade0bdb",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/1ac3931d3e229ec29ea830e5fa8afd9b3ade0bdb"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4xLjAtbmV4dC4y"
+        },
+        {
+            "name": "v12.0.5",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.5",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.5",
+            "commit": {
+                "sha": "7e04ed1834e6dae26c1c360f0f78aad6999dbe78",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/7e04ed1834e6dae26c1c360f0f78aad6999dbe78"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjU="
+        },
+        {
+            "name": "v12.0.4",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.4",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.4",
+            "commit": {
+                "sha": "dc6849c7e966a8ade916aa4371b47db7501cb3d1",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/dc6849c7e966a8ade916aa4371b47db7501cb3d1"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjQ="
+        },
+        {
+            "name": "v12.0.3",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.3",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.3",
+            "commit": {
+                "sha": "8990849b4ffc6f0ff54beeaf7c928c7849bc2b00",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/8990849b4ffc6f0ff54beeaf7c928c7849bc2b00"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjM="
+        },
+        {
+            "name": "v12.0.2",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.2",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.2",
+            "commit": {
+                "sha": "638344afe1774ea5573b26def4b2a41cc14f6b8b",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/638344afe1774ea5573b26def4b2a41cc14f6b8b"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjI="
+        },
+        {
+            "name": "v12.0.1",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.1",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.1",
+            "commit": {
+                "sha": "39b207978e8b5bbf41a237956b00693ad757e16c",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/39b207978e8b5bbf41a237956b00693ad757e16c"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjE="
+        },
+        {
+            "name": "v12.0.0",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0",
+            "commit": {
+                "sha": "eee0955a5dd657d39b7c51c92a5944e9a595d485",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/eee0955a5dd657d39b7c51c92a5944e9a595d485"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjA="
+        },
+        {
+            "name": "v12.0.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-rc.3",
+            "commit": {
+                "sha": "24d9d90caa6b9e52b51fb73f514265b4a1eabc38",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/24d9d90caa6b9e52b51fb73f514265b4a1eabc38"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtcmMuMw=="
+        },
+        {
+            "name": "v12.0.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-rc.2",
+            "commit": {
+                "sha": "6152689b379f9fea858a7d3770b2a3a1156c47f1",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/6152689b379f9fea858a7d3770b2a3a1156c47f1"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtcmMuMg=="
+        },
+        {
+            "name": "v12.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-rc.1",
+            "commit": {
+                "sha": "df997575032a280e8e58f89820a45a3a4adcf906",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/df997575032a280e8e58f89820a45a3a4adcf906"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtcmMuMQ=="
+        },
+        {
+            "name": "v12.0.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-rc.0",
+            "commit": {
+                "sha": "f306d7e11b5fb07f9ef6cf290f9a649e939f0b45",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/f306d7e11b5fb07f9ef6cf290f9a649e939f0b45"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtcmMuMA=="
+        },
+        {
+            "name": "v12.0.0-next.9",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.9",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.9",
+            "commit": {
+                "sha": "c7a7a7591b6d471490c8828b183a2eba9841a02f",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/c7a7a7591b6d471490c8828b183a2eba9841a02f"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC45"
+        },
+        {
+            "name": "v12.0.0-next.8",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.8",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.8",
+            "commit": {
+                "sha": "ad60469444ae4e6f5233b17cff314042af567050",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/ad60469444ae4e6f5233b17cff314042af567050"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC44"
+        },
+        {
+            "name": "v12.0.0-next.7",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.7",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.7",
+            "commit": {
+                "sha": "81892614f5bd306c6618be805b68cff593ccc214",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/81892614f5bd306c6618be805b68cff593ccc214"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC43"
+        },
+        {
+            "name": "v12.0.0-next.6",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.6",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.6",
+            "commit": {
+                "sha": "8b691aef1b6867a714fda44a7ebea06220b4740b",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/8b691aef1b6867a714fda44a7ebea06220b4740b"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC42"
+        },
+        {
+            "name": "v12.0.0-next.5",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.5",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.5",
+            "commit": {
+                "sha": "892adf76a006db42abb0416313c4b03af4bd3317",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/892adf76a006db42abb0416313c4b03af4bd3317"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC41"
+        },
+        {
+            "name": "v12.0.0-next.4",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.4",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.4",
+            "commit": {
+                "sha": "6469acf0527a57356617c21536ea252726a37ad5",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/6469acf0527a57356617c21536ea252726a37ad5"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC40"
+        },
+        {
+            "name": "v12.0.0-next.3",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.3",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.3",
+            "commit": {
+                "sha": "a7b9497b63f8608e4640f68e24558aa6b20f6f7a",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/a7b9497b63f8608e4640f68e24558aa6b20f6f7a"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC4z"
+        },
+        {
+            "name": "v12.0.0-next.2",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.2",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.2",
+            "commit": {
+                "sha": "ed367e0d6fa60a90fe9412708980997f40bd9673",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/ed367e0d6fa60a90fe9412708980997f40bd9673"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC4y"
+        },
+        {
+            "name": "v12.0.0-next.1",
+            "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/refs/tags/v12.0.0-next.1",
+            "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/refs/tags/v12.0.0-next.1",
+            "commit": {
+                "sha": "7650eb8dce7c1326e616c7e91d061e1ba4e6bae7",
+                "url": "https://api.github.com/repos/angular/angular-cli/commits/7650eb8dce7c1326e616c7e91d061e1ba4e6bae7"
+            },
+            "node_id": "MDM6UmVmMzY4OTE4Njc6cmVmcy90YWdzL3YxMi4wLjAtbmV4dC4x"
+        }
+    ]
+}

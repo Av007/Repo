@@ -1,0 +1,327 @@
+{
+    "id": 81227005,
+    "node_id": "MDEwOlJlcG9zaXRvcnk4MTIyNzAwNQ==",
+    "name": "faiss",
+    "full_name": "facebookresearch/faiss",
+    "private": false,
+    "owner": {
+        "login": "facebookresearch",
+        "id": 16943930,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2OTQzOTMw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/facebookresearch",
+        "html_url": "https://github.com/facebookresearch",
+        "followers_url": "https://api.github.com/users/facebookresearch/followers",
+        "following_url": "https://api.github.com/users/facebookresearch/following{/other_user}",
+        "gists_url": "https://api.github.com/users/facebookresearch/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/facebookresearch/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/facebookresearch/subscriptions",
+        "organizations_url": "https://api.github.com/users/facebookresearch/orgs",
+        "repos_url": "https://api.github.com/users/facebookresearch/repos",
+        "events_url": "https://api.github.com/users/facebookresearch/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/facebookresearch/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/facebookresearch/faiss",
+    "description": "A library for efficient similarity search and clustering of dense vectors.",
+    "fork": false,
+    "url": "https://api.github.com/repos/facebookresearch/faiss",
+    "forks_url": "https://api.github.com/repos/facebookresearch/faiss/forks",
+    "keys_url": "https://api.github.com/repos/facebookresearch/faiss/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/facebookresearch/faiss/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/facebookresearch/faiss/teams",
+    "hooks_url": "https://api.github.com/repos/facebookresearch/faiss/hooks",
+    "issue_events_url": "https://api.github.com/repos/facebookresearch/faiss/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/facebookresearch/faiss/events",
+    "assignees_url": "https://api.github.com/repos/facebookresearch/faiss/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/facebookresearch/faiss/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/facebookresearch/faiss/tags",
+    "blobs_url": "https://api.github.com/repos/facebookresearch/faiss/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/facebookresearch/faiss/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/facebookresearch/faiss/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/facebookresearch/faiss/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/facebookresearch/faiss/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/facebookresearch/faiss/languages",
+    "stargazers_url": "https://api.github.com/repos/facebookresearch/faiss/stargazers",
+    "contributors_url": "https://api.github.com/repos/facebookresearch/faiss/contributors",
+    "subscribers_url": "https://api.github.com/repos/facebookresearch/faiss/subscribers",
+    "subscription_url": "https://api.github.com/repos/facebookresearch/faiss/subscription",
+    "commits_url": "https://api.github.com/repos/facebookresearch/faiss/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/facebookresearch/faiss/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/facebookresearch/faiss/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/facebookresearch/faiss/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/facebookresearch/faiss/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/facebookresearch/faiss/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/facebookresearch/faiss/merges",
+    "archive_url": "https://api.github.com/repos/facebookresearch/faiss/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/facebookresearch/faiss/downloads",
+    "issues_url": "https://api.github.com/repos/facebookresearch/faiss/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/facebookresearch/faiss/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/facebookresearch/faiss/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/facebookresearch/faiss/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/facebookresearch/faiss/labels{/name}",
+    "releases_url": "https://api.github.com/repos/facebookresearch/faiss/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/facebookresearch/faiss/deployments",
+    "created_at": "2017-02-07T16:07:05Z",
+    "updated_at": "2025-01-25T17:20:11Z",
+    "pushed_at": "2025-01-24T20:38:06Z",
+    "git_url": "git://github.com/facebookresearch/faiss.git",
+    "ssh_url": "git@github.com:facebookresearch/faiss.git",
+    "clone_url": "https://github.com/facebookresearch/faiss.git",
+    "svn_url": "https://github.com/facebookresearch/faiss",
+    "homepage": "https://faiss.ai",
+    "size": 243701,
+    "stargazers_count": 32549,
+    "watchers_count": 32549,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 3718,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 257,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 3718,
+    "open_issues": 257,
+    "watchers": 32549,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v20180223",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v20180223",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v20180223",
+            "commit": {
+                "sha": "0c482e54eb894eb1832b58cc11a286a84aa69ce8",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/0c482e54eb894eb1832b58cc11a286a84aa69ce8"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YyMDE4MDIyMw=="
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "d243e628880676332263347817b3fe7f474b8b5b",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/d243e628880676332263347817b3fe7f474b8b5b"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjkuMA=="
+        },
+        {
+            "name": "v1.8.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.8.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.8.0",
+            "commit": {
+                "sha": "943d08bdad7946b22f56d040756669ee444dd681",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/943d08bdad7946b22f56d040756669ee444dd681"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjguMA=="
+        },
+        {
+            "name": "v1.7.4",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.7.4",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.7.4",
+            "commit": {
+                "sha": "d87888b13e7eb339bb9c45825e9d20def6665171",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/d87888b13e7eb339bb9c45825e9d20def6665171"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjcuNA=="
+        },
+        {
+            "name": "v1.7.3",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.7.3",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.7.3",
+            "commit": {
+                "sha": "19f7696deedc93615c3ee0ff4de22284b53e0243",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/19f7696deedc93615c3ee0ff4de22284b53e0243"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjcuMw=="
+        },
+        {
+            "name": "v1.7.2",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.7.2",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.7.2",
+            "commit": {
+                "sha": "c08cbff1a4d6c9afb6b8f69004c5530aaf80237a",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/c08cbff1a4d6c9afb6b8f69004c5530aaf80237a"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjcuMg=="
+        },
+        {
+            "name": "v1.7.1",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.7.1",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.7.1",
+            "commit": {
+                "sha": "cff072b78ef019998990c6ba02df83dd7d3c8d38",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/cff072b78ef019998990c6ba02df83dd7d3c8d38"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjcuMQ=="
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "7c2d2388a492d65fdda934c7e74ae87acaeed066",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/7c2d2388a492d65fdda934c7e74ae87acaeed066"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjcuMA=="
+        },
+        {
+            "name": "v1.6.5",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.6.5",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.6.5",
+            "commit": {
+                "sha": "88eabe97f96d0c0964dfa075f74373c64d46da80",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/88eabe97f96d0c0964dfa075f74373c64d46da80"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjYuNQ=="
+        },
+        {
+            "name": "v1.6.4",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.6.4",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.6.4",
+            "commit": {
+                "sha": "0fb6c00cfa9487416b5cdf514f5f796476eecb06",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/0fb6c00cfa9487416b5cdf514f5f796476eecb06"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjYuNA=="
+        },
+        {
+            "name": "v1.6.3",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.6.3",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.6.3",
+            "commit": {
+                "sha": "a17a631dc326b3b394f4e9fb63d0a7af475534dc",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/a17a631dc326b3b394f4e9fb63d0a7af475534dc"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjYuMw=="
+        },
+        {
+            "name": "v1.6.2",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.6.2",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.6.2",
+            "commit": {
+                "sha": "22b7876ef5540b85feee173aa3182a2f37dc98f6",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/22b7876ef5540b85feee173aa3182a2f37dc98f6"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjYuMg=="
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "2ba6985f81d200c97dce94c8d564b1645d90d0ba",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/2ba6985f81d200c97dce94c8d564b1645d90d0ba"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjYuMQ=="
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "31393764cccb3ae94e8a604e1fd891b331c46221",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/31393764cccb3ae94e8a604e1fd891b331c46221"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjYuMA=="
+        },
+        {
+            "name": "v1.5.3",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.5.3",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.5.3",
+            "commit": {
+                "sha": "efa81eec762e79d26121de56a58c325ee3ca0f83",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/efa81eec762e79d26121de56a58c325ee3ca0f83"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjUuMw=="
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "dacd5a9f51fe7933685bf906009b398ceeb504ab",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/dacd5a9f51fe7933685bf906009b398ceeb504ab"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjUuMg=="
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "7f5b22b0fff0882ce4afd93ce54cc2833a224909",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/7f5b22b0fff0882ce4afd93ce54cc2833a224909"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjUuMQ=="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "4bcb5b3fe0f88f1b3358b0e1f422618a2f957d7f",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/4bcb5b3fe0f88f1b3358b0e1f422618a2f957d7f"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjUuMA=="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "cdc5a8b7b876fb636362c724f54e06fe889e3ac7",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/cdc5a8b7b876fb636362c724f54e06fe889e3ac7"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjQuMA=="
+        },
+        {
+            "name": "v1.3.0",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.3.0",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.3.0",
+            "commit": {
+                "sha": "2dc30e14cfa76985ff8c2821c051f1725fe66afa",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/2dc30e14cfa76985ff8c2821c051f1725fe66afa"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjMuMA=="
+        },
+        {
+            "name": "v1.2.1",
+            "zipball_url": "https://api.github.com/repos/facebookresearch/faiss/zipball/refs/tags/v1.2.1",
+            "tarball_url": "https://api.github.com/repos/facebookresearch/faiss/tarball/refs/tags/v1.2.1",
+            "commit": {
+                "sha": "4d440b6698fcc7b08607534bc622902b52bf9c49",
+                "url": "https://api.github.com/repos/facebookresearch/faiss/commits/4d440b6698fcc7b08607534bc622902b52bf9c49"
+            },
+            "node_id": "MDM6UmVmODEyMjcwMDU6cmVmcy90YWdzL3YxLjIuMQ=="
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "id": 130464961,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMzA0NjQ5NjE=",
+    "name": "bat",
+    "full_name": "sharkdp/bat",
+    "private": false,
+    "owner": {
+        "login": "sharkdp",
+        "id": 4209276,
+        "node_id": "MDQ6VXNlcjQyMDkyNzY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4209276?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sharkdp",
+        "html_url": "https://github.com/sharkdp",
+        "followers_url": "https://api.github.com/users/sharkdp/followers",
+        "following_url": "https://api.github.com/users/sharkdp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sharkdp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sharkdp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sharkdp/subscriptions",
+        "organizations_url": "https://api.github.com/users/sharkdp/orgs",
+        "repos_url": "https://api.github.com/users/sharkdp/repos",
+        "events_url": "https://api.github.com/users/sharkdp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sharkdp/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/sharkdp/bat",
+    "description": "A cat(1) clone with wings.",
+    "fork": false,
+    "url": "https://api.github.com/repos/sharkdp/bat",
+    "forks_url": "https://api.github.com/repos/sharkdp/bat/forks",
+    "keys_url": "https://api.github.com/repos/sharkdp/bat/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/sharkdp/bat/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/sharkdp/bat/teams",
+    "hooks_url": "https://api.github.com/repos/sharkdp/bat/hooks",
+    "issue_events_url": "https://api.github.com/repos/sharkdp/bat/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/sharkdp/bat/events",
+    "assignees_url": "https://api.github.com/repos/sharkdp/bat/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/sharkdp/bat/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/sharkdp/bat/tags",
+    "blobs_url": "https://api.github.com/repos/sharkdp/bat/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/sharkdp/bat/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/sharkdp/bat/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/sharkdp/bat/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/sharkdp/bat/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/sharkdp/bat/languages",
+    "stargazers_url": "https://api.github.com/repos/sharkdp/bat/stargazers",
+    "contributors_url": "https://api.github.com/repos/sharkdp/bat/contributors",
+    "subscribers_url": "https://api.github.com/repos/sharkdp/bat/subscribers",
+    "subscription_url": "https://api.github.com/repos/sharkdp/bat/subscription",
+    "commits_url": "https://api.github.com/repos/sharkdp/bat/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/sharkdp/bat/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/sharkdp/bat/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/sharkdp/bat/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/sharkdp/bat/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/sharkdp/bat/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/sharkdp/bat/merges",
+    "archive_url": "https://api.github.com/repos/sharkdp/bat/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/sharkdp/bat/downloads",
+    "issues_url": "https://api.github.com/repos/sharkdp/bat/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/sharkdp/bat/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/sharkdp/bat/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/sharkdp/bat/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/sharkdp/bat/labels{/name}",
+    "releases_url": "https://api.github.com/repos/sharkdp/bat/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/sharkdp/bat/deployments",
+    "created_at": "2018-04-21T10:52:23Z",
+    "updated_at": "2025-01-25T17:19:46Z",
+    "pushed_at": "2025-01-24T21:21:29Z",
+    "git_url": "git://github.com/sharkdp/bat.git",
+    "ssh_url": "git@github.com:sharkdp/bat.git",
+    "clone_url": "https://github.com/sharkdp/bat.git",
+    "svn_url": "https://github.com/sharkdp/bat",
+    "homepage": "",
+    "size": 32741,
+    "stargazers_count": 50795,
+    "watchers_count": 50795,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1275,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 336,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cli",
+        "command-line",
+        "git",
+        "hacktoberfest",
+        "rust",
+        "syntax-highlighting",
+        "terminal",
+        "tool"
+    ],
+    "visibility": "public",
+    "forks": 1275,
+    "open_issues": 336,
+    "watchers": 50795,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.25.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.25.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.25.0",
+            "commit": {
+                "sha": "25f4f96ea3afb6fe44552f3b38ed8b1540ffa1b3",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/25f4f96ea3afb6fe44552f3b38ed8b1540ffa1b3"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yNS4w"
+        },
+        {
+            "name": "v0.24.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.24.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.24.0",
+            "commit": {
+                "sha": "fc9546854f5a7b38823f4990453c6cde386bfd3b",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/fc9546854f5a7b38823f4990453c6cde386bfd3b"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yNC4w"
+        },
+        {
+            "name": "v0.23.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.23.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.23.0",
+            "commit": {
+                "sha": "871abd27aa91264e01539da849add0330b24cb9c",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/871abd27aa91264e01539da849add0330b24cb9c"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yMy4w"
+        },
+        {
+            "name": "v0.22.1",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.22.1",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.22.1",
+            "commit": {
+                "sha": "e5d95796141a719e208208182a5d3c2090a009c6",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/e5d95796141a719e208208182a5d3c2090a009c6"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yMi4x"
+        },
+        {
+            "name": "v0.22.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.22.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.22.0",
+            "commit": {
+                "sha": "1f9519d8b9bd3efac979766eefa0c6fae594b984",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/1f9519d8b9bd3efac979766eefa0c6fae594b984"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yMi4w"
+        },
+        {
+            "name": "v0.21.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.21.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.21.0",
+            "commit": {
+                "sha": "405e5f74602d8f680168ef52350150921c696d54",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/405e5f74602d8f680168ef52350150921c696d54"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yMS4w"
+        },
+        {
+            "name": "v0.20.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.20.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.20.0",
+            "commit": {
+                "sha": "0655ecf23d778f1455e2d79f37a805a7bcca98d2",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/0655ecf23d778f1455e2d79f37a805a7bcca98d2"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4yMC4w"
+        },
+        {
+            "name": "v0.19.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.19.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.19.0",
+            "commit": {
+                "sha": "59a8f58be780ba9ba04eb4791b6bf5ca14e99e99",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/59a8f58be780ba9ba04eb4791b6bf5ca14e99e99"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xOS4w"
+        },
+        {
+            "name": "v0.18.3",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.18.3",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.18.3",
+            "commit": {
+                "sha": "b146958ecbb8c8c926159509ca7fb32a8573f897",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/b146958ecbb8c8c926159509ca7fb32a8573f897"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xOC4z"
+        },
+        {
+            "name": "v0.18.2",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.18.2",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.18.2",
+            "commit": {
+                "sha": "589df6792fe406f91b00db5e24d35393c6527e6b",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/589df6792fe406f91b00db5e24d35393c6527e6b"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xOC4y"
+        },
+        {
+            "name": "v0.18.1",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.18.1",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.18.1",
+            "commit": {
+                "sha": "3aea51455b8acf553f4481996f93d7e219130c2b",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/3aea51455b8acf553f4481996f93d7e219130c2b"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xOC4x"
+        },
+        {
+            "name": "v0.18.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.18.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.18.0",
+            "commit": {
+                "sha": "b8a18d3ebb5b29162c346b74174239ea077f0796",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/b8a18d3ebb5b29162c346b74174239ea077f0796"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xOC4w"
+        },
+        {
+            "name": "v0.17.1",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.17.1",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.17.1",
+            "commit": {
+                "sha": "6d981498d80aa0127df9547ec0ac69d8314b29e5",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/6d981498d80aa0127df9547ec0ac69d8314b29e5"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNy4x"
+        },
+        {
+            "name": "v0.17.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.17.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.17.0",
+            "commit": {
+                "sha": "591eba66a3af1c211a09eefd17cbeb819b0a131f",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/591eba66a3af1c211a09eefd17cbeb819b0a131f"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNy4w"
+        },
+        {
+            "name": "v0.16.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.16.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.16.0",
+            "commit": {
+                "sha": "6258dda0f851256c2e1d65cf87e997023a4f997b",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/6258dda0f851256c2e1d65cf87e997023a4f997b"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNi4w"
+        },
+        {
+            "name": "v0.15.4",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.15.4",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.15.4",
+            "commit": {
+                "sha": "9e65ecd03e60336bd54dea12fbc4354c4fb8d8b0",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/9e65ecd03e60336bd54dea12fbc4354c4fb8d8b0"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNS40"
+        },
+        {
+            "name": "v0.15.3",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.15.3",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.15.3",
+            "commit": {
+                "sha": "302707f3ce75b8846ee84175bfb5a86dac9d0304",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/302707f3ce75b8846ee84175bfb5a86dac9d0304"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNS4z"
+        },
+        {
+            "name": "v0.15.2",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.15.2",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.15.2",
+            "commit": {
+                "sha": "28af18ba27c2888bd87998e703228ab2c2debbed",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/28af18ba27c2888bd87998e703228ab2c2debbed"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNS4y"
+        },
+        {
+            "name": "v0.15.1",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.15.1",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.15.1",
+            "commit": {
+                "sha": "2596bfe7a75f6867d803c1e9af0fa3467873a0e3",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/2596bfe7a75f6867d803c1e9af0fa3467873a0e3"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNS4x"
+        },
+        {
+            "name": "v0.15.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.15.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.15.0",
+            "commit": {
+                "sha": "696d1b3ed3eae9ea9bd94fa7c4c05306dfd621b6",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/696d1b3ed3eae9ea9bd94fa7c4c05306dfd621b6"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNS4w"
+        },
+        {
+            "name": "v0.14.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.14.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.14.0",
+            "commit": {
+                "sha": "59ca933aeed2a9cc2f11397cc2a63866f343a769",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/59ca933aeed2a9cc2f11397cc2a63866f343a769"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xNC4w"
+        },
+        {
+            "name": "v0.13.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.13.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.13.0",
+            "commit": {
+                "sha": "5edd8260e8fef887bd4c7e39c411dfe843d03894",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/5edd8260e8fef887bd4c7e39c411dfe843d03894"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xMy4w"
+        },
+        {
+            "name": "v0.12.1",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.12.1",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.12.1",
+            "commit": {
+                "sha": "608cefb05c2860f00397aa68f473fcd494ed21af",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/608cefb05c2860f00397aa68f473fcd494ed21af"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xMi4x"
+        },
+        {
+            "name": "v0.12.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.12.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.12.0",
+            "commit": {
+                "sha": "79f016e15cda054dffec009a4fc0900412bc1e48",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/79f016e15cda054dffec009a4fc0900412bc1e48"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xMi4w"
+        },
+        {
+            "name": "v0.11.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.11.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.11.0",
+            "commit": {
+                "sha": "416a0fd439bea69b9fcc3519e22e88f2349588af",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/416a0fd439bea69b9fcc3519e22e88f2349588af"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xMS4w"
+        },
+        {
+            "name": "v0.10.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.10.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.10.0",
+            "commit": {
+                "sha": "e09499b3df6369e1a1f6e42f95ad4009fa76c00e",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/e09499b3df6369e1a1f6e42f95ad4009fa76c00e"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC4xMC4w"
+        },
+        {
+            "name": "v0.9.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.9.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.9.0",
+            "commit": {
+                "sha": "c073d4a11866a8d51ec19963803bb7ff5441d0e0",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/c073d4a11866a8d51ec19963803bb7ff5441d0e0"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC45LjA="
+        },
+        {
+            "name": "v0.8.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.8.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.8.0",
+            "commit": {
+                "sha": "30b742e9845314bcac67f37664cfb3df61c1ba3f",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/30b742e9845314bcac67f37664cfb3df61c1ba3f"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC44LjA="
+        },
+        {
+            "name": "v0.7.1",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.7.1",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.7.1",
+            "commit": {
+                "sha": "238482e5f3990c1f5ef22a7875066822f10857f8",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/238482e5f3990c1f5ef22a7875066822f10857f8"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC43LjE="
+        },
+        {
+            "name": "v0.7.0",
+            "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/refs/tags/v0.7.0",
+            "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/refs/tags/v0.7.0",
+            "commit": {
+                "sha": "732750c2749ebeb2b0bea89028a171c792a2aadf",
+                "url": "https://api.github.com/repos/sharkdp/bat/commits/732750c2749ebeb2b0bea89028a171c792a2aadf"
+            },
+            "node_id": "MDM6UmVmMTMwNDY0OTYxOnJlZnMvdGFncy92MC43LjA="
+        }
+    ]
+}

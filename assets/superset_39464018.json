@@ -1,0 +1,436 @@
+{
+    "id": 39464018,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzOTQ2NDAxOA==",
+    "name": "superset",
+    "full_name": "apache/superset",
+    "private": false,
+    "owner": {
+        "login": "apache",
+        "id": 47359,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3MzU5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/apache",
+        "html_url": "https://github.com/apache",
+        "followers_url": "https://api.github.com/users/apache/followers",
+        "following_url": "https://api.github.com/users/apache/following{/other_user}",
+        "gists_url": "https://api.github.com/users/apache/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/apache/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/apache/subscriptions",
+        "organizations_url": "https://api.github.com/users/apache/orgs",
+        "repos_url": "https://api.github.com/users/apache/repos",
+        "events_url": "https://api.github.com/users/apache/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/apache/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "fork": false,
+    "url": "https://api.github.com/repos/apache/superset",
+    "forks_url": "https://api.github.com/repos/apache/superset/forks",
+    "keys_url": "https://api.github.com/repos/apache/superset/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/apache/superset/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/apache/superset/teams",
+    "hooks_url": "https://api.github.com/repos/apache/superset/hooks",
+    "issue_events_url": "https://api.github.com/repos/apache/superset/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/apache/superset/events",
+    "assignees_url": "https://api.github.com/repos/apache/superset/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/apache/superset/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/apache/superset/tags",
+    "blobs_url": "https://api.github.com/repos/apache/superset/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/apache/superset/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/apache/superset/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/apache/superset/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/apache/superset/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/apache/superset/languages",
+    "stargazers_url": "https://api.github.com/repos/apache/superset/stargazers",
+    "contributors_url": "https://api.github.com/repos/apache/superset/contributors",
+    "subscribers_url": "https://api.github.com/repos/apache/superset/subscribers",
+    "subscription_url": "https://api.github.com/repos/apache/superset/subscription",
+    "commits_url": "https://api.github.com/repos/apache/superset/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/apache/superset/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/apache/superset/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/apache/superset/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/apache/superset/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/apache/superset/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/apache/superset/merges",
+    "archive_url": "https://api.github.com/repos/apache/superset/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/apache/superset/downloads",
+    "issues_url": "https://api.github.com/repos/apache/superset/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/apache/superset/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/apache/superset/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/apache/superset/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/apache/superset/labels{/name}",
+    "releases_url": "https://api.github.com/repos/apache/superset/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/apache/superset/deployments",
+    "created_at": "2015-07-21T18:55:34Z",
+    "updated_at": "2025-01-25T17:19:39Z",
+    "pushed_at": "2025-01-24T23:09:12Z",
+    "git_url": "git://github.com/apache/superset.git",
+    "ssh_url": "git@github.com:apache/superset.git",
+    "clone_url": "https://github.com/apache/superset.git",
+    "svn_url": "https://github.com/apache/superset",
+    "homepage": "https://superset.apache.org/",
+    "size": 696902,
+    "stargazers_count": 63954,
+    "watchers_count": 63954,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 14312,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1046,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "analytics",
+        "apache",
+        "apache-superset",
+        "asf",
+        "bi",
+        "business-analytics",
+        "business-intelligence",
+        "data-analysis",
+        "data-analytics",
+        "data-engineering",
+        "data-science",
+        "data-visualization",
+        "data-viz",
+        "flask",
+        "python",
+        "react",
+        "sql-editor",
+        "superset"
+    ],
+    "visibility": "public",
+    "forks": 14312,
+    "open_issues": 1046,
+    "watchers": 63954,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2021.41.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.41.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.41.0",
+            "commit": {
+                "sha": "90cfa7fb222119a67895eec41dd621471a42a3be",
+                "url": "https://api.github.com/repos/apache/superset/commits/90cfa7fb222119a67895eec41dd621471a42a3be"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjQxLjA="
+        },
+        {
+            "name": "v2021.40.1",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.40.1",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.40.1",
+            "commit": {
+                "sha": "c35513e4ee142bd17c2b5acc3a5fe2c684482e4b",
+                "url": "https://api.github.com/repos/apache/superset/commits/c35513e4ee142bd17c2b5acc3a5fe2c684482e4b"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjQwLjE="
+        },
+        {
+            "name": "v2021.40.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.40.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.40.0",
+            "commit": {
+                "sha": "739d8418a72ffce5f6e07fc649afe54d1b4fc658",
+                "url": "https://api.github.com/repos/apache/superset/commits/739d8418a72ffce5f6e07fc649afe54d1b4fc658"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjQwLjA="
+        },
+        {
+            "name": "v2021.38.2",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.38.2",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.38.2",
+            "commit": {
+                "sha": "c4e0007bf6d79c979c0acceb7d325dd82ab8e112",
+                "url": "https://api.github.com/repos/apache/superset/commits/c4e0007bf6d79c979c0acceb7d325dd82ab8e112"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM4LjI="
+        },
+        {
+            "name": "v2021.38.1",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.38.1",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.38.1",
+            "commit": {
+                "sha": "d96b7ad0c348917b03b0aadd737c75fc17b25029",
+                "url": "https://api.github.com/repos/apache/superset/commits/d96b7ad0c348917b03b0aadd737c75fc17b25029"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM4LjE="
+        },
+        {
+            "name": "v2021.38.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.38.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.38.0",
+            "commit": {
+                "sha": "b92358b5b844e552ca79e02c5d30ac186136879e",
+                "url": "https://api.github.com/repos/apache/superset/commits/b92358b5b844e552ca79e02c5d30ac186136879e"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM4LjA="
+        },
+        {
+            "name": "v2021.36.5",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.36.5",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.36.5",
+            "commit": {
+                "sha": "63aadd3fe492c39d8949fe2510bd521669e6869d",
+                "url": "https://api.github.com/repos/apache/superset/commits/63aadd3fe492c39d8949fe2510bd521669e6869d"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM2LjU="
+        },
+        {
+            "name": "v2021.36.4",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.36.4",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.36.4",
+            "commit": {
+                "sha": "c9545a41e6b28425b6fc5ad24516a7c1e470b332",
+                "url": "https://api.github.com/repos/apache/superset/commits/c9545a41e6b28425b6fc5ad24516a7c1e470b332"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM2LjQ="
+        },
+        {
+            "name": "v2021.36.3",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.36.3",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.36.3",
+            "commit": {
+                "sha": "3014da13f167075032be099ac5d61802b3f96041",
+                "url": "https://api.github.com/repos/apache/superset/commits/3014da13f167075032be099ac5d61802b3f96041"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM2LjM="
+        },
+        {
+            "name": "v2021.36.2",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.36.2",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.36.2",
+            "commit": {
+                "sha": "5cf4d5bb4b0650713b70fe73f41bd02609529611",
+                "url": "https://api.github.com/repos/apache/superset/commits/5cf4d5bb4b0650713b70fe73f41bd02609529611"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM2LjI="
+        },
+        {
+            "name": "v2021.36.1",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.36.1",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.36.1",
+            "commit": {
+                "sha": "7d35a91642611f1ca62e68edaa1236e478741f15",
+                "url": "https://api.github.com/repos/apache/superset/commits/7d35a91642611f1ca62e68edaa1236e478741f15"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM2LjE="
+        },
+        {
+            "name": "v2021.36.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.36.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.36.0",
+            "commit": {
+                "sha": "37c2020035b2c4a3121a0afbc2e2312a3d348ac0",
+                "url": "https://api.github.com/repos/apache/superset/commits/37c2020035b2c4a3121a0afbc2e2312a3d348ac0"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM2LjA="
+        },
+        {
+            "name": "v2021.35.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.35.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.35.0",
+            "commit": {
+                "sha": "78d8089b1895ed60a38e767d5f63ef24ad27294f",
+                "url": "https://api.github.com/repos/apache/superset/commits/78d8089b1895ed60a38e767d5f63ef24ad27294f"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM1LjA="
+        },
+        {
+            "name": "v2021.34.5",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.34.5",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.34.5",
+            "commit": {
+                "sha": "6cc5b5b61613492a16e83ef80ad584ceecbe7621",
+                "url": "https://api.github.com/repos/apache/superset/commits/6cc5b5b61613492a16e83ef80ad584ceecbe7621"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM0LjU="
+        },
+        {
+            "name": "v2021.34.4",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.34.4",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.34.4",
+            "commit": {
+                "sha": "5aa13ce650a40af5e94d7267651a68c385600b26",
+                "url": "https://api.github.com/repos/apache/superset/commits/5aa13ce650a40af5e94d7267651a68c385600b26"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM0LjQ="
+        },
+        {
+            "name": "v2021.34.3",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.34.3",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.34.3",
+            "commit": {
+                "sha": "e7aac3ff21921c8d786a3bd535ab3f7a93d061eb",
+                "url": "https://api.github.com/repos/apache/superset/commits/e7aac3ff21921c8d786a3bd535ab3f7a93d061eb"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM0LjM="
+        },
+        {
+            "name": "v2021.34.2",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.34.2",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.34.2",
+            "commit": {
+                "sha": "961b9da4f4fd019af8c64add6a857093152cfef2",
+                "url": "https://api.github.com/repos/apache/superset/commits/961b9da4f4fd019af8c64add6a857093152cfef2"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM0LjI="
+        },
+        {
+            "name": "v2021.34.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.34.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.34.0",
+            "commit": {
+                "sha": "78d8089b1895ed60a38e767d5f63ef24ad27294f",
+                "url": "https://api.github.com/repos/apache/superset/commits/78d8089b1895ed60a38e767d5f63ef24ad27294f"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjM0LjA="
+        },
+        {
+            "name": "v2021.31.14",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.14",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.14",
+            "commit": {
+                "sha": "c4315a28d38ee8507f823c04d19b39a4a08e38fc",
+                "url": "https://api.github.com/repos/apache/superset/commits/c4315a28d38ee8507f823c04d19b39a4a08e38fc"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjE0"
+        },
+        {
+            "name": "v2021.31.13",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.13",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.13",
+            "commit": {
+                "sha": "a300d51d9bf4446fe9a5cd6c7919b976502a2f15",
+                "url": "https://api.github.com/repos/apache/superset/commits/a300d51d9bf4446fe9a5cd6c7919b976502a2f15"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjEz"
+        },
+        {
+            "name": "v2021.31.12",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.12",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.12",
+            "commit": {
+                "sha": "880a3e27a2fb8485ef514ee28e2adc248f321743",
+                "url": "https://api.github.com/repos/apache/superset/commits/880a3e27a2fb8485ef514ee28e2adc248f321743"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjEy"
+        },
+        {
+            "name": "v2021.31.11",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.11",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.11",
+            "commit": {
+                "sha": "bbbc1be8054f2d2030ee72c957f418b73a7c6852",
+                "url": "https://api.github.com/repos/apache/superset/commits/bbbc1be8054f2d2030ee72c957f418b73a7c6852"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjEx"
+        },
+        {
+            "name": "v2021.31.10",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.10",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.10",
+            "commit": {
+                "sha": "8abf9c24d00483a86c81947725bcca245590fb8e",
+                "url": "https://api.github.com/repos/apache/superset/commits/8abf9c24d00483a86c81947725bcca245590fb8e"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjEw"
+        },
+        {
+            "name": "v2021.31.2",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.2",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.2",
+            "commit": {
+                "sha": "de615eb79e12fb436ce22a73aa6235b6bf9683ff",
+                "url": "https://api.github.com/repos/apache/superset/commits/de615eb79e12fb436ce22a73aa6235b6bf9683ff"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjI="
+        },
+        {
+            "name": "v2021.31.1",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.1",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.1",
+            "commit": {
+                "sha": "18f551580e01cb70b2c902c060d10b346d63d8d1",
+                "url": "https://api.github.com/repos/apache/superset/commits/18f551580e01cb70b2c902c060d10b346d63d8d1"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjE="
+        },
+        {
+            "name": "v2021.31.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.31.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.31.0",
+            "commit": {
+                "sha": "c8a8347b43e68a43ec1ee168b730ea7751b7adb3",
+                "url": "https://api.github.com/repos/apache/superset/commits/c8a8347b43e68a43ec1ee168b730ea7751b7adb3"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjMxLjA="
+        },
+        {
+            "name": "v2021.29.0",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.29.0",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.29.0",
+            "commit": {
+                "sha": "ab4e3b9bf962f4eb5526e7ff65efee40e647e5d8",
+                "url": "https://api.github.com/repos/apache/superset/commits/ab4e3b9bf962f4eb5526e7ff65efee40e647e5d8"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjI5LjA="
+        },
+        {
+            "name": "v2021.27.9",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.27.9",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.27.9",
+            "commit": {
+                "sha": "f7727d4b50b5e3782d56bc906f293585622aa1ca",
+                "url": "https://api.github.com/repos/apache/superset/commits/f7727d4b50b5e3782d56bc906f293585622aa1ca"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjI3Ljk="
+        },
+        {
+            "name": "v2021.27.8",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.27.8",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.27.8",
+            "commit": {
+                "sha": "a87c5b89d621c1f2c1995ce6b26c694d902e09a0",
+                "url": "https://api.github.com/repos/apache/superset/commits/a87c5b89d621c1f2c1995ce6b26c694d902e09a0"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjI3Ljg="
+        },
+        {
+            "name": "v2021.27.7",
+            "zipball_url": "https://api.github.com/repos/apache/superset/zipball/refs/tags/v2021.27.7",
+            "tarball_url": "https://api.github.com/repos/apache/superset/tarball/refs/tags/v2021.27.7",
+            "commit": {
+                "sha": "a87c5b89d621c1f2c1995ce6b26c694d902e09a0",
+                "url": "https://api.github.com/repos/apache/superset/commits/a87c5b89d621c1f2c1995ce6b26c694d902e09a0"
+            },
+            "node_id": "MDM6UmVmMzk0NjQwMTg6cmVmcy90YWdzL3YyMDIxLjI3Ljc="
+        }
+    ]
+}

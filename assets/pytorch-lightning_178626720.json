@@ -1,0 +1,425 @@
+{
+    "id": 178626720,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNzg2MjY3MjA=",
+    "name": "pytorch-lightning",
+    "full_name": "Lightning-AI/pytorch-lightning",
+    "private": false,
+    "owner": {
+        "login": "Lightning-AI",
+        "id": 58386951,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4Mzg2OTUx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58386951?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Lightning-AI",
+        "html_url": "https://github.com/Lightning-AI",
+        "followers_url": "https://api.github.com/users/Lightning-AI/followers",
+        "following_url": "https://api.github.com/users/Lightning-AI/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Lightning-AI/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Lightning-AI/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Lightning-AI/subscriptions",
+        "organizations_url": "https://api.github.com/users/Lightning-AI/orgs",
+        "repos_url": "https://api.github.com/users/Lightning-AI/repos",
+        "events_url": "https://api.github.com/users/Lightning-AI/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Lightning-AI/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "description": "Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.",
+    "fork": false,
+    "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning",
+    "forks_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/forks",
+    "keys_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/teams",
+    "hooks_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/hooks",
+    "issue_events_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/events",
+    "assignees_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tags",
+    "blobs_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/languages",
+    "stargazers_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/stargazers",
+    "contributors_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/contributors",
+    "subscribers_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/subscribers",
+    "subscription_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/subscription",
+    "commits_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/merges",
+    "archive_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/downloads",
+    "issues_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/labels{/name}",
+    "releases_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/deployments",
+    "created_at": "2019-03-31T00:45:57Z",
+    "updated_at": "2025-01-25T09:13:41Z",
+    "pushed_at": "2025-01-22T09:37:13Z",
+    "git_url": "git://github.com/Lightning-AI/pytorch-lightning.git",
+    "ssh_url": "git@github.com:Lightning-AI/pytorch-lightning.git",
+    "clone_url": "https://github.com/Lightning-AI/pytorch-lightning.git",
+    "svn_url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "homepage": "https://lightning.ai",
+    "size": 132824,
+    "stargazers_count": 28845,
+    "watchers_count": 28845,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 3420,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 916,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "ai",
+        "artificial-intelligence",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "python",
+        "pytorch"
+    ],
+    "visibility": "public",
+    "forks": 3420,
+    "open_issues": 916,
+    "watchers": 28845,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "app/0.6.3",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.6.3",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.6.3",
+            "commit": {
+                "sha": "9417739abafa3110e62ee831b3ffd442adad2090",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/9417739abafa3110e62ee831b3ffd442adad2090"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC42LjM="
+        },
+        {
+            "name": "app/0.6.2",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.6.2",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.6.2",
+            "commit": {
+                "sha": "c1c233c06e571a2fe46a6bde022d498ed0a8feb7",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/c1c233c06e571a2fe46a6bde022d498ed0a8feb7"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC42LjI="
+        },
+        {
+            "name": "app/0.6.1",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.6.1",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.6.1",
+            "commit": {
+                "sha": "96837d3592b328f1a6ebf0ab17ce6349c0de6956",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/96837d3592b328f1a6ebf0ab17ce6349c0de6956"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC42LjE="
+        },
+        {
+            "name": "app/0.6.0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.6.0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.6.0",
+            "commit": {
+                "sha": "92512698bc4848dc22a7e6844885f405ef9aac4a",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/92512698bc4848dc22a7e6844885f405ef9aac4a"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC42LjA="
+        },
+        {
+            "name": "app/0.6.0rc0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.6.0rc0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.6.0rc0",
+            "commit": {
+                "sha": "d8ba94b325967fc52231365fe92db76a1d63dc2b",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/d8ba94b325967fc52231365fe92db76a1d63dc2b"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC42LjByYzA="
+        },
+        {
+            "name": "app/0.5.7",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.5.7",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.5.7",
+            "commit": {
+                "sha": "bf7bae333a3873504846c3c62d8087b9d680bbc2",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/bf7bae333a3873504846c3c62d8087b9d680bbc2"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC41Ljc="
+        },
+        {
+            "name": "app/0.5.6",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.5.6",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.5.6",
+            "commit": {
+                "sha": "c20da214293cb6c3323aa555866000de515d5c2f",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/c20da214293cb6c3323aa555866000de515d5c2f"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC41LjY="
+        },
+        {
+            "name": "app/0.5.5",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.5.5",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.5.5",
+            "commit": {
+                "sha": "eb83aa3353ce54be8c775db845b33a7b34aa5601",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/eb83aa3353ce54be8c775db845b33a7b34aa5601"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC41LjU="
+        },
+        {
+            "name": "app/0.5.4",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.5.4",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.5.4",
+            "commit": {
+                "sha": "99fce3bf6830e304ec5f76b0f06b84279391ed1f",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/99fce3bf6830e304ec5f76b0f06b84279391ed1f"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC41LjQ="
+        },
+        {
+            "name": "app/0.5.3",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.5.3",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.5.3",
+            "commit": {
+                "sha": "7cdfc8d93e88f8b45d1e71d5f0f77fb85a82635f",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/7cdfc8d93e88f8b45d1e71d5f0f77fb85a82635f"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC41LjM="
+        },
+        {
+            "name": "app/0.5.2",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/app/0.5.2",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/app/0.5.2",
+            "commit": {
+                "sha": "92a7f0779847c7643309e9151a5d1f0ffab34d57",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/92a7f0779847c7643309e9151a5d1f0ffab34d57"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9hcHAvMC41LjI="
+        },
+        {
+            "name": "App/0.7.0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/App/0.7.0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/App/0.7.0",
+            "commit": {
+                "sha": "65d29f0b19dae3a897eb416f2a94cc40a548d2f1",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/65d29f0b19dae3a897eb416f2a94cc40a548d2f1"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy9BcHAvMC43LjA="
+        },
+        {
+            "name": "2.5.0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.5.0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.5.0",
+            "commit": {
+                "sha": "c45c3c92c059661c20443a0a19399f7442db7f90",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/c45c3c92c059661c20443a0a19399f7442db7f90"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjUuMA=="
+        },
+        {
+            "name": "2.5.0rc0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.5.0rc0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.5.0rc0",
+            "commit": {
+                "sha": "110d62185161cd0b11d8619336ddd139e5ee09dd",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/110d62185161cd0b11d8619336ddd139e5ee09dd"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjUuMHJjMA=="
+        },
+        {
+            "name": "2.5.0.post0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.5.0.post0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.5.0.post0",
+            "commit": {
+                "sha": "9177ec09caadcf88859e1f1e3e10a18e8832069a",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/9177ec09caadcf88859e1f1e3e10a18e8832069a"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjUuMC5wb3N0MA=="
+        },
+        {
+            "name": "2.4.0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.4.0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.4.0",
+            "commit": {
+                "sha": "2129fdf3622e39ba46be4e1139af408e7e951cf3",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/2129fdf3622e39ba46be4e1139af408e7e951cf3"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjQuMA=="
+        },
+        {
+            "name": "2.3.3",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.3.3",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.3.3",
+            "commit": {
+                "sha": "cf348673eda662cc2e9aa71a72a19b8774f85718",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/cf348673eda662cc2e9aa71a72a19b8774f85718"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjMuMw=="
+        },
+        {
+            "name": "2.3.2",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.3.2",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.3.2",
+            "commit": {
+                "sha": "056bb0834b8fca739dec3e731b01f2f6631be142",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/056bb0834b8fca739dec3e731b01f2f6631be142"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjMuMg=="
+        },
+        {
+            "name": "2.3.1",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.3.1",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.3.1",
+            "commit": {
+                "sha": "8b69285ec595310cc82a57eb23a12070ffc3b100",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/8b69285ec595310cc82a57eb23a12070ffc3b100"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjMuMQ=="
+        },
+        {
+            "name": "2.3.0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.3.0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.3.0",
+            "commit": {
+                "sha": "a42484cf8eaa02e45921205bb5dfbae1a0d14cb9",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/a42484cf8eaa02e45921205bb5dfbae1a0d14cb9"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjMuMA=="
+        },
+        {
+            "name": "2.2.5",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.5",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.5",
+            "commit": {
+                "sha": "ac3f1ee0d32b11feebb5a051d64ed8eea99484ec",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/ac3f1ee0d32b11feebb5a051d64ed8eea99484ec"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuNQ=="
+        },
+        {
+            "name": "2.2.4",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.4",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.4",
+            "commit": {
+                "sha": "2a46b0ccdd813d14fe7b98b631ae948450a67375",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/2a46b0ccdd813d14fe7b98b631ae948450a67375"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuNA=="
+        },
+        {
+            "name": "2.2.3",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.3",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.3",
+            "commit": {
+                "sha": "f4cd9dfd42f9075c6432f5109779507767eaf31b",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/f4cd9dfd42f9075c6432f5109779507767eaf31b"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuMw=="
+        },
+        {
+            "name": "2.2.2",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.2",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.2",
+            "commit": {
+                "sha": "62e1c6def49e79d0461ca91c74d3d094f7137f73",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/62e1c6def49e79d0461ca91c74d3d094f7137f73"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuMg=="
+        },
+        {
+            "name": "2.2.1",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.1",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.1",
+            "commit": {
+                "sha": "093fac191dd8cc815df7123932fc4493917cd9bd",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/093fac191dd8cc815df7123932fc4493917cd9bd"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuMQ=="
+        },
+        {
+            "name": "2.2.0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.0",
+            "commit": {
+                "sha": "bc56630c680c7f1e3677b127acf73e62aafe7ae1",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/bc56630c680c7f1e3677b127acf73e62aafe7ae1"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuMA=="
+        },
+        {
+            "name": "2.2.0.rc0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.0.rc0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.0.rc0",
+            "commit": {
+                "sha": "6296a4fe0db35e7a446b282816f0edc95adbae71",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/6296a4fe0db35e7a446b282816f0edc95adbae71"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuMC5yYzA="
+        },
+        {
+            "name": "2.2.0.post0",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.2.0.post0",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.2.0.post0",
+            "commit": {
+                "sha": "e1e87708a6c2fd2af9afaf526acfa521a12ed54a",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/e1e87708a6c2fd2af9afaf526acfa521a12ed54a"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjIuMC5wb3N0MA=="
+        },
+        {
+            "name": "2.1.4",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.1.4",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.1.4",
+            "commit": {
+                "sha": "862314360457fed35672ec9d0c6f5f1998a61eae",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/862314360457fed35672ec9d0c6f5f1998a61eae"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjEuNA=="
+        },
+        {
+            "name": "2.1.3",
+            "zipball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/zipball/refs/tags/2.1.3",
+            "tarball_url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/tarball/refs/tags/2.1.3",
+            "commit": {
+                "sha": "02020b56e6ca1e2a8dd8ef7b372b9de55ecbff7a",
+                "url": "https://api.github.com/repos/Lightning-AI/pytorch-lightning/commits/02020b56e6ca1e2a8dd8ef7b372b9de55ecbff7a"
+            },
+            "node_id": "MDM6UmVmMTc4NjI2NzIwOnJlZnMvdGFncy8yLjEuMw=="
+        }
+    ]
+}

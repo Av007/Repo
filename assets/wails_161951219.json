@@ -1,0 +1,429 @@
+{
+    "id": 161951219,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjE5NTEyMTk=",
+    "name": "wails",
+    "full_name": "wailsapp/wails",
+    "private": false,
+    "owner": {
+        "login": "wailsapp",
+        "id": 39746503,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5NzQ2NTAz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39746503?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/wailsapp",
+        "html_url": "https://github.com/wailsapp",
+        "followers_url": "https://api.github.com/users/wailsapp/followers",
+        "following_url": "https://api.github.com/users/wailsapp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/wailsapp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/wailsapp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/wailsapp/subscriptions",
+        "organizations_url": "https://api.github.com/users/wailsapp/orgs",
+        "repos_url": "https://api.github.com/users/wailsapp/repos",
+        "events_url": "https://api.github.com/users/wailsapp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/wailsapp/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/wailsapp/wails",
+    "description": "Create beautiful applications using Go",
+    "fork": false,
+    "url": "https://api.github.com/repos/wailsapp/wails",
+    "forks_url": "https://api.github.com/repos/wailsapp/wails/forks",
+    "keys_url": "https://api.github.com/repos/wailsapp/wails/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/wailsapp/wails/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/wailsapp/wails/teams",
+    "hooks_url": "https://api.github.com/repos/wailsapp/wails/hooks",
+    "issue_events_url": "https://api.github.com/repos/wailsapp/wails/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/wailsapp/wails/events",
+    "assignees_url": "https://api.github.com/repos/wailsapp/wails/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/wailsapp/wails/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/wailsapp/wails/tags",
+    "blobs_url": "https://api.github.com/repos/wailsapp/wails/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/wailsapp/wails/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/wailsapp/wails/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/wailsapp/wails/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/wailsapp/wails/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/wailsapp/wails/languages",
+    "stargazers_url": "https://api.github.com/repos/wailsapp/wails/stargazers",
+    "contributors_url": "https://api.github.com/repos/wailsapp/wails/contributors",
+    "subscribers_url": "https://api.github.com/repos/wailsapp/wails/subscribers",
+    "subscription_url": "https://api.github.com/repos/wailsapp/wails/subscription",
+    "commits_url": "https://api.github.com/repos/wailsapp/wails/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/wailsapp/wails/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/wailsapp/wails/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/wailsapp/wails/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/wailsapp/wails/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/wailsapp/wails/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/wailsapp/wails/merges",
+    "archive_url": "https://api.github.com/repos/wailsapp/wails/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/wailsapp/wails/downloads",
+    "issues_url": "https://api.github.com/repos/wailsapp/wails/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/wailsapp/wails/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/wailsapp/wails/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/wailsapp/wails/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/wailsapp/wails/labels{/name}",
+    "releases_url": "https://api.github.com/repos/wailsapp/wails/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/wailsapp/wails/deployments",
+    "created_at": "2018-12-15T23:14:06Z",
+    "updated_at": "2025-01-25T17:03:25Z",
+    "pushed_at": "2025-01-24T22:23:19Z",
+    "git_url": "git://github.com/wailsapp/wails.git",
+    "ssh_url": "git@github.com:wailsapp/wails.git",
+    "clone_url": "https://github.com/wailsapp/wails.git",
+    "svn_url": "https://github.com/wailsapp/wails",
+    "homepage": "https://wails.io",
+    "size": 150979,
+    "stargazers_count": 26500,
+    "watchers_count": 26500,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 1275,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 258,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "angular",
+        "desktop-application",
+        "go",
+        "golang",
+        "javascript",
+        "linux",
+        "macos",
+        "react",
+        "svelte",
+        "vuejs",
+        "windows"
+    ],
+    "visibility": "public",
+    "forks": 1275,
+    "open_issues": 258,
+    "watchers": 26500,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.0.0-alpha.9",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.9",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.9",
+            "commit": {
+                "sha": "c186917c34855a286227456386482fc98ca538fe",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/c186917c34855a286227456386482fc98ca538fe"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuOQ=="
+        },
+        {
+            "name": "v3.0.0-alpha.8.3",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.8.3",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.8.3",
+            "commit": {
+                "sha": "e0d788bea95fdacfc6a62117b1a9fd3115fdf67c",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/e0d788bea95fdacfc6a62117b1a9fd3115fdf67c"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuOC4z"
+        },
+        {
+            "name": "v3.0.0-alpha.8.2",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.8.2",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.8.2",
+            "commit": {
+                "sha": "65e7437eedbd787d041f8b59dc68e0362641face",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/65e7437eedbd787d041f8b59dc68e0362641face"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuOC4y"
+        },
+        {
+            "name": "v3.0.0-alpha.8.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.8.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.8.1",
+            "commit": {
+                "sha": "797481410c74c3b1026cbcd5ebc5e367b0ca8aa9",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/797481410c74c3b1026cbcd5ebc5e367b0ca8aa9"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuOC4x"
+        },
+        {
+            "name": "v3.0.0-alpha.8",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.8",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.8",
+            "commit": {
+                "sha": "1707cafbbc81572ca81de7e2713a90600ce3ddd3",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/1707cafbbc81572ca81de7e2713a90600ce3ddd3"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuOA=="
+        },
+        {
+            "name": "v3.0.0-alpha.7",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.7",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.7",
+            "commit": {
+                "sha": "860d02d1fe7c7e11731d9e0c2dc617d0e80cdc39",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/860d02d1fe7c7e11731d9e0c2dc617d0e80cdc39"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuNw=="
+        },
+        {
+            "name": "v3.0.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.6",
+            "commit": {
+                "sha": "5a61e1007f4a6f497f885e32f2df43d3f85c2382",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/5a61e1007f4a6f497f885e32f2df43d3f85c2382"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuNg=="
+        },
+        {
+            "name": "v3.0.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.5",
+            "commit": {
+                "sha": "c88f02c5a52471682be04b588ed3a705b773adbe",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/c88f02c5a52471682be04b588ed3a705b773adbe"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuNQ=="
+        },
+        {
+            "name": "v3.0.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.4",
+            "commit": {
+                "sha": "1ec3b4ecabf6dbd56f0d38b2e568d7a32f2d1b0e",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/1ec3b4ecabf6dbd56f0d38b2e568d7a32f2d1b0e"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuNA=="
+        },
+        {
+            "name": "v3.0.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.3",
+            "commit": {
+                "sha": "85d68cec557c89d38d0a74beb9e6a528cffd5811",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/85d68cec557c89d38d0a74beb9e6a528cffd5811"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuMw=="
+        },
+        {
+            "name": "v3.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.2",
+            "commit": {
+                "sha": "df49f49c6080ea26fdf619d03e13c2e70d020c54",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/df49f49c6080ea26fdf619d03e13c2e70d020c54"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v3.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.1",
+            "commit": {
+                "sha": "ee194f3e46ba163b4861f75c191308f96037ad1b",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/ee194f3e46ba163b4861f75c191308f96037ad1b"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v3.0.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v3.0.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v3.0.0-alpha.0",
+            "commit": {
+                "sha": "5ef32760f05f58daf8f05b15036562d380467b9d",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/5ef32760f05f58daf8f05b15036562d380467b9d"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuMA=="
+        },
+        {
+            "name": "v2.9.2",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.9.2",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.9.2",
+            "commit": {
+                "sha": "f302c8053c97f834d67b3c8b33aac7797d1a4302",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/f302c8053c97f834d67b3c8b33aac7797d1a4302"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi45LjI="
+        },
+        {
+            "name": "v2.9.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.9.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.9.1",
+            "commit": {
+                "sha": "5cd0caccc4e238e276611e7ed7fc91eac4765c46",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/5cd0caccc4e238e276611e7ed7fc91eac4765c46"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi45LjE="
+        },
+        {
+            "name": "v2.9.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.9.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.9.0",
+            "commit": {
+                "sha": "d96d3b001069b0e28be93c20dc6424a3b64d90a1",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/d96d3b001069b0e28be93c20dc6424a3b64d90a1"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi45LjA="
+        },
+        {
+            "name": "v2.8.2",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.8.2",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.8.2",
+            "commit": {
+                "sha": "daa71ce426afdc722cd0c0d1608b6d1019855b76",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/daa71ce426afdc722cd0c0d1608b6d1019855b76"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi44LjI="
+        },
+        {
+            "name": "v2.8.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.8.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.8.1",
+            "commit": {
+                "sha": "2dd964b4696e5806d056d818a5649106b6927611",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/2dd964b4696e5806d056d818a5649106b6927611"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi44LjE="
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "741558532b6cc209c499460066cc32f09c45802a",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/741558532b6cc209c499460066cc32f09c45802a"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi44LjA="
+        },
+        {
+            "name": "v2.7.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.7.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.7.1",
+            "commit": {
+                "sha": "ae99d7a97377653abac0561d142ba05292f60f94",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/ae99d7a97377653abac0561d142ba05292f60f94"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi43LjE="
+        },
+        {
+            "name": "v2.7.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.7.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.7.0",
+            "commit": {
+                "sha": "6a8322cdb5194048c19b3b7f20fcabd32a00f9df",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/6a8322cdb5194048c19b3b7f20fcabd32a00f9df"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi43LjA="
+        },
+        {
+            "name": "v2.6.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.6.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.6.0",
+            "commit": {
+                "sha": "1644ee152ecf0fc79600413642ba624077b8de4d",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/1644ee152ecf0fc79600413642ba624077b8de4d"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi42LjA="
+        },
+        {
+            "name": "v2.5.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.5.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.5.1",
+            "commit": {
+                "sha": "62d97f85ec4b02714d88936c7da603e6a3d7fa47",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/62d97f85ec4b02714d88936c7da603e6a3d7fa47"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi41LjE="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "774cbdec3898597afbb548ea46d9d43933281066",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/774cbdec3898597afbb548ea46d9d43933281066"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi41LjA="
+        },
+        {
+            "name": "v2.4.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.4.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.4.1",
+            "commit": {
+                "sha": "a7278b422417e2e38b1028e6bd386546c0843966",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/a7278b422417e2e38b1028e6bd386546c0843966"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi40LjE="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "ebc14debdff1a9b1ebe00bf2533483331570cb54",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/ebc14debdff1a9b1ebe00bf2533483331570cb54"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi40LjA="
+        },
+        {
+            "name": "v2.3.1",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.3.1",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.3.1",
+            "commit": {
+                "sha": "0aa056fcc5bc43ea3679342e0649d12f0453e055",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/0aa056fcc5bc43ea3679342e0649d12f0453e055"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi4zLjE="
+        },
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "5c0f1e409d4815b28175e18c42f6cdf9cef547ca",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/5c0f1e409d4815b28175e18c42f6cdf9cef547ca"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi4zLjA="
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "d77b920ed52b399edf6841d125aae2393de929bf",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/d77b920ed52b399edf6841d125aae2393de929bf"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi4yLjA="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/wailsapp/wails/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/wailsapp/wails/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "d9e077389c77d0853bf3a272b08694514686309f",
+                "url": "https://api.github.com/repos/wailsapp/wails/commits/d9e077389c77d0853bf3a272b08694514686309f"
+            },
+            "node_id": "MDM6UmVmMTYxOTUxMjE5OnJlZnMvdGFncy92Mi4xLjA="
+        }
+    ]
+}

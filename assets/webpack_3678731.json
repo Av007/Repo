@@ -1,0 +1,434 @@
+{
+    "id": 3678731,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNjc4NzMx",
+    "name": "webpack",
+    "full_name": "webpack/webpack",
+    "private": false,
+    "owner": {
+        "login": "webpack",
+        "id": 2105791,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxMDU3OTE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2105791?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/webpack",
+        "html_url": "https://github.com/webpack",
+        "followers_url": "https://api.github.com/users/webpack/followers",
+        "following_url": "https://api.github.com/users/webpack/following{/other_user}",
+        "gists_url": "https://api.github.com/users/webpack/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/webpack/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/webpack/subscriptions",
+        "organizations_url": "https://api.github.com/users/webpack/orgs",
+        "repos_url": "https://api.github.com/users/webpack/repos",
+        "events_url": "https://api.github.com/users/webpack/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/webpack/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "fork": false,
+    "url": "https://api.github.com/repos/webpack/webpack",
+    "forks_url": "https://api.github.com/repos/webpack/webpack/forks",
+    "keys_url": "https://api.github.com/repos/webpack/webpack/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/webpack/webpack/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/webpack/webpack/teams",
+    "hooks_url": "https://api.github.com/repos/webpack/webpack/hooks",
+    "issue_events_url": "https://api.github.com/repos/webpack/webpack/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/webpack/webpack/events",
+    "assignees_url": "https://api.github.com/repos/webpack/webpack/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/webpack/webpack/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/webpack/webpack/tags",
+    "blobs_url": "https://api.github.com/repos/webpack/webpack/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/webpack/webpack/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/webpack/webpack/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/webpack/webpack/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/webpack/webpack/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/webpack/webpack/languages",
+    "stargazers_url": "https://api.github.com/repos/webpack/webpack/stargazers",
+    "contributors_url": "https://api.github.com/repos/webpack/webpack/contributors",
+    "subscribers_url": "https://api.github.com/repos/webpack/webpack/subscribers",
+    "subscription_url": "https://api.github.com/repos/webpack/webpack/subscription",
+    "commits_url": "https://api.github.com/repos/webpack/webpack/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/webpack/webpack/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/webpack/webpack/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/webpack/webpack/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/webpack/webpack/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/webpack/webpack/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/webpack/webpack/merges",
+    "archive_url": "https://api.github.com/repos/webpack/webpack/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/webpack/webpack/downloads",
+    "issues_url": "https://api.github.com/repos/webpack/webpack/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/webpack/webpack/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/webpack/webpack/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/webpack/webpack/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/webpack/webpack/labels{/name}",
+    "releases_url": "https://api.github.com/repos/webpack/webpack/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/webpack/webpack/deployments",
+    "created_at": "2012-03-10T10:08:14Z",
+    "updated_at": "2025-01-25T15:38:50Z",
+    "pushed_at": "2025-01-24T03:45:40Z",
+    "git_url": "git://github.com/webpack/webpack.git",
+    "ssh_url": "git@github.com:webpack/webpack.git",
+    "clone_url": "https://github.com/webpack/webpack.git",
+    "svn_url": "https://github.com/webpack/webpack",
+    "homepage": "https://webpack.js.org",
+    "size": 67052,
+    "stargazers_count": 64974,
+    "watchers_count": 64974,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8929,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 258,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "amd",
+        "build-tool",
+        "commonjs",
+        "compiler",
+        "es2015",
+        "es6",
+        "esm",
+        "javascript",
+        "javascript-compiler",
+        "javascript-modules",
+        "loaders",
+        "module-bundler",
+        "plugins",
+        "web",
+        "web-performance",
+        "webpack"
+    ],
+    "visibility": "public",
+    "forks": 8929,
+    "open_issues": 258,
+    "watchers": 64974,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.97.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.97.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.97.1",
+            "commit": {
+                "sha": "3612d36e44bda5644dc3b353e2cade7fe442ba59",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/3612d36e44bda5644dc3b353e2cade7fe442ba59"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTcuMQ=="
+        },
+        {
+            "name": "v5.97.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.97.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.97.0",
+            "commit": {
+                "sha": "644f1d12716ba8f3c96d2efa279262560dd8c7fb",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/644f1d12716ba8f3c96d2efa279262560dd8c7fb"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTcuMA=="
+        },
+        {
+            "name": "v5.96.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.96.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.96.1",
+            "commit": {
+                "sha": "d4ced7322229c7d72a7a0d2ca955bdde0c910a0b",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/d4ced7322229c7d72a7a0d2ca955bdde0c910a0b"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTYuMQ=="
+        },
+        {
+            "name": "v5.96.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.96.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.96.0",
+            "commit": {
+                "sha": "aff0c3ed2b31ed16ce8738e02f4b8f97966833f4",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/aff0c3ed2b31ed16ce8738e02f4b8f97966833f4"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTYuMA=="
+        },
+        {
+            "name": "v5.95.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.95.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.95.0",
+            "commit": {
+                "sha": "e20fd634fd24fab2c821a6e6114ace706ca052d0",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/e20fd634fd24fab2c821a6e6114ace706ca052d0"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTUuMA=="
+        },
+        {
+            "name": "v5.94.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.94.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.94.0",
+            "commit": {
+                "sha": "eabf85d8580dfcb876b56957ba5488222a4f7873",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/eabf85d8580dfcb876b56957ba5488222a4f7873"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTQuMA=="
+        },
+        {
+            "name": "v5.93.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.93.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.93.0",
+            "commit": {
+                "sha": "277460b33bcc49c51acbbcd688672aa4ec685732",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/277460b33bcc49c51acbbcd688672aa4ec685732"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTMuMA=="
+        },
+        {
+            "name": "v5.92.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.92.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.92.1",
+            "commit": {
+                "sha": "a82e0cd00e26d8452295f0d680417e4656a6d7cc",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/a82e0cd00e26d8452295f0d680417e4656a6d7cc"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTIuMQ=="
+        },
+        {
+            "name": "v5.92.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.92.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.92.0",
+            "commit": {
+                "sha": "34e2561addb0f65a7a6fb0ce7ae1aea4cd1d599f",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/34e2561addb0f65a7a6fb0ce7ae1aea4cd1d599f"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTIuMA=="
+        },
+        {
+            "name": "v5.91.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.91.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.91.0",
+            "commit": {
+                "sha": "60daca54105f89eee45e118fd0bbc820730724ee",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/60daca54105f89eee45e118fd0bbc820730724ee"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTEuMA=="
+        },
+        {
+            "name": "v5.90.3",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.90.3",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.90.3",
+            "commit": {
+                "sha": "651b3d66d10d54da31d4cb7123ea74d10f1f5456",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/651b3d66d10d54da31d4cb7123ea74d10f1f5456"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTAuMw=="
+        },
+        {
+            "name": "v5.90.2",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.90.2",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.90.2",
+            "commit": {
+                "sha": "11c1be3d0838e8de31900aacabcd449e9da77eaf",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/11c1be3d0838e8de31900aacabcd449e9da77eaf"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTAuMg=="
+        },
+        {
+            "name": "v5.90.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.90.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.90.1",
+            "commit": {
+                "sha": "08770761c8c7aa1e6e18b77d3deee8cc9871bd87",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/08770761c8c7aa1e6e18b77d3deee8cc9871bd87"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTAuMQ=="
+        },
+        {
+            "name": "v5.90.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.90.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.90.0",
+            "commit": {
+                "sha": "4a2662381ed8e6a9d849b494511459f5858d4e82",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/4a2662381ed8e6a9d849b494511459f5858d4e82"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuOTAuMA=="
+        },
+        {
+            "name": "v5.89.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.89.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.89.0",
+            "commit": {
+                "sha": "87660921808566ef3b8796f8df61bd79fc026108",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/87660921808566ef3b8796f8df61bd79fc026108"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODkuMA=="
+        },
+        {
+            "name": "v5.88.2",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.88.2",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.88.2",
+            "commit": {
+                "sha": "1f99ad6367f2b8a6ef17cce0e058f7a67fb7db18",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/1f99ad6367f2b8a6ef17cce0e058f7a67fb7db18"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODguMg=="
+        },
+        {
+            "name": "v5.88.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.88.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.88.1",
+            "commit": {
+                "sha": "6be4065ade1e252c1d8dcba4af0f43e32af1bdc1",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/6be4065ade1e252c1d8dcba4af0f43e32af1bdc1"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODguMQ=="
+        },
+        {
+            "name": "v5.88.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.88.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.88.0",
+            "commit": {
+                "sha": "1e18b1d1c74e26a84e9adee519c045e2d8ed40a4",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/1e18b1d1c74e26a84e9adee519c045e2d8ed40a4"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODguMA=="
+        },
+        {
+            "name": "v5.87.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.87.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.87.0",
+            "commit": {
+                "sha": "8e0e0eb47d47fe33e4c9ef9bc455d9584f7ea92c",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/8e0e0eb47d47fe33e4c9ef9bc455d9584f7ea92c"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODcuMA=="
+        },
+        {
+            "name": "v5.86.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.86.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.86.0",
+            "commit": {
+                "sha": "2dc8755dc40e24e3ba5760e96738b74990116711",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/2dc8755dc40e24e3ba5760e96738b74990116711"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODYuMA=="
+        },
+        {
+            "name": "v5.85.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.85.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.85.1",
+            "commit": {
+                "sha": "f0f0dd548871566c77c69cdf3d00eaf0faf9a5cd",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/f0f0dd548871566c77c69cdf3d00eaf0faf9a5cd"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODUuMQ=="
+        },
+        {
+            "name": "v5.85.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.85.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.85.0",
+            "commit": {
+                "sha": "c80b069dca8eedebfa8ede9ce740891362fdb8bf",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/c80b069dca8eedebfa8ede9ce740891362fdb8bf"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODUuMA=="
+        },
+        {
+            "name": "v5.84.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.84.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.84.1",
+            "commit": {
+                "sha": "71d9a21c32974b5166f9ce2f5549849d0c7ad310",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/71d9a21c32974b5166f9ce2f5549849d0c7ad310"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODQuMQ=="
+        },
+        {
+            "name": "v5.84.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.84.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.84.0",
+            "commit": {
+                "sha": "4d4caf13add84f996790e5bbdf79b66a548f8273",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/4d4caf13add84f996790e5bbdf79b66a548f8273"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODQuMA=="
+        },
+        {
+            "name": "v5.83.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.83.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.83.1",
+            "commit": {
+                "sha": "81c8fbde2e0e4b8d2e30a5109dedc082ef8c09dc",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/81c8fbde2e0e4b8d2e30a5109dedc082ef8c09dc"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODMuMQ=="
+        },
+        {
+            "name": "v5.83.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.83.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.83.0",
+            "commit": {
+                "sha": "ccb3b860520c9472eff3d411a48105f882cf482a",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/ccb3b860520c9472eff3d411a48105f882cf482a"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODMuMA=="
+        },
+        {
+            "name": "v5.82.1",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.82.1",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.82.1",
+            "commit": {
+                "sha": "a8fd8b7598e8a599871765e0167cacf8318944a9",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/a8fd8b7598e8a599871765e0167cacf8318944a9"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODIuMQ=="
+        },
+        {
+            "name": "v5.82.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.82.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.82.0",
+            "commit": {
+                "sha": "1018ca80b31ea72436510398cca5be335b6ac81c",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/1018ca80b31ea72436510398cca5be335b6ac81c"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODIuMA=="
+        },
+        {
+            "name": "v5.81.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.81.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.81.0",
+            "commit": {
+                "sha": "5c016a8ec1bbfd73a7fc20d4b474938e61ee3a57",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/5c016a8ec1bbfd73a7fc20d4b474938e61ee3a57"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODEuMA=="
+        },
+        {
+            "name": "v5.80.0",
+            "zipball_url": "https://api.github.com/repos/webpack/webpack/zipball/refs/tags/v5.80.0",
+            "tarball_url": "https://api.github.com/repos/webpack/webpack/tarball/refs/tags/v5.80.0",
+            "commit": {
+                "sha": "9ac1728ee359efbbd1eb317f4a12c0f8136a690e",
+                "url": "https://api.github.com/repos/webpack/webpack/commits/9ac1728ee359efbbd1eb317f4a12c0f8136a690e"
+            },
+            "node_id": "MDM6UmVmMzY3ODczMTpyZWZzL3RhZ3MvdjUuODAuMA=="
+        }
+    ]
+}

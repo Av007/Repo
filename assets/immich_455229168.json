@@ -1,0 +1,435 @@
+{
+    "id": 455229168,
+    "node_id": "R_kgDOGyI-8A",
+    "name": "immich",
+    "full_name": "immich-app/immich",
+    "private": false,
+    "owner": {
+        "login": "immich-app",
+        "id": 109746326,
+        "node_id": "O_kgDOBoqYlg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/109746326?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/immich-app",
+        "html_url": "https://github.com/immich-app",
+        "followers_url": "https://api.github.com/users/immich-app/followers",
+        "following_url": "https://api.github.com/users/immich-app/following{/other_user}",
+        "gists_url": "https://api.github.com/users/immich-app/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/immich-app/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/immich-app/subscriptions",
+        "organizations_url": "https://api.github.com/users/immich-app/orgs",
+        "repos_url": "https://api.github.com/users/immich-app/repos",
+        "events_url": "https://api.github.com/users/immich-app/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/immich-app/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "fork": false,
+    "url": "https://api.github.com/repos/immich-app/immich",
+    "forks_url": "https://api.github.com/repos/immich-app/immich/forks",
+    "keys_url": "https://api.github.com/repos/immich-app/immich/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/immich-app/immich/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/immich-app/immich/teams",
+    "hooks_url": "https://api.github.com/repos/immich-app/immich/hooks",
+    "issue_events_url": "https://api.github.com/repos/immich-app/immich/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/immich-app/immich/events",
+    "assignees_url": "https://api.github.com/repos/immich-app/immich/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/immich-app/immich/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/immich-app/immich/tags",
+    "blobs_url": "https://api.github.com/repos/immich-app/immich/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/immich-app/immich/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/immich-app/immich/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/immich-app/immich/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/immich-app/immich/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/immich-app/immich/languages",
+    "stargazers_url": "https://api.github.com/repos/immich-app/immich/stargazers",
+    "contributors_url": "https://api.github.com/repos/immich-app/immich/contributors",
+    "subscribers_url": "https://api.github.com/repos/immich-app/immich/subscribers",
+    "subscription_url": "https://api.github.com/repos/immich-app/immich/subscription",
+    "commits_url": "https://api.github.com/repos/immich-app/immich/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/immich-app/immich/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/immich-app/immich/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/immich-app/immich/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/immich-app/immich/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/immich-app/immich/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/immich-app/immich/merges",
+    "archive_url": "https://api.github.com/repos/immich-app/immich/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/immich-app/immich/downloads",
+    "issues_url": "https://api.github.com/repos/immich-app/immich/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/immich-app/immich/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/immich-app/immich/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/immich-app/immich/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/immich-app/immich/labels{/name}",
+    "releases_url": "https://api.github.com/repos/immich-app/immich/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/immich-app/immich/deployments",
+    "created_at": "2022-02-03T15:56:27Z",
+    "updated_at": "2025-01-25T17:20:28Z",
+    "pushed_at": "2025-01-25T16:48:36Z",
+    "git_url": "git://github.com/immich-app/immich.git",
+    "ssh_url": "git@github.com:immich-app/immich.git",
+    "clone_url": "https://github.com/immich-app/immich.git",
+    "svn_url": "https://github.com/immich-app/immich",
+    "homepage": "https://immich.app",
+    "size": 204174,
+    "stargazers_count": 56988,
+    "watchers_count": 56988,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 3030,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 500,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "backup-tool",
+        "flutter",
+        "google-photos",
+        "google-photos-alternative",
+        "hacktoberfest",
+        "javascript",
+        "mobile-app",
+        "nestjs",
+        "nodejs",
+        "photo-gallery",
+        "photos",
+        "photos-management",
+        "self-hosted",
+        "svelte",
+        "sveltekit",
+        "typescript",
+        "videos"
+    ],
+    "visibility": "public",
+    "forks": 3030,
+    "open_issues": 500,
+    "watchers": 56988,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.125.2",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.125.2",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.125.2",
+            "commit": {
+                "sha": "9871a04d54288b464d54033ce6ca5d58a1137e6a",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/9871a04d54288b464d54033ce6ca5d58a1137e6a"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTI1LjI"
+        },
+        {
+            "name": "v1.125.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.125.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.125.1",
+            "commit": {
+                "sha": "50a2f6193f216d47443e013db72888a7ebe09842",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/50a2f6193f216d47443e013db72888a7ebe09842"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTI1LjE"
+        },
+        {
+            "name": "v1.125.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.125.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.125.0",
+            "commit": {
+                "sha": "49a16045bd70856b5268777a9b942131b6952f77",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/49a16045bd70856b5268777a9b942131b6952f77"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTI1LjA"
+        },
+        {
+            "name": "v1.124.2",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.124.2",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.124.2",
+            "commit": {
+                "sha": "8d836ae04f9119d964326bc8e4bc9d3a24b5c084",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/8d836ae04f9119d964326bc8e4bc9d3a24b5c084"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTI0LjI"
+        },
+        {
+            "name": "v1.124.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.124.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.124.1",
+            "commit": {
+                "sha": "cc10fc15c3ba2edb36353e27b7f5df7811cd8e1a",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/cc10fc15c3ba2edb36353e27b7f5df7811cd8e1a"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTI0LjE"
+        },
+        {
+            "name": "v1.124.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.124.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.124.0",
+            "commit": {
+                "sha": "840d99ed25c1108c9686fa9d783602696425930c",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/840d99ed25c1108c9686fa9d783602696425930c"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTI0LjA"
+        },
+        {
+            "name": "v1.123.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.123.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.123.0",
+            "commit": {
+                "sha": "fd34a914a6b2e6dcfbbe53afcf0112cabccc232b",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/fd34a914a6b2e6dcfbbe53afcf0112cabccc232b"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIzLjA"
+        },
+        {
+            "name": "v1.122.3",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.122.3",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.122.3",
+            "commit": {
+                "sha": "c52f1bae81aae8d0c86b2cf3f9384eb92e39ab36",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/c52f1bae81aae8d0c86b2cf3f9384eb92e39ab36"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIyLjM"
+        },
+        {
+            "name": "v1.122.2",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.122.2",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.122.2",
+            "commit": {
+                "sha": "03eb5903fe590532346f87a6cfbc62730911088e",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/03eb5903fe590532346f87a6cfbc62730911088e"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIyLjI"
+        },
+        {
+            "name": "v1.122.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.122.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.122.1",
+            "commit": {
+                "sha": "97c1eb72897c34bd00891d1d336504ddddebb857",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/97c1eb72897c34bd00891d1d336504ddddebb857"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIyLjE"
+        },
+        {
+            "name": "v1.122.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.122.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.122.0",
+            "commit": {
+                "sha": "37220a342a9a3cde67bedfc7a791a6660fa145e1",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/37220a342a9a3cde67bedfc7a791a6660fa145e1"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIyLjA"
+        },
+        {
+            "name": "v1.121.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.121.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.121.0",
+            "commit": {
+                "sha": "98c9ae1f7dd19eea6f5eac7352d5515e44a6762c",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/98c9ae1f7dd19eea6f5eac7352d5515e44a6762c"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIxLjA"
+        },
+        {
+            "name": "v1.120.2",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.120.2",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.120.2",
+            "commit": {
+                "sha": "31a1e64b58d01f66d8014c7e91c10cfd20e6aab1",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/31a1e64b58d01f66d8014c7e91c10cfd20e6aab1"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIwLjI"
+        },
+        {
+            "name": "v1.120.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.120.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.120.1",
+            "commit": {
+                "sha": "599b489f815e26a06309753516f39ef9eb7fcaa0",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/599b489f815e26a06309753516f39ef9eb7fcaa0"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIwLjE"
+        },
+        {
+            "name": "v1.120.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.120.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.120.0",
+            "commit": {
+                "sha": "f1b8a9374f208b65f9c3e634c24cbec7fe2c9302",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/f1b8a9374f208b65f9c3e634c24cbec7fe2c9302"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTIwLjA"
+        },
+        {
+            "name": "v1.119.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.119.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.119.1",
+            "commit": {
+                "sha": "00dd9419a564d5ca39dc1886747eecf956ce23f5",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/00dd9419a564d5ca39dc1886747eecf956ce23f5"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE5LjE"
+        },
+        {
+            "name": "v1.119.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.119.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.119.0",
+            "commit": {
+                "sha": "8449e78c8ffbc344d6dd5cb42857b4fc093aefbd",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/8449e78c8ffbc344d6dd5cb42857b4fc093aefbd"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE5LjA"
+        },
+        {
+            "name": "v1.118.2",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.118.2",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.118.2",
+            "commit": {
+                "sha": "e8015dc7d799952fdc102552925ba639f48eb6c4",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/e8015dc7d799952fdc102552925ba639f48eb6c4"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE4LjI"
+        },
+        {
+            "name": "v1.118.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.118.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.118.1",
+            "commit": {
+                "sha": "edd7dfb5d83143657eadb054219e09d8241275d4",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/edd7dfb5d83143657eadb054219e09d8241275d4"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE4LjE"
+        },
+        {
+            "name": "v1.118.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.118.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.118.0",
+            "commit": {
+                "sha": "8f69d9d0ece02d74e53bc34a9c430458d4fb87ad",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/8f69d9d0ece02d74e53bc34a9c430458d4fb87ad"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE4LjA"
+        },
+        {
+            "name": "v1.117.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.117.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.117.0",
+            "commit": {
+                "sha": "6b8462402ba2fa48d4ddbce924b5e3e0987155eb",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/6b8462402ba2fa48d4ddbce924b5e3e0987155eb"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE3LjA"
+        },
+        {
+            "name": "v1.116.2",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.116.2",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.116.2",
+            "commit": {
+                "sha": "8bbcd5c31e4a227f92864ae2977c4033bc0c50b7",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/8bbcd5c31e4a227f92864ae2977c4033bc0c50b7"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE2LjI"
+        },
+        {
+            "name": "v1.116.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.116.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.116.1",
+            "commit": {
+                "sha": "7c15e11efccc1f6f4d7c1da12e932ae5fc058838",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/7c15e11efccc1f6f4d7c1da12e932ae5fc058838"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE2LjE"
+        },
+        {
+            "name": "v1.116.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.116.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.116.0",
+            "commit": {
+                "sha": "60679a63695bc67055c8291a234f3441b94b0289",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/60679a63695bc67055c8291a234f3441b94b0289"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE2LjA"
+        },
+        {
+            "name": "v1.115.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.115.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.115.0",
+            "commit": {
+                "sha": "230eff4e1a537de9db40c2b2a2ad7fb5de487da0",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/230eff4e1a537de9db40c2b2a2ad7fb5de487da0"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE1LjA"
+        },
+        {
+            "name": "v1.114.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.114.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.114.0",
+            "commit": {
+                "sha": "068904f7461118d4e4d6f8733e7e4186b6c38c84",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/068904f7461118d4e4d6f8733e7e4186b6c38c84"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTE0LjA"
+        },
+        {
+            "name": "v1.113.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.113.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.113.1",
+            "commit": {
+                "sha": "48da4c931773edae26c8ab13b17f399003268a92",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/48da4c931773edae26c8ab13b17f399003268a92"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTEzLjE"
+        },
+        {
+            "name": "v1.113.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.113.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.113.0",
+            "commit": {
+                "sha": "cc88cbb456e6f3e1c77680cebde4806ed44a8915",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/cc88cbb456e6f3e1c77680cebde4806ed44a8915"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTEzLjA"
+        },
+        {
+            "name": "v1.112.1",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.112.1",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.112.1",
+            "commit": {
+                "sha": "f7bfde6a3286d4b454c2f05ccf354914f8eccac6",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/f7bfde6a3286d4b454c2f05ccf354914f8eccac6"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTEyLjE"
+        },
+        {
+            "name": "v1.112.0",
+            "zipball_url": "https://api.github.com/repos/immich-app/immich/zipball/refs/tags/v1.112.0",
+            "tarball_url": "https://api.github.com/repos/immich-app/immich/tarball/refs/tags/v1.112.0",
+            "commit": {
+                "sha": "228a7710e6f995d0f4786d1c5ea619acb2132dee",
+                "url": "https://api.github.com/repos/immich-app/immich/commits/228a7710e6f995d0f4786d1c5ea619acb2132dee"
+            },
+            "node_id": "REF_kwDOGyI-8LJyZWZzL3RhZ3MvdjEuMTEyLjA"
+        }
+    ]
+}

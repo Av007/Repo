@@ -1,0 +1,427 @@
+{
+    "id": 9185792,
+    "node_id": "MDEwOlJlcG9zaXRvcnk5MTg1Nzky",
+    "name": "echarts",
+    "full_name": "apache/echarts",
+    "private": false,
+    "owner": {
+        "login": "apache",
+        "id": 47359,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3MzU5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/apache",
+        "html_url": "https://github.com/apache",
+        "followers_url": "https://api.github.com/users/apache/followers",
+        "following_url": "https://api.github.com/users/apache/following{/other_user}",
+        "gists_url": "https://api.github.com/users/apache/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/apache/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/apache/subscriptions",
+        "organizations_url": "https://api.github.com/users/apache/orgs",
+        "repos_url": "https://api.github.com/users/apache/repos",
+        "events_url": "https://api.github.com/users/apache/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/apache/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/apache/echarts",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "fork": false,
+    "url": "https://api.github.com/repos/apache/echarts",
+    "forks_url": "https://api.github.com/repos/apache/echarts/forks",
+    "keys_url": "https://api.github.com/repos/apache/echarts/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/apache/echarts/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/apache/echarts/teams",
+    "hooks_url": "https://api.github.com/repos/apache/echarts/hooks",
+    "issue_events_url": "https://api.github.com/repos/apache/echarts/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/apache/echarts/events",
+    "assignees_url": "https://api.github.com/repos/apache/echarts/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/apache/echarts/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/apache/echarts/tags",
+    "blobs_url": "https://api.github.com/repos/apache/echarts/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/apache/echarts/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/apache/echarts/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/apache/echarts/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/apache/echarts/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/apache/echarts/languages",
+    "stargazers_url": "https://api.github.com/repos/apache/echarts/stargazers",
+    "contributors_url": "https://api.github.com/repos/apache/echarts/contributors",
+    "subscribers_url": "https://api.github.com/repos/apache/echarts/subscribers",
+    "subscription_url": "https://api.github.com/repos/apache/echarts/subscription",
+    "commits_url": "https://api.github.com/repos/apache/echarts/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/apache/echarts/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/apache/echarts/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/apache/echarts/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/apache/echarts/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/apache/echarts/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/apache/echarts/merges",
+    "archive_url": "https://api.github.com/repos/apache/echarts/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/apache/echarts/downloads",
+    "issues_url": "https://api.github.com/repos/apache/echarts/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/apache/echarts/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/apache/echarts/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/apache/echarts/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/apache/echarts/labels{/name}",
+    "releases_url": "https://api.github.com/repos/apache/echarts/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/apache/echarts/deployments",
+    "created_at": "2013-04-03T03:18:59Z",
+    "updated_at": "2025-01-25T13:04:27Z",
+    "pushed_at": "2025-01-24T11:06:02Z",
+    "git_url": "git://github.com/apache/echarts.git",
+    "ssh_url": "git@github.com:apache/echarts.git",
+    "clone_url": "https://github.com/apache/echarts.git",
+    "svn_url": "https://github.com/apache/echarts",
+    "homepage": "https://echarts.apache.org",
+    "size": 245038,
+    "stargazers_count": 61706,
+    "watchers_count": 61706,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 19682,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2166,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "apache",
+        "canvas",
+        "charting-library",
+        "charts",
+        "data-visualization",
+        "data-viz",
+        "echarts",
+        "svg",
+        "visualization"
+    ],
+    "visibility": "public",
+    "forks": 19682,
+    "open_issues": 2166,
+    "watchers": 61706,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.2.1-rc1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/v4.2.1-rc1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/v4.2.1-rc1",
+            "commit": {
+                "sha": "9234f0309137250a2561212e8ecd1639551119b1",
+                "url": "https://api.github.com/repos/apache/echarts/commits/9234f0309137250a2561212e8ecd1639551119b1"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvdjQuMi4xLXJjMQ=="
+        },
+        {
+            "name": "5.6.0",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.6.0",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.6.0",
+            "commit": {
+                "sha": "fe42bc1ea3a8d2ef7864cfe303de34f480149d09",
+                "url": "https://api.github.com/repos/apache/echarts/commits/fe42bc1ea3a8d2ef7864cfe303de34f480149d09"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS42LjA="
+        },
+        {
+            "name": "5.6.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.6.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.6.0-rc.1",
+            "commit": {
+                "sha": "fe42bc1ea3a8d2ef7864cfe303de34f480149d09",
+                "url": "https://api.github.com/repos/apache/echarts/commits/fe42bc1ea3a8d2ef7864cfe303de34f480149d09"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS42LjAtcmMuMQ=="
+        },
+        {
+            "name": "5.5.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.5.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.5.1",
+            "commit": {
+                "sha": "2caf68489c567417b8e357595997d4466c73f6db",
+                "url": "https://api.github.com/repos/apache/echarts/commits/2caf68489c567417b8e357595997d4466c73f6db"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS41LjE="
+        },
+        {
+            "name": "5.5.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.5.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.5.1-rc.1",
+            "commit": {
+                "sha": "2caf68489c567417b8e357595997d4466c73f6db",
+                "url": "https://api.github.com/repos/apache/echarts/commits/2caf68489c567417b8e357595997d4466c73f6db"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS41LjEtcmMuMQ=="
+        },
+        {
+            "name": "5.5.0",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.5.0",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.5.0",
+            "commit": {
+                "sha": "0f4967b1bdef6b35e795b9fb1403e765489649fa",
+                "url": "https://api.github.com/repos/apache/echarts/commits/0f4967b1bdef6b35e795b9fb1403e765489649fa"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS41LjA="
+        },
+        {
+            "name": "5.5.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.5.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.5.0-rc.2",
+            "commit": {
+                "sha": "0f4967b1bdef6b35e795b9fb1403e765489649fa",
+                "url": "https://api.github.com/repos/apache/echarts/commits/0f4967b1bdef6b35e795b9fb1403e765489649fa"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS41LjAtcmMuMg=="
+        },
+        {
+            "name": "5.5.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.5.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.5.0-rc.1",
+            "commit": {
+                "sha": "4d3bbaefa53dd85ad730dbaa09805d7152019ea4",
+                "url": "https://api.github.com/repos/apache/echarts/commits/4d3bbaefa53dd85ad730dbaa09805d7152019ea4"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS41LjAtcmMuMQ=="
+        },
+        {
+            "name": "5.4.3",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.3",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.3",
+            "commit": {
+                "sha": "18b361adfcafda1bd182e9a5168f5e917e1bd6b7",
+                "url": "https://api.github.com/repos/apache/echarts/commits/18b361adfcafda1bd182e9a5168f5e917e1bd6b7"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjM="
+        },
+        {
+            "name": "5.4.3-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.3-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.3-rc.1",
+            "commit": {
+                "sha": "18b361adfcafda1bd182e9a5168f5e917e1bd6b7",
+                "url": "https://api.github.com/repos/apache/echarts/commits/18b361adfcafda1bd182e9a5168f5e917e1bd6b7"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjMtcmMuMQ=="
+        },
+        {
+            "name": "5.4.2",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.2",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.2",
+            "commit": {
+                "sha": "cfb3a8a544440588d0d51a2cf622f340f0d6ebd8",
+                "url": "https://api.github.com/repos/apache/echarts/commits/cfb3a8a544440588d0d51a2cf622f340f0d6ebd8"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjI="
+        },
+        {
+            "name": "5.4.2-rc1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.2-rc1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.2-rc1",
+            "commit": {
+                "sha": "cfb3a8a544440588d0d51a2cf622f340f0d6ebd8",
+                "url": "https://api.github.com/repos/apache/echarts/commits/cfb3a8a544440588d0d51a2cf622f340f0d6ebd8"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjItcmMx"
+        },
+        {
+            "name": "5.4.2-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.2-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.2-rc.1",
+            "commit": {
+                "sha": "cfb3a8a544440588d0d51a2cf622f340f0d6ebd8",
+                "url": "https://api.github.com/repos/apache/echarts/commits/cfb3a8a544440588d0d51a2cf622f340f0d6ebd8"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjItcmMuMQ=="
+        },
+        {
+            "name": "5.4.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.1",
+            "commit": {
+                "sha": "c308ec76f20f5dadcd04d2a10eeee9e06fbdad81",
+                "url": "https://api.github.com/repos/apache/echarts/commits/c308ec76f20f5dadcd04d2a10eeee9e06fbdad81"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjE="
+        },
+        {
+            "name": "5.4.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.1-rc.1",
+            "commit": {
+                "sha": "c308ec76f20f5dadcd04d2a10eeee9e06fbdad81",
+                "url": "https://api.github.com/repos/apache/echarts/commits/c308ec76f20f5dadcd04d2a10eeee9e06fbdad81"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjEtcmMuMQ=="
+        },
+        {
+            "name": "5.4.0",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.0",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.0",
+            "commit": {
+                "sha": "6347c2c3e9707ae34d004d72ede087e9eb23359d",
+                "url": "https://api.github.com/repos/apache/echarts/commits/6347c2c3e9707ae34d004d72ede087e9eb23359d"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjA="
+        },
+        {
+            "name": "5.4.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.4.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.4.0-rc.1",
+            "commit": {
+                "sha": "6347c2c3e9707ae34d004d72ede087e9eb23359d",
+                "url": "https://api.github.com/repos/apache/echarts/commits/6347c2c3e9707ae34d004d72ede087e9eb23359d"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS40LjAtcmMuMQ=="
+        },
+        {
+            "name": "5.3.3",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.3",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.3",
+            "commit": {
+                "sha": "86eba716ffa3d76c017e696599494dc3e83e9260",
+                "url": "https://api.github.com/repos/apache/echarts/commits/86eba716ffa3d76c017e696599494dc3e83e9260"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjM="
+        },
+        {
+            "name": "5.3.3-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.3-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.3-rc.1",
+            "commit": {
+                "sha": "86eba716ffa3d76c017e696599494dc3e83e9260",
+                "url": "https://api.github.com/repos/apache/echarts/commits/86eba716ffa3d76c017e696599494dc3e83e9260"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjMtcmMuMQ=="
+        },
+        {
+            "name": "5.3.2",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.2",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.2",
+            "commit": {
+                "sha": "8b2a4c4fa878b8b1147b7d14356124ccc947cf2a",
+                "url": "https://api.github.com/repos/apache/echarts/commits/8b2a4c4fa878b8b1147b7d14356124ccc947cf2a"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjI="
+        },
+        {
+            "name": "5.3.2-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.2-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.2-rc.1",
+            "commit": {
+                "sha": "8b2a4c4fa878b8b1147b7d14356124ccc947cf2a",
+                "url": "https://api.github.com/repos/apache/echarts/commits/8b2a4c4fa878b8b1147b7d14356124ccc947cf2a"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjItcmMuMQ=="
+        },
+        {
+            "name": "5.3.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.1",
+            "commit": {
+                "sha": "06ee7c1378c758dd50957df8dbc2237e075cfac7",
+                "url": "https://api.github.com/repos/apache/echarts/commits/06ee7c1378c758dd50957df8dbc2237e075cfac7"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjE="
+        },
+        {
+            "name": "5.3.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.1-rc.1",
+            "commit": {
+                "sha": "06ee7c1378c758dd50957df8dbc2237e075cfac7",
+                "url": "https://api.github.com/repos/apache/echarts/commits/06ee7c1378c758dd50957df8dbc2237e075cfac7"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjEtcmMuMQ=="
+        },
+        {
+            "name": "5.3.0",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.0",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.0",
+            "commit": {
+                "sha": "0878d303ee5d798b808d3bab1444c5ec3e7e60d6",
+                "url": "https://api.github.com/repos/apache/echarts/commits/0878d303ee5d798b808d3bab1444c5ec3e7e60d6"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjA="
+        },
+        {
+            "name": "5.3.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.3.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.3.0-rc.1",
+            "commit": {
+                "sha": "0878d303ee5d798b808d3bab1444c5ec3e7e60d6",
+                "url": "https://api.github.com/repos/apache/echarts/commits/0878d303ee5d798b808d3bab1444c5ec3e7e60d6"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4zLjAtcmMuMQ=="
+        },
+        {
+            "name": "5.2.2",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.2.2",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.2.2",
+            "commit": {
+                "sha": "000ee7d2d1272cee96b0bd19bff9207301096c8d",
+                "url": "https://api.github.com/repos/apache/echarts/commits/000ee7d2d1272cee96b0bd19bff9207301096c8d"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4yLjI="
+        },
+        {
+            "name": "5.2.2-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.2.2-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.2.2-rc.1",
+            "commit": {
+                "sha": "000ee7d2d1272cee96b0bd19bff9207301096c8d",
+                "url": "https://api.github.com/repos/apache/echarts/commits/000ee7d2d1272cee96b0bd19bff9207301096c8d"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4yLjItcmMuMQ=="
+        },
+        {
+            "name": "5.2.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.2.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.2.1",
+            "commit": {
+                "sha": "1c70026ec4d0bc18ac91163da7d11ed59c401ed4",
+                "url": "https://api.github.com/repos/apache/echarts/commits/1c70026ec4d0bc18ac91163da7d11ed59c401ed4"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4yLjE="
+        },
+        {
+            "name": "5.2.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.2.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.2.1-rc.1",
+            "commit": {
+                "sha": "1c70026ec4d0bc18ac91163da7d11ed59c401ed4",
+                "url": "https://api.github.com/repos/apache/echarts/commits/1c70026ec4d0bc18ac91163da7d11ed59c401ed4"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4yLjEtcmMuMQ=="
+        },
+        {
+            "name": "5.2.0",
+            "zipball_url": "https://api.github.com/repos/apache/echarts/zipball/refs/tags/5.2.0",
+            "tarball_url": "https://api.github.com/repos/apache/echarts/tarball/refs/tags/5.2.0",
+            "commit": {
+                "sha": "41b7769648333d0a1da1101ebebfc9174d618863",
+                "url": "https://api.github.com/repos/apache/echarts/commits/41b7769648333d0a1da1101ebebfc9174d618863"
+            },
+            "node_id": "MDM6UmVmOTE4NTc5MjpyZWZzL3RhZ3MvNS4yLjA="
+        }
+    ]
+}

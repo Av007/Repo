@@ -1,0 +1,237 @@
+{
+    "id": 537603333,
+    "node_id": "R_kgDOIAstBQ",
+    "name": "whisper",
+    "full_name": "openai/whisper",
+    "private": false,
+    "owner": {
+        "login": "openai",
+        "id": 14957082,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/openai",
+        "html_url": "https://github.com/openai",
+        "followers_url": "https://api.github.com/users/openai/followers",
+        "following_url": "https://api.github.com/users/openai/following{/other_user}",
+        "gists_url": "https://api.github.com/users/openai/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/openai/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/openai/subscriptions",
+        "organizations_url": "https://api.github.com/users/openai/orgs",
+        "repos_url": "https://api.github.com/users/openai/repos",
+        "events_url": "https://api.github.com/users/openai/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/openai/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "fork": false,
+    "url": "https://api.github.com/repos/openai/whisper",
+    "forks_url": "https://api.github.com/repos/openai/whisper/forks",
+    "keys_url": "https://api.github.com/repos/openai/whisper/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/openai/whisper/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/openai/whisper/teams",
+    "hooks_url": "https://api.github.com/repos/openai/whisper/hooks",
+    "issue_events_url": "https://api.github.com/repos/openai/whisper/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/openai/whisper/events",
+    "assignees_url": "https://api.github.com/repos/openai/whisper/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/openai/whisper/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/openai/whisper/tags",
+    "blobs_url": "https://api.github.com/repos/openai/whisper/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/openai/whisper/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/openai/whisper/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/openai/whisper/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/openai/whisper/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/openai/whisper/languages",
+    "stargazers_url": "https://api.github.com/repos/openai/whisper/stargazers",
+    "contributors_url": "https://api.github.com/repos/openai/whisper/contributors",
+    "subscribers_url": "https://api.github.com/repos/openai/whisper/subscribers",
+    "subscription_url": "https://api.github.com/repos/openai/whisper/subscription",
+    "commits_url": "https://api.github.com/repos/openai/whisper/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/openai/whisper/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/openai/whisper/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/openai/whisper/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/openai/whisper/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/openai/whisper/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/openai/whisper/merges",
+    "archive_url": "https://api.github.com/repos/openai/whisper/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/openai/whisper/downloads",
+    "issues_url": "https://api.github.com/repos/openai/whisper/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/openai/whisper/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/openai/whisper/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/openai/whisper/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/openai/whisper/labels{/name}",
+    "releases_url": "https://api.github.com/repos/openai/whisper/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/openai/whisper/deployments",
+    "created_at": "2022-09-16T20:02:54Z",
+    "updated_at": "2025-01-25T16:04:40Z",
+    "pushed_at": "2025-01-04T20:56:17Z",
+    "git_url": "git://github.com/openai/whisper.git",
+    "ssh_url": "org-14957082@github.com:openai/whisper.git",
+    "clone_url": "https://github.com/openai/whisper.git",
+    "svn_url": "https://github.com/openai/whisper",
+    "homepage": "",
+    "size": 4095,
+    "stargazers_count": 75060,
+    "watchers_count": 75060,
+    "language": "Python",
+    "has_issues": false,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8965,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 89,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 8965,
+    "open_issues": 89,
+    "watchers": 75060,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v20240930",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20240930",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20240930",
+            "commit": {
+                "sha": "25639fc17ddc013d56c594bfbf7644f2185fad84",
+                "url": "https://api.github.com/repos/openai/whisper/commits/25639fc17ddc013d56c594bfbf7644f2185fad84"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjQwOTMw"
+        },
+        {
+            "name": "v20240927",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20240927",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20240927",
+            "commit": {
+                "sha": "423492dda7806206abe56bdfe427c1096473a020",
+                "url": "https://api.github.com/repos/openai/whisper/commits/423492dda7806206abe56bdfe427c1096473a020"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjQwOTI3"
+        },
+        {
+            "name": "v20231117",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20231117",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20231117",
+            "commit": {
+                "sha": "e58f28804528831904c3b6f2c0e473f346223433",
+                "url": "https://api.github.com/repos/openai/whisper/commits/e58f28804528831904c3b6f2c0e473f346223433"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMxMTE3"
+        },
+        {
+            "name": "v20231106",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20231106",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20231106",
+            "commit": {
+                "sha": "fcfeaf1b61994c071bba62da47d7846933576ac9",
+                "url": "https://api.github.com/repos/openai/whisper/commits/fcfeaf1b61994c071bba62da47d7846933576ac9"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMxMTA2"
+        },
+        {
+            "name": "v20231105",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20231105",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20231105",
+            "commit": {
+                "sha": "f6f01c561c45ad6ab421405e18ae22fd0c698e92",
+                "url": "https://api.github.com/repos/openai/whisper/commits/f6f01c561c45ad6ab421405e18ae22fd0c698e92"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMxMTA1"
+        },
+        {
+            "name": "v20230918",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230918",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230918",
+            "commit": {
+                "sha": "0a60fcaa9b86748389a656aa013c416030287d47",
+                "url": "https://api.github.com/repos/openai/whisper/commits/0a60fcaa9b86748389a656aa013c416030287d47"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwOTE4"
+        },
+        {
+            "name": "v20230314",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230314",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230314",
+            "commit": {
+                "sha": "6dea21fd7f7253bfe450f1e2512a0fe47ee2d258",
+                "url": "https://api.github.com/repos/openai/whisper/commits/6dea21fd7f7253bfe450f1e2512a0fe47ee2d258"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwMzE0"
+        },
+        {
+            "name": "v20230308",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230308",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230308",
+            "commit": {
+                "sha": "ad3250a846fe7553a25064a2dc593e492dadf040",
+                "url": "https://api.github.com/repos/openai/whisper/commits/ad3250a846fe7553a25064a2dc593e492dadf040"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwMzA4"
+        },
+        {
+            "name": "v20230307",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230307",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230307",
+            "commit": {
+                "sha": "26807ec6d3cd9d3ce153d143dc840ea312dc1fad",
+                "url": "https://api.github.com/repos/openai/whisper/commits/26807ec6d3cd9d3ce153d143dc840ea312dc1fad"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwMzA3"
+        },
+        {
+            "name": "v20230306",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230306",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230306",
+            "commit": {
+                "sha": "8180fde939369f2e39bbafb4f155e20cc2157bd0",
+                "url": "https://api.github.com/repos/openai/whisper/commits/8180fde939369f2e39bbafb4f155e20cc2157bd0"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwMzA2"
+        },
+        {
+            "name": "v20230124",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230124",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230124",
+            "commit": {
+                "sha": "55f690af7914c672c69733b7e04ef5a41b2b2774",
+                "url": "https://api.github.com/repos/openai/whisper/commits/55f690af7914c672c69733b7e04ef5a41b2b2774"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwMTI0"
+        },
+        {
+            "name": "v20230117",
+            "zipball_url": "https://api.github.com/repos/openai/whisper/zipball/refs/tags/v20230117",
+            "tarball_url": "https://api.github.com/repos/openai/whisper/tarball/refs/tags/v20230117",
+            "commit": {
+                "sha": "37a4f1be6d178bc8dad010dc33bcbbc69350e6bf",
+                "url": "https://api.github.com/repos/openai/whisper/commits/37a4f1be6d178bc8dad010dc33bcbbc69350e6bf"
+            },
+            "node_id": "REF_kwDOIAstBbNyZWZzL3RhZ3MvdjIwMjMwMTE3"
+        }
+    ]
+}

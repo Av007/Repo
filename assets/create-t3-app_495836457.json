@@ -1,0 +1,430 @@
+{
+    "id": 495836457,
+    "node_id": "R_kgDOHY3dKQ",
+    "name": "create-t3-app",
+    "full_name": "t3-oss/create-t3-app",
+    "private": false,
+    "owner": {
+        "login": "t3-oss",
+        "id": 108266839,
+        "node_id": "O_kgDOBnQFVw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108266839?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/t3-oss",
+        "html_url": "https://github.com/t3-oss",
+        "followers_url": "https://api.github.com/users/t3-oss/followers",
+        "following_url": "https://api.github.com/users/t3-oss/following{/other_user}",
+        "gists_url": "https://api.github.com/users/t3-oss/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/t3-oss/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/t3-oss/subscriptions",
+        "organizations_url": "https://api.github.com/users/t3-oss/orgs",
+        "repos_url": "https://api.github.com/users/t3-oss/repos",
+        "events_url": "https://api.github.com/users/t3-oss/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/t3-oss/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/t3-oss/create-t3-app",
+    "description": "The best way to start a full-stack, typesafe Next.js app ",
+    "fork": false,
+    "url": "https://api.github.com/repos/t3-oss/create-t3-app",
+    "forks_url": "https://api.github.com/repos/t3-oss/create-t3-app/forks",
+    "keys_url": "https://api.github.com/repos/t3-oss/create-t3-app/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/t3-oss/create-t3-app/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/t3-oss/create-t3-app/teams",
+    "hooks_url": "https://api.github.com/repos/t3-oss/create-t3-app/hooks",
+    "issue_events_url": "https://api.github.com/repos/t3-oss/create-t3-app/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/t3-oss/create-t3-app/events",
+    "assignees_url": "https://api.github.com/repos/t3-oss/create-t3-app/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/t3-oss/create-t3-app/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/t3-oss/create-t3-app/tags",
+    "blobs_url": "https://api.github.com/repos/t3-oss/create-t3-app/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/t3-oss/create-t3-app/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/t3-oss/create-t3-app/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/t3-oss/create-t3-app/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/t3-oss/create-t3-app/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/t3-oss/create-t3-app/languages",
+    "stargazers_url": "https://api.github.com/repos/t3-oss/create-t3-app/stargazers",
+    "contributors_url": "https://api.github.com/repos/t3-oss/create-t3-app/contributors",
+    "subscribers_url": "https://api.github.com/repos/t3-oss/create-t3-app/subscribers",
+    "subscription_url": "https://api.github.com/repos/t3-oss/create-t3-app/subscription",
+    "commits_url": "https://api.github.com/repos/t3-oss/create-t3-app/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/t3-oss/create-t3-app/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/t3-oss/create-t3-app/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/t3-oss/create-t3-app/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/t3-oss/create-t3-app/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/t3-oss/create-t3-app/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/t3-oss/create-t3-app/merges",
+    "archive_url": "https://api.github.com/repos/t3-oss/create-t3-app/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/t3-oss/create-t3-app/downloads",
+    "issues_url": "https://api.github.com/repos/t3-oss/create-t3-app/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/t3-oss/create-t3-app/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/t3-oss/create-t3-app/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/t3-oss/create-t3-app/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/t3-oss/create-t3-app/labels{/name}",
+    "releases_url": "https://api.github.com/repos/t3-oss/create-t3-app/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/t3-oss/create-t3-app/deployments",
+    "created_at": "2022-05-24T13:31:01Z",
+    "updated_at": "2025-01-25T16:12:39Z",
+    "pushed_at": "2025-01-12T20:03:16Z",
+    "git_url": "git://github.com/t3-oss/create-t3-app.git",
+    "ssh_url": "git@github.com:t3-oss/create-t3-app.git",
+    "clone_url": "https://github.com/t3-oss/create-t3-app.git",
+    "svn_url": "https://github.com/t3-oss/create-t3-app",
+    "homepage": "https://create.t3.gg",
+    "size": 8056,
+    "stargazers_count": 26048,
+    "watchers_count": 26048,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1209,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 70,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cli",
+        "create-t3-app",
+        "hacktoberfest",
+        "next-auth",
+        "nextjs",
+        "npx",
+        "prisma",
+        "t3",
+        "t3-stack",
+        "tailwindcss",
+        "trpc",
+        "typescript"
+    ],
+    "visibility": "public",
+    "forks": 1209,
+    "open_issues": 70,
+    "watchers": 26048,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.7.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.7.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.7.0",
+            "commit": {
+                "sha": "a9e7621098139c0844388f87574f4ea1590375d7",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/a9e7621098139c0844388f87574f4ea1590375d7"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuNy4w"
+        },
+        {
+            "name": "v5.7.0-next",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.7.0-next",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.7.0-next",
+            "commit": {
+                "sha": "60f7bf842ece965bf84d881b342427e850068f99",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/60f7bf842ece965bf84d881b342427e850068f99"
+            },
+            "node_id": "REF_kwDOHY3dKbVyZWZzL3RhZ3MvdjUuNy4wLW5leHQ"
+        },
+        {
+            "name": "v5.6.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.6.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.6.0",
+            "commit": {
+                "sha": "0790af7d95a06b246e54ed067281702b0712f3ca",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/0790af7d95a06b246e54ed067281702b0712f3ca"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuNi4w"
+        },
+        {
+            "name": "v5.6.0-next",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.6.0-next",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.6.0-next",
+            "commit": {
+                "sha": "0cb9685611489f146bb4676659ca5737ab455630",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/0cb9685611489f146bb4676659ca5737ab455630"
+            },
+            "node_id": "REF_kwDOHY3dKbVyZWZzL3RhZ3MvdjUuNi4wLW5leHQ"
+        },
+        {
+            "name": "v.5.5.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v.5.5.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v.5.5.0",
+            "commit": {
+                "sha": "93923741e4d44ff03b7e308ff5d1ea36b4ce3fcb",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/93923741e4d44ff03b7e308ff5d1ea36b4ce3fcb"
+            },
+            "node_id": "REF_kwDOHY3dKbFyZWZzL3RhZ3Mvdi41LjUuMA"
+        },
+        {
+            "name": "v5.5.0-next",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.5.0-next",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.5.0-next",
+            "commit": {
+                "sha": "ee1d1c88b5c68756a685247bfc3d93ad58feedfc",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/ee1d1c88b5c68756a685247bfc3d93ad58feedfc"
+            },
+            "node_id": "REF_kwDOHY3dKbVyZWZzL3RhZ3MvdjUuNS4wLW5leHQ"
+        },
+        {
+            "name": "v5.4.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.4.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.4.0",
+            "commit": {
+                "sha": "f6474c6e67d44d742de9ec0de432b3a41cd9355b",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/f6474c6e67d44d742de9ec0de432b3a41cd9355b"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuNC4w"
+        },
+        {
+            "name": "v5.4.0-next",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.4.0-next",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.4.0-next",
+            "commit": {
+                "sha": "3fefb0fdb02dc774e4b6c1023fb798e4b3b58db6",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/3fefb0fdb02dc774e4b6c1023fb798e4b3b58db6"
+            },
+            "node_id": "REF_kwDOHY3dKbVyZWZzL3RhZ3MvdjUuNC4wLW5leHQ"
+        },
+        {
+            "name": "v5.3.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.3.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.3.0",
+            "commit": {
+                "sha": "cebef68de57fac9e7af48e1a384fccc7f754d297",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/cebef68de57fac9e7af48e1a384fccc7f754d297"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuMy4w"
+        },
+        {
+            "name": "v5.3.0-next",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.3.0-next",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.3.0-next",
+            "commit": {
+                "sha": "0537718b362937ddefe862a0552377ca89589cba",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/0537718b362937ddefe862a0552377ca89589cba"
+            },
+            "node_id": "REF_kwDOHY3dKbVyZWZzL3RhZ3MvdjUuMy4wLW5leHQ"
+        },
+        {
+            "name": "v5.2.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.2.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.2.0",
+            "commit": {
+                "sha": "4cd1402d53faee5da68d8be00b373e4f06acdc1f",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/4cd1402d53faee5da68d8be00b373e4f06acdc1f"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuMi4w"
+        },
+        {
+            "name": "v5.1.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.1.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.1.0",
+            "commit": {
+                "sha": "822847518f12dd941f4ffcd675b801a849ebfcd9",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/822847518f12dd941f4ffcd675b801a849ebfcd9"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuMS4w"
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "cef7027d9141593a527de01ba33cd03040ec429b",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/cef7027d9141593a527de01ba33cd03040ec429b"
+            },
+            "node_id": "REF_kwDOHY3dKbByZWZzL3RhZ3MvdjUuMC4w"
+        },
+        {
+            "name": "create-t3-app@7.38.1",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.38.1",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.38.1",
+            "commit": {
+                "sha": "72057e3ec092969fde9631c4f7c853a85440668a",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/72057e3ec092969fde9631c4f7c853a85440668a"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM4LjE"
+        },
+        {
+            "name": "create-t3-app@7.38.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.38.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.38.0",
+            "commit": {
+                "sha": "0e9f08a16b1b87eb9fe9c1ccd2a6529c9dbbd075",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/0e9f08a16b1b87eb9fe9c1ccd2a6529c9dbbd075"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM4LjA"
+        },
+        {
+            "name": "create-t3-app@7.37.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.37.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.37.0",
+            "commit": {
+                "sha": "4885a97590a90b7d1d9897912ccfb7751a87f72f",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/4885a97590a90b7d1d9897912ccfb7751a87f72f"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM3LjA"
+        },
+        {
+            "name": "create-t3-app@7.36.2",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.36.2",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.36.2",
+            "commit": {
+                "sha": "ba446b78504d417a9ad487eee8f5087fe9f7848d",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/ba446b78504d417a9ad487eee8f5087fe9f7848d"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM2LjI"
+        },
+        {
+            "name": "create-t3-app@7.36.1",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.36.1",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.36.1",
+            "commit": {
+                "sha": "494c459f1df9c47f8ea0a007c7e5139e55808839",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/494c459f1df9c47f8ea0a007c7e5139e55808839"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM2LjE"
+        },
+        {
+            "name": "create-t3-app@7.36.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.36.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.36.0",
+            "commit": {
+                "sha": "22d01d2e93fc3a16c2001413ef2d54ac2ce84a5d",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/22d01d2e93fc3a16c2001413ef2d54ac2ce84a5d"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM2LjA"
+        },
+        {
+            "name": "create-t3-app@7.35.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.35.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.35.0",
+            "commit": {
+                "sha": "1c3898fb782017582efb5f1a11dc6991e952a54f",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/1c3898fb782017582efb5f1a11dc6991e952a54f"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM1LjA"
+        },
+        {
+            "name": "create-t3-app@7.34.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.34.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.34.0",
+            "commit": {
+                "sha": "499052c74d7c0a02b3a76c96e463545b10a94fff",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/499052c74d7c0a02b3a76c96e463545b10a94fff"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjM0LjA"
+        },
+        {
+            "name": "create-t3-app@7.33.1",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.33.1",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.33.1",
+            "commit": {
+                "sha": "8e3866ce7335c40bef7a25b592e41d03944a5dda",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/8e3866ce7335c40bef7a25b592e41d03944a5dda"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMzLjE"
+        },
+        {
+            "name": "create-t3-app@7.33.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.33.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.33.0",
+            "commit": {
+                "sha": "c45ee6a32a1553d28dacf217f88fa07c2c985d07",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/c45ee6a32a1553d28dacf217f88fa07c2c985d07"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMzLjA"
+        },
+        {
+            "name": "create-t3-app@7.32.1",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.32.1",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.32.1",
+            "commit": {
+                "sha": "0362924f9e1efe5b847490a76ae3b4287ef5cbfd",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/0362924f9e1efe5b847490a76ae3b4287ef5cbfd"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMyLjE"
+        },
+        {
+            "name": "create-t3-app@7.32.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.32.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.32.0",
+            "commit": {
+                "sha": "1eceb777901d11f6050c67d4557c51431e11dfe4",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/1eceb777901d11f6050c67d4557c51431e11dfe4"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMyLjA"
+        },
+        {
+            "name": "create-t3-app@7.31.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.31.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.31.0",
+            "commit": {
+                "sha": "2c401f8795fa5c14084d259e34bb5cde9ef8fdd1",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/2c401f8795fa5c14084d259e34bb5cde9ef8fdd1"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMxLjA"
+        },
+        {
+            "name": "create-t3-app@7.30.2",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.30.2",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.30.2",
+            "commit": {
+                "sha": "a1eb62c3738848c9cd8e02e1d777ba87e25f9c41",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/a1eb62c3738848c9cd8e02e1d777ba87e25f9c41"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMwLjI"
+        },
+        {
+            "name": "create-t3-app@7.30.1",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.30.1",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.30.1",
+            "commit": {
+                "sha": "b8aae587ff34d47c33fcc9abdcf37476a0ad66b2",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/b8aae587ff34d47c33fcc9abdcf37476a0ad66b2"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMwLjE"
+        },
+        {
+            "name": "create-t3-app@7.30.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.30.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.30.0",
+            "commit": {
+                "sha": "6c4c5250044710fd18fa0990dfc39319233e463c",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/6c4c5250044710fd18fa0990dfc39319233e463c"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjMwLjA"
+        },
+        {
+            "name": "create-t3-app@7.29.0",
+            "zipball_url": "https://api.github.com/repos/t3-oss/create-t3-app/zipball/refs/tags/create-t3-app@7.29.0",
+            "tarball_url": "https://api.github.com/repos/t3-oss/create-t3-app/tarball/refs/tags/create-t3-app@7.29.0",
+            "commit": {
+                "sha": "04660f2f9150ef623f7e794009e857f9dbd5e1a5",
+                "url": "https://api.github.com/repos/t3-oss/create-t3-app/commits/04660f2f9150ef623f7e794009e857f9dbd5e1a5"
+            },
+            "node_id": "REF_kwDOHY3dKb5yZWZzL3RhZ3MvY3JlYXRlLXQzLWFwcEA3LjI5LjA"
+        }
+    ]
+}

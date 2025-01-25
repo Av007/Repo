@@ -1,0 +1,425 @@
+{
+    "id": 74962515,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3NDk2MjUxNQ==",
+    "name": "CyberChef",
+    "full_name": "gchq/CyberChef",
+    "private": false,
+    "owner": {
+        "login": "gchq",
+        "id": 15800240,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1ODAwMjQw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15800240?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gchq",
+        "html_url": "https://github.com/gchq",
+        "followers_url": "https://api.github.com/users/gchq/followers",
+        "following_url": "https://api.github.com/users/gchq/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gchq/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gchq/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gchq/subscriptions",
+        "organizations_url": "https://api.github.com/users/gchq/orgs",
+        "repos_url": "https://api.github.com/users/gchq/repos",
+        "events_url": "https://api.github.com/users/gchq/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gchq/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/gchq/CyberChef",
+    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "fork": false,
+    "url": "https://api.github.com/repos/gchq/CyberChef",
+    "forks_url": "https://api.github.com/repos/gchq/CyberChef/forks",
+    "keys_url": "https://api.github.com/repos/gchq/CyberChef/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/gchq/CyberChef/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/gchq/CyberChef/teams",
+    "hooks_url": "https://api.github.com/repos/gchq/CyberChef/hooks",
+    "issue_events_url": "https://api.github.com/repos/gchq/CyberChef/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/gchq/CyberChef/events",
+    "assignees_url": "https://api.github.com/repos/gchq/CyberChef/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/gchq/CyberChef/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/gchq/CyberChef/tags",
+    "blobs_url": "https://api.github.com/repos/gchq/CyberChef/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/gchq/CyberChef/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/gchq/CyberChef/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/gchq/CyberChef/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/gchq/CyberChef/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/gchq/CyberChef/languages",
+    "stargazers_url": "https://api.github.com/repos/gchq/CyberChef/stargazers",
+    "contributors_url": "https://api.github.com/repos/gchq/CyberChef/contributors",
+    "subscribers_url": "https://api.github.com/repos/gchq/CyberChef/subscribers",
+    "subscription_url": "https://api.github.com/repos/gchq/CyberChef/subscription",
+    "commits_url": "https://api.github.com/repos/gchq/CyberChef/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/gchq/CyberChef/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/gchq/CyberChef/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/gchq/CyberChef/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/gchq/CyberChef/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/gchq/CyberChef/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/gchq/CyberChef/merges",
+    "archive_url": "https://api.github.com/repos/gchq/CyberChef/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/gchq/CyberChef/downloads",
+    "issues_url": "https://api.github.com/repos/gchq/CyberChef/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/gchq/CyberChef/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/gchq/CyberChef/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/gchq/CyberChef/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/gchq/CyberChef/labels{/name}",
+    "releases_url": "https://api.github.com/repos/gchq/CyberChef/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/gchq/CyberChef/deployments",
+    "created_at": "2016-11-28T10:34:07Z",
+    "updated_at": "2025-01-25T16:38:46Z",
+    "pushed_at": "2024-10-23T15:17:30Z",
+    "git_url": "git://github.com/gchq/CyberChef.git",
+    "ssh_url": "git@github.com:gchq/CyberChef.git",
+    "clone_url": "https://github.com/gchq/CyberChef.git",
+    "svn_url": "https://github.com/gchq/CyberChef",
+    "homepage": "https://gchq.github.io/CyberChef",
+    "size": 92421,
+    "stargazers_count": 29949,
+    "watchers_count": 29949,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 3351,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 536,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "compression",
+        "data-analysis",
+        "data-manipulation",
+        "encoding",
+        "encryption",
+        "hashing",
+        "parsing"
+    ],
+    "visibility": "public",
+    "forks": 3351,
+    "open_issues": 536,
+    "watchers": 29949,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v10.19.4",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.19.4",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.19.4",
+            "commit": {
+                "sha": "3822c6c520a0b4200abc675c33f46082f5b9efc6",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/3822c6c520a0b4200abc675c33f46082f5b9efc6"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOS40"
+        },
+        {
+            "name": "v10.19.3",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.19.3",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.19.3",
+            "commit": {
+                "sha": "270a33317944612d27ea1cc15275ad6b0ed097e5",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/270a33317944612d27ea1cc15275ad6b0ed097e5"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOS4z"
+        },
+        {
+            "name": "v10.19.2",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.19.2",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.19.2",
+            "commit": {
+                "sha": "d635cca2106aae2a59caf0e5d7e3633ee1ea3155",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/d635cca2106aae2a59caf0e5d7e3633ee1ea3155"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOS4y"
+        },
+        {
+            "name": "v10.19.1",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.19.1",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.19.1",
+            "commit": {
+                "sha": "5f88ae44ec77228d9bed8f11e8cc8e7dcfb36914",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/5f88ae44ec77228d9bed8f11e8cc8e7dcfb36914"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOS4x"
+        },
+        {
+            "name": "v10.19.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.19.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.19.0",
+            "commit": {
+                "sha": "40fda00db41b14cada5c84979fd28a5419c8fdfb",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/40fda00db41b14cada5c84979fd28a5419c8fdfb"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOS4w"
+        },
+        {
+            "name": "v10.18.9",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.9",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.9",
+            "commit": {
+                "sha": "965570d2504c17ee1f96211a1dc10ed40cd2b332",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/965570d2504c17ee1f96211a1dc10ed40cd2b332"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC45"
+        },
+        {
+            "name": "v10.18.8",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.8",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.8",
+            "commit": {
+                "sha": "0cd4d41cdc8bcba7eb907f27250afac3bd3fa106",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/0cd4d41cdc8bcba7eb907f27250afac3bd3fa106"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC44"
+        },
+        {
+            "name": "v10.18.7",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.7",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.7",
+            "commit": {
+                "sha": "7eb887ca513ba360951af1fcb7d33166d2300bff",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/7eb887ca513ba360951af1fcb7d33166d2300bff"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC43"
+        },
+        {
+            "name": "v10.18.6",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.6",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.6",
+            "commit": {
+                "sha": "18159ce806e63286019a5a6828422a992fbb253b",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/18159ce806e63286019a5a6828422a992fbb253b"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC42"
+        },
+        {
+            "name": "v10.18.5",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.5",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.5",
+            "commit": {
+                "sha": "fb818c31493a8290f1822bf044257dcb90ac1f75",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/fb818c31493a8290f1822bf044257dcb90ac1f75"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC41"
+        },
+        {
+            "name": "v10.18.4",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.4",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.4",
+            "commit": {
+                "sha": "d1a0da3f8d8dfc4bede49575bda93ba90410bd50",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/d1a0da3f8d8dfc4bede49575bda93ba90410bd50"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC40"
+        },
+        {
+            "name": "v10.18.3",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.3",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.3",
+            "commit": {
+                "sha": "48f3bf9ea7eb9a11cae4e6b2d9d109bb97c29264",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/48f3bf9ea7eb9a11cae4e6b2d9d109bb97c29264"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC4z"
+        },
+        {
+            "name": "v10.18.2",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.2",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.2",
+            "commit": {
+                "sha": "718ce9ea11c17fc68e32106e16a0370384d8469b",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/718ce9ea11c17fc68e32106e16a0370384d8469b"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC4y"
+        },
+        {
+            "name": "v10.18.1",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.1",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.1",
+            "commit": {
+                "sha": "2d6ac8023e9edc8106a5e2fca4bd343f11d06acf",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/2d6ac8023e9edc8106a5e2fca4bd343f11d06acf"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC4x"
+        },
+        {
+            "name": "v10.18.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.18.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.18.0",
+            "commit": {
+                "sha": "f304f0832b23265964a5d3234d1f535ca0b7b197",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/f304f0832b23265964a5d3234d1f535ca0b7b197"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xOC4w"
+        },
+        {
+            "name": "v10.17.1",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.17.1",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.17.1",
+            "commit": {
+                "sha": "2e2490ce474c721e595307339f57ef2acd9f8ac9",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/2e2490ce474c721e595307339f57ef2acd9f8ac9"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xNy4x"
+        },
+        {
+            "name": "v10.17.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.17.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.17.0",
+            "commit": {
+                "sha": "8ab2256b885b472f76986168eca2119663e5af05",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/8ab2256b885b472f76986168eca2119663e5af05"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xNy4w"
+        },
+        {
+            "name": "v10.16.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.16.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.16.0",
+            "commit": {
+                "sha": "cc28c6af1a41cafc64aad0b7d6f6b8c3f8e8613b",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/cc28c6af1a41cafc64aad0b7d6f6b8c3f8e8613b"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xNi4w"
+        },
+        {
+            "name": "v10.15.1",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.15.1",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.15.1",
+            "commit": {
+                "sha": "33a473c09b33360b03c76c2c01eec8c4b0adf714",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/33a473c09b33360b03c76c2c01eec8c4b0adf714"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xNS4x"
+        },
+        {
+            "name": "v10.15.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.15.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.15.0",
+            "commit": {
+                "sha": "c35557aea52046228af7c545cf05337c6245e087",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/c35557aea52046228af7c545cf05337c6245e087"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xNS4w"
+        },
+        {
+            "name": "v10.14.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.14.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.14.0",
+            "commit": {
+                "sha": "866c9a94aed2db851c5fd93937158844374170ff",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/866c9a94aed2db851c5fd93937158844374170ff"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xNC4w"
+        },
+        {
+            "name": "v10.13.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.13.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.13.0",
+            "commit": {
+                "sha": "b88fbcc960cb5a936cf8231fb64f51d1925491ad",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/b88fbcc960cb5a936cf8231fb64f51d1925491ad"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xMy4w"
+        },
+        {
+            "name": "v10.12.1",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.12.1",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.12.1",
+            "commit": {
+                "sha": "acce7ca717017bfba97cbac943502f522effc382",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/acce7ca717017bfba97cbac943502f522effc382"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xMi4x"
+        },
+        {
+            "name": "v10.12.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.12.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.12.0",
+            "commit": {
+                "sha": "d29dbe78d31cb7d657bca77dfd16d684aef0e5a5",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/d29dbe78d31cb7d657bca77dfd16d684aef0e5a5"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xMi4w"
+        },
+        {
+            "name": "v10.11.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.11.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.11.0",
+            "commit": {
+                "sha": "27b7e3c4d654e797141413d8c45e23a22b304180",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/27b7e3c4d654e797141413d8c45e23a22b304180"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xMS4w"
+        },
+        {
+            "name": "v10.10.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.10.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.10.0",
+            "commit": {
+                "sha": "862cfdf0ae2eeafec1ee7b14099d44246677defc",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/862cfdf0ae2eeafec1ee7b14099d44246677defc"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC4xMC4w"
+        },
+        {
+            "name": "v10.9.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.9.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.9.0",
+            "commit": {
+                "sha": "0026d77b7b5ad8079e1fd58fddbdbc0e6428897c",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/0026d77b7b5ad8079e1fd58fddbdbc0e6428897c"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC45LjA="
+        },
+        {
+            "name": "v10.8.2",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.8.2",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.8.2",
+            "commit": {
+                "sha": "bebb216df2cfc6f33e97f275916408c3a34d2a7d",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/bebb216df2cfc6f33e97f275916408c3a34d2a7d"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC44LjI="
+        },
+        {
+            "name": "v10.8.1",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.8.1",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.8.1",
+            "commit": {
+                "sha": "112d52cb9900817be3f3ab9bee803faa5fd86bff",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/112d52cb9900817be3f3ab9bee803faa5fd86bff"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC44LjE="
+        },
+        {
+            "name": "v10.8.0",
+            "zipball_url": "https://api.github.com/repos/gchq/CyberChef/zipball/refs/tags/v10.8.0",
+            "tarball_url": "https://api.github.com/repos/gchq/CyberChef/tarball/refs/tags/v10.8.0",
+            "commit": {
+                "sha": "47f1f4c549e125f68bc2311710c26290a54e2fe0",
+                "url": "https://api.github.com/repos/gchq/CyberChef/commits/47f1f4c549e125f68bc2311710c26290a54e2fe0"
+            },
+            "node_id": "MDM6UmVmNzQ5NjI1MTU6cmVmcy90YWdzL3YxMC44LjA="
+        }
+    ]
+}

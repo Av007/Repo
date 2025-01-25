@@ -1,0 +1,429 @@
+{
+    "id": 100060912,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMDAwNjA5MTI=",
+    "name": "terminal",
+    "full_name": "microsoft/terminal",
+    "private": false,
+    "owner": {
+        "login": "microsoft",
+        "id": 6154722,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/microsoft",
+        "html_url": "https://github.com/microsoft",
+        "followers_url": "https://api.github.com/users/microsoft/followers",
+        "following_url": "https://api.github.com/users/microsoft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/microsoft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/microsoft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/microsoft/subscriptions",
+        "organizations_url": "https://api.github.com/users/microsoft/orgs",
+        "repos_url": "https://api.github.com/users/microsoft/repos",
+        "events_url": "https://api.github.com/users/microsoft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/microsoft/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "fork": false,
+    "url": "https://api.github.com/repos/microsoft/terminal",
+    "forks_url": "https://api.github.com/repos/microsoft/terminal/forks",
+    "keys_url": "https://api.github.com/repos/microsoft/terminal/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/microsoft/terminal/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/microsoft/terminal/teams",
+    "hooks_url": "https://api.github.com/repos/microsoft/terminal/hooks",
+    "issue_events_url": "https://api.github.com/repos/microsoft/terminal/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/microsoft/terminal/events",
+    "assignees_url": "https://api.github.com/repos/microsoft/terminal/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/microsoft/terminal/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/microsoft/terminal/tags",
+    "blobs_url": "https://api.github.com/repos/microsoft/terminal/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/microsoft/terminal/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/microsoft/terminal/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/microsoft/terminal/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/microsoft/terminal/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/microsoft/terminal/languages",
+    "stargazers_url": "https://api.github.com/repos/microsoft/terminal/stargazers",
+    "contributors_url": "https://api.github.com/repos/microsoft/terminal/contributors",
+    "subscribers_url": "https://api.github.com/repos/microsoft/terminal/subscribers",
+    "subscription_url": "https://api.github.com/repos/microsoft/terminal/subscription",
+    "commits_url": "https://api.github.com/repos/microsoft/terminal/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/microsoft/terminal/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/microsoft/terminal/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/microsoft/terminal/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/microsoft/terminal/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/microsoft/terminal/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/microsoft/terminal/merges",
+    "archive_url": "https://api.github.com/repos/microsoft/terminal/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/microsoft/terminal/downloads",
+    "issues_url": "https://api.github.com/repos/microsoft/terminal/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/microsoft/terminal/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/microsoft/terminal/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/microsoft/terminal/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/microsoft/terminal/labels{/name}",
+    "releases_url": "https://api.github.com/repos/microsoft/terminal/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/microsoft/terminal/deployments",
+    "created_at": "2017-08-11T18:38:22Z",
+    "updated_at": "2025-01-25T13:36:44Z",
+    "pushed_at": "2025-01-25T03:05:47Z",
+    "git_url": "git://github.com/microsoft/terminal.git",
+    "ssh_url": "git@github.com:microsoft/terminal.git",
+    "clone_url": "https://github.com/microsoft/terminal.git",
+    "svn_url": "https://github.com/microsoft/terminal",
+    "homepage": "",
+    "size": 150117,
+    "stargazers_count": 96571,
+    "watchers_count": 96571,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8417,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1601,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cmd",
+        "command-line",
+        "console",
+        "contributions-welcome",
+        "good-first-issue",
+        "hacktoberfest",
+        "terminal",
+        "windows",
+        "windows-console",
+        "windows-terminal",
+        "wsl"
+    ],
+    "visibility": "public",
+    "forks": 8417,
+    "open_issues": 1601,
+    "watchers": 96571,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.22.3232.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.22.3232.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.22.3232.0",
+            "commit": {
+                "sha": "03f050559c541c8160ad27c6689581ead8ae62fd",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/03f050559c541c8160ad27c6689581ead8ae62fd"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMi4zMjMyLjA="
+        },
+        {
+            "name": "v1.22.2912.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.22.2912.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.22.2912.0",
+            "commit": {
+                "sha": "3ace5785cd289721e1bdfb16bdcf78faddeb6227",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/3ace5785cd289721e1bdfb16bdcf78faddeb6227"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMi4yOTEyLjA="
+        },
+        {
+            "name": "v1.22.2702.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.22.2702.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.22.2702.0",
+            "commit": {
+                "sha": "24475acba845c2f2bf24d58245470d66ef487164",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/24475acba845c2f2bf24d58245470d66ef487164"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMi4yNzAyLjA="
+        },
+        {
+            "name": "v1.22.2362.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.22.2362.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.22.2362.0",
+            "commit": {
+                "sha": "90cfb33c1350298ebc281ecb34b4378e9bd0e727",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/90cfb33c1350298ebc281ecb34b4378e9bd0e727"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMi4yMzYyLjA="
+        },
+        {
+            "name": "v1.21.3231.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.3231.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.3231.0",
+            "commit": {
+                "sha": "0c98216d2ff8718511f2e06baa1fa82291523940",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/0c98216d2ff8718511f2e06baa1fa82291523940"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4zMjMxLjA="
+        },
+        {
+            "name": "v1.21.2911.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.2911.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.2911.0",
+            "commit": {
+                "sha": "f5b8e982438d39d243f07e2bdd10e8f1631f728d",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/f5b8e982438d39d243f07e2bdd10e8f1631f728d"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4yOTExLjA="
+        },
+        {
+            "name": "v1.21.2701.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.2701.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.2701.0",
+            "commit": {
+                "sha": "cba3d71378dfa97dcf21b263d6ea4218d04f5ab8",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/cba3d71378dfa97dcf21b263d6ea4218d04f5ab8"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4yNzAxLjA="
+        },
+        {
+            "name": "v1.21.2361.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.2361.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.2361.0",
+            "commit": {
+                "sha": "e8c15683a726eccf416d28d9159350ecbe555796",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/e8c15683a726eccf416d28d9159350ecbe555796"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4yMzYxLjA="
+        },
+        {
+            "name": "v1.21.1772.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.1772.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.1772.0",
+            "commit": {
+                "sha": "2a15717f696ee864157bf8524067b8bbf90e5967",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/2a15717f696ee864157bf8524067b8bbf90e5967"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4xNzcyLjA="
+        },
+        {
+            "name": "v1.21.1382.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.1382.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.1382.0",
+            "commit": {
+                "sha": "bc365c954281fb8865ba0bafff557b33d0bf312a",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/bc365c954281fb8865ba0bafff557b33d0bf312a"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4xMzgyLjA="
+        },
+        {
+            "name": "v1.21.1272.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.21.1272.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.21.1272.0",
+            "commit": {
+                "sha": "f0fc1b570193aff5ff97707178156ff0a6aefcb7",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/f0fc1b570193aff5ff97707178156ff0a6aefcb7"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMS4xMjcyLjA="
+        },
+        {
+            "name": "v1.20.11781.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.11781.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.11781.0",
+            "commit": {
+                "sha": "58073ce8693457504c19dc7b6036e8c0926fdad2",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/58073ce8693457504c19dc7b6036e8c0926fdad2"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMTc4MS4w"
+        },
+        {
+            "name": "v1.20.11381.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.11381.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.11381.0",
+            "commit": {
+                "sha": "27fff2c1a3e94a4257d8a8b61ad69318fbf36a92",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/27fff2c1a3e94a4257d8a8b61ad69318fbf36a92"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMTM4MS4w"
+        },
+        {
+            "name": "v1.20.11271.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.11271.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.11271.0",
+            "commit": {
+                "sha": "e349130d4e744a9d9d908f4fea4bb4749e40efbb",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/e349130d4e744a9d9d908f4fea4bb4749e40efbb"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMTI3MS4w"
+        },
+        {
+            "name": "v1.20.11215.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.11215.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.11215.0",
+            "commit": {
+                "sha": "47da9a05028546cb50fa1cf13da3289787ed59f7",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/47da9a05028546cb50fa1cf13da3289787ed59f7"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMTIxNS4w"
+        },
+        {
+            "name": "v1.20.10822.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.10822.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.10822.0",
+            "commit": {
+                "sha": "a50eba1cc9325d811660bfbfb8f9e47d04443993",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/a50eba1cc9325d811660bfbfb8f9e47d04443993"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMDgyMi4w"
+        },
+        {
+            "name": "v1.20.10572.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.10572.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.10572.0",
+            "commit": {
+                "sha": "4706697627a599cfce06adb6e345cb6cabdd7c98",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/4706697627a599cfce06adb6e345cb6cabdd7c98"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMDU3Mi4w"
+        },
+        {
+            "name": "v1.20.10303.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.10303.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.10303.0",
+            "commit": {
+                "sha": "29a46c36f68be9d46893d8fe716a8485e5869ec2",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/29a46c36f68be9d46893d8fe716a8485e5869ec2"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMDMwMy4w"
+        },
+        {
+            "name": "v1.20.10293.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.20.10293.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.20.10293.0",
+            "commit": {
+                "sha": "dccc1f42407c610aea04adb20c912b4ef0e493f8",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/dccc1f42407c610aea04adb20c912b4ef0e493f8"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4yMC4xMDI5My4w"
+        },
+        {
+            "name": "v1.19.11213.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.11213.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.11213.0",
+            "commit": {
+                "sha": "49b80b48d60440594097562d10fdc5ddfdcdfdf6",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/49b80b48d60440594097562d10fdc5ddfdcdfdf6"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4xMTIxMy4w"
+        },
+        {
+            "name": "v1.19.10821.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.10821.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.10821.0",
+            "commit": {
+                "sha": "280ff0976238d21d16c48f49884f7373a08237ba",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/280ff0976238d21d16c48f49884f7373a08237ba"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4xMDgyMS4w"
+        },
+        {
+            "name": "v1.19.10573.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.10573.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.10573.0",
+            "commit": {
+                "sha": "bb5f56e704ca6f838c78a6ecf44f86a6d2b12fea",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/bb5f56e704ca6f838c78a6ecf44f86a6d2b12fea"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4xMDU3My4w"
+        },
+        {
+            "name": "v1.19.10302.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.10302.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.10302.0",
+            "commit": {
+                "sha": "01868978b38482fe87c795302c458bc84caca850",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/01868978b38482fe87c795302c458bc84caca850"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4xMDMwMi4w"
+        },
+        {
+            "name": "v1.19.10292.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.10292.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.10292.0",
+            "commit": {
+                "sha": "bc48eda0223a63a2645f846db831613d107af0d8",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/bc48eda0223a63a2645f846db831613d107af0d8"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4xMDI5Mi4w"
+        },
+        {
+            "name": "v1.19.3172.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.3172.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.3172.0",
+            "commit": {
+                "sha": "55a9874d5ca6cb626de42c9c2756f1e3283e988f",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/55a9874d5ca6cb626de42c9c2756f1e3283e988f"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4zMTcyLjA="
+        },
+        {
+            "name": "v1.19.2831.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.2831.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.2831.0",
+            "commit": {
+                "sha": "145c4d36412ba07bbe1b7d8b49c031c337df28f3",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/145c4d36412ba07bbe1b7d8b49c031c337df28f3"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4yODMxLjA="
+        },
+        {
+            "name": "v1.19.2682.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.19.2682.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.19.2682.0",
+            "commit": {
+                "sha": "aef2dbd07627aa7bf9d45d2ca6c3f46b4bf0e5ec",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/aef2dbd07627aa7bf9d45d2ca6c3f46b4bf0e5ec"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOS4yNjgyLjA="
+        },
+        {
+            "name": "v1.18.10301.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.18.10301.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.18.10301.0",
+            "commit": {
+                "sha": "78de1147e910115f084638ba382675c7721c0fce",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/78de1147e910115f084638ba382675c7721c0fce"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOC4xMDMwMS4w"
+        },
+        {
+            "name": "v1.18.10291.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.18.10291.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.18.10291.0",
+            "commit": {
+                "sha": "8ac494b8c113fd27d929931fbfb159c7632dee36",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/8ac494b8c113fd27d929931fbfb159c7632dee36"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOC4xMDI5MS4w"
+        },
+        {
+            "name": "v1.18.3181.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/terminal/zipball/refs/tags/v1.18.3181.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/terminal/tarball/refs/tags/v1.18.3181.0",
+            "commit": {
+                "sha": "2304a9c3a9e3e9cb79daa72304a4aa145e5849cb",
+                "url": "https://api.github.com/repos/microsoft/terminal/commits/2304a9c3a9e3e9cb79daa72304a4aa145e5849cb"
+            },
+            "node_id": "MDM6UmVmMTAwMDYwOTEyOnJlZnMvdGFncy92MS4xOC4zMTgxLjA="
+        }
+    ]
+}

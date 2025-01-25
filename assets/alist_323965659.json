@@ -1,0 +1,424 @@
+{
+    "id": 323965659,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzMjM5NjU2NTk=",
+    "name": "alist",
+    "full_name": "AlistGo/alist",
+    "private": false,
+    "owner": {
+        "login": "AlistGo",
+        "id": 184931308,
+        "node_id": "O_kgDOCwXT7A",
+        "avatar_url": "https://avatars.githubusercontent.com/u/184931308?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/AlistGo",
+        "html_url": "https://github.com/AlistGo",
+        "followers_url": "https://api.github.com/users/AlistGo/followers",
+        "following_url": "https://api.github.com/users/AlistGo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/AlistGo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/AlistGo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/AlistGo/subscriptions",
+        "organizations_url": "https://api.github.com/users/AlistGo/orgs",
+        "repos_url": "https://api.github.com/users/AlistGo/repos",
+        "events_url": "https://api.github.com/users/AlistGo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/AlistGo/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/AlistGo/alist",
+    "description": "\ud83d\uddc2\ufe0fA file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / \u4e00\u4e2a\u652f\u6301\u591a\u5b58\u50a8\u7684\u6587\u4ef6\u5217\u8868/WebDAV\u7a0b\u5e8f\uff0c\u4f7f\u7528 Gin \u548c Solidjs\u3002",
+    "fork": false,
+    "url": "https://api.github.com/repos/AlistGo/alist",
+    "forks_url": "https://api.github.com/repos/AlistGo/alist/forks",
+    "keys_url": "https://api.github.com/repos/AlistGo/alist/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/AlistGo/alist/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/AlistGo/alist/teams",
+    "hooks_url": "https://api.github.com/repos/AlistGo/alist/hooks",
+    "issue_events_url": "https://api.github.com/repos/AlistGo/alist/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/AlistGo/alist/events",
+    "assignees_url": "https://api.github.com/repos/AlistGo/alist/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/AlistGo/alist/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/AlistGo/alist/tags",
+    "blobs_url": "https://api.github.com/repos/AlistGo/alist/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/AlistGo/alist/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/AlistGo/alist/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/AlistGo/alist/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/AlistGo/alist/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/AlistGo/alist/languages",
+    "stargazers_url": "https://api.github.com/repos/AlistGo/alist/stargazers",
+    "contributors_url": "https://api.github.com/repos/AlistGo/alist/contributors",
+    "subscribers_url": "https://api.github.com/repos/AlistGo/alist/subscribers",
+    "subscription_url": "https://api.github.com/repos/AlistGo/alist/subscription",
+    "commits_url": "https://api.github.com/repos/AlistGo/alist/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/AlistGo/alist/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/AlistGo/alist/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/AlistGo/alist/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/AlistGo/alist/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/AlistGo/alist/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/AlistGo/alist/merges",
+    "archive_url": "https://api.github.com/repos/AlistGo/alist/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/AlistGo/alist/downloads",
+    "issues_url": "https://api.github.com/repos/AlistGo/alist/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/AlistGo/alist/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/AlistGo/alist/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/AlistGo/alist/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/AlistGo/alist/labels{/name}",
+    "releases_url": "https://api.github.com/repos/AlistGo/alist/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/AlistGo/alist/deployments",
+    "created_at": "2020-12-23T17:40:29Z",
+    "updated_at": "2025-01-25T16:34:30Z",
+    "pushed_at": "2025-01-23T14:49:54Z",
+    "git_url": "git://github.com/AlistGo/alist.git",
+    "ssh_url": "git@github.com:AlistGo/alist.git",
+    "clone_url": "https://github.com/AlistGo/alist.git",
+    "svn_url": "https://github.com/AlistGo/alist",
+    "homepage": "https://alistgo.com",
+    "size": 5104,
+    "stargazers_count": 45872,
+    "watchers_count": 45872,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5940,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 357,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "file-server",
+        "gin",
+        "golang",
+        "onedrive",
+        "solidjs",
+        "webdav"
+    ],
+    "visibility": "public",
+    "forks": 5940,
+    "open_issues": 357,
+    "watchers": 45872,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.41.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.41.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.41.0",
+            "commit": {
+                "sha": "cf58ab3a78aea2e97053fc3fbf8b0050f420604a",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/cf58ab3a78aea2e97053fc3fbf8b0050f420604a"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My40MS4w"
+        },
+        {
+            "name": "v3.40.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.40.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.40.0",
+            "commit": {
+                "sha": "94915b214838714431a6735ebd4632eeec28568d",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/94915b214838714431a6735ebd4632eeec28568d"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My40MC4w"
+        },
+        {
+            "name": "v3.39.4",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.39.4",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.39.4",
+            "commit": {
+                "sha": "0ba754fd406041d9a7e1bf3ce0e9949914239a49",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/0ba754fd406041d9a7e1bf3ce0e9949914239a49"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zOS40"
+        },
+        {
+            "name": "v3.39.3",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.39.3",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.39.3",
+            "commit": {
+                "sha": "28d2367a87cfd76de59a24616d68128d3a9cc14a",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/28d2367a87cfd76de59a24616d68128d3a9cc14a"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zOS4z"
+        },
+        {
+            "name": "v3.39.2",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.39.2",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.39.2",
+            "commit": {
+                "sha": "a4ad98ee3e4647d2222d41cd22588fadc9a7535b",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/a4ad98ee3e4647d2222d41cd22588fadc9a7535b"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zOS4y"
+        },
+        {
+            "name": "v3.39.1",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.39.1",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.39.1",
+            "commit": {
+                "sha": "b803b0070ecde83f2868b15902c34fe9543fb2e2",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/b803b0070ecde83f2868b15902c34fe9543fb2e2"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zOS4x"
+        },
+        {
+            "name": "v3.38.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.38.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.38.0",
+            "commit": {
+                "sha": "c3e43ff60588f52f7b8e41c41c99980093b289fb",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/c3e43ff60588f52f7b8e41c41c99980093b289fb"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zOC4w"
+        },
+        {
+            "name": "v3.37.4",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.37.4",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.37.4",
+            "commit": {
+                "sha": "6106a2d4cc275df59abb992b8ad8ad32d45f69ad",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/6106a2d4cc275df59abb992b8ad8ad32d45f69ad"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNy40"
+        },
+        {
+            "name": "v3.37.3",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.37.3",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.37.3",
+            "commit": {
+                "sha": "b6451451b19c4584a41cac5d890fd369cf76bab8",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/b6451451b19c4584a41cac5d890fd369cf76bab8"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNy4z"
+        },
+        {
+            "name": "v3.37.2",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.37.2",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.37.2",
+            "commit": {
+                "sha": "b7ae56b109172759a965f030dd28bb658270a2df",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/b7ae56b109172759a965f030dd28bb658270a2df"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNy4y"
+        },
+        {
+            "name": "v3.37.1",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.37.1",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.37.1",
+            "commit": {
+                "sha": "b36d38f63f5efe0e8625a354456008d3742228dd",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/b36d38f63f5efe0e8625a354456008d3742228dd"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNy4x"
+        },
+        {
+            "name": "v3.36.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.36.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.36.0",
+            "commit": {
+                "sha": "d4e3355f5692a690a8aa02298b0052e4340a3e55",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/d4e3355f5692a690a8aa02298b0052e4340a3e55"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNi4w"
+        },
+        {
+            "name": "v3.35.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.35.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.35.0",
+            "commit": {
+                "sha": "8e2b9c681a47ce0cf75c619000c8bc62cf5968b1",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/8e2b9c681a47ce0cf75c619000c8bc62cf5968b1"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNS4w"
+        },
+        {
+            "name": "v3.34.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.34.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.34.0",
+            "commit": {
+                "sha": "4cbbda8832449d1ccd9b81b5dbec574912934408",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/4cbbda8832449d1ccd9b81b5dbec574912934408"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zNC4w"
+        },
+        {
+            "name": "v3.33.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.33.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.33.0",
+            "commit": {
+                "sha": "cf08aa3668d319b4001268f94ef13ed76c1afd70",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/cf08aa3668d319b4001268f94ef13ed76c1afd70"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zMy4w"
+        },
+        {
+            "name": "v3.32.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.32.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.32.0",
+            "commit": {
+                "sha": "ae6984714d984e4c5e8f9c2f9bedee580960bfd9",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/ae6984714d984e4c5e8f9c2f9bedee580960bfd9"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zMi4w"
+        },
+        {
+            "name": "v3.31.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.31.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.31.0",
+            "commit": {
+                "sha": "e66abb3f5899b0970006322a249b71c57c1e5c64",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/e66abb3f5899b0970006322a249b71c57c1e5c64"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zMS4w"
+        },
+        {
+            "name": "v3.30.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.30.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.30.0",
+            "commit": {
+                "sha": "e6e2d03ba175edea1c9c2c6bd42259e11ed764a0",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/e6e2d03ba175edea1c9c2c6bd42259e11ed764a0"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4zMC4w"
+        },
+        {
+            "name": "v3.29.1",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.29.1",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.29.1",
+            "commit": {
+                "sha": "d142fc3449daf0a50d2083102664ce42f592ea27",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/d142fc3449daf0a50d2083102664ce42f592ea27"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yOS4x"
+        },
+        {
+            "name": "v3.29.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.29.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.29.0",
+            "commit": {
+                "sha": "d26887d211c87b68da00827096ba85944e998256",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/d26887d211c87b68da00827096ba85944e998256"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yOS4w"
+        },
+        {
+            "name": "v3.28.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.28.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.28.0",
+            "commit": {
+                "sha": "a64dd4885ece1709e5287e07dbb4d6832fd1d3b1",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/a64dd4885ece1709e5287e07dbb4d6832fd1d3b1"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yOC4w"
+        },
+        {
+            "name": "v3.27.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.27.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.27.0",
+            "commit": {
+                "sha": "3c66db9845cd6e990230fcd2cfb39ae92872815e",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/3c66db9845cd6e990230fcd2cfb39ae92872815e"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yNy4w"
+        },
+        {
+            "name": "v3.26.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.26.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.26.0",
+            "commit": {
+                "sha": "8c3337b88bb7048eb4ab94b7d0be76b779e38709",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/8c3337b88bb7048eb4ab94b7d0be76b779e38709"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yNi4w"
+        },
+        {
+            "name": "v3.25.1",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.25.1",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.25.1",
+            "commit": {
+                "sha": "a797494aa3c44e3ca2894c32858dc221997ccb44",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/a797494aa3c44e3ca2894c32858dc221997ccb44"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yNS4x"
+        },
+        {
+            "name": "v3.24.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.24.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.24.0",
+            "commit": {
+                "sha": "579f0c06afe2be12a9a5820f6619b02d93056e7d",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/579f0c06afe2be12a9a5820f6619b02d93056e7d"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yNC4w"
+        },
+        {
+            "name": "v3.23.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.23.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.23.0",
+            "commit": {
+                "sha": "d4ea8787c9e94411cf4720134ba2fefb639d15c5",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/d4ea8787c9e94411cf4720134ba2fefb639d15c5"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yMy4w"
+        },
+        {
+            "name": "v3.22.1",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.22.1",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.22.1",
+            "commit": {
+                "sha": "afcfbf02ea5683d4555a2ddfe5eed2f5a0a09202",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/afcfbf02ea5683d4555a2ddfe5eed2f5a0a09202"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yMi4x"
+        },
+        {
+            "name": "v3.22.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.22.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.22.0",
+            "commit": {
+                "sha": "3f7882b4674365bebbbdbf3b78cfede170827d03",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/3f7882b4674365bebbbdbf3b78cfede170827d03"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yMi4w"
+        },
+        {
+            "name": "v3.21.0",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.21.0",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.21.0",
+            "commit": {
+                "sha": "a31af209cc3702cea549aa905aec36e2eae15bd6",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/a31af209cc3702cea549aa905aec36e2eae15bd6"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yMS4w"
+        },
+        {
+            "name": "v3.20.1",
+            "zipball_url": "https://api.github.com/repos/AlistGo/alist/zipball/refs/tags/v3.20.1",
+            "tarball_url": "https://api.github.com/repos/AlistGo/alist/tarball/refs/tags/v3.20.1",
+            "commit": {
+                "sha": "8bdc67ec3d41b68eb15a0d6899e3aa0ee5415645",
+                "url": "https://api.github.com/repos/AlistGo/alist/commits/8bdc67ec3d41b68eb15a0d6899e3aa0ee5415645"
+            },
+            "node_id": "MDM6UmVmMzIzOTY1NjU5OnJlZnMvdGFncy92My4yMC4x"
+        }
+    ]
+}

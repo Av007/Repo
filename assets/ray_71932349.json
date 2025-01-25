@@ -1,0 +1,438 @@
+{
+    "id": 71932349,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3MTkzMjM0OQ==",
+    "name": "ray",
+    "full_name": "ray-project/ray",
+    "private": false,
+    "owner": {
+        "login": "ray-project",
+        "id": 22125274,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMTI1Mjc0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22125274?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ray-project",
+        "html_url": "https://github.com/ray-project",
+        "followers_url": "https://api.github.com/users/ray-project/followers",
+        "following_url": "https://api.github.com/users/ray-project/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ray-project/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ray-project/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ray-project/subscriptions",
+        "organizations_url": "https://api.github.com/users/ray-project/orgs",
+        "repos_url": "https://api.github.com/users/ray-project/repos",
+        "events_url": "https://api.github.com/users/ray-project/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ray-project/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/ray-project/ray",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "fork": false,
+    "url": "https://api.github.com/repos/ray-project/ray",
+    "forks_url": "https://api.github.com/repos/ray-project/ray/forks",
+    "keys_url": "https://api.github.com/repos/ray-project/ray/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ray-project/ray/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ray-project/ray/teams",
+    "hooks_url": "https://api.github.com/repos/ray-project/ray/hooks",
+    "issue_events_url": "https://api.github.com/repos/ray-project/ray/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ray-project/ray/events",
+    "assignees_url": "https://api.github.com/repos/ray-project/ray/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ray-project/ray/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ray-project/ray/tags",
+    "blobs_url": "https://api.github.com/repos/ray-project/ray/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ray-project/ray/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ray-project/ray/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ray-project/ray/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ray-project/ray/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ray-project/ray/languages",
+    "stargazers_url": "https://api.github.com/repos/ray-project/ray/stargazers",
+    "contributors_url": "https://api.github.com/repos/ray-project/ray/contributors",
+    "subscribers_url": "https://api.github.com/repos/ray-project/ray/subscribers",
+    "subscription_url": "https://api.github.com/repos/ray-project/ray/subscription",
+    "commits_url": "https://api.github.com/repos/ray-project/ray/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ray-project/ray/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ray-project/ray/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ray-project/ray/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ray-project/ray/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ray-project/ray/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ray-project/ray/merges",
+    "archive_url": "https://api.github.com/repos/ray-project/ray/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ray-project/ray/downloads",
+    "issues_url": "https://api.github.com/repos/ray-project/ray/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ray-project/ray/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ray-project/ray/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ray-project/ray/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ray-project/ray/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ray-project/ray/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ray-project/ray/deployments",
+    "created_at": "2016-10-25T19:38:30Z",
+    "updated_at": "2025-01-25T17:13:11Z",
+    "pushed_at": "2025-01-25T11:20:18Z",
+    "git_url": "git://github.com/ray-project/ray.git",
+    "ssh_url": "git@github.com:ray-project/ray.git",
+    "clone_url": "https://github.com/ray-project/ray.git",
+    "svn_url": "https://github.com/ray-project/ray",
+    "homepage": "https://ray.io",
+    "size": 495994,
+    "stargazers_count": 35023,
+    "watchers_count": 35023,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5962,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 4303,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "automl",
+        "data-science",
+        "deep-learning",
+        "deployment",
+        "distributed",
+        "hyperparameter-optimization",
+        "hyperparameter-search",
+        "java",
+        "llm-serving",
+        "machine-learning",
+        "model-selection",
+        "optimization",
+        "parallel",
+        "python",
+        "pytorch",
+        "ray",
+        "reinforcement-learning",
+        "rllib",
+        "serving",
+        "tensorflow"
+    ],
+    "visibility": "public",
+    "forks": 5962,
+    "open_issues": 4303,
+    "watchers": 35023,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "ray-2.41.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.41.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.41.0",
+            "commit": {
+                "sha": "021baf7dd07db54c2dc23a7490f0604673f8d0d6",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/021baf7dd07db54c2dc23a7490f0604673f8d0d6"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjQxLjA="
+        },
+        {
+            "name": "ray-2.40.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.40.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.40.0",
+            "commit": {
+                "sha": "22541c38dbef25286cd6d19f1c151bf4fd62f2ed",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/22541c38dbef25286cd6d19f1c151bf4fd62f2ed"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjQwLjA="
+        },
+        {
+            "name": "ray-2.39.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.39.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.39.0",
+            "commit": {
+                "sha": "5a6c33536df3f6ed5e987a169b82739bb7e3d80e",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/5a6c33536df3f6ed5e987a169b82739bb7e3d80e"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM5LjA="
+        },
+        {
+            "name": "ray-2.38.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.38.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.38.0",
+            "commit": {
+                "sha": "385ee466260ef3cd218d5e372aef5d39338b7b94",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/385ee466260ef3cd218d5e372aef5d39338b7b94"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM4LjA="
+        },
+        {
+            "name": "ray-2.37.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.37.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.37.0",
+            "commit": {
+                "sha": "1b620f244c4fb67d80661046091573fb6eefecb6",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/1b620f244c4fb67d80661046091573fb6eefecb6"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM3LjA="
+        },
+        {
+            "name": "ray-2.36.1",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.36.1",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.36.1",
+            "commit": {
+                "sha": "999f7668b65dbd208817b3671b441fd97fca755c",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/999f7668b65dbd208817b3671b441fd97fca755c"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM2LjE="
+        },
+        {
+            "name": "ray-2.36.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.36.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.36.0",
+            "commit": {
+                "sha": "85d98e1dd6d16b6ee82a39d28ca2dcfdf11d2d1b",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/85d98e1dd6d16b6ee82a39d28ca2dcfdf11d2d1b"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM2LjA="
+        },
+        {
+            "name": "ray-2.35.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.35.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.35.0",
+            "commit": {
+                "sha": "c5d536de50b41b2f737eb3a7646a4f768534424f",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/c5d536de50b41b2f737eb3a7646a4f768534424f"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM1LjA="
+        },
+        {
+            "name": "ray-2.34.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.34.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.34.0",
+            "commit": {
+                "sha": "fc87217e031b4e551cbb3d3ffc75f8c0fb57886a",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/fc87217e031b4e551cbb3d3ffc75f8c0fb57886a"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjM0LjA="
+        },
+        {
+            "name": "ray-2.33.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.33.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.33.0",
+            "commit": {
+                "sha": "914af09c9807444b7d09ed6a80a552bf8d7bb133",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/914af09c9807444b7d09ed6a80a552bf8d7bb133"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjMzLjA="
+        },
+        {
+            "name": "ray-2.32.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.32.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.32.0",
+            "commit": {
+                "sha": "607f2f30f5f21543b6a5568ee77ea779eeba30a8",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/607f2f30f5f21543b6a5568ee77ea779eeba30a8"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjMyLjA="
+        },
+        {
+            "name": "ray-2.31.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.31.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.31.0",
+            "commit": {
+                "sha": "1240d3fc326517f9be28bb7897c1c88619f0d984",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/1240d3fc326517f9be28bb7897c1c88619f0d984"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjMxLjA="
+        },
+        {
+            "name": "ray-2.30.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.30.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.30.0",
+            "commit": {
+                "sha": "97c37298df9e997b86ca9efed824e27024f3bd60",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/97c37298df9e997b86ca9efed824e27024f3bd60"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjMwLjA="
+        },
+        {
+            "name": "ray-2.24.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.24.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.24.0",
+            "commit": {
+                "sha": "cfea8b29800afc76823bd1a171657010f4eb96bb",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/cfea8b29800afc76823bd1a171657010f4eb96bb"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjI0LjA="
+        },
+        {
+            "name": "ray-2.23.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.23.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.23.0",
+            "commit": {
+                "sha": "a0947ead5cd94b3d8ca5cdeb9422dccb12d03867",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/a0947ead5cd94b3d8ca5cdeb9422dccb12d03867"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjIzLjA="
+        },
+        {
+            "name": "ray-2.22.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.22.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.22.0",
+            "commit": {
+                "sha": "a8ab7b87a59b833242fe3564c61d7b39265cd838",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/a8ab7b87a59b833242fe3564c61d7b39265cd838"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjIyLjA="
+        },
+        {
+            "name": "ray-2.21.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.21.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.21.0",
+            "commit": {
+                "sha": "a912be84d6944bc32cfe84a9a3fe0b0227574536",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/a912be84d6944bc32cfe84a9a3fe0b0227574536"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjIxLjA="
+        },
+        {
+            "name": "ray-2.20.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.20.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.20.0",
+            "commit": {
+                "sha": "5708e75978413e46c703e44f43fd89769f3c148b",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/5708e75978413e46c703e44f43fd89769f3c148b"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjIwLjA="
+        },
+        {
+            "name": "ray-2.12.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.12.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.12.0",
+            "commit": {
+                "sha": "549c4b7694483f6bc9e519b61e6f575e13510343",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/549c4b7694483f6bc9e519b61e6f575e13510343"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjEyLjA="
+        },
+        {
+            "name": "ray-2.11.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.11.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.11.0",
+            "commit": {
+                "sha": "2eb4a8119f903f79b78c01eaa9db06c6c390051c",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/2eb4a8119f903f79b78c01eaa9db06c6c390051c"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjExLjA="
+        },
+        {
+            "name": "ray-2.10.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.10.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.10.0",
+            "commit": {
+                "sha": "09abba26b5bf2707639bb637c208d062a47b46f6",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/09abba26b5bf2707639bb637c208d062a47b46f6"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjEwLjA="
+        },
+        {
+            "name": "ray-2.9.3",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.9.3",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.9.3",
+            "commit": {
+                "sha": "62655e11ed76509b78654b60be67bc59f8f3460a",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/62655e11ed76509b78654b60be67bc59f8f3460a"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjkuMw=="
+        },
+        {
+            "name": "ray-2.9.2",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.9.2",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.9.2",
+            "commit": {
+                "sha": "fce7a361807580953364e2da964f9498f3123bf9",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/fce7a361807580953364e2da964f9498f3123bf9"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjkuMg=="
+        },
+        {
+            "name": "ray-2.9.1",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.9.1",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.9.1",
+            "commit": {
+                "sha": "cfbf98c315cfb2710c56039a3c96477d196de049",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/cfbf98c315cfb2710c56039a3c96477d196de049"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjkuMQ=="
+        },
+        {
+            "name": "ray-2.9.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.9.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.9.0",
+            "commit": {
+                "sha": "9be5a16e3ccad0710bba08d0f75e9ff774ae6880",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/9be5a16e3ccad0710bba08d0f75e9ff774ae6880"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjkuMA=="
+        },
+        {
+            "name": "ray-2.8.1",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.8.1",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.8.1",
+            "commit": {
+                "sha": "3546c41b9996c36d0f1bba497dc660d3fcfc59a7",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/3546c41b9996c36d0f1bba497dc660d3fcfc59a7"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjguMQ=="
+        },
+        {
+            "name": "ray-2.8.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.8.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.8.0",
+            "commit": {
+                "sha": "dd270c86feaf3b342014f20c3f7559a6e4cb4272",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/dd270c86feaf3b342014f20c3f7559a6e4cb4272"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjguMA=="
+        },
+        {
+            "name": "ray-2.7.1",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.7.1",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.7.1",
+            "commit": {
+                "sha": "9f07c12615958c3af3760604f6dcacc4b3758a47",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/9f07c12615958c3af3760604f6dcacc4b3758a47"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjcuMQ=="
+        },
+        {
+            "name": "ray-2.7.0",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.7.0",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.7.0",
+            "commit": {
+                "sha": "b4bba4717f5ba04ee25580fe8f88eed63ef0c5dc",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/b4bba4717f5ba04ee25580fe8f88eed63ef0c5dc"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjcuMA=="
+        },
+        {
+            "name": "ray-2.6.3",
+            "zipball_url": "https://api.github.com/repos/ray-project/ray/zipball/refs/tags/ray-2.6.3",
+            "tarball_url": "https://api.github.com/repos/ray-project/ray/tarball/refs/tags/ray-2.6.3",
+            "commit": {
+                "sha": "8a434b4ee7cd48e60fa1531315d39901fac5d79e",
+                "url": "https://api.github.com/repos/ray-project/ray/commits/8a434b4ee7cd48e60fa1531315d39901fac5d79e"
+            },
+            "node_id": "MDM6UmVmNzE5MzIzNDk6cmVmcy90YWdzL3JheS0yLjYuMw=="
+        }
+    ]
+}

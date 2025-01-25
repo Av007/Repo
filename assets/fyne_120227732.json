@@ -1,0 +1,428 @@
+{
+    "id": 120227732,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMjAyMjc3MzI=",
+    "name": "fyne",
+    "full_name": "fyne-io/fyne",
+    "private": false,
+    "owner": {
+        "login": "fyne-io",
+        "id": 36045855,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MDQ1ODU1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36045855?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/fyne-io",
+        "html_url": "https://github.com/fyne-io",
+        "followers_url": "https://api.github.com/users/fyne-io/followers",
+        "following_url": "https://api.github.com/users/fyne-io/following{/other_user}",
+        "gists_url": "https://api.github.com/users/fyne-io/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/fyne-io/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/fyne-io/subscriptions",
+        "organizations_url": "https://api.github.com/users/fyne-io/orgs",
+        "repos_url": "https://api.github.com/users/fyne-io/repos",
+        "events_url": "https://api.github.com/users/fyne-io/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/fyne-io/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/fyne-io/fyne",
+    "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+    "fork": false,
+    "url": "https://api.github.com/repos/fyne-io/fyne",
+    "forks_url": "https://api.github.com/repos/fyne-io/fyne/forks",
+    "keys_url": "https://api.github.com/repos/fyne-io/fyne/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/fyne-io/fyne/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/fyne-io/fyne/teams",
+    "hooks_url": "https://api.github.com/repos/fyne-io/fyne/hooks",
+    "issue_events_url": "https://api.github.com/repos/fyne-io/fyne/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/fyne-io/fyne/events",
+    "assignees_url": "https://api.github.com/repos/fyne-io/fyne/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/fyne-io/fyne/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/fyne-io/fyne/tags",
+    "blobs_url": "https://api.github.com/repos/fyne-io/fyne/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/fyne-io/fyne/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/fyne-io/fyne/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/fyne-io/fyne/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/fyne-io/fyne/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/fyne-io/fyne/languages",
+    "stargazers_url": "https://api.github.com/repos/fyne-io/fyne/stargazers",
+    "contributors_url": "https://api.github.com/repos/fyne-io/fyne/contributors",
+    "subscribers_url": "https://api.github.com/repos/fyne-io/fyne/subscribers",
+    "subscription_url": "https://api.github.com/repos/fyne-io/fyne/subscription",
+    "commits_url": "https://api.github.com/repos/fyne-io/fyne/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/fyne-io/fyne/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/fyne-io/fyne/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/fyne-io/fyne/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/fyne-io/fyne/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/fyne-io/fyne/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/fyne-io/fyne/merges",
+    "archive_url": "https://api.github.com/repos/fyne-io/fyne/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/fyne-io/fyne/downloads",
+    "issues_url": "https://api.github.com/repos/fyne-io/fyne/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/fyne-io/fyne/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/fyne-io/fyne/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/fyne-io/fyne/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/fyne-io/fyne/labels{/name}",
+    "releases_url": "https://api.github.com/repos/fyne-io/fyne/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/fyne-io/fyne/deployments",
+    "created_at": "2018-02-04T22:07:16Z",
+    "updated_at": "2025-01-25T13:01:00Z",
+    "pushed_at": "2025-01-25T13:24:04Z",
+    "git_url": "git://github.com/fyne-io/fyne.git",
+    "ssh_url": "git@github.com:fyne-io/fyne.git",
+    "clone_url": "https://github.com/fyne-io/fyne.git",
+    "svn_url": "https://github.com/fyne-io/fyne",
+    "homepage": "https://fyne.io/",
+    "size": 112626,
+    "stargazers_count": 25629,
+    "watchers_count": 25629,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1410,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 718,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "android",
+        "cross-platform",
+        "fyne",
+        "go",
+        "golang",
+        "gui",
+        "hacktoberfest",
+        "ios",
+        "theme",
+        "toolkit"
+    ],
+    "visibility": "public",
+    "forks": 1410,
+    "open_issues": 718,
+    "watchers": 25629,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "walking_skeleton",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/walking_skeleton",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/walking_skeleton",
+            "commit": {
+                "sha": "df5294e769a3b26a807917460d05ff1796c5a7cd",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/df5294e769a3b26a807917460d05ff1796c5a7cd"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy93YWxraW5nX3NrZWxldG9u"
+        },
+        {
+            "name": "v2.5.3",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3",
+            "commit": {
+                "sha": "4a875d9d5677ce8a98bd15787d6f74d4263cac16",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/4a875d9d5677ce8a98bd15787d6f74d4263cac16"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjM="
+        },
+        {
+            "name": "v2.5.3-rc7",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc7",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc7",
+            "commit": {
+                "sha": "2988db393bb1555ae8ec0de75def88110e1df56d",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/2988db393bb1555ae8ec0de75def88110e1df56d"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmM3"
+        },
+        {
+            "name": "v2.5.3-rc6",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc6",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc6",
+            "commit": {
+                "sha": "c89253dca6a6ca0d54384423f487892023287d76",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/c89253dca6a6ca0d54384423f487892023287d76"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmM2"
+        },
+        {
+            "name": "v2.5.3-rc5",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc5",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc5",
+            "commit": {
+                "sha": "e37d7417cd5de45bd259806bd764e7656c8cd594",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/e37d7417cd5de45bd259806bd764e7656c8cd594"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmM1"
+        },
+        {
+            "name": "v2.5.3-rc4",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc4",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc4",
+            "commit": {
+                "sha": "2034fd5691e09954721b56edc13a49b1c2601a84",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/2034fd5691e09954721b56edc13a49b1c2601a84"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmM0"
+        },
+        {
+            "name": "v2.5.3-rc3",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc3",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc3",
+            "commit": {
+                "sha": "bb5ec5555df45bb5ca018c957c59562755fa8451",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/bb5ec5555df45bb5ca018c957c59562755fa8451"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmMz"
+        },
+        {
+            "name": "v2.5.3-rc2",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc2",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc2",
+            "commit": {
+                "sha": "771e15ecb896e574586d04a61c82bc454e6c8d81",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/771e15ecb896e574586d04a61c82bc454e6c8d81"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmMy"
+        },
+        {
+            "name": "v2.5.3-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.3-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.3-rc1",
+            "commit": {
+                "sha": "21050204981d0ed332567e63d6d018a6eb202fa9",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/21050204981d0ed332567e63d6d018a6eb202fa9"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjMtcmMx"
+        },
+        {
+            "name": "v2.5.2",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.2",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.2",
+            "commit": {
+                "sha": "81b3cd1496f0a41dc8dee09f8f60722575274824",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/81b3cd1496f0a41dc8dee09f8f60722575274824"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjI="
+        },
+        {
+            "name": "v2.5.2-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.2-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.2-rc1",
+            "commit": {
+                "sha": "81b3cd1496f0a41dc8dee09f8f60722575274824",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/81b3cd1496f0a41dc8dee09f8f60722575274824"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjItcmMx"
+        },
+        {
+            "name": "v2.5.1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.1",
+            "commit": {
+                "sha": "7d813563712924b381ced18c04869c059e2cb4c6",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/7d813563712924b381ced18c04869c059e2cb4c6"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjE="
+        },
+        {
+            "name": "v2.5.1-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.1-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.1-rc1",
+            "commit": {
+                "sha": "d397de39dbe1c29c11c676710e5a21599c330bc3",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/d397de39dbe1c29c11c676710e5a21599c330bc3"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjEtcmMx"
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "04746ccfa07fd2e6f2af7645fdd222b3729c766e",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/04746ccfa07fd2e6f2af7645fdd222b3729c766e"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjA="
+        },
+        {
+            "name": "v2.5.0-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.5.0-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.5.0-rc1",
+            "commit": {
+                "sha": "162fe64325b6da707ece0c045ca8de43b061c1ad",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/162fe64325b6da707ece0c045ca8de43b061c1ad"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi41LjAtcmMx"
+        },
+        {
+            "name": "v2.4.5",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.5",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.5",
+            "commit": {
+                "sha": "32c0f1560943243612b3842e5ead71c4f98a82e4",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/32c0f1560943243612b3842e5ead71c4f98a82e4"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjU="
+        },
+        {
+            "name": "v2.4.5-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.5-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.5-rc1",
+            "commit": {
+                "sha": "f0048168182865faa4447c264934bb153686bfa4",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/f0048168182865faa4447c264934bb153686bfa4"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjUtcmMx"
+        },
+        {
+            "name": "v2.4.4",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.4",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.4",
+            "commit": {
+                "sha": "e332a5e47813bff1af9631cbbfe84654c0143189",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/e332a5e47813bff1af9631cbbfe84654c0143189"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjQ="
+        },
+        {
+            "name": "v2.4.4-rc2",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.4-rc2",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.4-rc2",
+            "commit": {
+                "sha": "36e5ac542e9e4346a5d22f0dcca7f3d1e26d2d7e",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/36e5ac542e9e4346a5d22f0dcca7f3d1e26d2d7e"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjQtcmMy"
+        },
+        {
+            "name": "v2.4.4-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.4-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.4-rc1",
+            "commit": {
+                "sha": "bcb30c7db026074cd6d45a1b7a398e0e42a2c64a",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/bcb30c7db026074cd6d45a1b7a398e0e42a2c64a"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjQtcmMx"
+        },
+        {
+            "name": "v2.4.3",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.3",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.3",
+            "commit": {
+                "sha": "000bc6ea30a18d4e4e4c46c2e7b6771e9b1370b7",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/000bc6ea30a18d4e4e4c46c2e7b6771e9b1370b7"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjM="
+        },
+        {
+            "name": "v2.4.3-rc2",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.3-rc2",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.3-rc2",
+            "commit": {
+                "sha": "d754ae1d9c1308f9001a19386e26de4d41a4ec6e",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/d754ae1d9c1308f9001a19386e26de4d41a4ec6e"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjMtcmMy"
+        },
+        {
+            "name": "v2.4.3-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.3-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.3-rc1",
+            "commit": {
+                "sha": "03e6d10af97554897d97e5ae770a5599bdfb04fc",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/03e6d10af97554897d97e5ae770a5599bdfb04fc"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjMtcmMx"
+        },
+        {
+            "name": "v2.4.2",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.2",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.2",
+            "commit": {
+                "sha": "dc34dad76137def4466ab8eb4166e7ae741ef9ee",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/dc34dad76137def4466ab8eb4166e7ae741ef9ee"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjI="
+        },
+        {
+            "name": "v2.4.2-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.2-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.2-rc1",
+            "commit": {
+                "sha": "ed283a7d91ef7725d2cbcd1a4c18287c86a9bc94",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/ed283a7d91ef7725d2cbcd1a4c18287c86a9bc94"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjItcmMx"
+        },
+        {
+            "name": "v2.4.1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.1",
+            "commit": {
+                "sha": "4ca1bb0412599b190bd19318f588bca8809bfa90",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/4ca1bb0412599b190bd19318f588bca8809bfa90"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjE="
+        },
+        {
+            "name": "v2.4.1-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.1-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.1-rc1",
+            "commit": {
+                "sha": "d6c36e394482d316ea32c701907f57b3d6072355",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/d6c36e394482d316ea32c701907f57b3d6072355"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjEtcmMx"
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "23df17671a285b82a6d1c9b7b5eb9d15dbe0e1b3",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/23df17671a285b82a6d1c9b7b5eb9d15dbe0e1b3"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjA="
+        },
+        {
+            "name": "v2.4.0-rc2",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.0-rc2",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.0-rc2",
+            "commit": {
+                "sha": "23df17671a285b82a6d1c9b7b5eb9d15dbe0e1b3",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/23df17671a285b82a6d1c9b7b5eb9d15dbe0e1b3"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjAtcmMy"
+        },
+        {
+            "name": "v2.4.0-rc1",
+            "zipball_url": "https://api.github.com/repos/fyne-io/fyne/zipball/refs/tags/v2.4.0-rc1",
+            "tarball_url": "https://api.github.com/repos/fyne-io/fyne/tarball/refs/tags/v2.4.0-rc1",
+            "commit": {
+                "sha": "8b4fd1ea6dde86659bda7a542bcb5669921978b4",
+                "url": "https://api.github.com/repos/fyne-io/fyne/commits/8b4fd1ea6dde86659bda7a542bcb5669921978b4"
+            },
+            "node_id": "MDM6UmVmMTIwMjI3NzMyOnJlZnMvdGFncy92Mi40LjAtcmMx"
+        }
+    ]
+}

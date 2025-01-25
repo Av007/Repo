@@ -1,0 +1,438 @@
+{
+    "id": 3544424,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNTQ0NDI0",
+    "name": "cli",
+    "full_name": "httpie/cli",
+    "private": false,
+    "owner": {
+        "login": "httpie",
+        "id": 24454777,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0NDU0Nzc3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24454777?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/httpie",
+        "html_url": "https://github.com/httpie",
+        "followers_url": "https://api.github.com/users/httpie/followers",
+        "following_url": "https://api.github.com/users/httpie/following{/other_user}",
+        "gists_url": "https://api.github.com/users/httpie/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/httpie/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/httpie/subscriptions",
+        "organizations_url": "https://api.github.com/users/httpie/orgs",
+        "repos_url": "https://api.github.com/users/httpie/repos",
+        "events_url": "https://api.github.com/users/httpie/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/httpie/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/httpie/cli",
+    "description": "\ud83e\udd67 HTTPie CLI  \u2014 modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+    "fork": false,
+    "url": "https://api.github.com/repos/httpie/cli",
+    "forks_url": "https://api.github.com/repos/httpie/cli/forks",
+    "keys_url": "https://api.github.com/repos/httpie/cli/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/httpie/cli/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/httpie/cli/teams",
+    "hooks_url": "https://api.github.com/repos/httpie/cli/hooks",
+    "issue_events_url": "https://api.github.com/repos/httpie/cli/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/httpie/cli/events",
+    "assignees_url": "https://api.github.com/repos/httpie/cli/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/httpie/cli/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/httpie/cli/tags",
+    "blobs_url": "https://api.github.com/repos/httpie/cli/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/httpie/cli/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/httpie/cli/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/httpie/cli/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/httpie/cli/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/httpie/cli/languages",
+    "stargazers_url": "https://api.github.com/repos/httpie/cli/stargazers",
+    "contributors_url": "https://api.github.com/repos/httpie/cli/contributors",
+    "subscribers_url": "https://api.github.com/repos/httpie/cli/subscribers",
+    "subscription_url": "https://api.github.com/repos/httpie/cli/subscription",
+    "commits_url": "https://api.github.com/repos/httpie/cli/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/httpie/cli/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/httpie/cli/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/httpie/cli/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/httpie/cli/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/httpie/cli/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/httpie/cli/merges",
+    "archive_url": "https://api.github.com/repos/httpie/cli/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/httpie/cli/downloads",
+    "issues_url": "https://api.github.com/repos/httpie/cli/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/httpie/cli/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/httpie/cli/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/httpie/cli/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/httpie/cli/labels{/name}",
+    "releases_url": "https://api.github.com/repos/httpie/cli/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/httpie/cli/deployments",
+    "created_at": "2012-02-25T12:39:13Z",
+    "updated_at": "2025-01-25T15:11:31Z",
+    "pushed_at": "2024-12-17T17:30:35Z",
+    "git_url": "git://github.com/httpie/cli.git",
+    "ssh_url": "git@github.com:httpie/cli.git",
+    "clone_url": "https://github.com/httpie/cli.git",
+    "svn_url": "https://github.com/httpie/cli",
+    "homepage": "https://httpie.io",
+    "size": 6925,
+    "stargazers_count": 34515,
+    "watchers_count": 34515,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 3691,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 179,
+    "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "api",
+        "api-client",
+        "api-testing",
+        "cli",
+        "client",
+        "curl",
+        "debugging",
+        "developer-tools",
+        "development",
+        "devops",
+        "http",
+        "http-client",
+        "httpie",
+        "json",
+        "python",
+        "rest",
+        "rest-api",
+        "terminal",
+        "usability",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 3691,
+    "open_issues": 179,
+    "watchers": 34515,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "3.2.4",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.2.4",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.2.4",
+            "commit": {
+                "sha": "2105caa49bae87c5809c274e407619a0de2639d1",
+                "url": "https://api.github.com/repos/httpie/cli/commits/2105caa49bae87c5809c274e407619a0de2639d1"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4yLjQ="
+        },
+        {
+            "name": "3.2.3",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.2.3",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.2.3",
+            "commit": {
+                "sha": "7f03c52d2237440c5a672296ce6955aae4ed4f09",
+                "url": "https://api.github.com/repos/httpie/cli/commits/7f03c52d2237440c5a672296ce6955aae4ed4f09"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4yLjM="
+        },
+        {
+            "name": "3.2.2",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.2.2",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.2.2",
+            "commit": {
+                "sha": "29de4ce1151936856cda417767f8c507fc2c201c",
+                "url": "https://api.github.com/repos/httpie/cli/commits/29de4ce1151936856cda417767f8c507fc2c201c"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4yLjI="
+        },
+        {
+            "name": "3.2.1",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.2.1",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.2.1",
+            "commit": {
+                "sha": "b54239b5251e3a6988fd6c458efe063f001800f8",
+                "url": "https://api.github.com/repos/httpie/cli/commits/b54239b5251e3a6988fd6c458efe063f001800f8"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4yLjE="
+        },
+        {
+            "name": "3.2.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.2.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.2.0",
+            "commit": {
+                "sha": "2142ae60c339144697cf93f40d1e740be344224d",
+                "url": "https://api.github.com/repos/httpie/cli/commits/2142ae60c339144697cf93f40d1e740be344224d"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4yLjA="
+        },
+        {
+            "name": "3.1.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.1.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.1.0",
+            "commit": {
+                "sha": "266c6375c6d687c3aad07962cb3f5bef7d39bbbf",
+                "url": "https://api.github.com/repos/httpie/cli/commits/266c6375c6d687c3aad07962cb3f5bef7d39bbbf"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4xLjA="
+        },
+        {
+            "name": "3.0.2",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.0.2",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.0.2",
+            "commit": {
+                "sha": "559134de0ad655fbf3eded2e90e5f49bdc381bd5",
+                "url": "https://api.github.com/repos/httpie/cli/commits/559134de0ad655fbf3eded2e90e5f49bdc381bd5"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4wLjI="
+        },
+        {
+            "name": "3.0.1",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.0.1",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.0.1",
+            "commit": {
+                "sha": "3b441fa57e21229ae2be9b871098127547d100de",
+                "url": "https://api.github.com/repos/httpie/cli/commits/3b441fa57e21229ae2be9b871098127547d100de"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4wLjE="
+        },
+        {
+            "name": "3.0.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/3.0.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/3.0.0",
+            "commit": {
+                "sha": "88140422a9d6585a7edfb2c265ebed5d0736df2c",
+                "url": "https://api.github.com/repos/httpie/cli/commits/88140422a9d6585a7edfb2c265ebed5d0736df2c"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMy4wLjA="
+        },
+        {
+            "name": "2.6.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.6.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.6.0",
+            "commit": {
+                "sha": "42af2f786f4e3bf005636aca02e4442128f0115e",
+                "url": "https://api.github.com/repos/httpie/cli/commits/42af2f786f4e3bf005636aca02e4442128f0115e"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi42LjA="
+        },
+        {
+            "name": "2.5.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.5.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.5.0",
+            "commit": {
+                "sha": "4eaa4d67c5586ede82ceb1d5710989f693b1f343",
+                "url": "https://api.github.com/repos/httpie/cli/commits/4eaa4d67c5586ede82ceb1d5710989f693b1f343"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi41LjA="
+        },
+        {
+            "name": "2.4.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.4.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.4.0",
+            "commit": {
+                "sha": "bb3689705407b85c8162a4c7007096f3a05e5a60",
+                "url": "https://api.github.com/repos/httpie/cli/commits/bb3689705407b85c8162a4c7007096f3a05e5a60"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi40LjA="
+        },
+        {
+            "name": "2.3.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.3.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.3.0",
+            "commit": {
+                "sha": "dc3687f7ac9a2b066fb53a64da2bbfaa47dd4c77",
+                "url": "https://api.github.com/repos/httpie/cli/commits/dc3687f7ac9a2b066fb53a64da2bbfaa47dd4c77"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi4zLjA="
+        },
+        {
+            "name": "2.2.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.2.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.2.0",
+            "commit": {
+                "sha": "5945845420c019db81e8c09f0ce174a7eeebcdd8",
+                "url": "https://api.github.com/repos/httpie/cli/commits/5945845420c019db81e8c09f0ce174a7eeebcdd8"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi4yLjA="
+        },
+        {
+            "name": "2.1.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.1.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.1.0",
+            "commit": {
+                "sha": "70a78249c14572c36c5903140e21308398693850",
+                "url": "https://api.github.com/repos/httpie/cli/commits/70a78249c14572c36c5903140e21308398693850"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi4xLjA="
+        },
+        {
+            "name": "2.0.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/2.0.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/2.0.0",
+            "commit": {
+                "sha": "a7e52287129a8f61826b9c1e6b4c61ab11861b1f",
+                "url": "https://api.github.com/repos/httpie/cli/commits/a7e52287129a8f61826b9c1e6b4c61ab11861b1f"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMi4wLjA="
+        },
+        {
+            "name": "1.0.3",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/1.0.3",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/1.0.3",
+            "commit": {
+                "sha": "747be30d2efda1b4287a84f1f27f4328621b222c",
+                "url": "https://api.github.com/repos/httpie/cli/commits/747be30d2efda1b4287a84f1f27f4328621b222c"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMS4wLjM="
+        },
+        {
+            "name": "1.0.2",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/1.0.2",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/1.0.2",
+            "commit": {
+                "sha": "0eba037037936425e9b81291643bea43db5cc698",
+                "url": "https://api.github.com/repos/httpie/cli/commits/0eba037037936425e9b81291643bea43db5cc698"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMS4wLjI="
+        },
+        {
+            "name": "1.0.1",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/1.0.1",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/1.0.1",
+            "commit": {
+                "sha": "d5032ca859b763d94cf829e39691d5a02d7e2587",
+                "url": "https://api.github.com/repos/httpie/cli/commits/d5032ca859b763d94cf829e39691d5a02d7e2587"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMS4wLjE="
+        },
+        {
+            "name": "1.0.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/1.0.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/1.0.0",
+            "commit": {
+                "sha": "2e96d7ffbbd4c7f19a05bd0d4d2cbd8db4105ad1",
+                "url": "https://api.github.com/repos/httpie/cli/commits/2e96d7ffbbd4c7f19a05bd0d4d2cbd8db4105ad1"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMS4wLjA="
+        },
+        {
+            "name": "0.9.9",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.9",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.9",
+            "commit": {
+                "sha": "d0fc10cf1a1767656a71c8ce75ce3c3b93898c9e",
+                "url": "https://api.github.com/repos/httpie/cli/commits/d0fc10cf1a1767656a71c8ce75ce3c3b93898c9e"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45Ljk="
+        },
+        {
+            "name": "0.9.8",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.8",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.8",
+            "commit": {
+                "sha": "3a3aecca45323fbea6cb8595f7732f9f957ec78f",
+                "url": "https://api.github.com/repos/httpie/cli/commits/3a3aecca45323fbea6cb8595f7732f9f957ec78f"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45Ljg="
+        },
+        {
+            "name": "0.9.7",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.7",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.7",
+            "commit": {
+                "sha": "9ae86f3b4fadb6203b34b8b672e03b58c08437b3",
+                "url": "https://api.github.com/repos/httpie/cli/commits/9ae86f3b4fadb6203b34b8b672e03b58c08437b3"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45Ljc="
+        },
+        {
+            "name": "0.9.6",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.6",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.6",
+            "commit": {
+                "sha": "8e962383235badcdc56118385edb343df3f624fe",
+                "url": "https://api.github.com/repos/httpie/cli/commits/8e962383235badcdc56118385edb343df3f624fe"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45LjY="
+        },
+        {
+            "name": "0.9.4",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.4",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.4",
+            "commit": {
+                "sha": "b565b4628e92231f0dba901fb0881eda9393166a",
+                "url": "https://api.github.com/repos/httpie/cli/commits/b565b4628e92231f0dba901fb0881eda9393166a"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45LjQ="
+        },
+        {
+            "name": "0.9.3",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.3",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.3",
+            "commit": {
+                "sha": "47220763357f5a25cc535af5c4d2f4f092fb9abd",
+                "url": "https://api.github.com/repos/httpie/cli/commits/47220763357f5a25cc535af5c4d2f4f092fb9abd"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45LjM="
+        },
+        {
+            "name": "0.9.2",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.2",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.2",
+            "commit": {
+                "sha": "80a2c8266c260462e6a4974cdb4e5f598394e76d",
+                "url": "https://api.github.com/repos/httpie/cli/commits/80a2c8266c260462e6a4974cdb4e5f598394e76d"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45LjI="
+        },
+        {
+            "name": "0.9.1",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.1",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.1",
+            "commit": {
+                "sha": "753a8d04e4499505140a67442ae3e21f608b377f",
+                "url": "https://api.github.com/repos/httpie/cli/commits/753a8d04e4499505140a67442ae3e21f608b377f"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45LjE="
+        },
+        {
+            "name": "0.9.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.9.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.9.0",
+            "commit": {
+                "sha": "6c66d91f5940ed6b1ee077f742272b6a153ce6dc",
+                "url": "https://api.github.com/repos/httpie/cli/commits/6c66d91f5940ed6b1ee077f742272b6a153ce6dc"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC45LjA="
+        },
+        {
+            "name": "0.8.0",
+            "zipball_url": "https://api.github.com/repos/httpie/cli/zipball/refs/tags/0.8.0",
+            "tarball_url": "https://api.github.com/repos/httpie/cli/tarball/refs/tags/0.8.0",
+            "commit": {
+                "sha": "43cc3e7ddbf21b4b84bfec06d7d7c1bafb1b7d5e",
+                "url": "https://api.github.com/repos/httpie/cli/commits/43cc3e7ddbf21b4b84bfec06d7d7c1bafb1b7d5e"
+            },
+            "node_id": "MDM6UmVmMzU0NDQyNDpyZWZzL3RhZ3MvMC44LjA="
+        }
+    ]
+}

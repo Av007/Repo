@@ -1,0 +1,427 @@
+{
+    "id": 54994103,
+    "node_id": "MDEwOlJlcG9zaXRvcnk1NDk5NDEwMw==",
+    "name": "floating-ui",
+    "full_name": "floating-ui/floating-ui",
+    "private": false,
+    "owner": {
+        "login": "floating-ui",
+        "id": 58035617,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4MDM1NjE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58035617?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/floating-ui",
+        "html_url": "https://github.com/floating-ui",
+        "followers_url": "https://api.github.com/users/floating-ui/followers",
+        "following_url": "https://api.github.com/users/floating-ui/following{/other_user}",
+        "gists_url": "https://api.github.com/users/floating-ui/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/floating-ui/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/floating-ui/subscriptions",
+        "organizations_url": "https://api.github.com/users/floating-ui/orgs",
+        "repos_url": "https://api.github.com/users/floating-ui/repos",
+        "events_url": "https://api.github.com/users/floating-ui/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/floating-ui/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/floating-ui/floating-ui",
+    "description": "A JavaScript library to position floating elements and create interactions for them.",
+    "fork": false,
+    "url": "https://api.github.com/repos/floating-ui/floating-ui",
+    "forks_url": "https://api.github.com/repos/floating-ui/floating-ui/forks",
+    "keys_url": "https://api.github.com/repos/floating-ui/floating-ui/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/floating-ui/floating-ui/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/floating-ui/floating-ui/teams",
+    "hooks_url": "https://api.github.com/repos/floating-ui/floating-ui/hooks",
+    "issue_events_url": "https://api.github.com/repos/floating-ui/floating-ui/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/floating-ui/floating-ui/events",
+    "assignees_url": "https://api.github.com/repos/floating-ui/floating-ui/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/floating-ui/floating-ui/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/floating-ui/floating-ui/tags",
+    "blobs_url": "https://api.github.com/repos/floating-ui/floating-ui/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/floating-ui/floating-ui/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/floating-ui/floating-ui/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/floating-ui/floating-ui/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/floating-ui/floating-ui/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/floating-ui/floating-ui/languages",
+    "stargazers_url": "https://api.github.com/repos/floating-ui/floating-ui/stargazers",
+    "contributors_url": "https://api.github.com/repos/floating-ui/floating-ui/contributors",
+    "subscribers_url": "https://api.github.com/repos/floating-ui/floating-ui/subscribers",
+    "subscription_url": "https://api.github.com/repos/floating-ui/floating-ui/subscription",
+    "commits_url": "https://api.github.com/repos/floating-ui/floating-ui/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/floating-ui/floating-ui/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/floating-ui/floating-ui/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/floating-ui/floating-ui/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/floating-ui/floating-ui/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/floating-ui/floating-ui/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/floating-ui/floating-ui/merges",
+    "archive_url": "https://api.github.com/repos/floating-ui/floating-ui/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/floating-ui/floating-ui/downloads",
+    "issues_url": "https://api.github.com/repos/floating-ui/floating-ui/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/floating-ui/floating-ui/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/floating-ui/floating-ui/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/floating-ui/floating-ui/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/floating-ui/floating-ui/labels{/name}",
+    "releases_url": "https://api.github.com/repos/floating-ui/floating-ui/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/floating-ui/floating-ui/deployments",
+    "created_at": "2016-03-29T17:00:47Z",
+    "updated_at": "2025-01-25T15:18:43Z",
+    "pushed_at": "2025-01-24T13:30:53Z",
+    "git_url": "git://github.com/floating-ui/floating-ui.git",
+    "ssh_url": "git@github.com:floating-ui/floating-ui.git",
+    "clone_url": "https://github.com/floating-ui/floating-ui.git",
+    "svn_url": "https://github.com/floating-ui/floating-ui",
+    "homepage": "https://floating-ui.com",
+    "size": 40383,
+    "stargazers_count": 30536,
+    "watchers_count": 30536,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1629,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 38,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "dropdown",
+        "hacktoberfest",
+        "popover",
+        "popovers",
+        "position",
+        "positioning",
+        "positioning-engine",
+        "tooltip",
+        "tooltip-position"
+    ],
+    "visibility": "public",
+    "forks": 1629,
+    "open_issues": 38,
+    "watchers": 30536,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.11.8",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.8",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.8",
+            "commit": {
+                "sha": "92195083958c9496988ed4526b82b75b7256b5a4",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/92195083958c9496988ed4526b82b75b7256b5a4"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjg="
+        },
+        {
+            "name": "v2.11.7",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.7",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.7",
+            "commit": {
+                "sha": "502957924b2dd1fc85c07cb0cec3be5b75f2c32a",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/502957924b2dd1fc85c07cb0cec3be5b75f2c32a"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjc="
+        },
+        {
+            "name": "v2.11.6",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.6",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.6",
+            "commit": {
+                "sha": "e764f2cc893e5a9cc466af888f7eb7efa3b197f6",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/e764f2cc893e5a9cc466af888f7eb7efa3b197f6"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjY="
+        },
+        {
+            "name": "v2.11.5",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.5",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.5",
+            "commit": {
+                "sha": "593aefe2d558efe586367ed31d7586da249b70e5",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/593aefe2d558efe586367ed31d7586da249b70e5"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjU="
+        },
+        {
+            "name": "v2.11.4",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.4",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.4",
+            "commit": {
+                "sha": "50b3a437aa56b58e72549ec4534308e193ab5bd9",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/50b3a437aa56b58e72549ec4534308e193ab5bd9"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjQ="
+        },
+        {
+            "name": "v2.11.3",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.3",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.3",
+            "commit": {
+                "sha": "7eae96d44ad0fe05f9e45e0acdb7f95f30cd60da",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/7eae96d44ad0fe05f9e45e0acdb7f95f30cd60da"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjM="
+        },
+        {
+            "name": "v2.11.2",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.2",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.2",
+            "commit": {
+                "sha": "feac588f308794dcd3b726b2f321b2bf368b1487",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/feac588f308794dcd3b726b2f321b2bf368b1487"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjI="
+        },
+        {
+            "name": "v2.11.1",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.1",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.1",
+            "commit": {
+                "sha": "feac588f308794dcd3b726b2f321b2bf368b1487",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/feac588f308794dcd3b726b2f321b2bf368b1487"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjE="
+        },
+        {
+            "name": "v2.11.0",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.11.0",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.11.0",
+            "commit": {
+                "sha": "72b0b7d445d012a467252cade650d51f09224176",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/72b0b7d445d012a467252cade650d51f09224176"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjExLjA="
+        },
+        {
+            "name": "v2.10.2",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.10.2",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.10.2",
+            "commit": {
+                "sha": "2e909c71b2d09582a373aaa697152012016735ad",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/2e909c71b2d09582a373aaa697152012016735ad"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjEwLjI="
+        },
+        {
+            "name": "v2.10.1",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.10.1",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.10.1",
+            "commit": {
+                "sha": "094c3115843cdfc207f70437318695a689488a2b",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/094c3115843cdfc207f70437318695a689488a2b"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjEwLjE="
+        },
+        {
+            "name": "v2.10.0",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.10.0",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.10.0",
+            "commit": {
+                "sha": "4cd7f8d1da8946b2b3e5f4c757c4a767586b9013",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/4cd7f8d1da8946b2b3e5f4c757c4a767586b9013"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjEwLjA="
+        },
+        {
+            "name": "v2.9.3",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.9.3",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.9.3",
+            "commit": {
+                "sha": "f4a6550be3bc95ea5a0348218ae470848ff91544",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/f4a6550be3bc95ea5a0348218ae470848ff91544"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjkuMw=="
+        },
+        {
+            "name": "v2.9.2",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.9.2",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.9.2",
+            "commit": {
+                "sha": "4800b37c5b4cabb711ac1d904664a70271487c4b",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/4800b37c5b4cabb711ac1d904664a70271487c4b"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjkuMg=="
+        },
+        {
+            "name": "v2.9.1",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.9.1",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.9.1",
+            "commit": {
+                "sha": "c3c52a868ead8ecbe7885f248b152374db83c1c2",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/c3c52a868ead8ecbe7885f248b152374db83c1c2"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjkuMQ=="
+        },
+        {
+            "name": "v2.9.0",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.9.0",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.9.0",
+            "commit": {
+                "sha": "2422a68a2abd97a44a2fba4c1d98468ffa5a1e7e",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/2422a68a2abd97a44a2fba4c1d98468ffa5a1e7e"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjkuMA=="
+        },
+        {
+            "name": "v2.8.6",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.6",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.6",
+            "commit": {
+                "sha": "509875b0392c036739f4fe85fa580e2f265c9def",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/509875b0392c036739f4fe85fa580e2f265c9def"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguNg=="
+        },
+        {
+            "name": "v2.8.5",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.5",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.5",
+            "commit": {
+                "sha": "2dfd96238a6fc8e24fe90b5bf3b7b84615d81f32",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/2dfd96238a6fc8e24fe90b5bf3b7b84615d81f32"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguNQ=="
+        },
+        {
+            "name": "v2.8.4",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.4",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.4",
+            "commit": {
+                "sha": "ec6899ead2e6876040bd1c012351f12a90ee431f",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/ec6899ead2e6876040bd1c012351f12a90ee431f"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguNA=="
+        },
+        {
+            "name": "v2.8.3",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.3",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.3",
+            "commit": {
+                "sha": "bceffcb6a958c1d28926126c3b03280fbd02282b",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/bceffcb6a958c1d28926126c3b03280fbd02282b"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguMw=="
+        },
+        {
+            "name": "v2.8.2",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.2",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.2",
+            "commit": {
+                "sha": "a206bab1fa5b04771d11d7c9d12d21f5ebf54282",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/a206bab1fa5b04771d11d7c9d12d21f5ebf54282"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguMg=="
+        },
+        {
+            "name": "v2.8.1",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.1",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.1",
+            "commit": {
+                "sha": "14d89f79b755014d081dc8bc286814db0a67f2ff",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/14d89f79b755014d081dc8bc286814db0a67f2ff"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguMQ=="
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "4d5fc590a31bbddcfe6c6a38b761391bf43888d7",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/4d5fc590a31bbddcfe6c6a38b761391bf43888d7"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjguMA=="
+        },
+        {
+            "name": "v2.7.2",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.7.2",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.7.2",
+            "commit": {
+                "sha": "bd261d14ad483eb3ed621c32ea9c06d81b373138",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/bd261d14ad483eb3ed621c32ea9c06d81b373138"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjcuMg=="
+        },
+        {
+            "name": "v2.7.1",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.7.1",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.7.1",
+            "commit": {
+                "sha": "9ecf3c64209d0cf9a53948643dcdde2bccd1e928",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/9ecf3c64209d0cf9a53948643dcdde2bccd1e928"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjcuMQ=="
+        },
+        {
+            "name": "v2.7.0",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.7.0",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.7.0",
+            "commit": {
+                "sha": "6dcc3742b043ff39ca03754049358d467c72773b",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/6dcc3742b043ff39ca03754049358d467c72773b"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjcuMA=="
+        },
+        {
+            "name": "v2.6.0",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.6.0",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.6.0",
+            "commit": {
+                "sha": "24cb3a88d5108d2a42126c8ab3899ee95259ef18",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/24cb3a88d5108d2a42126c8ab3899ee95259ef18"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjYuMA=="
+        },
+        {
+            "name": "v2.5.4",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.5.4",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.5.4",
+            "commit": {
+                "sha": "671f71e2b6990765e5ca780daaea7d1f7175beb6",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/671f71e2b6990765e5ca780daaea7d1f7175beb6"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjUuNA=="
+        },
+        {
+            "name": "v2.5.3",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.5.3",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.5.3",
+            "commit": {
+                "sha": "78dfda3c9751d0daf4bc8852889006ac249c9700",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/78dfda3c9751d0daf4bc8852889006ac249c9700"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjUuMw=="
+        },
+        {
+            "name": "v2.5.2",
+            "zipball_url": "https://api.github.com/repos/floating-ui/floating-ui/zipball/refs/tags/v2.5.2",
+            "tarball_url": "https://api.github.com/repos/floating-ui/floating-ui/tarball/refs/tags/v2.5.2",
+            "commit": {
+                "sha": "f1f9d1ab75b6b0e962f90a5b2a50f6cfd307d794",
+                "url": "https://api.github.com/repos/floating-ui/floating-ui/commits/f1f9d1ab75b6b0e962f90a5b2a50f6cfd307d794"
+            },
+            "node_id": "MDM6UmVmNTQ5OTQxMDM6cmVmcy90YWdzL3YyLjUuMg=="
+        }
+    ]
+}

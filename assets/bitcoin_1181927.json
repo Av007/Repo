@@ -1,0 +1,423 @@
+{
+    "id": 1181927,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTgxOTI3",
+    "name": "bitcoin",
+    "full_name": "bitcoin/bitcoin",
+    "private": false,
+    "owner": {
+        "login": "bitcoin",
+        "id": 528860,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjUyODg2MA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/528860?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bitcoin",
+        "html_url": "https://github.com/bitcoin",
+        "followers_url": "https://api.github.com/users/bitcoin/followers",
+        "following_url": "https://api.github.com/users/bitcoin/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bitcoin/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bitcoin/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bitcoin/subscriptions",
+        "organizations_url": "https://api.github.com/users/bitcoin/orgs",
+        "repos_url": "https://api.github.com/users/bitcoin/repos",
+        "events_url": "https://api.github.com/users/bitcoin/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bitcoin/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "fork": false,
+    "url": "https://api.github.com/repos/bitcoin/bitcoin",
+    "forks_url": "https://api.github.com/repos/bitcoin/bitcoin/forks",
+    "keys_url": "https://api.github.com/repos/bitcoin/bitcoin/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/bitcoin/bitcoin/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/bitcoin/bitcoin/teams",
+    "hooks_url": "https://api.github.com/repos/bitcoin/bitcoin/hooks",
+    "issue_events_url": "https://api.github.com/repos/bitcoin/bitcoin/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/bitcoin/bitcoin/events",
+    "assignees_url": "https://api.github.com/repos/bitcoin/bitcoin/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/bitcoin/bitcoin/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/bitcoin/bitcoin/tags",
+    "blobs_url": "https://api.github.com/repos/bitcoin/bitcoin/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/bitcoin/bitcoin/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/bitcoin/bitcoin/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/bitcoin/bitcoin/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/bitcoin/bitcoin/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/bitcoin/bitcoin/languages",
+    "stargazers_url": "https://api.github.com/repos/bitcoin/bitcoin/stargazers",
+    "contributors_url": "https://api.github.com/repos/bitcoin/bitcoin/contributors",
+    "subscribers_url": "https://api.github.com/repos/bitcoin/bitcoin/subscribers",
+    "subscription_url": "https://api.github.com/repos/bitcoin/bitcoin/subscription",
+    "commits_url": "https://api.github.com/repos/bitcoin/bitcoin/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/bitcoin/bitcoin/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/bitcoin/bitcoin/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/bitcoin/bitcoin/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/bitcoin/bitcoin/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/bitcoin/bitcoin/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/bitcoin/bitcoin/merges",
+    "archive_url": "https://api.github.com/repos/bitcoin/bitcoin/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/bitcoin/bitcoin/downloads",
+    "issues_url": "https://api.github.com/repos/bitcoin/bitcoin/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/bitcoin/bitcoin/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/bitcoin/bitcoin/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/bitcoin/bitcoin/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/bitcoin/bitcoin/labels{/name}",
+    "releases_url": "https://api.github.com/repos/bitcoin/bitcoin/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/bitcoin/bitcoin/deployments",
+    "created_at": "2010-12-19T15:16:43Z",
+    "updated_at": "2025-01-25T16:57:12Z",
+    "pushed_at": "2025-01-24T23:33:21Z",
+    "git_url": "git://github.com/bitcoin/bitcoin.git",
+    "ssh_url": "git@github.com:bitcoin/bitcoin.git",
+    "clone_url": "https://github.com/bitcoin/bitcoin.git",
+    "svn_url": "https://github.com/bitcoin/bitcoin",
+    "homepage": "https://bitcoincore.org/en/download",
+    "size": 274749,
+    "stargazers_count": 81633,
+    "watchers_count": 81633,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": false,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 36614,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 689,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bitcoin",
+        "c-plus-plus",
+        "cryptocurrency",
+        "cryptography",
+        "p2p"
+    ],
+    "visibility": "public",
+    "forks": 36614,
+    "open_issues": 689,
+    "watchers": 81633,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v28.1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v28.1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v28.1",
+            "commit": {
+                "sha": "32efe850438ef22e2de39e562af557872a402c31",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/32efe850438ef22e2de39e562af557872a402c31"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI4LjE="
+        },
+        {
+            "name": "v28.1rc2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v28.1rc2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v28.1rc2",
+            "commit": {
+                "sha": "6db725662d9edff275abfac6ef3827ebec882f66",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/6db725662d9edff275abfac6ef3827ebec882f66"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI4LjFyYzI="
+        },
+        {
+            "name": "v28.1rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v28.1rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v28.1rc1",
+            "commit": {
+                "sha": "d6b225f1652526cb053ec32c8ff09160d5a759c5",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/d6b225f1652526cb053ec32c8ff09160d5a759c5"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI4LjFyYzE="
+        },
+        {
+            "name": "v28.0",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v28.0",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v28.0",
+            "commit": {
+                "sha": "110183746150428e6385880c79f8c5733b1361ba",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/110183746150428e6385880c79f8c5733b1361ba"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI4LjA="
+        },
+        {
+            "name": "v28.0rc2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v28.0rc2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v28.0rc2",
+            "commit": {
+                "sha": "1147e72953d1f262111a4b1d5a438a8394511bc7",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/1147e72953d1f262111a4b1d5a438a8394511bc7"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI4LjByYzI="
+        },
+        {
+            "name": "v28.0rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v28.0rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v28.0rc1",
+            "commit": {
+                "sha": "88f0419c1ab1e5f3ccf425435e530d8ceb72c7f1",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/88f0419c1ab1e5f3ccf425435e530d8ceb72c7f1"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI4LjByYzE="
+        },
+        {
+            "name": "v27.2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v27.2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v27.2",
+            "commit": {
+                "sha": "bf03c458e994abab9be85486ed8a6d8813313579",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/bf03c458e994abab9be85486ed8a6d8813313579"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI3LjI="
+        },
+        {
+            "name": "v27.2rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v27.2rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v27.2rc1",
+            "commit": {
+                "sha": "882e0d730d6dfe57727a3bf4c326ed09f7102042",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/882e0d730d6dfe57727a3bf4c326ed09f7102042"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI3LjJyYzE="
+        },
+        {
+            "name": "v27.1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v27.1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v27.1",
+            "commit": {
+                "sha": "1088a98f5aad080cc6cca2da174f206509fcda6c",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/1088a98f5aad080cc6cca2da174f206509fcda6c"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI3LjE="
+        },
+        {
+            "name": "v27.1rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v27.1rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v27.1rc1",
+            "commit": {
+                "sha": "fccd32efe6e2950b2c74fdec2ade54040ca32a2c",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/fccd32efe6e2950b2c74fdec2ade54040ca32a2c"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI3LjFyYzE="
+        },
+        {
+            "name": "v27.0",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v27.0",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v27.0",
+            "commit": {
+                "sha": "d82283950f5ff3b2116e705f931c6e89e5fdd0be",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/d82283950f5ff3b2116e705f931c6e89e5fdd0be"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI3LjA="
+        },
+        {
+            "name": "v27.0rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v27.0rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v27.0rc1",
+            "commit": {
+                "sha": "c255fcb8252263e57a045e3296e24f7224436ae2",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/c255fcb8252263e57a045e3296e24f7224436ae2"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI3LjByYzE="
+        },
+        {
+            "name": "v26.2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.2",
+            "commit": {
+                "sha": "7b7041019ba5e7df7bde1416aa6916414a04f3db",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/7b7041019ba5e7df7bde1416aa6916414a04f3db"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjI="
+        },
+        {
+            "name": "v26.2rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.2rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.2rc1",
+            "commit": {
+                "sha": "d10cf127e576a8066a417aa77d49a6c726cb16af",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/d10cf127e576a8066a417aa77d49a6c726cb16af"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjJyYzE="
+        },
+        {
+            "name": "v26.1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.1",
+            "commit": {
+                "sha": "0b4aa31c34b239ec7da36760a2670792184c3ba8",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/0b4aa31c34b239ec7da36760a2670792184c3ba8"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjE="
+        },
+        {
+            "name": "v26.1rc2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.1rc2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.1rc2",
+            "commit": {
+                "sha": "c33e83a53a863e55413bee2893716b93165bf656",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/c33e83a53a863e55413bee2893716b93165bf656"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjFyYzI="
+        },
+        {
+            "name": "v26.1rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.1rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.1rc1",
+            "commit": {
+                "sha": "a4690485d145bef4e4dc9688291aa956a246fd47",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/a4690485d145bef4e4dc9688291aa956a246fd47"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjFyYzE="
+        },
+        {
+            "name": "v26.0",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.0",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.0",
+            "commit": {
+                "sha": "44d8b13c81e5276eb610c99f227a4d090cc532f6",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/44d8b13c81e5276eb610c99f227a4d090cc532f6"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjA="
+        },
+        {
+            "name": "v26.0rc3",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.0rc3",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.0rc3",
+            "commit": {
+                "sha": "e4fef4ae65c68ebd34774700dc4801c24313d469",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/e4fef4ae65c68ebd34774700dc4801c24313d469"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjByYzM="
+        },
+        {
+            "name": "v26.0rc2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.0rc2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.0rc2",
+            "commit": {
+                "sha": "67b25125603aacaa445bf6e9f0147789a039a679",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/67b25125603aacaa445bf6e9f0147789a039a679"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjByYzI="
+        },
+        {
+            "name": "v26.0rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v26.0rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v26.0rc1",
+            "commit": {
+                "sha": "11254a34d7f92f9b8aaaf17bf1a804a4d4cbabea",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/11254a34d7f92f9b8aaaf17bf1a804a4d4cbabea"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI2LjByYzE="
+        },
+        {
+            "name": "v25.2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.2",
+            "commit": {
+                "sha": "62c22dd679ba479e56c133b126174234d91bc857",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/62c22dd679ba479e56c133b126174234d91bc857"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjI="
+        },
+        {
+            "name": "v25.2rc2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.2rc2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.2rc2",
+            "commit": {
+                "sha": "d5bad0d2d16c2ddd6bfaeccbca2a31a30227ba2c",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/d5bad0d2d16c2ddd6bfaeccbca2a31a30227ba2c"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjJyYzI="
+        },
+        {
+            "name": "v25.2rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.2rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.2rc1",
+            "commit": {
+                "sha": "1ce5accc325cd7d3382f67a314dec018cfdc0a3e",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/1ce5accc325cd7d3382f67a314dec018cfdc0a3e"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjJyYzE="
+        },
+        {
+            "name": "v25.1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.1",
+            "commit": {
+                "sha": "7da4ae1f78ab4f6c8b19c8ca89bd6b2a6c4836ea",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/7da4ae1f78ab4f6c8b19c8ca89bd6b2a6c4836ea"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjE="
+        },
+        {
+            "name": "v25.1rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.1rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.1rc1",
+            "commit": {
+                "sha": "167d3e2f16ca8d3ed8d31e71490ecf0ca220ac34",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/167d3e2f16ca8d3ed8d31e71490ecf0ca220ac34"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjFyYzE="
+        },
+        {
+            "name": "v25.0",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.0",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.0",
+            "commit": {
+                "sha": "8105bce5b384c72cf08b25b7c5343622754e7337",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/8105bce5b384c72cf08b25b7c5343622754e7337"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjA="
+        },
+        {
+            "name": "v25.0rc2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.0rc2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.0rc2",
+            "commit": {
+                "sha": "8996da626d68784aaaccd96d3459c805b578f759",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/8996da626d68784aaaccd96d3459c805b578f759"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjByYzI="
+        },
+        {
+            "name": "v25.0rc1",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v25.0rc1",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v25.0rc1",
+            "commit": {
+                "sha": "079957d2ba5aaf5a832cb5a8be9a29362cf0a77f",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/079957d2ba5aaf5a832cb5a8be9a29362cf0a77f"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI1LjByYzE="
+        },
+        {
+            "name": "v24.2",
+            "zipball_url": "https://api.github.com/repos/bitcoin/bitcoin/zipball/refs/tags/v24.2",
+            "tarball_url": "https://api.github.com/repos/bitcoin/bitcoin/tarball/refs/tags/v24.2",
+            "commit": {
+                "sha": "d3a352256064d62a3e2e2d054ffa0faecb49dd71",
+                "url": "https://api.github.com/repos/bitcoin/bitcoin/commits/d3a352256064d62a3e2e2d054ffa0faecb49dd71"
+            },
+            "node_id": "MDM6UmVmMTE4MTkyNzpyZWZzL3RhZ3MvdjI0LjI="
+        }
+    ]
+}

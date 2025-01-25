@@ -1,0 +1,433 @@
+{
+    "id": 29207621,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyOTIwNzYyMQ==",
+    "name": "caddy",
+    "full_name": "caddyserver/caddy",
+    "private": false,
+    "owner": {
+        "login": "caddyserver",
+        "id": 12955528,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyOTU1NTI4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12955528?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/caddyserver",
+        "html_url": "https://github.com/caddyserver",
+        "followers_url": "https://api.github.com/users/caddyserver/followers",
+        "following_url": "https://api.github.com/users/caddyserver/following{/other_user}",
+        "gists_url": "https://api.github.com/users/caddyserver/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/caddyserver/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/caddyserver/subscriptions",
+        "organizations_url": "https://api.github.com/users/caddyserver/orgs",
+        "repos_url": "https://api.github.com/users/caddyserver/repos",
+        "events_url": "https://api.github.com/users/caddyserver/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/caddyserver/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/caddyserver/caddy",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "fork": false,
+    "url": "https://api.github.com/repos/caddyserver/caddy",
+    "forks_url": "https://api.github.com/repos/caddyserver/caddy/forks",
+    "keys_url": "https://api.github.com/repos/caddyserver/caddy/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/caddyserver/caddy/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/caddyserver/caddy/teams",
+    "hooks_url": "https://api.github.com/repos/caddyserver/caddy/hooks",
+    "issue_events_url": "https://api.github.com/repos/caddyserver/caddy/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/caddyserver/caddy/events",
+    "assignees_url": "https://api.github.com/repos/caddyserver/caddy/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/caddyserver/caddy/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/caddyserver/caddy/tags",
+    "blobs_url": "https://api.github.com/repos/caddyserver/caddy/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/caddyserver/caddy/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/caddyserver/caddy/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/caddyserver/caddy/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/caddyserver/caddy/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/caddyserver/caddy/languages",
+    "stargazers_url": "https://api.github.com/repos/caddyserver/caddy/stargazers",
+    "contributors_url": "https://api.github.com/repos/caddyserver/caddy/contributors",
+    "subscribers_url": "https://api.github.com/repos/caddyserver/caddy/subscribers",
+    "subscription_url": "https://api.github.com/repos/caddyserver/caddy/subscription",
+    "commits_url": "https://api.github.com/repos/caddyserver/caddy/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/caddyserver/caddy/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/caddyserver/caddy/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/caddyserver/caddy/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/caddyserver/caddy/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/caddyserver/caddy/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/caddyserver/caddy/merges",
+    "archive_url": "https://api.github.com/repos/caddyserver/caddy/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/caddyserver/caddy/downloads",
+    "issues_url": "https://api.github.com/repos/caddyserver/caddy/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/caddyserver/caddy/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/caddyserver/caddy/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/caddyserver/caddy/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/caddyserver/caddy/labels{/name}",
+    "releases_url": "https://api.github.com/repos/caddyserver/caddy/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/caddyserver/caddy/deployments",
+    "created_at": "2015-01-13T19:45:03Z",
+    "updated_at": "2025-01-25T15:59:06Z",
+    "pushed_at": "2025-01-25T14:45:42Z",
+    "git_url": "git://github.com/caddyserver/caddy.git",
+    "ssh_url": "git@github.com:caddyserver/caddy.git",
+    "clone_url": "https://github.com/caddyserver/caddy.git",
+    "svn_url": "https://github.com/caddyserver/caddy",
+    "homepage": "https://caddyserver.com",
+    "size": 18901,
+    "stargazers_count": 60940,
+    "watchers_count": 60940,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 4158,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 151,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "acme",
+        "automatic-https",
+        "caddy",
+        "caddyfile",
+        "go",
+        "golang",
+        "http",
+        "http-server",
+        "http3",
+        "https",
+        "privacy",
+        "reverse-proxy",
+        "security",
+        "tls",
+        "web-server"
+    ],
+    "visibility": "public",
+    "forks": 4158,
+    "open_issues": 151,
+    "watchers": 60940,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.9.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.9.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.9.1",
+            "commit": {
+                "sha": "0e570e0cc717f02cf3800ae741df70cd074c7275",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/0e570e0cc717f02cf3800ae741df70cd074c7275"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjkuMQ=="
+        },
+        {
+            "name": "v2.9.0",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.9.0",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.9.0",
+            "commit": {
+                "sha": "3f3f8b3d5270add46d5fc7d99bdcc705ad2d5df4",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/3f3f8b3d5270add46d5fc7d99bdcc705ad2d5df4"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjkuMA=="
+        },
+        {
+            "name": "v2.9.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.9.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.9.0-beta.3",
+            "commit": {
+                "sha": "da88ec152c28201d82c78df53a45363276a0e2f4",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/da88ec152c28201d82c78df53a45363276a0e2f4"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjkuMC1iZXRhLjM="
+        },
+        {
+            "name": "v2.9.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.9.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.9.0-beta.2",
+            "commit": {
+                "sha": "01be1b54a8c9b7e6ea52af8165c583d4d2ebe7e3",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/01be1b54a8c9b7e6ea52af8165c583d4d2ebe7e3"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjkuMC1iZXRhLjI="
+        },
+        {
+            "name": "v2.9.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.9.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.9.0-beta.1",
+            "commit": {
+                "sha": "41f5dd56e1b93ec815daa98dd1f1caa7f2087312",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/41f5dd56e1b93ec815daa98dd1f1caa7f2087312"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjkuMC1iZXRhLjE="
+        },
+        {
+            "name": "v2.8.4",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.4",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.4",
+            "commit": {
+                "sha": "7088605cc11c52c2777ab613dfc5c2a9816006e4",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/7088605cc11c52c2777ab613dfc5c2a9816006e4"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguNA=="
+        },
+        {
+            "name": "v2.8.3",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.3",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.3",
+            "commit": {
+                "sha": "15faeacb6065d2395a80a6a5f868149744f5de4a",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/15faeacb6065d2395a80a6a5f868149744f5de4a"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMw=="
+        },
+        {
+            "name": "v2.8.2",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.2",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.2",
+            "commit": {
+                "sha": "15faeacb6065d2395a80a6a5f868149744f5de4a",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/15faeacb6065d2395a80a6a5f868149744f5de4a"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMg=="
+        },
+        {
+            "name": "v2.8.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.1",
+            "commit": {
+                "sha": "40c582ce8273bf12b08e8e77df6498bca5f626a6",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/40c582ce8273bf12b08e8e77df6498bca5f626a6"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMQ=="
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "e6f46c8d78b77d0aefe50750dfd6f6a18ba138e5",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/e6f46c8d78b77d0aefe50750dfd6f6a18ba138e5"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMA=="
+        },
+        {
+            "name": "v2.8.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.0-rc.1",
+            "commit": {
+                "sha": "224316eaecd6bffd38719e1e03e09f8fe51649e7",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/224316eaecd6bffd38719e1e03e09f8fe51649e7"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMC1yYy4x"
+        },
+        {
+            "name": "v2.8.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.0-beta.2",
+            "commit": {
+                "sha": "dd203ad41f15872939e327f0b399366cb13f2287",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/dd203ad41f15872939e327f0b399366cb13f2287"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMC1iZXRhLjI="
+        },
+        {
+            "name": "v2.8.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.8.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.8.0-beta.1",
+            "commit": {
+                "sha": "d129ae6aec6af2182217ee8a235f4df8cd2bbfde",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/d129ae6aec6af2182217ee8a235f4df8cd2bbfde"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjguMC1iZXRhLjE="
+        },
+        {
+            "name": "v2.7.6",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.6",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.6",
+            "commit": {
+                "sha": "6d9a83376b5e19b3c0368541ee46044ab284038b",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/6d9a83376b5e19b3c0368541ee46044ab284038b"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuNg=="
+        },
+        {
+            "name": "v2.7.5",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.5",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.5",
+            "commit": {
+                "sha": "0e204b730aa2b1fa0835336b1117eff8c420f713",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/0e204b730aa2b1fa0835336b1117eff8c420f713"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuNQ=="
+        },
+        {
+            "name": "v2.7.4",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.4",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.4",
+            "commit": {
+                "sha": "f11c3c9f5a1be082450d64369853e1dacda22dde",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/f11c3c9f5a1be082450d64369853e1dacda22dde"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuNA=="
+        },
+        {
+            "name": "v2.7.3",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.3",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.3",
+            "commit": {
+                "sha": "a8cc5d1a7d9d80e12ab895beaf4eaed34cc6bded",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/a8cc5d1a7d9d80e12ab895beaf4eaed34cc6bded"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuMw=="
+        },
+        {
+            "name": "v2.7.2",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.2",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.2",
+            "commit": {
+                "sha": "e2fc08bd34cc17b8cbb6ac364fa1ec41c4c643b9",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/e2fc08bd34cc17b8cbb6ac364fa1ec41c4c643b9"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuMg=="
+        },
+        {
+            "name": "v2.7.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.1",
+            "commit": {
+                "sha": "4aa4f3ac70c682fb25db1283ea8516598528995a",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/4aa4f3ac70c682fb25db1283ea8516598528995a"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuMQ=="
+        },
+        {
+            "name": "v2.7.0",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.0",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.0",
+            "commit": {
+                "sha": "cd486c25d168caf58f4b6fe5d3252df9432901ec",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/cd486c25d168caf58f4b6fe5d3252df9432901ec"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuMA=="
+        },
+        {
+            "name": "v2.7.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.0-beta.2",
+            "commit": {
+                "sha": "2b2addebb8cc5dfc7d4d1d34c82f3c46159fea12",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/2b2addebb8cc5dfc7d4d1d34c82f3c46159fea12"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuMC1iZXRhLjI="
+        },
+        {
+            "name": "v2.7.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.7.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.7.0-beta.1",
+            "commit": {
+                "sha": "cbf16f6d9eb77f37d6eb588ff3e54cfdfddecc21",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/cbf16f6d9eb77f37d6eb588ff3e54cfdfddecc21"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjcuMC1iZXRhLjE="
+        },
+        {
+            "name": "v2.6.4",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.4",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.4",
+            "commit": {
+                "sha": "0db29e2ce9799f652f3d16fd5aed6e426d23bd0a",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/0db29e2ce9799f652f3d16fd5aed6e426d23bd0a"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuNA=="
+        },
+        {
+            "name": "v2.6.3",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.3",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.3",
+            "commit": {
+                "sha": "90798f3eea6b7a219a9bb55f680919c0504263e3",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/90798f3eea6b7a219a9bb55f680919c0504263e3"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMw=="
+        },
+        {
+            "name": "v2.6.2",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.2",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.2",
+            "commit": {
+                "sha": "6bad878a22e048762262d6fabe2144cefaf4ca81",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/6bad878a22e048762262d6fabe2144cefaf4ca81"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMg=="
+        },
+        {
+            "name": "v2.6.1",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.1",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.1",
+            "commit": {
+                "sha": "9206e8a7381d62a5f8362f541ab9c052f06a9d50",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/9206e8a7381d62a5f8362f541ab9c052f06a9d50"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMQ=="
+        },
+        {
+            "name": "v2.6.0",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.0",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.0",
+            "commit": {
+                "sha": "821a08a6e39ed0e7c43b0271ccf126c194eb6339",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/821a08a6e39ed0e7c43b0271ccf126c194eb6339"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMA=="
+        },
+        {
+            "name": "v2.6.0-beta.5",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.0-beta.5",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.0-beta.5",
+            "commit": {
+                "sha": "00beec2e34cbbc111c5f61058ee5b2b05c90ca8b",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/00beec2e34cbbc111c5f61058ee5b2b05c90ca8b"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMC1iZXRhLjU="
+        },
+        {
+            "name": "v2.6.0-beta.4",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.0-beta.4",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.0-beta.4",
+            "commit": {
+                "sha": "e43b6d81782ef79f22058179d8793f40cea89556",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/e43b6d81782ef79f22058179d8793f40cea89556"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMC1iZXRhLjQ="
+        },
+        {
+            "name": "v2.6.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/caddyserver/caddy/zipball/refs/tags/v2.6.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/caddyserver/caddy/tarball/refs/tags/v2.6.0-beta.3",
+            "commit": {
+                "sha": "487217519cd8dad207d04d5db966aacff3949b1d",
+                "url": "https://api.github.com/repos/caddyserver/caddy/commits/487217519cd8dad207d04d5db966aacff3949b1d"
+            },
+            "node_id": "MDM6UmVmMjkyMDc2MjE6cmVmcy90YWdzL3YyLjYuMC1iZXRhLjM="
+        }
+    ]
+}

@@ -1,0 +1,417 @@
+{
+    "id": 7587038,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3NTg3MDM4",
+    "name": "canal",
+    "full_name": "alibaba/canal",
+    "private": false,
+    "owner": {
+        "login": "alibaba",
+        "id": 1961952,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjE5NTI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1961952?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/alibaba",
+        "html_url": "https://github.com/alibaba",
+        "followers_url": "https://api.github.com/users/alibaba/followers",
+        "following_url": "https://api.github.com/users/alibaba/following{/other_user}",
+        "gists_url": "https://api.github.com/users/alibaba/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/alibaba/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/alibaba/subscriptions",
+        "organizations_url": "https://api.github.com/users/alibaba/orgs",
+        "repos_url": "https://api.github.com/users/alibaba/repos",
+        "events_url": "https://api.github.com/users/alibaba/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/alibaba/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/alibaba/canal",
+    "description": "\u963f\u91cc\u5df4\u5df4 MySQL binlog \u589e\u91cf\u8ba2\u9605&\u6d88\u8d39\u7ec4\u4ef6 ",
+    "fork": false,
+    "url": "https://api.github.com/repos/alibaba/canal",
+    "forks_url": "https://api.github.com/repos/alibaba/canal/forks",
+    "keys_url": "https://api.github.com/repos/alibaba/canal/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/alibaba/canal/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/alibaba/canal/teams",
+    "hooks_url": "https://api.github.com/repos/alibaba/canal/hooks",
+    "issue_events_url": "https://api.github.com/repos/alibaba/canal/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/alibaba/canal/events",
+    "assignees_url": "https://api.github.com/repos/alibaba/canal/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/alibaba/canal/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/alibaba/canal/tags",
+    "blobs_url": "https://api.github.com/repos/alibaba/canal/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/alibaba/canal/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/alibaba/canal/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/alibaba/canal/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/alibaba/canal/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/alibaba/canal/languages",
+    "stargazers_url": "https://api.github.com/repos/alibaba/canal/stargazers",
+    "contributors_url": "https://api.github.com/repos/alibaba/canal/contributors",
+    "subscribers_url": "https://api.github.com/repos/alibaba/canal/subscribers",
+    "subscription_url": "https://api.github.com/repos/alibaba/canal/subscription",
+    "commits_url": "https://api.github.com/repos/alibaba/canal/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/alibaba/canal/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/alibaba/canal/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/alibaba/canal/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/alibaba/canal/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/alibaba/canal/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/alibaba/canal/merges",
+    "archive_url": "https://api.github.com/repos/alibaba/canal/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/alibaba/canal/downloads",
+    "issues_url": "https://api.github.com/repos/alibaba/canal/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/alibaba/canal/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/alibaba/canal/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/alibaba/canal/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/alibaba/canal/labels{/name}",
+    "releases_url": "https://api.github.com/repos/alibaba/canal/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/alibaba/canal/deployments",
+    "created_at": "2013-01-13T10:59:52Z",
+    "updated_at": "2025-01-25T03:12:18Z",
+    "pushed_at": "2025-01-24T09:14:41Z",
+    "git_url": "git://github.com/alibaba/canal.git",
+    "ssh_url": "git@github.com:alibaba/canal.git",
+    "clone_url": "https://github.com/alibaba/canal.git",
+    "svn_url": "https://github.com/alibaba/canal",
+    "homepage": "",
+    "size": 24088,
+    "stargazers_count": 28767,
+    "watchers_count": 28767,
+    "language": "Java",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 7650,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1152,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 7650,
+    "open_issues": 1152,
+    "watchers": 28767,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.0.25",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/v1.0.25",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/v1.0.25",
+            "commit": {
+                "sha": "20942533e61212c48f9d0724654a1c0309665f02",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/20942533e61212c48f9d0724654a1c0309665f02"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvdjEuMC4yNQ=="
+        },
+        {
+            "name": "v1.0.23",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/v1.0.23",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/v1.0.23",
+            "commit": {
+                "sha": "f745c698e9f3c0c3b3e9927eb61f36458ece5279",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/f745c698e9f3c0c3b3e9927eb61f36458ece5279"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvdjEuMC4yMw=="
+        },
+        {
+            "name": "canal-1.1.8",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.8",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.8",
+            "commit": {
+                "sha": "0741ccda1eee67771dfa5d959df1ef83485cedf5",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/0741ccda1eee67771dfa5d959df1ef83485cedf5"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjg="
+        },
+        {
+            "name": "canal-1.1.8-alpha-3",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.8-alpha-3",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.8-alpha-3",
+            "commit": {
+                "sha": "1a00be1aad23c990375e53cd58187e784b95c37a",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/1a00be1aad23c990375e53cd58187e784b95c37a"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjgtYWxwaGEtMw=="
+        },
+        {
+            "name": "canal-1.1.8-alpha-2",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.8-alpha-2",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.8-alpha-2",
+            "commit": {
+                "sha": "d66a15fe3597b7960d974ff02c07c0af9c4a765d",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/d66a15fe3597b7960d974ff02c07c0af9c4a765d"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjgtYWxwaGEtMg=="
+        },
+        {
+            "name": "canal-1.1.8-alpha-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.8-alpha-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.8-alpha-1",
+            "commit": {
+                "sha": "1413cc9196dd76127fc41252cc38ac83ace5b8f9",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/1413cc9196dd76127fc41252cc38ac83ace5b8f9"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjgtYWxwaGEtMQ=="
+        },
+        {
+            "name": "canal-1.1.7",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.7",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.7",
+            "commit": {
+                "sha": "ea8949298fc74310990f24c864db218c7ccac312",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/ea8949298fc74310990f24c864db218c7ccac312"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjc="
+        },
+        {
+            "name": "canal-1.1.7-alpha-3",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.7-alpha-3",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.7-alpha-3",
+            "commit": {
+                "sha": "d4a09704f263d34018f5c77ec85a0df1bad571db",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/d4a09704f263d34018f5c77ec85a0df1bad571db"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjctYWxwaGEtMw=="
+        },
+        {
+            "name": "canal-1.1.7-alpha-2",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.7-alpha-2",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.7-alpha-2",
+            "commit": {
+                "sha": "a10698e4a8019137c1dd1e95978befdd6d92dee6",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/a10698e4a8019137c1dd1e95978befdd6d92dee6"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjctYWxwaGEtMg=="
+        },
+        {
+            "name": "canal-1.1.7-alpha-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.7-alpha-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.7-alpha-1",
+            "commit": {
+                "sha": "fb6981356f93ac9f9b892ac4be13791251729ab9",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/fb6981356f93ac9f9b892ac4be13791251729ab9"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjctYWxwaGEtMQ=="
+        },
+        {
+            "name": "canal-1.1.6",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.6",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.6",
+            "commit": {
+                "sha": "7ee246ca5a5fb9dcb15b33fad93b0683c79a0b16",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/7ee246ca5a5fb9dcb15b33fad93b0683c79a0b16"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjY="
+        },
+        {
+            "name": "canal-1.1.6-hotfix-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.6-hotfix-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.6-hotfix-1",
+            "commit": {
+                "sha": "1e2bb37060f177602c2d1c42fb800ed6e50badce",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/1e2bb37060f177602c2d1c42fb800ed6e50badce"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjYtaG90Zml4LTE="
+        },
+        {
+            "name": "canal-1.1.6-alpha-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.6-alpha-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.6-alpha-1",
+            "commit": {
+                "sha": "b48c434ffd61786aba5f8555b61e98ee5014cb55",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/b48c434ffd61786aba5f8555b61e98ee5014cb55"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjYtYWxwaGEtMQ=="
+        },
+        {
+            "name": "canal-1.1.5",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.5",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.5",
+            "commit": {
+                "sha": "64862503baeae083b7350b4cc10ff19c98b68ccc",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/64862503baeae083b7350b4cc10ff19c98b68ccc"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjU="
+        },
+        {
+            "name": "canal-1.1.5-alpha-2",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.5-alpha-2",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.5-alpha-2",
+            "commit": {
+                "sha": "b81e9dfeb860ac03e9c693ef01269bcbc169ca56",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/b81e9dfeb860ac03e9c693ef01269bcbc169ca56"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjUtYWxwaGEtMg=="
+        },
+        {
+            "name": "canal-1.1.5-alpha-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.5-alpha-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.5-alpha-1",
+            "commit": {
+                "sha": "9c75e25da788e8a951f19eb59b7bace77488be78",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/9c75e25da788e8a951f19eb59b7bace77488be78"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjUtYWxwaGEtMQ=="
+        },
+        {
+            "name": "canal-1.1.4",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.4",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.4",
+            "commit": {
+                "sha": "d53bfd7ee76f8fe6eb581049d64b07d4fcdd692d",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/d53bfd7ee76f8fe6eb581049d64b07d4fcdd692d"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjQ="
+        },
+        {
+            "name": "canal-1.1.4-alpha-2",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.4-alpha-2",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.4-alpha-2",
+            "commit": {
+                "sha": "3a74f6124a7b82ca210acafa5888aaf0a042255c",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/3a74f6124a7b82ca210acafa5888aaf0a042255c"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjQtYWxwaGEtMg=="
+        },
+        {
+            "name": "canal-1.1.4-alpha-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.4-alpha-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.4-alpha-1",
+            "commit": {
+                "sha": "a847660a456a028720b916408ed12b6a0992b1f2",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/a847660a456a028720b916408ed12b6a0992b1f2"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjQtYWxwaGEtMQ=="
+        },
+        {
+            "name": "canal-1.1.3",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.3",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.3",
+            "commit": {
+                "sha": "a7b12c70989174668a8c29c044567ca02e2f1f50",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/a7b12c70989174668a8c29c044567ca02e2f1f50"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjM="
+        },
+        {
+            "name": "canal-1.1.3-alpha-3",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.3-alpha-3",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.3-alpha-3",
+            "commit": {
+                "sha": "c94e3a00245aec003bfadd97a906436ebefd4246",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/c94e3a00245aec003bfadd97a906436ebefd4246"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjMtYWxwaGEtMw=="
+        },
+        {
+            "name": "canal-1.1.3-alpha-2",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.3-alpha-2",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.3-alpha-2",
+            "commit": {
+                "sha": "de501c85a15b13f1f76d434aa92b6fcacbebbc61",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/de501c85a15b13f1f76d434aa92b6fcacbebbc61"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjMtYWxwaGEtMg=="
+        },
+        {
+            "name": "canal-1.1.3-alpha-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.3-alpha-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.3-alpha-1",
+            "commit": {
+                "sha": "ff71bf515ae15d597f700bc0dfde5ebad1f9b0fc",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/ff71bf515ae15d597f700bc0dfde5ebad1f9b0fc"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjMtYWxwaGEtMQ=="
+        },
+        {
+            "name": "canal-1.1.2",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.2",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.2",
+            "commit": {
+                "sha": "8496ceaf155d7dc93b928fd3b6af9ccafa979e62",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/8496ceaf155d7dc93b928fd3b6af9ccafa979e62"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjI="
+        },
+        {
+            "name": "canal-1.1.1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.1",
+            "commit": {
+                "sha": "774aeeea68a1eae6b9e52d6005e4eb866c891522",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/774aeeea68a1eae6b9e52d6005e4eb866c891522"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjE="
+        },
+        {
+            "name": "canal-1.1.1-preview-1",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.1-preview-1",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.1-preview-1",
+            "commit": {
+                "sha": "82f8a9fc980dd428eb45c8f66789564632723897",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/82f8a9fc980dd428eb45c8f66789564632723897"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjEtcHJldmlldy0x"
+        },
+        {
+            "name": "canal-1.1.0",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.1.0",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.1.0",
+            "commit": {
+                "sha": "dd8b1ce9551b59b719516615e43193c467214ade",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/dd8b1ce9551b59b719516615e43193c467214ade"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4xLjA="
+        },
+        {
+            "name": "canal-1.0.26-preview-5",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.0.26-preview-5",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.0.26-preview-5",
+            "commit": {
+                "sha": "23f7b3b5d82c3571454877e32bc6f5bbd020b4c2",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/23f7b3b5d82c3571454877e32bc6f5bbd020b4c2"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4wLjI2LXByZXZpZXctNQ=="
+        },
+        {
+            "name": "canal-1.0.26-preview-4",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.0.26-preview-4",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.0.26-preview-4",
+            "commit": {
+                "sha": "89eb3d60785b2b91e42f8984ec8d6a9db3cacbf0",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/89eb3d60785b2b91e42f8984ec8d6a9db3cacbf0"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4wLjI2LXByZXZpZXctNA=="
+        },
+        {
+            "name": "canal-1.0.26-preview-3",
+            "zipball_url": "https://api.github.com/repos/alibaba/canal/zipball/refs/tags/canal-1.0.26-preview-3",
+            "tarball_url": "https://api.github.com/repos/alibaba/canal/tarball/refs/tags/canal-1.0.26-preview-3",
+            "commit": {
+                "sha": "b734a32ae6d0c284718b14078a2a555596188513",
+                "url": "https://api.github.com/repos/alibaba/canal/commits/b734a32ae6d0c284718b14078a2a555596188513"
+            },
+            "node_id": "MDM6UmVmNzU4NzAzODpyZWZzL3RhZ3MvY2FuYWwtMS4wLjI2LXByZXZpZXctMw=="
+        }
+    ]
+}

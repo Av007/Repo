@@ -1,0 +1,431 @@
+{
+    "id": 114466145,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTQ0NjYxNDU=",
+    "name": "yew",
+    "full_name": "yewstack/yew",
+    "private": false,
+    "owner": {
+        "login": "yewstack",
+        "id": 49116234,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5MTE2MjM0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49116234?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/yewstack",
+        "html_url": "https://github.com/yewstack",
+        "followers_url": "https://api.github.com/users/yewstack/followers",
+        "following_url": "https://api.github.com/users/yewstack/following{/other_user}",
+        "gists_url": "https://api.github.com/users/yewstack/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/yewstack/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/yewstack/subscriptions",
+        "organizations_url": "https://api.github.com/users/yewstack/orgs",
+        "repos_url": "https://api.github.com/users/yewstack/repos",
+        "events_url": "https://api.github.com/users/yewstack/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/yewstack/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/yewstack/yew",
+    "description": "Rust / Wasm framework for creating reliable and efficient web applications",
+    "fork": false,
+    "url": "https://api.github.com/repos/yewstack/yew",
+    "forks_url": "https://api.github.com/repos/yewstack/yew/forks",
+    "keys_url": "https://api.github.com/repos/yewstack/yew/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yewstack/yew/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yewstack/yew/teams",
+    "hooks_url": "https://api.github.com/repos/yewstack/yew/hooks",
+    "issue_events_url": "https://api.github.com/repos/yewstack/yew/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yewstack/yew/events",
+    "assignees_url": "https://api.github.com/repos/yewstack/yew/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yewstack/yew/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yewstack/yew/tags",
+    "blobs_url": "https://api.github.com/repos/yewstack/yew/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yewstack/yew/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yewstack/yew/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yewstack/yew/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yewstack/yew/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yewstack/yew/languages",
+    "stargazers_url": "https://api.github.com/repos/yewstack/yew/stargazers",
+    "contributors_url": "https://api.github.com/repos/yewstack/yew/contributors",
+    "subscribers_url": "https://api.github.com/repos/yewstack/yew/subscribers",
+    "subscription_url": "https://api.github.com/repos/yewstack/yew/subscription",
+    "commits_url": "https://api.github.com/repos/yewstack/yew/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yewstack/yew/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yewstack/yew/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yewstack/yew/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yewstack/yew/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yewstack/yew/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yewstack/yew/merges",
+    "archive_url": "https://api.github.com/repos/yewstack/yew/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yewstack/yew/downloads",
+    "issues_url": "https://api.github.com/repos/yewstack/yew/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yewstack/yew/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yewstack/yew/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yewstack/yew/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yewstack/yew/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yewstack/yew/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yewstack/yew/deployments",
+    "created_at": "2017-12-16T14:19:02Z",
+    "updated_at": "2025-01-25T17:06:04Z",
+    "pushed_at": "2025-01-24T03:14:10Z",
+    "git_url": "git://github.com/yewstack/yew.git",
+    "ssh_url": "git@github.com:yewstack/yew.git",
+    "clone_url": "https://github.com/yewstack/yew.git",
+    "svn_url": "https://github.com/yewstack/yew",
+    "homepage": "https://yew.rs",
+    "size": 15461,
+    "stargazers_count": 31138,
+    "watchers_count": 31138,
+    "language": "MDX",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 1433,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 178,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "asmjs",
+        "concurrency",
+        "elm",
+        "emscripten",
+        "gui",
+        "hacktoberfest",
+        "jsx",
+        "multithreading",
+        "rust",
+        "wasm",
+        "web",
+        "web-framework",
+        "webworkers"
+    ],
+    "visibility": "public",
+    "forks": 1433,
+    "open_issues": 178,
+    "watchers": 31138,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "yew-v0.21.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-v0.21.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-v0.21.0",
+            "commit": {
+                "sha": "4c3bcdc692b067907fb0e9402a3c08b9f872bc0f",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/4c3bcdc692b067907fb0e9402a3c08b9f872bc0f"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctdjAuMjEuMA=="
+        },
+        {
+            "name": "yew-v0.20.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-v0.20.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-v0.20.0",
+            "commit": {
+                "sha": "aa21702fc390de3093f2b79e96f3e0ea38e28c60",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/aa21702fc390de3093f2b79e96f3e0ea38e28c60"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctdjAuMjAuMA=="
+        },
+        {
+            "name": "yew-v0.19.3",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-v0.19.3",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-v0.19.3",
+            "commit": {
+                "sha": "c29cd71436c10aafc7614dd924bfaea7501e1dc4",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/c29cd71436c10aafc7614dd924bfaea7501e1dc4"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctdjAuMTkuMw=="
+        },
+        {
+            "name": "yew-v0.19.1",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-v0.19.1",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-v0.19.1",
+            "commit": {
+                "sha": "463eb1c93871d876efd668aabbf44811f76af8b5",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/463eb1c93871d876efd668aabbf44811f76af8b5"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctdjAuMTkuMQ=="
+        },
+        {
+            "name": "yew-v0.19.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-v0.19.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-v0.19.0",
+            "commit": {
+                "sha": "878353e9eaf665f5c5db980cb13f05e82082d206",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/878353e9eaf665f5c5db980cb13f05e82082d206"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctdjAuMTkuMA=="
+        },
+        {
+            "name": "yew-router-v0.18.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-router-v0.18.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-router-v0.18.0",
+            "commit": {
+                "sha": "4c3bcdc692b067907fb0e9402a3c08b9f872bc0f",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/4c3bcdc692b067907fb0e9402a3c08b9f872bc0f"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctcm91dGVyLXYwLjE4LjA="
+        },
+        {
+            "name": "yew-router-v0.17.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-router-v0.17.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-router-v0.17.0",
+            "commit": {
+                "sha": "5d4e94bb3802ed371bd9f5b566534de9a17801d0",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/5d4e94bb3802ed371bd9f5b566534de9a17801d0"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctcm91dGVyLXYwLjE3LjA="
+        },
+        {
+            "name": "yew-router-v0.16.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-router-v0.16.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-router-v0.16.0",
+            "commit": {
+                "sha": "07d569b833d325a30ec53af670b8bda9b697442a",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/07d569b833d325a30ec53af670b8bda9b697442a"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctcm91dGVyLXYwLjE2LjA="
+        },
+        {
+            "name": "yew-components-latest-state",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-components-latest-state",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-components-latest-state",
+            "commit": {
+                "sha": "91ab14bfd3ee0e6cd6e585a6f41f7421076ebbaa",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/91ab14bfd3ee0e6cd6e585a6f41f7421076ebbaa"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctY29tcG9uZW50cy1sYXRlc3Qtc3RhdGU="
+        },
+        {
+            "name": "yew-agent-v0.3.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-agent-v0.3.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-agent-v0.3.0",
+            "commit": {
+                "sha": "4c3bcdc692b067907fb0e9402a3c08b9f872bc0f",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/4c3bcdc692b067907fb0e9402a3c08b9f872bc0f"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctYWdlbnQtdjAuMy4w"
+        },
+        {
+            "name": "yew-agent-v0.2.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-agent-v0.2.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-agent-v0.2.0",
+            "commit": {
+                "sha": "17f125c9ec8e7e526551bc1c6dd52b77f58a544a",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/17f125c9ec8e7e526551bc1c6dd52b77f58a544a"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctYWdlbnQtdjAuMi4w"
+        },
+        {
+            "name": "yew-agent-v0.1.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-agent-v0.1.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-agent-v0.1.0",
+            "commit": {
+                "sha": "824682703067a148b5f612e91b29095355f2c720",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/824682703067a148b5f612e91b29095355f2c720"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctYWdlbnQtdjAuMS4w"
+        },
+        {
+            "name": "yew-agent-macro-v0.2.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/yew-agent-macro-v0.2.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/yew-agent-macro-v0.2.0",
+            "commit": {
+                "sha": "4c3bcdc692b067907fb0e9402a3c08b9f872bc0f",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/4c3bcdc692b067907fb0e9402a3c08b9f872bc0f"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy95ZXctYWdlbnQtbWFjcm8tdjAuMi4w"
+        },
+        {
+            "name": "0.18.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.18.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.18.0",
+            "commit": {
+                "sha": "17b27bce3f6b409957fc84c5ade2c3aeb28e015c",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/17b27bce3f6b409957fc84c5ade2c3aeb28e015c"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE4LjA="
+        },
+        {
+            "name": "0.17.4",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.17.4",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.17.4",
+            "commit": {
+                "sha": "f7b52bfc562b1964a409ca4fa804f98b0bdfc384",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/f7b52bfc562b1964a409ca4fa804f98b0bdfc384"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE3LjQ="
+        },
+        {
+            "name": "0.17.3",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.17.3",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.17.3",
+            "commit": {
+                "sha": "86db9b6cd63b2d5decf3953acdd26eac1d185ccb",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/86db9b6cd63b2d5decf3953acdd26eac1d185ccb"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE3LjM="
+        },
+        {
+            "name": "0.17.2",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.17.2",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.17.2",
+            "commit": {
+                "sha": "6327fe6680ed9c13ad2c8340820a9968deac69f6",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/6327fe6680ed9c13ad2c8340820a9968deac69f6"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE3LjI="
+        },
+        {
+            "name": "0.17.1",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.17.1",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.17.1",
+            "commit": {
+                "sha": "563d66ba4753220398c37947bac8bfcaa5e3959d",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/563d66ba4753220398c37947bac8bfcaa5e3959d"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE3LjE="
+        },
+        {
+            "name": "0.17.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.17.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.17.0",
+            "commit": {
+                "sha": "844aa4bf150b1ba068f0ba878c90e537f9db9164",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/844aa4bf150b1ba068f0ba878c90e537f9db9164"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE3LjA="
+        },
+        {
+            "name": "0.16.2",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.16.2",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.16.2",
+            "commit": {
+                "sha": "666240cc67d6ea8ce28455b1b1837e45eaeb8481",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/666240cc67d6ea8ce28455b1b1837e45eaeb8481"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE2LjI="
+        },
+        {
+            "name": "0.16.1",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.16.1",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.16.1",
+            "commit": {
+                "sha": "fc1861af064256baa2db8ce2b0b2826393e317a4",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/fc1861af064256baa2db8ce2b0b2826393e317a4"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE2LjE="
+        },
+        {
+            "name": "0.16.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.16.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.16.0",
+            "commit": {
+                "sha": "d95b196b504d744f97da15182fc8ab85496a1d41",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/d95b196b504d744f97da15182fc8ab85496a1d41"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE2LjA="
+        },
+        {
+            "name": "0.15.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.15.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.15.0",
+            "commit": {
+                "sha": "6498a462be4b058159eea1c1c667b5ddb14a9146",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/6498a462be4b058159eea1c1c667b5ddb14a9146"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE1LjA="
+        },
+        {
+            "name": "0.14.3",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.14.3",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.14.3",
+            "commit": {
+                "sha": "039c8603ae203b03c35a922141017bb16cc0687b",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/039c8603ae203b03c35a922141017bb16cc0687b"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE0LjM="
+        },
+        {
+            "name": "0.14.2",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.14.2",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.14.2",
+            "commit": {
+                "sha": "c2dc3774039c71c3a2b20b6d9e22250b7c93560a",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/c2dc3774039c71c3a2b20b6d9e22250b7c93560a"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE0LjI="
+        },
+        {
+            "name": "0.14.1",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.14.1",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.14.1",
+            "commit": {
+                "sha": "34115985dbf11f3d861f323d6b7b0fe8a3d9db6e",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/34115985dbf11f3d861f323d6b7b0fe8a3d9db6e"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE0LjE="
+        },
+        {
+            "name": "0.14.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.14.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.14.0",
+            "commit": {
+                "sha": "ebbd145bcd6ce6fdb5bf4777a930269602a01593",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/ebbd145bcd6ce6fdb5bf4777a930269602a01593"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjE0LjA="
+        },
+        {
+            "name": "0.13.2",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.13.2",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.13.2",
+            "commit": {
+                "sha": "2187d0fbbe6d5dbcf16033b0155bdc6cf9e6b152",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/2187d0fbbe6d5dbcf16033b0155bdc6cf9e6b152"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjEzLjI="
+        },
+        {
+            "name": "0.13.1",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.13.1",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.13.1",
+            "commit": {
+                "sha": "96b224ee9b5ee04e391eb7568168723cb8f29e65",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/96b224ee9b5ee04e391eb7568168723cb8f29e65"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjEzLjE="
+        },
+        {
+            "name": "0.13.0",
+            "zipball_url": "https://api.github.com/repos/yewstack/yew/zipball/refs/tags/0.13.0",
+            "tarball_url": "https://api.github.com/repos/yewstack/yew/tarball/refs/tags/0.13.0",
+            "commit": {
+                "sha": "d36da62115a0ec54dabb4c6337be754e72d6c718",
+                "url": "https://api.github.com/repos/yewstack/yew/commits/d36da62115a0ec54dabb4c6337be754e72d6c718"
+            },
+            "node_id": "MDM6UmVmMTE0NDY2MTQ1OnJlZnMvdGFncy8wLjEzLjA="
+        }
+    ]
+}

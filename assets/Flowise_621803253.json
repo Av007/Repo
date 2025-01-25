@@ -1,0 +1,432 @@
+{
+    "id": 621803253,
+    "node_id": "R_kgDOJQ_29Q",
+    "name": "Flowise",
+    "full_name": "FlowiseAI/Flowise",
+    "private": false,
+    "owner": {
+        "login": "FlowiseAI",
+        "id": 128289781,
+        "node_id": "O_kgDOB6WL9Q",
+        "avatar_url": "https://avatars.githubusercontent.com/u/128289781?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/FlowiseAI",
+        "html_url": "https://github.com/FlowiseAI",
+        "followers_url": "https://api.github.com/users/FlowiseAI/followers",
+        "following_url": "https://api.github.com/users/FlowiseAI/following{/other_user}",
+        "gists_url": "https://api.github.com/users/FlowiseAI/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/FlowiseAI/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/FlowiseAI/subscriptions",
+        "organizations_url": "https://api.github.com/users/FlowiseAI/orgs",
+        "repos_url": "https://api.github.com/users/FlowiseAI/repos",
+        "events_url": "https://api.github.com/users/FlowiseAI/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/FlowiseAI/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/FlowiseAI/Flowise",
+    "description": "Drag & drop UI to build your customized LLM flow",
+    "fork": false,
+    "url": "https://api.github.com/repos/FlowiseAI/Flowise",
+    "forks_url": "https://api.github.com/repos/FlowiseAI/Flowise/forks",
+    "keys_url": "https://api.github.com/repos/FlowiseAI/Flowise/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/FlowiseAI/Flowise/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/FlowiseAI/Flowise/teams",
+    "hooks_url": "https://api.github.com/repos/FlowiseAI/Flowise/hooks",
+    "issue_events_url": "https://api.github.com/repos/FlowiseAI/Flowise/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/FlowiseAI/Flowise/events",
+    "assignees_url": "https://api.github.com/repos/FlowiseAI/Flowise/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/FlowiseAI/Flowise/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/FlowiseAI/Flowise/tags",
+    "blobs_url": "https://api.github.com/repos/FlowiseAI/Flowise/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/FlowiseAI/Flowise/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/FlowiseAI/Flowise/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/FlowiseAI/Flowise/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/FlowiseAI/Flowise/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/FlowiseAI/Flowise/languages",
+    "stargazers_url": "https://api.github.com/repos/FlowiseAI/Flowise/stargazers",
+    "contributors_url": "https://api.github.com/repos/FlowiseAI/Flowise/contributors",
+    "subscribers_url": "https://api.github.com/repos/FlowiseAI/Flowise/subscribers",
+    "subscription_url": "https://api.github.com/repos/FlowiseAI/Flowise/subscription",
+    "commits_url": "https://api.github.com/repos/FlowiseAI/Flowise/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/FlowiseAI/Flowise/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/FlowiseAI/Flowise/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/FlowiseAI/Flowise/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/FlowiseAI/Flowise/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/FlowiseAI/Flowise/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/FlowiseAI/Flowise/merges",
+    "archive_url": "https://api.github.com/repos/FlowiseAI/Flowise/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/FlowiseAI/Flowise/downloads",
+    "issues_url": "https://api.github.com/repos/FlowiseAI/Flowise/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/FlowiseAI/Flowise/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/FlowiseAI/Flowise/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/FlowiseAI/Flowise/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/FlowiseAI/Flowise/labels{/name}",
+    "releases_url": "https://api.github.com/repos/FlowiseAI/Flowise/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/FlowiseAI/Flowise/deployments",
+    "created_at": "2023-03-31T12:23:09Z",
+    "updated_at": "2025-01-25T17:21:06Z",
+    "pushed_at": "2025-01-23T14:08:02Z",
+    "git_url": "git://github.com/FlowiseAI/Flowise.git",
+    "ssh_url": "git@github.com:FlowiseAI/Flowise.git",
+    "clone_url": "https://github.com/FlowiseAI/Flowise.git",
+    "svn_url": "https://github.com/FlowiseAI/Flowise",
+    "homepage": "https://flowiseai.com",
+    "size": 35731,
+    "stargazers_count": 34299,
+    "watchers_count": 34299,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 17768,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 463,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "javascript",
+        "langchain",
+        "large-language-models",
+        "llamaindex",
+        "low-code",
+        "no-code",
+        "openai",
+        "rag",
+        "react",
+        "typescript",
+        "workflow-automation"
+    ],
+    "visibility": "public",
+    "forks": 17768,
+    "open_issues": 463,
+    "watchers": 34299,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "flowise-ui@2.2.4",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.2.4",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.2.4",
+            "commit": {
+                "sha": "ef96b57303c1ffe2c04340ebe97759fe20ecc649",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/ef96b57303c1ffe2c04340ebe97759fe20ecc649"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjIuNA"
+        },
+        {
+            "name": "flowise-ui@2.2.3",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.2.3",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.2.3",
+            "commit": {
+                "sha": "4e434fd725c231d0abaae56f13aeb39ed3d11d5f",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/4e434fd725c231d0abaae56f13aeb39ed3d11d5f"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjIuMw"
+        },
+        {
+            "name": "flowise-ui@2.2.2",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.2.2",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.2.2",
+            "commit": {
+                "sha": "b087f4c4a13646b836a0a6fe4c06db8a86aa9aa6",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/b087f4c4a13646b836a0a6fe4c06db8a86aa9aa6"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjIuMg"
+        },
+        {
+            "name": "flowise-ui@2.2.1",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.2.1",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.2.1",
+            "commit": {
+                "sha": "3b804d7777baa55e2b2bcdef762a4a287200e26c",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/3b804d7777baa55e2b2bcdef762a4a287200e26c"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjIuMQ"
+        },
+        {
+            "name": "flowise-ui@2.2.0",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.2.0",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.2.0",
+            "commit": {
+                "sha": "3478b39a40984bcdf79fd174e6ea129db6c6f594",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/3478b39a40984bcdf79fd174e6ea129db6c6f594"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjIuMA"
+        },
+        {
+            "name": "flowise-ui@2.1.5",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.1.5",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.1.5",
+            "commit": {
+                "sha": "ebf9a98341be73fe249224938a9b681b58d7bd15",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/ebf9a98341be73fe249224938a9b681b58d7bd15"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjEuNQ"
+        },
+        {
+            "name": "flowise-ui@2.1.4",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.1.4",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.1.4",
+            "commit": {
+                "sha": "d0571291b76883a60cec7a004069a4175647172c",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/d0571291b76883a60cec7a004069a4175647172c"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjEuNA"
+        },
+        {
+            "name": "flowise-ui@2.1.3",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.1.3",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.1.3",
+            "commit": {
+                "sha": "95e0f01912c9deba34824940624251ebbd209b4d",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/95e0f01912c9deba34824940624251ebbd209b4d"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjEuMw"
+        },
+        {
+            "name": "flowise-ui@2.1.2",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.1.2",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.1.2",
+            "commit": {
+                "sha": "f7ad125bbdd3fe726e54f783e465dcf52f545b5f",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/f7ad125bbdd3fe726e54f783e465dcf52f545b5f"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjEuMg"
+        },
+        {
+            "name": "flowise-ui@2.1.1",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.1.1",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.1.1",
+            "commit": {
+                "sha": "793319c9ae810bd3f707e0aaa1b6b78b581159ac",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/793319c9ae810bd3f707e0aaa1b6b78b581159ac"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjEuMQ"
+        },
+        {
+            "name": "flowise-ui@2.1.0",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.1.0",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.1.0",
+            "commit": {
+                "sha": "7840a37f2fd4251dfecc51e9654ed61ee72cd074",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/7840a37f2fd4251dfecc51e9654ed61ee72cd074"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjEuMA"
+        },
+        {
+            "name": "flowise-ui@2.0.7",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.7",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.7",
+            "commit": {
+                "sha": "7103912203727bda0be2feee95e4c70fd1e6538e",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/7103912203727bda0be2feee95e4c70fd1e6538e"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuNw"
+        },
+        {
+            "name": "flowise-ui@2.0.6",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.6",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.6",
+            "commit": {
+                "sha": "58d995a4f3d037340f0c3d35d679089b6c96cda6",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/58d995a4f3d037340f0c3d35d679089b6c96cda6"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuNg"
+        },
+        {
+            "name": "flowise-ui@2.0.5",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.5",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.5",
+            "commit": {
+                "sha": "f57dc2477f9cfb8d455283dce6715c21f4bb0df8",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/f57dc2477f9cfb8d455283dce6715c21f4bb0df8"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuNQ"
+        },
+        {
+            "name": "flowise-ui@2.0.4",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.4",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.4",
+            "commit": {
+                "sha": "0c161956ade403515942dedc453a74967a19463d",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/0c161956ade403515942dedc453a74967a19463d"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuNA"
+        },
+        {
+            "name": "flowise-ui@2.0.3",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.3",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.3",
+            "commit": {
+                "sha": "f4dfe1803d1cec6a0c97b919c69e108a2b0219eb",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/f4dfe1803d1cec6a0c97b919c69e108a2b0219eb"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuMw"
+        },
+        {
+            "name": "flowise-ui@2.0.2",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.2",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.2",
+            "commit": {
+                "sha": "40802fbee921d1adea8414f2d0121d7834627832",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/40802fbee921d1adea8414f2d0121d7834627832"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuMg"
+        },
+        {
+            "name": "flowise-ui@2.0.1",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.1",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.1",
+            "commit": {
+                "sha": "f606f86a7915c4d4e380928c2675f9a4b6f4e77c",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/f606f86a7915c4d4e380928c2675f9a4b6f4e77c"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuMQ"
+        },
+        {
+            "name": "flowise-ui@2.0.0",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@2.0.0",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@2.0.0",
+            "commit": {
+                "sha": "e82d7ac851b166ef89142335c08aea69a872054f",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/e82d7ac851b166ef89142335c08aea69a872054f"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAyLjAuMA"
+        },
+        {
+            "name": "flowise-ui@1.8.4",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.8.4",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.8.4",
+            "commit": {
+                "sha": "78e60e22d24bc4d94e9e9b78ed27635644051de4",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/78e60e22d24bc4d94e9e9b78ed27635644051de4"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjguNA"
+        },
+        {
+            "name": "flowise-ui@1.8.3",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.8.3",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.8.3",
+            "commit": {
+                "sha": "d0354bb25cd561d1c9d78ca3bdaa41901dfdf346",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/d0354bb25cd561d1c9d78ca3bdaa41901dfdf346"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjguMw"
+        },
+        {
+            "name": "flowise-ui@1.8.2",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.8.2",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.8.2",
+            "commit": {
+                "sha": "5e4d640ed7b1d61b82e65004bc18af593f96f8ba",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/5e4d640ed7b1d61b82e65004bc18af593f96f8ba"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjguMg"
+        },
+        {
+            "name": "flowise-ui@1.8.1",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.8.1",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.8.1",
+            "commit": {
+                "sha": "6a58ae4e80d37ca2ea4b916f8f148157a082a7a1",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/6a58ae4e80d37ca2ea4b916f8f148157a082a7a1"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjguMQ"
+        },
+        {
+            "name": "flowise-ui@1.8.0",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.8.0",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.8.0",
+            "commit": {
+                "sha": "8ebc4dcfd589040a8526c6d765193db129a77edd",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/8ebc4dcfd589040a8526c6d765193db129a77edd"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjguMA"
+        },
+        {
+            "name": "flowise-ui@1.7.2",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.7.2",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.7.2",
+            "commit": {
+                "sha": "96d4ab66f23212bf2ba683347773be946ef99c6c",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/96d4ab66f23212bf2ba683347773be946ef99c6c"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjcuMg"
+        },
+        {
+            "name": "flowise-ui@1.7.1",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.7.1",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.7.1",
+            "commit": {
+                "sha": "80f24ac30c6ce0716af0952a55466958dc97b4c1",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/80f24ac30c6ce0716af0952a55466958dc97b4c1"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjcuMQ"
+        },
+        {
+            "name": "flowise-ui@1.7.0",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.7.0",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.7.0",
+            "commit": {
+                "sha": "40e36d1b39994a52127f79922779a253cd6b984d",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/40e36d1b39994a52127f79922779a253cd6b984d"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjcuMA"
+        },
+        {
+            "name": "flowise-ui@1.6.6",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.6.6",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.6.6",
+            "commit": {
+                "sha": "7360d1d9a602ab16c38d46ac8901dea27d5bd5aa",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/7360d1d9a602ab16c38d46ac8901dea27d5bd5aa"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjYuNg"
+        },
+        {
+            "name": "flowise-ui@1.6.5",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.6.5",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.6.5",
+            "commit": {
+                "sha": "788d40f26b0dc39d6f53db6609b9617690d7fee4",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/788d40f26b0dc39d6f53db6609b9617690d7fee4"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjYuNQ"
+        },
+        {
+            "name": "flowise-ui@1.6.4",
+            "zipball_url": "https://api.github.com/repos/FlowiseAI/Flowise/zipball/refs/tags/flowise-ui@1.6.4",
+            "tarball_url": "https://api.github.com/repos/FlowiseAI/Flowise/tarball/refs/tags/flowise-ui@1.6.4",
+            "commit": {
+                "sha": "eabc84ee9fc97fae323332086a5beebc9053c991",
+                "url": "https://api.github.com/repos/FlowiseAI/Flowise/commits/eabc84ee9fc97fae323332086a5beebc9053c991"
+            },
+            "node_id": "REF_kwDOJQ_29bpyZWZzL3RhZ3MvZmxvd2lzZS11aUAxLjYuNA"
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "id": 1362490,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMzYyNDkw",
+    "name": "requests",
+    "full_name": "psf/requests",
+    "private": false,
+    "owner": {
+        "login": "psf",
+        "id": 50630501,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwNjMwNTAx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50630501?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/psf",
+        "html_url": "https://github.com/psf",
+        "followers_url": "https://api.github.com/users/psf/followers",
+        "following_url": "https://api.github.com/users/psf/following{/other_user}",
+        "gists_url": "https://api.github.com/users/psf/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/psf/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/psf/subscriptions",
+        "organizations_url": "https://api.github.com/users/psf/orgs",
+        "repos_url": "https://api.github.com/users/psf/repos",
+        "events_url": "https://api.github.com/users/psf/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/psf/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/psf/requests",
+    "description": "A simple, yet elegant, HTTP library.",
+    "fork": false,
+    "url": "https://api.github.com/repos/psf/requests",
+    "forks_url": "https://api.github.com/repos/psf/requests/forks",
+    "keys_url": "https://api.github.com/repos/psf/requests/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/psf/requests/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/psf/requests/teams",
+    "hooks_url": "https://api.github.com/repos/psf/requests/hooks",
+    "issue_events_url": "https://api.github.com/repos/psf/requests/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/psf/requests/events",
+    "assignees_url": "https://api.github.com/repos/psf/requests/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/psf/requests/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/psf/requests/tags",
+    "blobs_url": "https://api.github.com/repos/psf/requests/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/psf/requests/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/psf/requests/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/psf/requests/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/psf/requests/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/psf/requests/languages",
+    "stargazers_url": "https://api.github.com/repos/psf/requests/stargazers",
+    "contributors_url": "https://api.github.com/repos/psf/requests/contributors",
+    "subscribers_url": "https://api.github.com/repos/psf/requests/subscribers",
+    "subscription_url": "https://api.github.com/repos/psf/requests/subscription",
+    "commits_url": "https://api.github.com/repos/psf/requests/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/psf/requests/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/psf/requests/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/psf/requests/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/psf/requests/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/psf/requests/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/psf/requests/merges",
+    "archive_url": "https://api.github.com/repos/psf/requests/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/psf/requests/downloads",
+    "issues_url": "https://api.github.com/repos/psf/requests/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/psf/requests/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/psf/requests/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/psf/requests/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/psf/requests/labels{/name}",
+    "releases_url": "https://api.github.com/repos/psf/requests/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/psf/requests/deployments",
+    "created_at": "2011-02-13T18:38:17Z",
+    "updated_at": "2025-01-25T16:12:23Z",
+    "pushed_at": "2025-01-13T16:41:08Z",
+    "git_url": "git://github.com/psf/requests.git",
+    "ssh_url": "git@github.com:psf/requests.git",
+    "clone_url": "https://github.com/psf/requests.git",
+    "svn_url": "https://github.com/psf/requests",
+    "homepage": "https://requests.readthedocs.io/en/latest/",
+    "size": 13107,
+    "stargazers_count": 52422,
+    "watchers_count": 52422,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 9353,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 264,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "client",
+        "cookies",
+        "forhumans",
+        "http",
+        "humans",
+        "python",
+        "python-requests",
+        "requests"
+    ],
+    "visibility": "public",
+    "forks": 9353,
+    "open_issues": 264,
+    "watchers": 52422,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.32.3",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.32.3",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.32.3",
+            "commit": {
+                "sha": "0e322af87745eff34caffe4df68456ebc20d9068",
+                "url": "https://api.github.com/repos/psf/requests/commits/0e322af87745eff34caffe4df68456ebc20d9068"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMzIuMw=="
+        },
+        {
+            "name": "v2.32.2",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.32.2",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.32.2",
+            "commit": {
+                "sha": "88dce9d854797c05d0ff296b70e0430535ef8aaf",
+                "url": "https://api.github.com/repos/psf/requests/commits/88dce9d854797c05d0ff296b70e0430535ef8aaf"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMzIuMg=="
+        },
+        {
+            "name": "v2.32.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.32.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.32.1",
+            "commit": {
+                "sha": "970e8cec988421bd43da57350723b05c8ce8dc7e",
+                "url": "https://api.github.com/repos/psf/requests/commits/970e8cec988421bd43da57350723b05c8ce8dc7e"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMzIuMQ=="
+        },
+        {
+            "name": "v2.32.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.32.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.32.0",
+            "commit": {
+                "sha": "d6ebc4a2f1f68b7e355fb7e4dd5ffc0845547f9f",
+                "url": "https://api.github.com/repos/psf/requests/commits/d6ebc4a2f1f68b7e355fb7e4dd5ffc0845547f9f"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMzIuMA=="
+        },
+        {
+            "name": "v2.31.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.31.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.31.0",
+            "commit": {
+                "sha": "147c8511ddbfa5e8f71bbf5c18ede0c4ceb3bba4",
+                "url": "https://api.github.com/repos/psf/requests/commits/147c8511ddbfa5e8f71bbf5c18ede0c4ceb3bba4"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMzEuMA=="
+        },
+        {
+            "name": "v2.30.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.30.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.30.0",
+            "commit": {
+                "sha": "2ad18e0e10e7d7ecd5384c378f25ec8821a10a29",
+                "url": "https://api.github.com/repos/psf/requests/commits/2ad18e0e10e7d7ecd5384c378f25ec8821a10a29"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMzAuMA=="
+        },
+        {
+            "name": "v2.29.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.29.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.29.0",
+            "commit": {
+                "sha": "87d63de8739263bbe17034fba2285c79780da7e8",
+                "url": "https://api.github.com/repos/psf/requests/commits/87d63de8739263bbe17034fba2285c79780da7e8"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjkuMA=="
+        },
+        {
+            "name": "v2.28.2",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.28.2",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.28.2",
+            "commit": {
+                "sha": "61c324da43dd8b775d3930d76265538b3ca27bc1",
+                "url": "https://api.github.com/repos/psf/requests/commits/61c324da43dd8b775d3930d76265538b3ca27bc1"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjguMg=="
+        },
+        {
+            "name": "v2.28.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.28.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.28.1",
+            "commit": {
+                "sha": "4d394574f5555a8ddcc38f707e0c9f57f55d9a3b",
+                "url": "https://api.github.com/repos/psf/requests/commits/4d394574f5555a8ddcc38f707e0c9f57f55d9a3b"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjguMQ=="
+        },
+        {
+            "name": "v2.28.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.28.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.28.0",
+            "commit": {
+                "sha": "da9996fe4dc63356e9467d0a5e10df3d89a8528e",
+                "url": "https://api.github.com/repos/psf/requests/commits/da9996fe4dc63356e9467d0a5e10df3d89a8528e"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjguMA=="
+        },
+        {
+            "name": "v2.27.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.27.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.27.1",
+            "commit": {
+                "sha": "31a89d9c8463c3394ca00f408f4b86d814421a09",
+                "url": "https://api.github.com/repos/psf/requests/commits/31a89d9c8463c3394ca00f408f4b86d814421a09"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjcuMQ=="
+        },
+        {
+            "name": "v2.27.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.27.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.27.0",
+            "commit": {
+                "sha": "0192aac24123735b3eaf9b08df46429bb770c283",
+                "url": "https://api.github.com/repos/psf/requests/commits/0192aac24123735b3eaf9b08df46429bb770c283"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjcuMA=="
+        },
+        {
+            "name": "v2.26.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.26.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.26.0",
+            "commit": {
+                "sha": "a1a6a549a0143d9b32717dbe3d75cd543ae5a4f6",
+                "url": "https://api.github.com/repos/psf/requests/commits/a1a6a549a0143d9b32717dbe3d75cd543ae5a4f6"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjYuMA=="
+        },
+        {
+            "name": "v2.25.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.25.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.25.1",
+            "commit": {
+                "sha": "c2b307dbefe21177af03f9feb37181a89a799fcc",
+                "url": "https://api.github.com/repos/psf/requests/commits/c2b307dbefe21177af03f9feb37181a89a799fcc"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjUuMQ=="
+        },
+        {
+            "name": "v2.25.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.25.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.25.0",
+            "commit": {
+                "sha": "03957eb1c2b9a1e5e6d61f5e930d7c5ed7cfe853",
+                "url": "https://api.github.com/repos/psf/requests/commits/03957eb1c2b9a1e5e6d61f5e930d7c5ed7cfe853"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjUuMA=="
+        },
+        {
+            "name": "v2.24.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.24.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.24.0",
+            "commit": {
+                "sha": "0797c61fd541f92f66e409dbf9515ca287af28d2",
+                "url": "https://api.github.com/repos/psf/requests/commits/0797c61fd541f92f66e409dbf9515ca287af28d2"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjQuMA=="
+        },
+        {
+            "name": "v2.23.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.23.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.23.0",
+            "commit": {
+                "sha": "c7e0fc087ceeadb8b4c84a0953a422c474093d6d",
+                "url": "https://api.github.com/repos/psf/requests/commits/c7e0fc087ceeadb8b4c84a0953a422c474093d6d"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjMuMA=="
+        },
+        {
+            "name": "v2.22.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.22.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.22.0",
+            "commit": {
+                "sha": "aeda65bbe57ac5edbcc2d80db85d010befb7d419",
+                "url": "https://api.github.com/repos/psf/requests/commits/aeda65bbe57ac5edbcc2d80db85d010befb7d419"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjIuMA=="
+        },
+        {
+            "name": "v2.21.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.21.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.21.0",
+            "commit": {
+                "sha": "5a1e738ea9c399c3f59977f2f98b083986d6037a",
+                "url": "https://api.github.com/repos/psf/requests/commits/5a1e738ea9c399c3f59977f2f98b083986d6037a"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjEuMA=="
+        },
+        {
+            "name": "v2.20.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.20.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.20.1",
+            "commit": {
+                "sha": "6cfbe1aedd56f8c2f9ff8b968efe65b22669795b",
+                "url": "https://api.github.com/repos/psf/requests/commits/6cfbe1aedd56f8c2f9ff8b968efe65b22669795b"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjAuMQ=="
+        },
+        {
+            "name": "v2.20.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.20.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.20.0",
+            "commit": {
+                "sha": "bd840450c0d1e9db3bf62382c15d96378cc3a056",
+                "url": "https://api.github.com/repos/psf/requests/commits/bd840450c0d1e9db3bf62382c15d96378cc3a056"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMjAuMA=="
+        },
+        {
+            "name": "v2.19.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.19.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.19.1",
+            "commit": {
+                "sha": "883caaf145fbe93bd0d208a6b864de9146087312",
+                "url": "https://api.github.com/repos/psf/requests/commits/883caaf145fbe93bd0d208a6b864de9146087312"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTkuMQ=="
+        },
+        {
+            "name": "v2.19.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.19.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.19.0",
+            "commit": {
+                "sha": "991e8b76b7a9d21f698b24fa0058d3d5968721bc",
+                "url": "https://api.github.com/repos/psf/requests/commits/991e8b76b7a9d21f698b24fa0058d3d5968721bc"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTkuMA=="
+        },
+        {
+            "name": "v2.18.4",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.18.4",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.18.4",
+            "commit": {
+                "sha": "a3d7cf3f27e74c28ef30f01e9f2e483570ab042e",
+                "url": "https://api.github.com/repos/psf/requests/commits/a3d7cf3f27e74c28ef30f01e9f2e483570ab042e"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTguNA=="
+        },
+        {
+            "name": "v2.18.3",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.18.3",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.18.3",
+            "commit": {
+                "sha": "7c67c4adf9020fe6e279f1633ca477ef2b89ae44",
+                "url": "https://api.github.com/repos/psf/requests/commits/7c67c4adf9020fe6e279f1633ca477ef2b89ae44"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTguMw=="
+        },
+        {
+            "name": "v2.18.2",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.18.2",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.18.2",
+            "commit": {
+                "sha": "6cc891fd3204c63e57ccfae4b91bb6edca2d876e",
+                "url": "https://api.github.com/repos/psf/requests/commits/6cc891fd3204c63e57ccfae4b91bb6edca2d876e"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTguMg=="
+        },
+        {
+            "name": "v2.18.1",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.18.1",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.18.1",
+            "commit": {
+                "sha": "51de61f914fda8d4f6a8ac8c2852abcc82b0b94e",
+                "url": "https://api.github.com/repos/psf/requests/commits/51de61f914fda8d4f6a8ac8c2852abcc82b0b94e"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTguMQ=="
+        },
+        {
+            "name": "v2.18.0",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.18.0",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.18.0",
+            "commit": {
+                "sha": "d93b37cee77c45807cc6659bbd971d2b983c03b1",
+                "url": "https://api.github.com/repos/psf/requests/commits/d93b37cee77c45807cc6659bbd971d2b983c03b1"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTguMA=="
+        },
+        {
+            "name": "v2.17.3",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.17.3",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.17.3",
+            "commit": {
+                "sha": "5091c15bd71ec934423a71ce1b53668cd15db68f",
+                "url": "https://api.github.com/repos/psf/requests/commits/5091c15bd71ec934423a71ce1b53668cd15db68f"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTcuMw=="
+        },
+        {
+            "name": "v2.17.2",
+            "zipball_url": "https://api.github.com/repos/psf/requests/zipball/refs/tags/v2.17.2",
+            "tarball_url": "https://api.github.com/repos/psf/requests/tarball/refs/tags/v2.17.2",
+            "commit": {
+                "sha": "850c0bed7ffd2d5b060d634bee81843c068898af",
+                "url": "https://api.github.com/repos/psf/requests/commits/850c0bed7ffd2d5b060d634bee81843c068898af"
+            },
+            "node_id": "MDM6UmVmMTM2MjQ5MDpyZWZzL3RhZ3MvdjIuMTcuMg=="
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "id": 121898717,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMjE4OTg3MTc=",
+    "name": "vaultwarden",
+    "full_name": "dani-garcia/vaultwarden",
+    "private": false,
+    "owner": {
+        "login": "dani-garcia",
+        "id": 725423,
+        "node_id": "MDQ6VXNlcjcyNTQyMw==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/725423?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dani-garcia",
+        "html_url": "https://github.com/dani-garcia",
+        "followers_url": "https://api.github.com/users/dani-garcia/followers",
+        "following_url": "https://api.github.com/users/dani-garcia/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dani-garcia/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dani-garcia/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dani-garcia/subscriptions",
+        "organizations_url": "https://api.github.com/users/dani-garcia/orgs",
+        "repos_url": "https://api.github.com/users/dani-garcia/repos",
+        "events_url": "https://api.github.com/users/dani-garcia/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dani-garcia/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "fork": false,
+    "url": "https://api.github.com/repos/dani-garcia/vaultwarden",
+    "forks_url": "https://api.github.com/repos/dani-garcia/vaultwarden/forks",
+    "keys_url": "https://api.github.com/repos/dani-garcia/vaultwarden/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/dani-garcia/vaultwarden/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/dani-garcia/vaultwarden/teams",
+    "hooks_url": "https://api.github.com/repos/dani-garcia/vaultwarden/hooks",
+    "issue_events_url": "https://api.github.com/repos/dani-garcia/vaultwarden/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/dani-garcia/vaultwarden/events",
+    "assignees_url": "https://api.github.com/repos/dani-garcia/vaultwarden/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/dani-garcia/vaultwarden/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tags",
+    "blobs_url": "https://api.github.com/repos/dani-garcia/vaultwarden/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/dani-garcia/vaultwarden/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/dani-garcia/vaultwarden/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/dani-garcia/vaultwarden/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/dani-garcia/vaultwarden/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/dani-garcia/vaultwarden/languages",
+    "stargazers_url": "https://api.github.com/repos/dani-garcia/vaultwarden/stargazers",
+    "contributors_url": "https://api.github.com/repos/dani-garcia/vaultwarden/contributors",
+    "subscribers_url": "https://api.github.com/repos/dani-garcia/vaultwarden/subscribers",
+    "subscription_url": "https://api.github.com/repos/dani-garcia/vaultwarden/subscription",
+    "commits_url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/dani-garcia/vaultwarden/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/dani-garcia/vaultwarden/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/dani-garcia/vaultwarden/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/dani-garcia/vaultwarden/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/dani-garcia/vaultwarden/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/dani-garcia/vaultwarden/merges",
+    "archive_url": "https://api.github.com/repos/dani-garcia/vaultwarden/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/dani-garcia/vaultwarden/downloads",
+    "issues_url": "https://api.github.com/repos/dani-garcia/vaultwarden/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/dani-garcia/vaultwarden/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/dani-garcia/vaultwarden/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/dani-garcia/vaultwarden/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/dani-garcia/vaultwarden/labels{/name}",
+    "releases_url": "https://api.github.com/repos/dani-garcia/vaultwarden/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/dani-garcia/vaultwarden/deployments",
+    "created_at": "2018-02-17T22:40:20Z",
+    "updated_at": "2025-01-25T16:54:26Z",
+    "pushed_at": "2025-01-25T12:07:14Z",
+    "git_url": "git://github.com/dani-garcia/vaultwarden.git",
+    "ssh_url": "git@github.com:dani-garcia/vaultwarden.git",
+    "clone_url": "https://github.com/dani-garcia/vaultwarden.git",
+    "svn_url": "https://github.com/dani-garcia/vaultwarden",
+    "homepage": "",
+    "size": 10062,
+    "stargazers_count": 41107,
+    "watchers_count": 41107,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1958,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 15,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bitwarden",
+        "bitwarden-rs",
+        "docker",
+        "hacktoberfest",
+        "rocket",
+        "rust",
+        "vaultwarden"
+    ],
+    "visibility": "public",
+    "forks": 1958,
+    "open_issues": 15,
+    "watchers": 41107,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "1.33.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.33.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.33.0",
+            "commit": {
+                "sha": "2903a3a13ad06a09805e8842511b4b715a686d8e",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/2903a3a13ad06a09805e8842511b4b715a686d8e"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMzLjA="
+        },
+        {
+            "name": "1.32.7",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.7",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.7",
+            "commit": {
+                "sha": "a523c82f5f9fc444cafb11b78a16074663e76a7a",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/a523c82f5f9fc444cafb11b78a16074663e76a7a"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjc="
+        },
+        {
+            "name": "1.32.6",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.6",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.6",
+            "commit": {
+                "sha": "45e5f06b86c66d30ece0cf9169d3a5b65a87e380",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/45e5f06b86c66d30ece0cf9169d3a5b65a87e380"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjY="
+        },
+        {
+            "name": "1.32.5",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.5",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.5",
+            "commit": {
+                "sha": "cdfdc6ff4f61a7495cd70609c0d9098ff10b55a4",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/cdfdc6ff4f61a7495cd70609c0d9098ff10b55a4"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjU="
+        },
+        {
+            "name": "1.32.4",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.4",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.4",
+            "commit": {
+                "sha": "38aad4f7bedfb4279ecb385e036b1d84f3d59483",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/38aad4f7bedfb4279ecb385e036b1d84f3d59483"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjQ="
+        },
+        {
+            "name": "1.32.3",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.3",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.3",
+            "commit": {
+                "sha": "33bae5fbe9a4a99efc4968d7499eeb6998030a88",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/33bae5fbe9a4a99efc4968d7499eeb6998030a88"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjM="
+        },
+        {
+            "name": "1.32.2",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.2",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.2",
+            "commit": {
+                "sha": "cd195ff24339056bc5246bd5ee9106379e7fb6e6",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/cd195ff24339056bc5246bd5ee9106379e7fb6e6"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjI="
+        },
+        {
+            "name": "1.32.1",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.1",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.1",
+            "commit": {
+                "sha": "040e2a7bb0f2cc5012d46ca99283cf21fa06ed1a",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/040e2a7bb0f2cc5012d46ca99283cf21fa06ed1a"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjE="
+        },
+        {
+            "name": "1.32.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.32.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.32.0",
+            "commit": {
+                "sha": "b557c117247b0def307623b22203bd09c89bf05f",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/b557c117247b0def307623b22203bd09c89bf05f"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMyLjA="
+        },
+        {
+            "name": "1.31.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.31.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.31.0",
+            "commit": {
+                "sha": "d04b94b77d95a9968f61f71969f65aaaa8a496d6",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/d04b94b77d95a9968f61f71969f65aaaa8a496d6"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMxLjA="
+        },
+        {
+            "name": "1.30.5",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.30.5",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.30.5",
+            "commit": {
+                "sha": "d0c22b9fc90ae52aedbbccdafe9915bd0bdb0d84",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/d0c22b9fc90ae52aedbbccdafe9915bd0bdb0d84"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMwLjU="
+        },
+        {
+            "name": "1.30.4",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.30.4",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.30.4",
+            "commit": {
+                "sha": "d6b97090fab5eba429a79c35735a0760b2fa9ee2",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/d6b97090fab5eba429a79c35735a0760b2fa9ee2"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMwLjQ="
+        },
+        {
+            "name": "1.30.3",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.30.3",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.30.3",
+            "commit": {
+                "sha": "4438da39f9c9aa9d83d1dddbf06616ad287f70eb",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/4438da39f9c9aa9d83d1dddbf06616ad287f70eb"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMwLjM="
+        },
+        {
+            "name": "1.30.2",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.30.2",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.30.2",
+            "commit": {
+                "sha": "ad1d65bdf8a15d3bc1eac076ab4ab394777204ee",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/ad1d65bdf8a15d3bc1eac076ab4ab394777204ee"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMwLjI="
+        },
+        {
+            "name": "1.30.1",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.30.1",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.30.1",
+            "commit": {
+                "sha": "48836501bf348386d9bb1378fb56db33c19d3732",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/48836501bf348386d9bb1378fb56db33c19d3732"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMwLjE="
+        },
+        {
+            "name": "1.30.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.30.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.30.0",
+            "commit": {
+                "sha": "cec1e87679cfd0e2f0bce9b7dc3256dbbd2effa8",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/cec1e87679cfd0e2f0bce9b7dc3256dbbd2effa8"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjMwLjA="
+        },
+        {
+            "name": "1.29.2",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.29.2",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.29.2",
+            "commit": {
+                "sha": "66bff73ebf5a8e7dd024b932a9ccbc0b3197865a",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/66bff73ebf5a8e7dd024b932a9ccbc0b3197865a"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI5LjI="
+        },
+        {
+            "name": "1.29.1",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.29.1",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.29.1",
+            "commit": {
+                "sha": "3dbfc484a54c41d1759646444b439da06445060b",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/3dbfc484a54c41d1759646444b439da06445060b"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI5LjE="
+        },
+        {
+            "name": "1.29.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.29.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.29.0",
+            "commit": {
+                "sha": "1c7338c7c4c7cb5b59f9cc710f0667e21346cfbf",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/1c7338c7c4c7cb5b59f9cc710f0667e21346cfbf"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI5LjA="
+        },
+        {
+            "name": "1.28.1",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.28.1",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.28.1",
+            "commit": {
+                "sha": "0b28ab3be101b58cf27b43da14bcf893fa37c1c8",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/0b28ab3be101b58cf27b43da14bcf893fa37c1c8"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI4LjE="
+        },
+        {
+            "name": "1.28.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.28.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.28.0",
+            "commit": {
+                "sha": "3646f14042337290ee3b8f661cc058cb69f52ce1",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/3646f14042337290ee3b8f661cc058cb69f52ce1"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI4LjA="
+        },
+        {
+            "name": "1.27.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.27.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.27.0",
+            "commit": {
+                "sha": "10dadfca068ed449fcd4a74b70ae2cd83990d3d4",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/10dadfca068ed449fcd4a74b70ae2cd83990d3d4"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI3LjA="
+        },
+        {
+            "name": "1.26.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.26.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.26.0",
+            "commit": {
+                "sha": "638766b346dc0e00c5db7935d21e48354d632335",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/638766b346dc0e00c5db7935d21e48354d632335"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI2LjA="
+        },
+        {
+            "name": "1.25.2",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.25.2",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.25.2",
+            "commit": {
+                "sha": "ce9d93003cd37a79edba1ba830a6c6d3fa22c2c8",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/ce9d93003cd37a79edba1ba830a6c6d3fa22c2c8"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI1LjI="
+        },
+        {
+            "name": "1.25.1",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.25.1",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.25.1",
+            "commit": {
+                "sha": "a0eab35768ccb95c3ca7624b073ef402997b0278",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/a0eab35768ccb95c3ca7624b073ef402997b0278"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI1LjE="
+        },
+        {
+            "name": "1.25.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.25.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.25.0",
+            "commit": {
+                "sha": "0c1f0bad179518b5f96d591028d726b027c551b5",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/0c1f0bad179518b5f96d591028d726b027c551b5"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI1LjA="
+        },
+        {
+            "name": "1.24.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.24.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.24.0",
+            "commit": {
+                "sha": "45122bed9e2e48418e74b73c9a50c7608d3b6ac1",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/45122bed9e2e48418e74b73c9a50c7608d3b6ac1"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjI0LjA="
+        },
+        {
+            "name": "1.23.1",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.23.1",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.23.1",
+            "commit": {
+                "sha": "9e4d372213c77e429edf1a315ea23779dd251e83",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/9e4d372213c77e429edf1a315ea23779dd251e83"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjIzLjE="
+        },
+        {
+            "name": "1.23.0",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.23.0",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.23.0",
+            "commit": {
+                "sha": "f94ac6ca61e24952e3906018ee54615cf9c123ec",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/f94ac6ca61e24952e3906018ee54615cf9c123ec"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjIzLjA="
+        },
+        {
+            "name": "1.22.2",
+            "zipball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/zipball/refs/tags/1.22.2",
+            "tarball_url": "https://api.github.com/repos/dani-garcia/vaultwarden/tarball/refs/tags/1.22.2",
+            "commit": {
+                "sha": "c6664971300a360a82b42db1bcf0a7d883717fff",
+                "url": "https://api.github.com/repos/dani-garcia/vaultwarden/commits/c6664971300a360a82b42db1bcf0a7d883717fff"
+            },
+            "node_id": "MDM6UmVmMTIxODk4NzE3OnJlZnMvdGFncy8xLjIyLjI="
+        }
+    ]
+}

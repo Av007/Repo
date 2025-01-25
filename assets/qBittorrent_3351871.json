@@ -1,0 +1,424 @@
+{
+    "id": 3351871,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzMzUxODcx",
+    "name": "qBittorrent",
+    "full_name": "qbittorrent/qBittorrent",
+    "private": false,
+    "owner": {
+        "login": "qbittorrent",
+        "id": 2131270,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxMzEyNzA=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2131270?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/qbittorrent",
+        "html_url": "https://github.com/qbittorrent",
+        "followers_url": "https://api.github.com/users/qbittorrent/followers",
+        "following_url": "https://api.github.com/users/qbittorrent/following{/other_user}",
+        "gists_url": "https://api.github.com/users/qbittorrent/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/qbittorrent/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/qbittorrent/subscriptions",
+        "organizations_url": "https://api.github.com/users/qbittorrent/orgs",
+        "repos_url": "https://api.github.com/users/qbittorrent/repos",
+        "events_url": "https://api.github.com/users/qbittorrent/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/qbittorrent/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "fork": false,
+    "url": "https://api.github.com/repos/qbittorrent/qBittorrent",
+    "forks_url": "https://api.github.com/repos/qbittorrent/qBittorrent/forks",
+    "keys_url": "https://api.github.com/repos/qbittorrent/qBittorrent/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/qbittorrent/qBittorrent/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/qbittorrent/qBittorrent/teams",
+    "hooks_url": "https://api.github.com/repos/qbittorrent/qBittorrent/hooks",
+    "issue_events_url": "https://api.github.com/repos/qbittorrent/qBittorrent/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/qbittorrent/qBittorrent/events",
+    "assignees_url": "https://api.github.com/repos/qbittorrent/qBittorrent/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/qbittorrent/qBittorrent/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tags",
+    "blobs_url": "https://api.github.com/repos/qbittorrent/qBittorrent/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/qbittorrent/qBittorrent/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/qbittorrent/qBittorrent/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/qbittorrent/qBittorrent/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/qbittorrent/qBittorrent/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/qbittorrent/qBittorrent/languages",
+    "stargazers_url": "https://api.github.com/repos/qbittorrent/qBittorrent/stargazers",
+    "contributors_url": "https://api.github.com/repos/qbittorrent/qBittorrent/contributors",
+    "subscribers_url": "https://api.github.com/repos/qbittorrent/qBittorrent/subscribers",
+    "subscription_url": "https://api.github.com/repos/qbittorrent/qBittorrent/subscription",
+    "commits_url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/qbittorrent/qBittorrent/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/qbittorrent/qBittorrent/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/qbittorrent/qBittorrent/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/qbittorrent/qBittorrent/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/qbittorrent/qBittorrent/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/qbittorrent/qBittorrent/merges",
+    "archive_url": "https://api.github.com/repos/qbittorrent/qBittorrent/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/qbittorrent/qBittorrent/downloads",
+    "issues_url": "https://api.github.com/repos/qbittorrent/qBittorrent/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/qbittorrent/qBittorrent/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/qbittorrent/qBittorrent/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/qbittorrent/qBittorrent/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/qbittorrent/qBittorrent/labels{/name}",
+    "releases_url": "https://api.github.com/repos/qbittorrent/qBittorrent/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/qbittorrent/qBittorrent/deployments",
+    "created_at": "2012-02-04T09:37:46Z",
+    "updated_at": "2025-01-25T17:19:59Z",
+    "pushed_at": "2025-01-24T14:24:35Z",
+    "git_url": "git://github.com/qbittorrent/qBittorrent.git",
+    "ssh_url": "git@github.com:qbittorrent/qBittorrent.git",
+    "clone_url": "https://github.com/qbittorrent/qBittorrent.git",
+    "svn_url": "https://github.com/qbittorrent/qBittorrent",
+    "homepage": "https://www.qbittorrent.org",
+    "size": 244442,
+    "stargazers_count": 29570,
+    "watchers_count": 29570,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4081,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2830,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bittorrent",
+        "bittorrent-client",
+        "c-plus-plus",
+        "crossplatform",
+        "torrent",
+        "torrent-client"
+    ],
+    "visibility": "public",
+    "forks": 4081,
+    "open_issues": 2830,
+    "watchers": 29570,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "release-5.1.0beta1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.1.0beta1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.1.0beta1",
+            "commit": {
+                "sha": "d96ab6ba849ae722d2abb1d94c760283f7b51135",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/d96ab6ba849ae722d2abb1d94c760283f7b51135"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjEuMGJldGEx"
+        },
+        {
+            "name": "release-5.0.3",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.0.3",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.0.3",
+            "commit": {
+                "sha": "0188e11dd7ece1ee8b6004145c4437d7455745d4",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/0188e11dd7ece1ee8b6004145c4437d7455745d4"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjAuMw=="
+        },
+        {
+            "name": "release-5.0.2",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.0.2",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.0.2",
+            "commit": {
+                "sha": "15b60912610d5a1e6712013079d3b2db4b78b85d",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/15b60912610d5a1e6712013079d3b2db4b78b85d"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjAuMg=="
+        },
+        {
+            "name": "release-5.0.1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.0.1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.0.1",
+            "commit": {
+                "sha": "94136262a84293da0d8504724e7143df0d0baa12",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/94136262a84293da0d8504724e7143df0d0baa12"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjAuMQ=="
+        },
+        {
+            "name": "release-5.0.0",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.0.0",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.0.0",
+            "commit": {
+                "sha": "cce295faeb27ebf9d57498ac5e35490c845b9d4f",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/cce295faeb27ebf9d57498ac5e35490c845b9d4f"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjAuMA=="
+        },
+        {
+            "name": "release-5.0.0rc1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.0.0rc1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.0.0rc1",
+            "commit": {
+                "sha": "2d67729617fc3f5bd9cfb71953d45f73a8c1a617",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/2d67729617fc3f5bd9cfb71953d45f73a8c1a617"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjAuMHJjMQ=="
+        },
+        {
+            "name": "release-5.0.0beta1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-5.0.0beta1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-5.0.0beta1",
+            "commit": {
+                "sha": "a5681f72bc0283b61f9f0ce49aff34a6e01655f0",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/a5681f72bc0283b61f9f0ce49aff34a6e01655f0"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS01LjAuMGJldGEx"
+        },
+        {
+            "name": "release-4.6.7",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.7",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.7",
+            "commit": {
+                "sha": "839bc696d066aca34ebd994ee1673c4b2d5afd7b",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/839bc696d066aca34ebd994ee1673c4b2d5afd7b"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuNw=="
+        },
+        {
+            "name": "release-4.6.6",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.6",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.6",
+            "commit": {
+                "sha": "c01265c4cffe98db2ee2fba651f7f254ca8afbec",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/c01265c4cffe98db2ee2fba651f7f254ca8afbec"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuNg=="
+        },
+        {
+            "name": "release-4.6.5",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.5",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.5",
+            "commit": {
+                "sha": "5e81347933adec219dab27a503f8dc9c4a1c522d",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/5e81347933adec219dab27a503f8dc9c4a1c522d"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuNQ=="
+        },
+        {
+            "name": "release-4.6.4",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.4",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.4",
+            "commit": {
+                "sha": "785320e7f6a5e228caf817b01dca69da0b83a012",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/785320e7f6a5e228caf817b01dca69da0b83a012"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuNA=="
+        },
+        {
+            "name": "release-4.6.3",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.3",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.3",
+            "commit": {
+                "sha": "cfa7a6db46e8376273ec9ae833cf637fe7670b4e",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/cfa7a6db46e8376273ec9ae833cf637fe7670b4e"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMw=="
+        },
+        {
+            "name": "release-4.6.2",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.2",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.2",
+            "commit": {
+                "sha": "1773b1ea05d60ccdb2c5185e48410267c5245632",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/1773b1ea05d60ccdb2c5185e48410267c5245632"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMg=="
+        },
+        {
+            "name": "release-4.6.1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.1",
+            "commit": {
+                "sha": "92f810873a2ae2387ddcd82e657c7ba1741b0efe",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/92f810873a2ae2387ddcd82e657c7ba1741b0efe"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMQ=="
+        },
+        {
+            "name": "release-4.6.0",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.0",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.0",
+            "commit": {
+                "sha": "7bc49423c7e6a69554a27b75fdc2f4ea7606ad84",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/7bc49423c7e6a69554a27b75fdc2f4ea7606ad84"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMA=="
+        },
+        {
+            "name": "release-4.6.0rc2",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.0rc2",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.0rc2",
+            "commit": {
+                "sha": "c77466abb0ea7362e9c53d4c41e28be61ea18431",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/c77466abb0ea7362e9c53d4c41e28be61ea18431"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMHJjMg=="
+        },
+        {
+            "name": "release-4.6.0rc1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.0rc1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.0rc1",
+            "commit": {
+                "sha": "508896c4f2ad11b5e9b3e6073c2726b3f2b23e69",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/508896c4f2ad11b5e9b3e6073c2726b3f2b23e69"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMHJjMQ=="
+        },
+        {
+            "name": "release-4.6.0beta1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.0beta1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.0beta1",
+            "commit": {
+                "sha": "2bbfd317cef6f5d9d81fa2af55ca9b77612acef4",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/2bbfd317cef6f5d9d81fa2af55ca9b77612acef4"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMGJldGEx"
+        },
+        {
+            "name": "release-4.6.0alpha1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.6.0alpha1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.6.0alpha1",
+            "commit": {
+                "sha": "fbe93f0c4797e1af288b88048372da76c84d331a",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/fbe93f0c4797e1af288b88048372da76c84d331a"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjYuMGFscGhhMQ=="
+        },
+        {
+            "name": "release-4.5.5",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.5",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.5",
+            "commit": {
+                "sha": "7d7097b024788814cf74b05ca6857d074467285e",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/7d7097b024788814cf74b05ca6857d074467285e"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuNQ=="
+        },
+        {
+            "name": "release-4.5.4",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.4",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.4",
+            "commit": {
+                "sha": "c8763f08da080cd9a9ea22caafff999ee54cbaa2",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/c8763f08da080cd9a9ea22caafff999ee54cbaa2"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuNA=="
+        },
+        {
+            "name": "release-4.5.3",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.3",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.3",
+            "commit": {
+                "sha": "04bd33e5b3754c7e070a9fa0cb5df294ac57b219",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/04bd33e5b3754c7e070a9fa0cb5df294ac57b219"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuMw=="
+        },
+        {
+            "name": "release-4.5.2",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.2",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.2",
+            "commit": {
+                "sha": "97853f31f25bd427b7f821f16c8b1d7131842db8",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/97853f31f25bd427b7f821f16c8b1d7131842db8"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuMg=="
+        },
+        {
+            "name": "release-4.5.1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.1",
+            "commit": {
+                "sha": "927732f1900efcc7a6102c605c513e9f4b7f6454",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/927732f1900efcc7a6102c605c513e9f4b7f6454"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuMQ=="
+        },
+        {
+            "name": "release-4.5.0",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.0",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.0",
+            "commit": {
+                "sha": "480e3f02cae0ad7b2463e7e188867d747487c0bb",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/480e3f02cae0ad7b2463e7e188867d747487c0bb"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuMA=="
+        },
+        {
+            "name": "release-4.5.0beta1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.5.0beta1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.5.0beta1",
+            "commit": {
+                "sha": "5e4a94e6b646f9ef3efa780d5eef1bc80697d1d3",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/5e4a94e6b646f9ef3efa780d5eef1bc80697d1d3"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjUuMGJldGEx"
+        },
+        {
+            "name": "release-4.4.5",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.4.5",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.4.5",
+            "commit": {
+                "sha": "f9811ec3b0f727562c6fa5376e8a43ca8c8c8fa3",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/f9811ec3b0f727562c6fa5376e8a43ca8c8c8fa3"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjQuNQ=="
+        },
+        {
+            "name": "release-4.4.4",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.4.4",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.4.4",
+            "commit": {
+                "sha": "4a56c3f5df344c4984900352a800deefb504ae67",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/4a56c3f5df344c4984900352a800deefb504ae67"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjQuNA=="
+        },
+        {
+            "name": "release-4.4.3.1",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.4.3.1",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.4.3.1",
+            "commit": {
+                "sha": "6c546df70bbbb5602ddb91fbbd0e3762e75472c3",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/6c546df70bbbb5602ddb91fbbd0e3762e75472c3"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjQuMy4x"
+        },
+        {
+            "name": "release-4.4.3",
+            "zipball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/zipball/refs/tags/release-4.4.3",
+            "tarball_url": "https://api.github.com/repos/qbittorrent/qBittorrent/tarball/refs/tags/release-4.4.3",
+            "commit": {
+                "sha": "9ed9ffcaf22f281b426cf0ccc524218631bf9bf1",
+                "url": "https://api.github.com/repos/qbittorrent/qBittorrent/commits/9ed9ffcaf22f281b426cf0ccc524218631bf9bf1"
+            },
+            "node_id": "MDM6UmVmMzM1MTg3MTpyZWZzL3RhZ3MvcmVsZWFzZS00LjQuMw=="
+        }
+    ]
+}

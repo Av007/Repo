@@ -1,0 +1,425 @@
+{
+    "id": 259463685,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNTk0NjM2ODU=",
+    "name": "carbon-lang",
+    "full_name": "carbon-language/carbon-lang",
+    "private": false,
+    "owner": {
+        "login": "carbon-language",
+        "id": 63681715,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzNjgxNzE1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63681715?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/carbon-language",
+        "html_url": "https://github.com/carbon-language",
+        "followers_url": "https://api.github.com/users/carbon-language/followers",
+        "following_url": "https://api.github.com/users/carbon-language/following{/other_user}",
+        "gists_url": "https://api.github.com/users/carbon-language/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/carbon-language/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/carbon-language/subscriptions",
+        "organizations_url": "https://api.github.com/users/carbon-language/orgs",
+        "repos_url": "https://api.github.com/users/carbon-language/repos",
+        "events_url": "https://api.github.com/users/carbon-language/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/carbon-language/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/carbon-language/carbon-lang",
+    "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+    "fork": false,
+    "url": "https://api.github.com/repos/carbon-language/carbon-lang",
+    "forks_url": "https://api.github.com/repos/carbon-language/carbon-lang/forks",
+    "keys_url": "https://api.github.com/repos/carbon-language/carbon-lang/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/carbon-language/carbon-lang/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/carbon-language/carbon-lang/teams",
+    "hooks_url": "https://api.github.com/repos/carbon-language/carbon-lang/hooks",
+    "issue_events_url": "https://api.github.com/repos/carbon-language/carbon-lang/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/carbon-language/carbon-lang/events",
+    "assignees_url": "https://api.github.com/repos/carbon-language/carbon-lang/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/carbon-language/carbon-lang/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/carbon-language/carbon-lang/tags",
+    "blobs_url": "https://api.github.com/repos/carbon-language/carbon-lang/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/carbon-language/carbon-lang/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/carbon-language/carbon-lang/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/carbon-language/carbon-lang/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/carbon-language/carbon-lang/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/carbon-language/carbon-lang/languages",
+    "stargazers_url": "https://api.github.com/repos/carbon-language/carbon-lang/stargazers",
+    "contributors_url": "https://api.github.com/repos/carbon-language/carbon-lang/contributors",
+    "subscribers_url": "https://api.github.com/repos/carbon-language/carbon-lang/subscribers",
+    "subscription_url": "https://api.github.com/repos/carbon-language/carbon-lang/subscription",
+    "commits_url": "https://api.github.com/repos/carbon-language/carbon-lang/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/carbon-language/carbon-lang/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/carbon-language/carbon-lang/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/carbon-language/carbon-lang/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/carbon-language/carbon-lang/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/carbon-language/carbon-lang/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/carbon-language/carbon-lang/merges",
+    "archive_url": "https://api.github.com/repos/carbon-language/carbon-lang/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/carbon-language/carbon-lang/downloads",
+    "issues_url": "https://api.github.com/repos/carbon-language/carbon-lang/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/carbon-language/carbon-lang/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/carbon-language/carbon-lang/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/carbon-language/carbon-lang/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/carbon-language/carbon-lang/labels{/name}",
+    "releases_url": "https://api.github.com/repos/carbon-language/carbon-lang/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/carbon-language/carbon-lang/deployments",
+    "created_at": "2020-04-27T21:45:16Z",
+    "updated_at": "2025-01-25T16:16:06Z",
+    "pushed_at": "2025-01-25T03:33:44Z",
+    "git_url": "git://github.com/carbon-language/carbon-lang.git",
+    "ssh_url": "git@github.com:carbon-language/carbon-lang.git",
+    "clone_url": "https://github.com/carbon-language/carbon-lang.git",
+    "svn_url": "https://github.com/carbon-language/carbon-lang",
+    "homepage": "http://docs.carbon-lang.dev/",
+    "size": 45249,
+    "stargazers_count": 32526,
+    "watchers_count": 32526,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 1490,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 118,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "carbon-lang",
+        "compiler",
+        "cpp",
+        "experimental",
+        "experimental-language",
+        "language",
+        "programming-language"
+    ],
+    "visibility": "public",
+    "forks": 1490,
+    "open_issues": 118,
+    "watchers": 32526,
+    "default_branch": "trunk",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.0.0-0.nightly.2025.01.25",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.25",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.25",
+            "commit": {
+                "sha": "b06fcc97f67a5aae8cc7e7de7077c410f211adaf",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/b06fcc97f67a5aae8cc7e7de7077c410f211adaf"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMjU="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.24",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.24",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.24",
+            "commit": {
+                "sha": "bc952b1a4bbe92e1091e98ba76b9c5f69429b3ac",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/bc952b1a4bbe92e1091e98ba76b9c5f69429b3ac"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMjQ="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.23",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.23",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.23",
+            "commit": {
+                "sha": "6b5eb1a1013935cb9917cd8830109c2cd3432bac",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/6b5eb1a1013935cb9917cd8830109c2cd3432bac"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMjM="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.22",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.22",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.22",
+            "commit": {
+                "sha": "fe92e3f5522b14b870e07b814d0ce008948ae223",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/fe92e3f5522b14b870e07b814d0ce008948ae223"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMjI="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.21",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.21",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.21",
+            "commit": {
+                "sha": "d30957fc652e715c098118064f13362abdd1b011",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/d30957fc652e715c098118064f13362abdd1b011"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMjE="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.20",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.20",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.20",
+            "commit": {
+                "sha": "4c4c4a4d2cc238fdf97e4bb4cc000dedbf58ed29",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/4c4c4a4d2cc238fdf97e4bb4cc000dedbf58ed29"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMjA="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.19",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.19",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.19",
+            "commit": {
+                "sha": "4c4c4a4d2cc238fdf97e4bb4cc000dedbf58ed29",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/4c4c4a4d2cc238fdf97e4bb4cc000dedbf58ed29"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTk="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.18",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.18",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.18",
+            "commit": {
+                "sha": "ef6e035e7d65db5cd6a12286600203928a719d8b",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/ef6e035e7d65db5cd6a12286600203928a719d8b"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTg="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.17",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.17",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.17",
+            "commit": {
+                "sha": "e6c1f0630a53f0d01f4a8468021909bd8944ad47",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/e6c1f0630a53f0d01f4a8468021909bd8944ad47"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTc="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.16",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.16",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.16",
+            "commit": {
+                "sha": "e348119feb6d5736e6e29ee103c18ae346e5bcde",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/e348119feb6d5736e6e29ee103c18ae346e5bcde"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTY="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.15",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.15",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.15",
+            "commit": {
+                "sha": "d958caaff3eeadd252b295eb600eab640921b74e",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/d958caaff3eeadd252b295eb600eab640921b74e"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTU="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.14",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.14",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.14",
+            "commit": {
+                "sha": "9dc450e0af9920cc5bc77d1261294978c070ae7f",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/9dc450e0af9920cc5bc77d1261294978c070ae7f"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTQ="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.13",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.13",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.13",
+            "commit": {
+                "sha": "230a8ee598414334e224017e4d87c75061496046",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/230a8ee598414334e224017e4d87c75061496046"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTM="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.12",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.12",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.12",
+            "commit": {
+                "sha": "230a8ee598414334e224017e4d87c75061496046",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/230a8ee598414334e224017e4d87c75061496046"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTI="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.11",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.11",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.11",
+            "commit": {
+                "sha": "230a8ee598414334e224017e4d87c75061496046",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/230a8ee598414334e224017e4d87c75061496046"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTE="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.10",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.10",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.10",
+            "commit": {
+                "sha": "1e5e2bc7e2b0a856c17b03b97f75a7473deaf4ec",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/1e5e2bc7e2b0a856c17b03b97f75a7473deaf4ec"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMTA="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.09",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.09",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.09",
+            "commit": {
+                "sha": "9a5f2d734b9ca9b651e9fb39dec43d4c6c6a4575",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/9a5f2d734b9ca9b651e9fb39dec43d4c6c6a4575"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDk="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.08",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.08",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.08",
+            "commit": {
+                "sha": "aaef5166002d6b73d81ea3418770fc1e954ed450",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/aaef5166002d6b73d81ea3418770fc1e954ed450"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDg="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.07",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.07",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.07",
+            "commit": {
+                "sha": "fa9a07b6ccac6934fba6694d5ac9bf8dfe5d3d0d",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/fa9a07b6ccac6934fba6694d5ac9bf8dfe5d3d0d"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDc="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.06",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.06",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.06",
+            "commit": {
+                "sha": "72e594dfd00af4426679b48ee523107a6df9d63b",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/72e594dfd00af4426679b48ee523107a6df9d63b"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDY="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.05",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.05",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.05",
+            "commit": {
+                "sha": "72e594dfd00af4426679b48ee523107a6df9d63b",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/72e594dfd00af4426679b48ee523107a6df9d63b"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDU="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.04",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.04",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.04",
+            "commit": {
+                "sha": "72e594dfd00af4426679b48ee523107a6df9d63b",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/72e594dfd00af4426679b48ee523107a6df9d63b"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDQ="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.03",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.03",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.03",
+            "commit": {
+                "sha": "725e80f0d3d3b6e9187b85fe9b2264c147016efb",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/725e80f0d3d3b6e9187b85fe9b2264c147016efb"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDM="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.02",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.02",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.02",
+            "commit": {
+                "sha": "4a7aefefaa07bf5fe40f7ceb2990f792ea1e6f91",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/4a7aefefaa07bf5fe40f7ceb2990f792ea1e6f91"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDI="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2025.01.01",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2025.01.01",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2025.01.01",
+            "commit": {
+                "sha": "4a7aefefaa07bf5fe40f7ceb2990f792ea1e6f91",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/4a7aefefaa07bf5fe40f7ceb2990f792ea1e6f91"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjUuMDEuMDE="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2024.12.31",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2024.12.31",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2024.12.31",
+            "commit": {
+                "sha": "d41668350b1315f7680aaa3ced081b5aeb9f54a6",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/d41668350b1315f7680aaa3ced081b5aeb9f54a6"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjQuMTIuMzE="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2024.12.30",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2024.12.30",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2024.12.30",
+            "commit": {
+                "sha": "89df77707b6009abbc7687ab7e990e72f0b552e9",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/89df77707b6009abbc7687ab7e990e72f0b552e9"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjQuMTIuMzA="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2024.12.29",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2024.12.29",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2024.12.29",
+            "commit": {
+                "sha": "89df77707b6009abbc7687ab7e990e72f0b552e9",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/89df77707b6009abbc7687ab7e990e72f0b552e9"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjQuMTIuMjk="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2024.12.28",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2024.12.28",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2024.12.28",
+            "commit": {
+                "sha": "89df77707b6009abbc7687ab7e990e72f0b552e9",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/89df77707b6009abbc7687ab7e990e72f0b552e9"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjQuMTIuMjg="
+        },
+        {
+            "name": "v0.0.0-0.nightly.2024.12.27",
+            "zipball_url": "https://api.github.com/repos/carbon-language/carbon-lang/zipball/refs/tags/v0.0.0-0.nightly.2024.12.27",
+            "tarball_url": "https://api.github.com/repos/carbon-language/carbon-lang/tarball/refs/tags/v0.0.0-0.nightly.2024.12.27",
+            "commit": {
+                "sha": "7d8d59cb7e4effe59faa78c9a509a719a4c7407b",
+                "url": "https://api.github.com/repos/carbon-language/carbon-lang/commits/7d8d59cb7e4effe59faa78c9a509a719a4c7407b"
+            },
+            "node_id": "MDM6UmVmMjU5NDYzNjg1OnJlZnMvdGFncy92MC4wLjAtMC5uaWdodGx5LjIwMjQuMTIuMjc="
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "id": 45055693,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0NTA1NTY5Mw==",
+    "name": "etcher",
+    "full_name": "balena-io/etcher",
+    "private": false,
+    "owner": {
+        "login": "balena-io",
+        "id": 6157842,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTc4NDI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6157842?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/balena-io",
+        "html_url": "https://github.com/balena-io",
+        "followers_url": "https://api.github.com/users/balena-io/followers",
+        "following_url": "https://api.github.com/users/balena-io/following{/other_user}",
+        "gists_url": "https://api.github.com/users/balena-io/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/balena-io/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/balena-io/subscriptions",
+        "organizations_url": "https://api.github.com/users/balena-io/orgs",
+        "repos_url": "https://api.github.com/users/balena-io/repos",
+        "events_url": "https://api.github.com/users/balena-io/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/balena-io/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/balena-io/etcher",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+    "fork": false,
+    "url": "https://api.github.com/repos/balena-io/etcher",
+    "forks_url": "https://api.github.com/repos/balena-io/etcher/forks",
+    "keys_url": "https://api.github.com/repos/balena-io/etcher/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/balena-io/etcher/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/balena-io/etcher/teams",
+    "hooks_url": "https://api.github.com/repos/balena-io/etcher/hooks",
+    "issue_events_url": "https://api.github.com/repos/balena-io/etcher/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/balena-io/etcher/events",
+    "assignees_url": "https://api.github.com/repos/balena-io/etcher/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/balena-io/etcher/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/balena-io/etcher/tags",
+    "blobs_url": "https://api.github.com/repos/balena-io/etcher/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/balena-io/etcher/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/balena-io/etcher/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/balena-io/etcher/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/balena-io/etcher/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/balena-io/etcher/languages",
+    "stargazers_url": "https://api.github.com/repos/balena-io/etcher/stargazers",
+    "contributors_url": "https://api.github.com/repos/balena-io/etcher/contributors",
+    "subscribers_url": "https://api.github.com/repos/balena-io/etcher/subscribers",
+    "subscription_url": "https://api.github.com/repos/balena-io/etcher/subscription",
+    "commits_url": "https://api.github.com/repos/balena-io/etcher/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/balena-io/etcher/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/balena-io/etcher/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/balena-io/etcher/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/balena-io/etcher/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/balena-io/etcher/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/balena-io/etcher/merges",
+    "archive_url": "https://api.github.com/repos/balena-io/etcher/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/balena-io/etcher/downloads",
+    "issues_url": "https://api.github.com/repos/balena-io/etcher/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/balena-io/etcher/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/balena-io/etcher/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/balena-io/etcher/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/balena-io/etcher/labels{/name}",
+    "releases_url": "https://api.github.com/repos/balena-io/etcher/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/balena-io/etcher/deployments",
+    "created_at": "2015-10-27T16:53:23Z",
+    "updated_at": "2025-01-25T16:23:25Z",
+    "pushed_at": "2024-10-10T10:03:38Z",
+    "git_url": "git://github.com/balena-io/etcher.git",
+    "ssh_url": "git@github.com:balena-io/etcher.git",
+    "clone_url": "https://github.com/balena-io/etcher.git",
+    "svn_url": "https://github.com/balena-io/etcher",
+    "homepage": "https://etcher.io/",
+    "size": 99903,
+    "stargazers_count": 30427,
+    "watchers_count": 30427,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 2155,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 510,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cross-platform",
+        "etcher",
+        "sd-cards",
+        "usb-drives"
+    ],
+    "visibility": "public",
+    "forks": 2155,
+    "open_issues": 510,
+    "watchers": 30427,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.19.25",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.25",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.25",
+            "commit": {
+                "sha": "4375b960c290a89fc93c8e35f8fe4fdcf5dfe268",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/4375b960c290a89fc93c8e35f8fe4fdcf5dfe268"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjI1"
+        },
+        {
+            "name": "v1.19.24",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.24",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.24",
+            "commit": {
+                "sha": "676eaf82e7caf383b901f0043b003ab42205d435",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/676eaf82e7caf383b901f0043b003ab42205d435"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjI0"
+        },
+        {
+            "name": "v1.19.23",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.23",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.23",
+            "commit": {
+                "sha": "3dc17c89b409b41900f51dc57b15d44692157028",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/3dc17c89b409b41900f51dc57b15d44692157028"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjIz"
+        },
+        {
+            "name": "v1.19.22",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.22",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.22",
+            "commit": {
+                "sha": "5fd6376f458e2c9e24af5c9703867ac2aea82e43",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/5fd6376f458e2c9e24af5c9703867ac2aea82e43"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjIy"
+        },
+        {
+            "name": "v1.19.21",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.21",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.21",
+            "commit": {
+                "sha": "c748c2a9c022d1d61b44e70202d073b00cdbd08c",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/c748c2a9c022d1d61b44e70202d073b00cdbd08c"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjIx"
+        },
+        {
+            "name": "v1.19.20",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.20",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.20",
+            "commit": {
+                "sha": "52144f4a6e7e08a3b6f0375063bf763e3b2181de",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/52144f4a6e7e08a3b6f0375063bf763e3b2181de"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjIw"
+        },
+        {
+            "name": "v1.19.19",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.19",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.19",
+            "commit": {
+                "sha": "6d796df01740e4625e8c303938fd85452d67343e",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/6d796df01740e4625e8c303938fd85452d67343e"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE5"
+        },
+        {
+            "name": "v1.19.18",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.18",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.18",
+            "commit": {
+                "sha": "3245439744c2be0024d6b8b03508152bf4651882",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/3245439744c2be0024d6b8b03508152bf4651882"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE4"
+        },
+        {
+            "name": "v1.19.17",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.17",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.17",
+            "commit": {
+                "sha": "62ac0b98b9527d56724b853e65eaed49adfb8346",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/62ac0b98b9527d56724b853e65eaed49adfb8346"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE3"
+        },
+        {
+            "name": "v1.19.16",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.16",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.16",
+            "commit": {
+                "sha": "6a648e9215c822888533d1076fede18e704cc6df",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/6a648e9215c822888533d1076fede18e704cc6df"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE2"
+        },
+        {
+            "name": "v1.19.15",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.15",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.15",
+            "commit": {
+                "sha": "73afb2fc559a2a9f8ff2ef3f62dc1ff3a1607d5c",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/73afb2fc559a2a9f8ff2ef3f62dc1ff3a1607d5c"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE1"
+        },
+        {
+            "name": "v1.19.14",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.14",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.14",
+            "commit": {
+                "sha": "c756b10a38a1b7503b8ace290b09a00db6898f90",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/c756b10a38a1b7503b8ace290b09a00db6898f90"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE0"
+        },
+        {
+            "name": "v1.19.13",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.13",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.13",
+            "commit": {
+                "sha": "0cc7440573277ecded78d44a1088c0faa20f17a9",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/0cc7440573277ecded78d44a1088c0faa20f17a9"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjEz"
+        },
+        {
+            "name": "v1.19.12",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.12",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.12",
+            "commit": {
+                "sha": "2e8e0d77bc640421318127e7573caf6de48a0c73",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/2e8e0d77bc640421318127e7573caf6de48a0c73"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjEy"
+        },
+        {
+            "name": "v1.19.11",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.11",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.11",
+            "commit": {
+                "sha": "70f0fb677cab82d7f9976a11c1272deb3937a587",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/70f0fb677cab82d7f9976a11c1272deb3937a587"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjEx"
+        },
+        {
+            "name": "v1.19.10",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.10",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.10",
+            "commit": {
+                "sha": "b13235246404391665b9fd5bac1d6fa242223f30",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/b13235246404391665b9fd5bac1d6fa242223f30"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjEw"
+        },
+        {
+            "name": "v1.19.9",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.9",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.9",
+            "commit": {
+                "sha": "5ad8d5a72acf14fbb24a4c2d7c0ae89f0c3a5b1a",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/5ad8d5a72acf14fbb24a4c2d7c0ae89f0c3a5b1a"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5Ljk="
+        },
+        {
+            "name": "v1.19.8",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.8",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.8",
+            "commit": {
+                "sha": "dc5c68a6a1de7c558971a8962ceaddee4bd8f523",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/dc5c68a6a1de7c558971a8962ceaddee4bd8f523"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5Ljg="
+        },
+        {
+            "name": "v1.19.7",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.7",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.7",
+            "commit": {
+                "sha": "96f00aa024b436a5ec1f76da29f74789e7ccf7f4",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/96f00aa024b436a5ec1f76da29f74789e7ccf7f4"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5Ljc="
+        },
+        {
+            "name": "v1.19.6",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.6",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.6",
+            "commit": {
+                "sha": "3957273f40aa6d25e98fa4754934b428f7a8de9a",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/3957273f40aa6d25e98fa4754934b428f7a8de9a"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjY="
+        },
+        {
+            "name": "v1.19.5",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.5",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.5",
+            "commit": {
+                "sha": "37618ce2fd7cdbc8c26d0fdb4e91f393acfacbab",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/37618ce2fd7cdbc8c26d0fdb4e91f393acfacbab"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjU="
+        },
+        {
+            "name": "v1.19.4",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.4",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.4",
+            "commit": {
+                "sha": "9ea7a253235dc28df079d7dd733a01b517693223",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/9ea7a253235dc28df079d7dd733a01b517693223"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjQ="
+        },
+        {
+            "name": "v1.19.3",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.3",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.3",
+            "commit": {
+                "sha": "3626ffc7ef99e9025583a538460b590fcc09e7b4",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/3626ffc7ef99e9025583a538460b590fcc09e7b4"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjM="
+        },
+        {
+            "name": "v1.19.2",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.2",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.2",
+            "commit": {
+                "sha": "70304b492d4b33ea1fb0b375ac4183cb5f7bf073",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/70304b492d4b33ea1fb0b375ac4183cb5f7bf073"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjI="
+        },
+        {
+            "name": "v1.19.1",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.1",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.1",
+            "commit": {
+                "sha": "d1b5a2aea1a1839b71cea2fe8e0c5254cbb3ef71",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/d1b5a2aea1a1839b71cea2fe8e0c5254cbb3ef71"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjE="
+        },
+        {
+            "name": "v1.19.0",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.19.0",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.19.0",
+            "commit": {
+                "sha": "5bb8ba857a88551d63c68bbb4ea72b618b80f073",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/5bb8ba857a88551d63c68bbb4ea72b618b80f073"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE5LjA="
+        },
+        {
+            "name": "v1.18.14",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.18.14",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.18.14",
+            "commit": {
+                "sha": "2cdf65b244e82a0cb535c0679e8cb8c5bdba65f0",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/2cdf65b244e82a0cb535c0679e8cb8c5bdba65f0"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE4LjE0"
+        },
+        {
+            "name": "v1.18.13",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.18.13",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.18.13",
+            "commit": {
+                "sha": "e96973595517b279a143cbd6502101621f304512",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/e96973595517b279a143cbd6502101621f304512"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE4LjEz"
+        },
+        {
+            "name": "v1.18.12",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.18.12",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.18.12",
+            "commit": {
+                "sha": "09e13e9b4393aa676b71e91ed9176af054c798e4",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/09e13e9b4393aa676b71e91ed9176af054c798e4"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE4LjEy"
+        },
+        {
+            "name": "v1.18.11",
+            "zipball_url": "https://api.github.com/repos/balena-io/etcher/zipball/refs/tags/v1.18.11",
+            "tarball_url": "https://api.github.com/repos/balena-io/etcher/tarball/refs/tags/v1.18.11",
+            "commit": {
+                "sha": "0a6c15f702c314ccc73c98f0c9a4184d775135df",
+                "url": "https://api.github.com/repos/balena-io/etcher/commits/0a6c15f702c314ccc73c98f0c9a4184d775135df"
+            },
+            "node_id": "MDM6UmVmNDUwNTU2OTM6cmVmcy90YWdzL3YxLjE4LjEx"
+        }
+    ]
+}

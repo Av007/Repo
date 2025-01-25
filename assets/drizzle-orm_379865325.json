@@ -1,0 +1,437 @@
+{
+    "id": 379865325,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNzk4NjUzMjU=",
+    "name": "drizzle-orm",
+    "full_name": "drizzle-team/drizzle-orm",
+    "private": false,
+    "owner": {
+        "login": "drizzle-team",
+        "id": 108468352,
+        "node_id": "O_kgDOBncYgA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108468352?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/drizzle-team",
+        "html_url": "https://github.com/drizzle-team",
+        "followers_url": "https://api.github.com/users/drizzle-team/followers",
+        "following_url": "https://api.github.com/users/drizzle-team/following{/other_user}",
+        "gists_url": "https://api.github.com/users/drizzle-team/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/drizzle-team/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/drizzle-team/subscriptions",
+        "organizations_url": "https://api.github.com/users/drizzle-team/orgs",
+        "repos_url": "https://api.github.com/users/drizzle-team/repos",
+        "events_url": "https://api.github.com/users/drizzle-team/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/drizzle-team/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/drizzle-team/drizzle-orm",
+    "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too \ud83d\ude05",
+    "fork": false,
+    "url": "https://api.github.com/repos/drizzle-team/drizzle-orm",
+    "forks_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/forks",
+    "keys_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/teams",
+    "hooks_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/hooks",
+    "issue_events_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/events",
+    "assignees_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tags",
+    "blobs_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/languages",
+    "stargazers_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/stargazers",
+    "contributors_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/contributors",
+    "subscribers_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/subscribers",
+    "subscription_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/subscription",
+    "commits_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/merges",
+    "archive_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/downloads",
+    "issues_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/labels{/name}",
+    "releases_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/deployments",
+    "created_at": "2021-06-24T09:03:05Z",
+    "updated_at": "2025-01-25T16:11:21Z",
+    "pushed_at": "2025-01-25T13:16:05Z",
+    "git_url": "git://github.com/drizzle-team/drizzle-orm.git",
+    "ssh_url": "git@github.com:drizzle-team/drizzle-orm.git",
+    "clone_url": "https://github.com/drizzle-team/drizzle-orm.git",
+    "svn_url": "https://github.com/drizzle-team/drizzle-orm",
+    "homepage": "https://orm.drizzle.team",
+    "size": 35394,
+    "stargazers_count": 25865,
+    "watchers_count": 25865,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 743,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1265,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bunjs",
+        "d1",
+        "libsql",
+        "litefs",
+        "mysql",
+        "mysql2",
+        "neon",
+        "nodejs",
+        "orm",
+        "postgres",
+        "postgresjs",
+        "postgresql",
+        "sql",
+        "sqlite",
+        "sqlite3",
+        "sqljs",
+        "turso",
+        "typescript",
+        "vercel-postgres"
+    ],
+    "visibility": "public",
+    "forks": 743,
+    "open_issues": 1265,
+    "watchers": 25865,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.32.0-beta",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/v0.32.0-beta",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/v0.32.0-beta",
+            "commit": {
+                "sha": "5cc2ae0f3f39b91ff534839209cd3010d8411223",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/5cc2ae0f3f39b91ff534839209cd3010d8411223"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy92MC4zMi4wLWJldGE="
+        },
+        {
+            "name": "v0.31.0-beta",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/v0.31.0-beta",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/v0.31.0-beta",
+            "commit": {
+                "sha": "7a052324611ddd9289280da3e1dd4174f574c24f",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/7a052324611ddd9289280da3e1dd4174f574c24f"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy92MC4zMS4wLWJldGE="
+        },
+        {
+            "name": "drizzle-kit@0.30.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.30.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.30.2",
+            "commit": {
+                "sha": "49d2930126170087e472d98f6278fa2f3e8279d4",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/49d2930126170087e472d98f6278fa2f3e8279d4"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjMwLjI="
+        },
+        {
+            "name": "drizzle-kit@0.30.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.30.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.30.1",
+            "commit": {
+                "sha": "10d22305b062dd0f4b0ff1594a6ae722487b7886",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/10d22305b062dd0f4b0ff1594a6ae722487b7886"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjMwLjE="
+        },
+        {
+            "name": "drizzle-kit@0.30.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.30.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.30.0",
+            "commit": {
+                "sha": "c18f224e05e759e4a8bf7888d2d75f24f785963a",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/c18f224e05e759e4a8bf7888d2d75f24f785963a"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjMwLjA="
+        },
+        {
+            "name": "drizzle-kit@0.29.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.29.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.29.1",
+            "commit": {
+                "sha": "fc7f280679bf72376786ec55f7470e551a4a8fd2",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/fc7f280679bf72376786ec55f7470e551a4a8fd2"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI5LjE="
+        },
+        {
+            "name": "drizzle-kit@0.29.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.29.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.29.0",
+            "commit": {
+                "sha": "9cf0ed21e0f549a84cdc642cbb10a1900948e570",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/9cf0ed21e0f549a84cdc642cbb10a1900948e570"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI5LjA="
+        },
+        {
+            "name": "drizzle-kit@0.28.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.28.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.28.1",
+            "commit": {
+                "sha": "2677718bf98835b8ec313d0f3bf2b921e795e7c1",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/2677718bf98835b8ec313d0f3bf2b921e795e7c1"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI4LjE="
+        },
+        {
+            "name": "drizzle-kit@0.28.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.28.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.28.0",
+            "commit": {
+                "sha": "83daf2d5cf023112de878bc2249ee2c41a2a5b1b",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/83daf2d5cf023112de878bc2249ee2c41a2a5b1b"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI4LjA="
+        },
+        {
+            "name": "drizzle-kit@0.27.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.27.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.27.2",
+            "commit": {
+                "sha": "8e98201b2382733bfb37d83b0fa9a2a075cb8dbe",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/8e98201b2382733bfb37d83b0fa9a2a075cb8dbe"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI3LjI="
+        },
+        {
+            "name": "drizzle-kit@0.27.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.27.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.27.1",
+            "commit": {
+                "sha": "0303acc182d4f5547f57ed7ef1cc74d9f1940640",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/0303acc182d4f5547f57ed7ef1cc74d9f1940640"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI3LjE="
+        },
+        {
+            "name": "drizzle-kit@0.27.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.27.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.27.0",
+            "commit": {
+                "sha": "a21c8e319c9041d728778e67610dd2e769f4b490",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/a21c8e319c9041d728778e67610dd2e769f4b490"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI3LjA="
+        },
+        {
+            "name": "drizzle-kit@0.26.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.26.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.26.2",
+            "commit": {
+                "sha": "a3592140e1599796de3fb6327f207386a61716e9",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/a3592140e1599796de3fb6327f207386a61716e9"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI2LjI="
+        },
+        {
+            "name": "drizzle-kit@0.26.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.26.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.26.1",
+            "commit": {
+                "sha": "64b3c85953d35bf37342ba8cb2b48f2ad08ee7a8",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/64b3c85953d35bf37342ba8cb2b48f2ad08ee7a8"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI2LjE="
+        },
+        {
+            "name": "drizzle-kit@0.26.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.26.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.26.0",
+            "commit": {
+                "sha": "6f4fc4c552845a1b61179753e23e980e55d99d38",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/6f4fc4c552845a1b61179753e23e980e55d99d38"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI2LjA="
+        },
+        {
+            "name": "drizzle-kit@0.25.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.25.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.25.0",
+            "commit": {
+                "sha": "d88dd7466078f2416a2cb2468334b835774427b0",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/d88dd7466078f2416a2cb2468334b835774427b0"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI1LjA="
+        },
+        {
+            "name": "drizzle-kit@0.24.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.24.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.24.2",
+            "commit": {
+                "sha": "c8359a16fff4b05aff09445edd63fc65a7430ce9",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/c8359a16fff4b05aff09445edd63fc65a7430ce9"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI0LjI="
+        },
+        {
+            "name": "drizzle-kit@0.24.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.24.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.24.1",
+            "commit": {
+                "sha": "90c4788980ab56c52da8504ef4fad9159c4113b0",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/90c4788980ab56c52da8504ef4fad9159c4113b0"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI0LjE="
+        },
+        {
+            "name": "drizzle-kit@0.24.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.24.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.24.0",
+            "commit": {
+                "sha": "6adbd78748c8ecb687caa87b7cd775d86cdc0a2b",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/6adbd78748c8ecb687caa87b7cd775d86cdc0a2b"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjI0LjA="
+        },
+        {
+            "name": "drizzle-kit@0.23.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/drizzle-kit@0.23.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/drizzle-kit@0.23.2",
+            "commit": {
+                "sha": "7d2ae842da5e57ea161aa708ea567fb4afc4911c",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/7d2ae842da5e57ea161aa708ea567fb4afc4911c"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy9kcml6emxlLWtpdEAwLjIzLjI="
+        },
+        {
+            "name": "0.38.4",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.38.4",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.38.4",
+            "commit": {
+                "sha": "49d2930126170087e472d98f6278fa2f3e8279d4",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/49d2930126170087e472d98f6278fa2f3e8279d4"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM4LjQ="
+        },
+        {
+            "name": "0.38.3",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.38.3",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.38.3",
+            "commit": {
+                "sha": "06be106f3d111339466eb596d000d7580c89b01f",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/06be106f3d111339466eb596d000d7580c89b01f"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM4LjM="
+        },
+        {
+            "name": "0.38.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.38.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.38.2",
+            "commit": {
+                "sha": "10d22305b062dd0f4b0ff1594a6ae722487b7886",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/10d22305b062dd0f4b0ff1594a6ae722487b7886"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM4LjI="
+        },
+        {
+            "name": "0.38.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.38.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.38.1",
+            "commit": {
+                "sha": "866c257b2d5e7e98415b77f726e72862360d5502",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/866c257b2d5e7e98415b77f726e72862360d5502"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM4LjE="
+        },
+        {
+            "name": "0.38.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.38.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.38.0",
+            "commit": {
+                "sha": "c18f224e05e759e4a8bf7888d2d75f24f785963a",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/c18f224e05e759e4a8bf7888d2d75f24f785963a"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM4LjA="
+        },
+        {
+            "name": "0.37.0",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.37.0",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.37.0",
+            "commit": {
+                "sha": "9cf0ed21e0f549a84cdc642cbb10a1900948e570",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/9cf0ed21e0f549a84cdc642cbb10a1900948e570"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM3LjA="
+        },
+        {
+            "name": "0.36.4",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.36.4",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.36.4",
+            "commit": {
+                "sha": "03f6239c53c7132cf8ef08ff4f0cf70a1009de3f",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/03f6239c53c7132cf8ef08ff4f0cf70a1009de3f"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM2LjQ="
+        },
+        {
+            "name": "0.36.3",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.36.3",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.36.3",
+            "commit": {
+                "sha": "30e5347c5b363e4ae5e30be78ac0bf64feaf98d4",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/30e5347c5b363e4ae5e30be78ac0bf64feaf98d4"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM2LjM="
+        },
+        {
+            "name": "0.36.2",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.36.2",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.36.2",
+            "commit": {
+                "sha": "2677718bf98835b8ec313d0f3bf2b921e795e7c1",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/2677718bf98835b8ec313d0f3bf2b921e795e7c1"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM2LjI="
+        },
+        {
+            "name": "0.36.1",
+            "zipball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/zipball/refs/tags/0.36.1",
+            "tarball_url": "https://api.github.com/repos/drizzle-team/drizzle-orm/tarball/refs/tags/0.36.1",
+            "commit": {
+                "sha": "83daf2d5cf023112de878bc2249ee2c41a2a5b1b",
+                "url": "https://api.github.com/repos/drizzle-team/drizzle-orm/commits/83daf2d5cf023112de878bc2249ee2c41a2a5b1b"
+            },
+            "node_id": "MDM6UmVmMzc5ODY1MzI1OnJlZnMvdGFncy8wLjM2LjE="
+        }
+    ]
+}

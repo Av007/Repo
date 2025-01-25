@@ -1,0 +1,422 @@
+{
+    "id": 14712850,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNDcxMjg1MA==",
+    "name": "syncthing",
+    "full_name": "syncthing/syncthing",
+    "private": false,
+    "owner": {
+        "login": "syncthing",
+        "id": 7628018,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MjgwMTg=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7628018?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/syncthing",
+        "html_url": "https://github.com/syncthing",
+        "followers_url": "https://api.github.com/users/syncthing/followers",
+        "following_url": "https://api.github.com/users/syncthing/following{/other_user}",
+        "gists_url": "https://api.github.com/users/syncthing/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/syncthing/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/syncthing/subscriptions",
+        "organizations_url": "https://api.github.com/users/syncthing/orgs",
+        "repos_url": "https://api.github.com/users/syncthing/repos",
+        "events_url": "https://api.github.com/users/syncthing/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/syncthing/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "fork": false,
+    "url": "https://api.github.com/repos/syncthing/syncthing",
+    "forks_url": "https://api.github.com/repos/syncthing/syncthing/forks",
+    "keys_url": "https://api.github.com/repos/syncthing/syncthing/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/syncthing/syncthing/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/syncthing/syncthing/teams",
+    "hooks_url": "https://api.github.com/repos/syncthing/syncthing/hooks",
+    "issue_events_url": "https://api.github.com/repos/syncthing/syncthing/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/syncthing/syncthing/events",
+    "assignees_url": "https://api.github.com/repos/syncthing/syncthing/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/syncthing/syncthing/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/syncthing/syncthing/tags",
+    "blobs_url": "https://api.github.com/repos/syncthing/syncthing/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/syncthing/syncthing/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/syncthing/syncthing/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/syncthing/syncthing/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/syncthing/syncthing/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/syncthing/syncthing/languages",
+    "stargazers_url": "https://api.github.com/repos/syncthing/syncthing/stargazers",
+    "contributors_url": "https://api.github.com/repos/syncthing/syncthing/contributors",
+    "subscribers_url": "https://api.github.com/repos/syncthing/syncthing/subscribers",
+    "subscription_url": "https://api.github.com/repos/syncthing/syncthing/subscription",
+    "commits_url": "https://api.github.com/repos/syncthing/syncthing/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/syncthing/syncthing/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/syncthing/syncthing/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/syncthing/syncthing/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/syncthing/syncthing/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/syncthing/syncthing/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/syncthing/syncthing/merges",
+    "archive_url": "https://api.github.com/repos/syncthing/syncthing/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/syncthing/syncthing/downloads",
+    "issues_url": "https://api.github.com/repos/syncthing/syncthing/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/syncthing/syncthing/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/syncthing/syncthing/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/syncthing/syncthing/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/syncthing/syncthing/labels{/name}",
+    "releases_url": "https://api.github.com/repos/syncthing/syncthing/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/syncthing/syncthing/deployments",
+    "created_at": "2013-11-26T09:48:21Z",
+    "updated_at": "2025-01-25T15:39:08Z",
+    "pushed_at": "2025-01-21T01:29:10Z",
+    "git_url": "git://github.com/syncthing/syncthing.git",
+    "ssh_url": "git@github.com:syncthing/syncthing.git",
+    "clone_url": "https://github.com/syncthing/syncthing.git",
+    "svn_url": "https://github.com/syncthing/syncthing",
+    "homepage": "https://syncthing.net/",
+    "size": 122398,
+    "stargazers_count": 67054,
+    "watchers_count": 67054,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 4375,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 397,
+    "license": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdx_id": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "go",
+        "p2p",
+        "peer-to-peer",
+        "synchronization"
+    ],
+    "visibility": "public",
+    "forks": 4375,
+    "open_issues": 397,
+    "watchers": 67054,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.29.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.29.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.29.2",
+            "commit": {
+                "sha": "516f3e29e8cc7091ea6271715308caea0fcc0778",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/516f3e29e8cc7091ea6271715308caea0fcc0778"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI5LjI="
+        },
+        {
+            "name": "v1.29.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.29.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.29.1",
+            "commit": {
+                "sha": "ab20c16982b1fa4cc2d84c3f88db054d9b21793b",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/ab20c16982b1fa4cc2d84c3f88db054d9b21793b"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI5LjE="
+        },
+        {
+            "name": "v1.29.0",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.29.0",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.29.0",
+            "commit": {
+                "sha": "13d7881b8014cc5078140689198d43fd7829d8a6",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/13d7881b8014cc5078140689198d43fd7829d8a6"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI5LjA="
+        },
+        {
+            "name": "v1.29.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.29.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.29.0-rc.3",
+            "commit": {
+                "sha": "13d7881b8014cc5078140689198d43fd7829d8a6",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/13d7881b8014cc5078140689198d43fd7829d8a6"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI5LjAtcmMuMw=="
+        },
+        {
+            "name": "v1.29.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.29.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.29.0-rc.2",
+            "commit": {
+                "sha": "b5a7879eca01b394a4d67d98b3b8fb5a4df1957e",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/b5a7879eca01b394a4d67d98b3b8fb5a4df1957e"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI5LjAtcmMuMg=="
+        },
+        {
+            "name": "v1.29.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.29.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.29.0-rc.1",
+            "commit": {
+                "sha": "fefbf4dcc8d1e22a46a74aa457b36d32da6ed640",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/fefbf4dcc8d1e22a46a74aa457b36d32da6ed640"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI5LjAtcmMuMQ=="
+        },
+        {
+            "name": "v1.28.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.1",
+            "commit": {
+                "sha": "612fdff37766ee18a1443be82635156b2f085806",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/612fdff37766ee18a1443be82635156b2f085806"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjE="
+        },
+        {
+            "name": "v1.28.1-rc.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.1-rc.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.1-rc.2",
+            "commit": {
+                "sha": "612fdff37766ee18a1443be82635156b2f085806",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/612fdff37766ee18a1443be82635156b2f085806"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjEtcmMuMg=="
+        },
+        {
+            "name": "v1.28.1-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.1-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.1-rc.1",
+            "commit": {
+                "sha": "896f9725ec184702e2cfb6fde7eefe5dda198953",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/896f9725ec184702e2cfb6fde7eefe5dda198953"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjEtcmMuMQ=="
+        },
+        {
+            "name": "v1.28.0",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.0",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.0",
+            "commit": {
+                "sha": "6d64daaba326ba8378c700e00a31e425c7c90579",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/6d64daaba326ba8378c700e00a31e425c7c90579"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjA="
+        },
+        {
+            "name": "v1.28.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.0-rc.3",
+            "commit": {
+                "sha": "6d64daaba326ba8378c700e00a31e425c7c90579",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/6d64daaba326ba8378c700e00a31e425c7c90579"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjAtcmMuMw=="
+        },
+        {
+            "name": "v1.28.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.0-rc.2",
+            "commit": {
+                "sha": "cfa834177b7e97a7e1b6bce604f7ba50d165c24c",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/cfa834177b7e97a7e1b6bce604f7ba50d165c24c"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjAtcmMuMg=="
+        },
+        {
+            "name": "v1.28.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.28.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.28.0-rc.1",
+            "commit": {
+                "sha": "cba163a1fdf2c2ad24b27683ed44b90d945ba764",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/cba163a1fdf2c2ad24b27683ed44b90d945ba764"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI4LjAtcmMuMQ=="
+        },
+        {
+            "name": "v1.27.13-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.13-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.13-rc.1",
+            "commit": {
+                "sha": "0ea90dd932332b025889a67bfda8e153d8afea14",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/0ea90dd932332b025889a67bfda8e153d8afea14"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjEzLXJjLjE="
+        },
+        {
+            "name": "v1.27.12",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.12",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.12",
+            "commit": {
+                "sha": "a3c340ece9895887dfeaec759340f807f3b80e51",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/a3c340ece9895887dfeaec759340f807f3b80e51"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjEy"
+        },
+        {
+            "name": "v1.27.11",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.11",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.11",
+            "commit": {
+                "sha": "27bba2c0c20844580f083344c133adcc7241c570",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/27bba2c0c20844580f083344c133adcc7241c570"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjEx"
+        },
+        {
+            "name": "v1.27.11-rc.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.11-rc.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.11-rc.2",
+            "commit": {
+                "sha": "27bba2c0c20844580f083344c133adcc7241c570",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/27bba2c0c20844580f083344c133adcc7241c570"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjExLXJjLjI="
+        },
+        {
+            "name": "v1.27.11-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.11-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.11-rc.1",
+            "commit": {
+                "sha": "7517d18fbbf34b42aa3d4b231018d2ee704a159d",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/7517d18fbbf34b42aa3d4b231018d2ee704a159d"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjExLXJjLjE="
+        },
+        {
+            "name": "v1.27.10",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.10",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.10",
+            "commit": {
+                "sha": "a28441a9bfae6d2bca84215534dc0f9faea8e4dc",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/a28441a9bfae6d2bca84215534dc0f9faea8e4dc"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjEw"
+        },
+        {
+            "name": "v1.27.10-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.10-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.10-rc.1",
+            "commit": {
+                "sha": "a28441a9bfae6d2bca84215534dc0f9faea8e4dc",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/a28441a9bfae6d2bca84215534dc0f9faea8e4dc"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjEwLXJjLjE="
+        },
+        {
+            "name": "v1.27.9",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.9",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.9",
+            "commit": {
+                "sha": "4704d3bc48761d89c2eafadf79f5d268631a063d",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/4704d3bc48761d89c2eafadf79f5d268631a063d"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3Ljk="
+        },
+        {
+            "name": "v1.27.8",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.8",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.8",
+            "commit": {
+                "sha": "9ca8addcf70ab7fcd92f01ee73b04530e0f382df",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/9ca8addcf70ab7fcd92f01ee73b04530e0f382df"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3Ljg="
+        },
+        {
+            "name": "v1.27.8-rc.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.8-rc.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.8-rc.2",
+            "commit": {
+                "sha": "9ca8addcf70ab7fcd92f01ee73b04530e0f382df",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/9ca8addcf70ab7fcd92f01ee73b04530e0f382df"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjgtcmMuMg=="
+        },
+        {
+            "name": "v1.27.8-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.8-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.8-rc.1",
+            "commit": {
+                "sha": "3821b6ceee2767dd12bea21a59ea82676e8a5305",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/3821b6ceee2767dd12bea21a59ea82676e8a5305"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjgtcmMuMQ=="
+        },
+        {
+            "name": "v1.27.7",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.7",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.7",
+            "commit": {
+                "sha": "9562cfd5c24c44dd654afc7ca124d6c6e1d50aa8",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/9562cfd5c24c44dd654afc7ca124d6c6e1d50aa8"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3Ljc="
+        },
+        {
+            "name": "v1.27.7-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.7-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.7-rc.1",
+            "commit": {
+                "sha": "ff9b24f388ea21f15954cf33d123aa3d34759d23",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/ff9b24f388ea21f15954cf33d123aa3d34759d23"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjctcmMuMQ=="
+        },
+        {
+            "name": "v1.27.6",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.6",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.6",
+            "commit": {
+                "sha": "61b94b9ea51d2591145e07361f2a1816a480b6bf",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/61b94b9ea51d2591145e07361f2a1816a480b6bf"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjY="
+        },
+        {
+            "name": "v1.27.6-rc.2",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.6-rc.2",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.6-rc.2",
+            "commit": {
+                "sha": "61b94b9ea51d2591145e07361f2a1816a480b6bf",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/61b94b9ea51d2591145e07361f2a1816a480b6bf"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjYtcmMuMg=="
+        },
+        {
+            "name": "v1.27.6-rc.1",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.6-rc.1",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.6-rc.1",
+            "commit": {
+                "sha": "2e7c03420fc56f7f7c9a5590efdfaf69d8049fbf",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/2e7c03420fc56f7f7c9a5590efdfaf69d8049fbf"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjYtcmMuMQ=="
+        },
+        {
+            "name": "v1.27.5",
+            "zipball_url": "https://api.github.com/repos/syncthing/syncthing/zipball/refs/tags/v1.27.5",
+            "tarball_url": "https://api.github.com/repos/syncthing/syncthing/tarball/refs/tags/v1.27.5",
+            "commit": {
+                "sha": "bdfd0f0548d2f6fc4b5500690dbd383baa3b0561",
+                "url": "https://api.github.com/repos/syncthing/syncthing/commits/bdfd0f0548d2f6fc4b5500690dbd383baa3b0561"
+            },
+            "node_id": "MDM6UmVmMTQ3MTI4NTA6cmVmcy90YWdzL3YxLjI3LjU="
+        }
+    ]
+}

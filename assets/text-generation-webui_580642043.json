@@ -1,0 +1,417 @@
+{
+    "id": 580642043,
+    "node_id": "R_kgDOIpvk-w",
+    "name": "text-generation-webui",
+    "full_name": "oobabooga/text-generation-webui",
+    "private": false,
+    "owner": {
+        "login": "oobabooga",
+        "id": 112222186,
+        "node_id": "U_kgDOBrBf6g",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112222186?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/oobabooga",
+        "html_url": "https://github.com/oobabooga",
+        "followers_url": "https://api.github.com/users/oobabooga/followers",
+        "following_url": "https://api.github.com/users/oobabooga/following{/other_user}",
+        "gists_url": "https://api.github.com/users/oobabooga/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/oobabooga/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/oobabooga/subscriptions",
+        "organizations_url": "https://api.github.com/users/oobabooga/orgs",
+        "repos_url": "https://api.github.com/users/oobabooga/repos",
+        "events_url": "https://api.github.com/users/oobabooga/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/oobabooga/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A Gradio web UI for Large Language Models with support for multiple inference backends.",
+    "fork": false,
+    "url": "https://api.github.com/repos/oobabooga/text-generation-webui",
+    "forks_url": "https://api.github.com/repos/oobabooga/text-generation-webui/forks",
+    "keys_url": "https://api.github.com/repos/oobabooga/text-generation-webui/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/oobabooga/text-generation-webui/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/oobabooga/text-generation-webui/teams",
+    "hooks_url": "https://api.github.com/repos/oobabooga/text-generation-webui/hooks",
+    "issue_events_url": "https://api.github.com/repos/oobabooga/text-generation-webui/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/oobabooga/text-generation-webui/events",
+    "assignees_url": "https://api.github.com/repos/oobabooga/text-generation-webui/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/oobabooga/text-generation-webui/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tags",
+    "blobs_url": "https://api.github.com/repos/oobabooga/text-generation-webui/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/oobabooga/text-generation-webui/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/oobabooga/text-generation-webui/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/oobabooga/text-generation-webui/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/oobabooga/text-generation-webui/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/oobabooga/text-generation-webui/languages",
+    "stargazers_url": "https://api.github.com/repos/oobabooga/text-generation-webui/stargazers",
+    "contributors_url": "https://api.github.com/repos/oobabooga/text-generation-webui/contributors",
+    "subscribers_url": "https://api.github.com/repos/oobabooga/text-generation-webui/subscribers",
+    "subscription_url": "https://api.github.com/repos/oobabooga/text-generation-webui/subscription",
+    "commits_url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/oobabooga/text-generation-webui/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/oobabooga/text-generation-webui/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/oobabooga/text-generation-webui/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/oobabooga/text-generation-webui/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/oobabooga/text-generation-webui/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/oobabooga/text-generation-webui/merges",
+    "archive_url": "https://api.github.com/repos/oobabooga/text-generation-webui/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/oobabooga/text-generation-webui/downloads",
+    "issues_url": "https://api.github.com/repos/oobabooga/text-generation-webui/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/oobabooga/text-generation-webui/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/oobabooga/text-generation-webui/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/oobabooga/text-generation-webui/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/oobabooga/text-generation-webui/labels{/name}",
+    "releases_url": "https://api.github.com/repos/oobabooga/text-generation-webui/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/oobabooga/text-generation-webui/deployments",
+    "created_at": "2022-12-21T04:17:37Z",
+    "updated_at": "2025-01-25T16:43:58Z",
+    "pushed_at": "2025-01-25T16:23:01Z",
+    "git_url": "git://github.com/oobabooga/text-generation-webui.git",
+    "ssh_url": "git@github.com:oobabooga/text-generation-webui.git",
+    "clone_url": "https://github.com/oobabooga/text-generation-webui.git",
+    "svn_url": "https://github.com/oobabooga/text-generation-webui",
+    "homepage": "",
+    "size": 29801,
+    "stargazers_count": 41788,
+    "watchers_count": 41788,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5440,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 240,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 5440,
+    "open_issues": 240,
+    "watchers": 41788,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.3",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v2.3",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v2.3",
+            "commit": {
+                "sha": "7e80266ae99f1d08d3a1aac997753590bb2e293c",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/7e80266ae99f1d08d3a1aac997753590bb2e293c"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjIuMw"
+        },
+        {
+            "name": "v2.2",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v2.2",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v2.2",
+            "commit": {
+                "sha": "e6eda6a3bb4e88ed1977924d5e7192d9fef20672",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/e6eda6a3bb4e88ed1977924d5e7192d9fef20672"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjIuMg"
+        },
+        {
+            "name": "v2.1",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v2.1",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v2.1",
+            "commit": {
+                "sha": "88a6331abf53b21e51460f490c24128f7cae5e4c",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/88a6331abf53b21e51460f490c24128f7cae5e4c"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjIuMQ"
+        },
+        {
+            "name": "v2.0",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v2.0",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v2.0",
+            "commit": {
+                "sha": "4d466d5c80eb83892b7dfb76fa4ab69efd6d6989",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/4d466d5c80eb83892b7dfb76fa4ab69efd6d6989"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjIuMA"
+        },
+        {
+            "name": "v1.16",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.16",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.16",
+            "commit": {
+                "sha": "cc8c7ed2093cbc747e7032420eae14b5b3c30311",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/cc8c7ed2093cbc747e7032420eae14b5b3c30311"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTY"
+        },
+        {
+            "name": "v1.15",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.15",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.15",
+            "commit": {
+                "sha": "3b06cb4523b09fef4f9caedee252163c5704c2e1",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/3b06cb4523b09fef4f9caedee252163c5704c2e1"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTU"
+        },
+        {
+            "name": "v1.14",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.14",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.14",
+            "commit": {
+                "sha": "073694bf158f44e79a3933f25330a45a474625e8",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/073694bf158f44e79a3933f25330a45a474625e8"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTQ"
+        },
+        {
+            "name": "v1.13",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.13",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.13",
+            "commit": {
+                "sha": "d011040f43c447d699dfd4cf863198907e16c10d",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/d011040f43c447d699dfd4cf863198907e16c10d"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTM"
+        },
+        {
+            "name": "v1.12",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.12",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.12",
+            "commit": {
+                "sha": "dd97a83534adcd1b594b80827308ee58555e8502",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/dd97a83534adcd1b594b80827308ee58555e8502"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTI"
+        },
+        {
+            "name": "v1.11",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.11",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.11",
+            "commit": {
+                "sha": "d1115f18b99c34947d83afc2fc5799007ecadba7",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/d1115f18b99c34947d83afc2fc5799007ecadba7"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTE"
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "0315122cf07409b601511cae2323d8b2b63bcde7",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/0315122cf07409b601511cae2323d8b2b63bcde7"
+            },
+            "node_id": "REF_kwDOIpvk-7FyZWZzL3RhZ3MvdjEuMTAuMQ"
+        },
+        {
+            "name": "v1.10",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.10",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.10",
+            "commit": {
+                "sha": "d01c68f2a3084b35b0faca799814feb4a92b2287",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/d01c68f2a3084b35b0faca799814feb4a92b2287"
+            },
+            "node_id": "REF_kwDOIpvk-69yZWZzL3RhZ3MvdjEuMTA"
+        },
+        {
+            "name": "v1.9.1",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.9.1",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.9.1",
+            "commit": {
+                "sha": "e813b322cfdb16da1eb379b9967d7e0e959cdc7e",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/e813b322cfdb16da1eb379b9967d7e0e959cdc7e"
+            },
+            "node_id": "REF_kwDOIpvk-7ByZWZzL3RhZ3MvdjEuOS4x"
+        },
+        {
+            "name": "v1.9",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.9",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.9",
+            "commit": {
+                "sha": "3315d0065100c1c349d510d33679370b29a45385",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/3315d0065100c1c349d510d33679370b29a45385"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuOQ"
+        },
+        {
+            "name": "v1.8",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.8",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.8",
+            "commit": {
+                "sha": "6915c5077a402b4cc6608f74981ecb6b08bdba7e",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/6915c5077a402b4cc6608f74981ecb6b08bdba7e"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuOA"
+        },
+        {
+            "name": "v1.7",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.7",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.7",
+            "commit": {
+                "sha": "2e471071af48e19867cfa522d2def44c24785c50",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/2e471071af48e19867cfa522d2def44c24785c50"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuNw"
+        },
+        {
+            "name": "v1.6",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.6",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.6",
+            "commit": {
+                "sha": "7b9ad643a082497f338b8d3509a8230455eeb470",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/7b9ad643a082497f338b8d3509a8230455eeb470"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuNg"
+        },
+        {
+            "name": "v1.5",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.5",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.5",
+            "commit": {
+                "sha": "b17893a58f1b6d11d3c39594608a421bf09928a1",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/b17893a58f1b6d11d3c39594608a421bf09928a1"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuNQ"
+        },
+        {
+            "name": "v1.4",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.4",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.4",
+            "commit": {
+                "sha": "a07d070b6c339564b533534b2667c62004fd2b43",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/a07d070b6c339564b533534b2667c62004fd2b43"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuNA"
+        },
+        {
+            "name": "v1.3.1",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.3.1",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.3.1",
+            "commit": {
+                "sha": "0d7f43225f27a3a872a1390ac610567df5a4190d",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/0d7f43225f27a3a872a1390ac610567df5a4190d"
+            },
+            "node_id": "REF_kwDOIpvk-7ByZWZzL3RhZ3MvdjEuMy4x"
+        },
+        {
+            "name": "v1.3",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.3",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.3",
+            "commit": {
+                "sha": "3ef49397bbbf93cc12ab21d83d9a40a83cf8d68e",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/3ef49397bbbf93cc12ab21d83d9a40a83cf8d68e"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuMw"
+        },
+        {
+            "name": "v1.2",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.2",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.2",
+            "commit": {
+                "sha": "9f0803886451c9b6e817c8b3adbe1044e6856d6e",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/9f0803886451c9b6e817c8b3adbe1044e6856d6e"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuMg"
+        },
+        {
+            "name": "v1.1.1",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.1.1",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.1.1",
+            "commit": {
+                "sha": "0e6295886d2d0e9309c8223201e8a4bd55e4735c",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/0e6295886d2d0e9309c8223201e8a4bd55e4735c"
+            },
+            "node_id": "REF_kwDOIpvk-7ByZWZzL3RhZ3MvdjEuMS4x"
+        },
+        {
+            "name": "v1.1",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.1",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.1",
+            "commit": {
+                "sha": "6447b2eea6ff2269695a400d70fb761042e3e6de",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/6447b2eea6ff2269695a400d70fb761042e3e6de"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuMQ"
+        },
+        {
+            "name": "v1.0",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/v1.0",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/v1.0",
+            "commit": {
+                "sha": "a81cdd1367c3a4cf77e37fc0ab21ba7990bba843",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/a81cdd1367c3a4cf77e37fc0ab21ba7990bba843"
+            },
+            "node_id": "REF_kwDOIpvk-65yZWZzL3RhZ3MvdjEuMA"
+        },
+        {
+            "name": "snapshot-2024-04-28",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/snapshot-2024-04-28",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/snapshot-2024-04-28",
+            "commit": {
+                "sha": "ad122361ea1dbc4b419214891b83f6b9ac12f947",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/ad122361ea1dbc4b419214891b83f6b9ac12f947"
+            },
+            "node_id": "REF_kwDOIpvk-71yZWZzL3RhZ3Mvc25hcHNob3QtMjAyNC0wNC0yOA"
+        },
+        {
+            "name": "snapshot-2024-04-21",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/snapshot-2024-04-21",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/snapshot-2024-04-21",
+            "commit": {
+                "sha": "a4b732c30b9ec798509430a1478e8c9700b46bc3",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/a4b732c30b9ec798509430a1478e8c9700b46bc3"
+            },
+            "node_id": "REF_kwDOIpvk-71yZWZzL3RhZ3Mvc25hcHNob3QtMjAyNC0wNC0yMQ"
+        },
+        {
+            "name": "snapshot-2024-04-14",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/snapshot-2024-04-14",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/snapshot-2024-04-14",
+            "commit": {
+                "sha": "26d822f64f2a029306b250b69dc58468662a4fc6",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/26d822f64f2a029306b250b69dc58468662a4fc6"
+            },
+            "node_id": "REF_kwDOIpvk-71yZWZzL3RhZ3Mvc25hcHNob3QtMjAyNC0wNC0xNA"
+        },
+        {
+            "name": "snapshot-2024-04-07",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/snapshot-2024-04-07",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/snapshot-2024-04-07",
+            "commit": {
+                "sha": "91a7370a655881c55274284509a546ffd644dc16",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/91a7370a655881c55274284509a546ffd644dc16"
+            },
+            "node_id": "REF_kwDOIpvk-71yZWZzL3RhZ3Mvc25hcHNob3QtMjAyNC0wNC0wNw"
+        },
+        {
+            "name": "snapshot-2024-03-31",
+            "zipball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/zipball/refs/tags/snapshot-2024-03-31",
+            "tarball_url": "https://api.github.com/repos/oobabooga/text-generation-webui/tarball/refs/tags/snapshot-2024-03-31",
+            "commit": {
+                "sha": "1a7c027386f43b84f3ca3b0ff04ca48d861c2d7a",
+                "url": "https://api.github.com/repos/oobabooga/text-generation-webui/commits/1a7c027386f43b84f3ca3b0ff04ca48d861c2d7a"
+            },
+            "node_id": "REF_kwDOIpvk-71yZWZzL3RhZ3Mvc25hcHNob3QtMjAyNC0wMy0zMQ"
+        }
+    ]
+}

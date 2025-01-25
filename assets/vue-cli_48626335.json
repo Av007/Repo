@@ -1,0 +1,417 @@
+{
+    "id": 48626335,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0ODYyNjMzNQ==",
+    "name": "vue-cli",
+    "full_name": "vuejs/vue-cli",
+    "private": false,
+    "owner": {
+        "login": "vuejs",
+        "id": 6128107,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMjgxMDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6128107?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vuejs",
+        "html_url": "https://github.com/vuejs",
+        "followers_url": "https://api.github.com/users/vuejs/followers",
+        "following_url": "https://api.github.com/users/vuejs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vuejs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vuejs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vuejs/subscriptions",
+        "organizations_url": "https://api.github.com/users/vuejs/orgs",
+        "repos_url": "https://api.github.com/users/vuejs/repos",
+        "events_url": "https://api.github.com/users/vuejs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vuejs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/vuejs/vue-cli",
+    "description": "\ud83d\udee0\ufe0f webpack-based tooling for Vue.js Development",
+    "fork": false,
+    "url": "https://api.github.com/repos/vuejs/vue-cli",
+    "forks_url": "https://api.github.com/repos/vuejs/vue-cli/forks",
+    "keys_url": "https://api.github.com/repos/vuejs/vue-cli/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/vuejs/vue-cli/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/vuejs/vue-cli/teams",
+    "hooks_url": "https://api.github.com/repos/vuejs/vue-cli/hooks",
+    "issue_events_url": "https://api.github.com/repos/vuejs/vue-cli/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/vuejs/vue-cli/events",
+    "assignees_url": "https://api.github.com/repos/vuejs/vue-cli/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/vuejs/vue-cli/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/vuejs/vue-cli/tags",
+    "blobs_url": "https://api.github.com/repos/vuejs/vue-cli/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/vuejs/vue-cli/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/vuejs/vue-cli/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/vuejs/vue-cli/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/vuejs/vue-cli/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/vuejs/vue-cli/languages",
+    "stargazers_url": "https://api.github.com/repos/vuejs/vue-cli/stargazers",
+    "contributors_url": "https://api.github.com/repos/vuejs/vue-cli/contributors",
+    "subscribers_url": "https://api.github.com/repos/vuejs/vue-cli/subscribers",
+    "subscription_url": "https://api.github.com/repos/vuejs/vue-cli/subscription",
+    "commits_url": "https://api.github.com/repos/vuejs/vue-cli/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/vuejs/vue-cli/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/vuejs/vue-cli/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/vuejs/vue-cli/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/vuejs/vue-cli/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/vuejs/vue-cli/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/vuejs/vue-cli/merges",
+    "archive_url": "https://api.github.com/repos/vuejs/vue-cli/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/vuejs/vue-cli/downloads",
+    "issues_url": "https://api.github.com/repos/vuejs/vue-cli/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/vuejs/vue-cli/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/vuejs/vue-cli/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/vuejs/vue-cli/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/vuejs/vue-cli/labels{/name}",
+    "releases_url": "https://api.github.com/repos/vuejs/vue-cli/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/vuejs/vue-cli/deployments",
+    "created_at": "2015-12-26T23:11:20Z",
+    "updated_at": "2025-01-25T01:20:40Z",
+    "pushed_at": "2024-07-17T15:34:10Z",
+    "git_url": "git://github.com/vuejs/vue-cli.git",
+    "ssh_url": "git@github.com:vuejs/vue-cli.git",
+    "clone_url": "https://github.com/vuejs/vue-cli.git",
+    "svn_url": "https://github.com/vuejs/vue-cli",
+    "homepage": "https://cli.vuejs.org/",
+    "size": 30935,
+    "stargazers_count": 29748,
+    "watchers_count": 29748,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 6331,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1072,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 6331,
+    "open_issues": 1072,
+    "watchers": 29748,
+    "default_branch": "dev",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "vue-cli-version-marker@3.4.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/vue-cli-version-marker@3.4.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/vue-cli-version-marker@3.4.1",
+            "commit": {
+                "sha": "aa50bf56ade8f6f303a60b017d3e8a356908eb43",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/aa50bf56ade8f6f303a60b017d3e8a356908eb43"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL3Z1ZS1jbGktdmVyc2lvbi1tYXJrZXJAMy40LjE="
+        },
+        {
+            "name": "vue-cli-version-marker@3.4.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/vue-cli-version-marker@3.4.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/vue-cli-version-marker@3.4.0",
+            "commit": {
+                "sha": "cfed026de873cc9d73046eae8143e5333bee0494",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cfed026de873cc9d73046eae8143e5333bee0494"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL3Z1ZS1jbGktdmVyc2lvbi1tYXJrZXJAMy40LjA="
+        },
+        {
+            "name": "vue-cli-version-marker@3.3.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/vue-cli-version-marker@3.3.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/vue-cli-version-marker@3.3.0",
+            "commit": {
+                "sha": "04203aa4ee03fe3d15fa6f240a13dbf75a360ac3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/04203aa4ee03fe3d15fa6f240a13dbf75a360ac3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL3Z1ZS1jbGktdmVyc2lvbi1tYXJrZXJAMy4zLjA="
+        },
+        {
+            "name": "vue-cli-version-marker@3.2.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/vue-cli-version-marker@3.2.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/vue-cli-version-marker@3.2.2",
+            "commit": {
+                "sha": "623712d21766bb6e6423f12750f7bed82249e259",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/623712d21766bb6e6423f12750f7bed82249e259"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL3Z1ZS1jbGktdmVyc2lvbi1tYXJrZXJAMy4yLjI="
+        },
+        {
+            "name": "vue-cli-version-marker@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/vue-cli-version-marker@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/vue-cli-version-marker@3.1.2",
+            "commit": {
+                "sha": "9ab0fbde1cf87d888aa3d2c3c52176b8de464c59",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/9ab0fbde1cf87d888aa3d2c3c52176b8de464c59"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL3Z1ZS1jbGktdmVyc2lvbi1tYXJrZXJAMy4xLjI="
+        },
+        {
+            "name": "vue-cli-version-marker@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/vue-cli-version-marker@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/vue-cli-version-marker@3.1.1",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL3Z1ZS1jbGktdmVyc2lvbi1tYXJrZXJAMy4xLjE="
+        },
+        {
+            "name": "@vue/eslint-config-typescript@4.0.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/eslint-config-typescript@4.0.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/eslint-config-typescript@4.0.0",
+            "commit": {
+                "sha": "49a2c72e0bf5e0378181870496c36e0a60fccf9d",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/49a2c72e0bf5e0378181870496c36e0a60fccf9d"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvZXNsaW50LWNvbmZpZy10eXBlc2NyaXB0QDQuMC4w"
+        },
+        {
+            "name": "@vue/eslint-config-typescript@3.2.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/eslint-config-typescript@3.2.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/eslint-config-typescript@3.2.1",
+            "commit": {
+                "sha": "69ff8028f6bf72969d72ca3177c38fe1a380a583",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/69ff8028f6bf72969d72ca3177c38fe1a380a583"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvZXNsaW50LWNvbmZpZy10eXBlc2NyaXB0QDMuMi4x"
+        },
+        {
+            "name": "@vue/eslint-config-typescript@3.2.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/eslint-config-typescript@3.2.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/eslint-config-typescript@3.2.0",
+            "commit": {
+                "sha": "3d186d119e670eea214c79f6bdf83ebad84b8186",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/3d186d119e670eea214c79f6bdf83ebad84b8186"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvZXNsaW50LWNvbmZpZy10eXBlc2NyaXB0QDMuMi4w"
+        },
+        {
+            "name": "@vue/eslint-config-typescript@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/eslint-config-typescript@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/eslint-config-typescript@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvZXNsaW50LWNvbmZpZy10eXBlc2NyaXB0QDMuMS4x"
+        },
+        {
+            "name": "@vue/eslint-config-prettier@4.0.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/eslint-config-prettier@4.0.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/eslint-config-prettier@4.0.1",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvZXNsaW50LWNvbmZpZy1wcmV0dGllckA0LjAuMQ=="
+        },
+        {
+            "name": "@vue/cli-upgrade@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-upgrade@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-upgrade@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVwZ3JhZGVAMy4xLjE="
+        },
+        {
+            "name": "@vue/cli-ui-addon-widgets@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-ui-addon-widgets@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-ui-addon-widgets@3.1.2",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVpLWFkZG9uLXdpZGdldHNAMy4xLjI="
+        },
+        {
+            "name": "@vue/cli-ui-addon-widgets@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-ui-addon-widgets@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-ui-addon-widgets@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVpLWFkZG9uLXdpZGdldHNAMy4xLjE="
+        },
+        {
+            "name": "@vue/cli-ui-addon-webpack@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-ui-addon-webpack@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-ui-addon-webpack@3.1.2",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVpLWFkZG9uLXdlYnBhY2tAMy4xLjI="
+        },
+        {
+            "name": "@vue/cli-ui-addon-webpack@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-ui-addon-webpack@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-ui-addon-webpack@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVpLWFkZG9uLXdlYnBhY2tAMy4xLjE="
+        },
+        {
+            "name": "@vue/cli-ui@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-ui@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-ui@3.1.2",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVpQDMuMS4y"
+        },
+        {
+            "name": "@vue/cli-ui@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-ui@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-ui@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXVpQDMuMS4x"
+        },
+        {
+            "name": "@vue/cli-test-utils@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-test-utils@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-test-utils@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXRlc3QtdXRpbHNAMy4xLjE="
+        },
+        {
+            "name": "@vue/cli-shared-utils@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-shared-utils@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-shared-utils@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXNoYXJlZC11dGlsc0AzLjEuMQ=="
+        },
+        {
+            "name": "@vue/cli-service-global@3.1.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-service-global@3.1.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-service-global@3.1.3",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXNlcnZpY2UtZ2xvYmFsQDMuMS4z"
+        },
+        {
+            "name": "@vue/cli-service-global@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-service-global@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-service-global@3.1.2",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXNlcnZpY2UtZ2xvYmFsQDMuMS4y"
+        },
+        {
+            "name": "@vue/cli-service@3.1.4",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-service@3.1.4",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-service@3.1.4",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXNlcnZpY2VAMy4xLjQ="
+        },
+        {
+            "name": "@vue/cli-service@3.1.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-service@3.1.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-service@3.1.3",
+            "commit": {
+                "sha": "0d581ad66bad713595c00dbc2e189b37cdddde77",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/0d581ad66bad713595c00dbc2e189b37cdddde77"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXNlcnZpY2VAMy4xLjM="
+        },
+        {
+            "name": "@vue/cli-service@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-service@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-service@3.1.2",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXNlcnZpY2VAMy4xLjI="
+        },
+        {
+            "name": "@vue/cli-plugin-unit-mocha@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-plugin-unit-mocha@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-plugin-unit-mocha@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXBsdWdpbi11bml0LW1vY2hhQDMuMS4x"
+        },
+        {
+            "name": "@vue/cli-plugin-unit-jest@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-plugin-unit-jest@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-plugin-unit-jest@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXBsdWdpbi11bml0LWplc3RAMy4xLjE="
+        },
+        {
+            "name": "@vue/cli-plugin-typescript@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-plugin-typescript@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-plugin-typescript@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXBsdWdpbi10eXBlc2NyaXB0QDMuMS4x"
+        },
+        {
+            "name": "@vue/cli-plugin-pwa@3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-plugin-pwa@3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-plugin-pwa@3.1.2",
+            "commit": {
+                "sha": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXBsdWdpbi1wd2FAMy4xLjI="
+        },
+        {
+            "name": "@vue/cli-plugin-pwa@3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vue-cli/zipball/refs/tags/@vue/cli-plugin-pwa@3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vue-cli/tarball/refs/tags/@vue/cli-plugin-pwa@3.1.1",
+            "commit": {
+                "sha": "b5e4cc213f757b029a634539e9692d2ea730fc27",
+                "url": "https://api.github.com/repos/vuejs/vue-cli/commits/b5e4cc213f757b029a634539e9692d2ea730fc27"
+            },
+            "node_id": "MDM6UmVmNDg2MjYzMzU6cmVmcy90YWdzL0B2dWUvY2xpLXBsdWdpbi1wd2FAMy4xLjE="
+        }
+    ]
+}

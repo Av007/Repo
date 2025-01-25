@@ -1,0 +1,435 @@
+{
+    "id": 568098118,
+    "node_id": "R_kgDOIdx9Rg",
+    "name": "plane",
+    "full_name": "makeplane/plane",
+    "private": false,
+    "owner": {
+        "login": "makeplane",
+        "id": 115727700,
+        "node_id": "O_kgDOBuXdVA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/115727700?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/makeplane",
+        "html_url": "https://github.com/makeplane",
+        "followers_url": "https://api.github.com/users/makeplane/followers",
+        "following_url": "https://api.github.com/users/makeplane/following{/other_user}",
+        "gists_url": "https://api.github.com/users/makeplane/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/makeplane/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/makeplane/subscriptions",
+        "organizations_url": "https://api.github.com/users/makeplane/orgs",
+        "repos_url": "https://api.github.com/users/makeplane/repos",
+        "events_url": "https://api.github.com/users/makeplane/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/makeplane/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/makeplane/plane",
+    "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+    "fork": false,
+    "url": "https://api.github.com/repos/makeplane/plane",
+    "forks_url": "https://api.github.com/repos/makeplane/plane/forks",
+    "keys_url": "https://api.github.com/repos/makeplane/plane/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/makeplane/plane/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/makeplane/plane/teams",
+    "hooks_url": "https://api.github.com/repos/makeplane/plane/hooks",
+    "issue_events_url": "https://api.github.com/repos/makeplane/plane/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/makeplane/plane/events",
+    "assignees_url": "https://api.github.com/repos/makeplane/plane/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/makeplane/plane/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/makeplane/plane/tags",
+    "blobs_url": "https://api.github.com/repos/makeplane/plane/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/makeplane/plane/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/makeplane/plane/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/makeplane/plane/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/makeplane/plane/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/makeplane/plane/languages",
+    "stargazers_url": "https://api.github.com/repos/makeplane/plane/stargazers",
+    "contributors_url": "https://api.github.com/repos/makeplane/plane/contributors",
+    "subscribers_url": "https://api.github.com/repos/makeplane/plane/subscribers",
+    "subscription_url": "https://api.github.com/repos/makeplane/plane/subscription",
+    "commits_url": "https://api.github.com/repos/makeplane/plane/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/makeplane/plane/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/makeplane/plane/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/makeplane/plane/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/makeplane/plane/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/makeplane/plane/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/makeplane/plane/merges",
+    "archive_url": "https://api.github.com/repos/makeplane/plane/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/makeplane/plane/downloads",
+    "issues_url": "https://api.github.com/repos/makeplane/plane/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/makeplane/plane/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/makeplane/plane/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/makeplane/plane/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/makeplane/plane/labels{/name}",
+    "releases_url": "https://api.github.com/repos/makeplane/plane/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/makeplane/plane/deployments",
+    "created_at": "2022-11-19T12:55:01Z",
+    "updated_at": "2025-01-25T17:05:29Z",
+    "pushed_at": "2025-01-25T13:24:01Z",
+    "git_url": "git://github.com/makeplane/plane.git",
+    "ssh_url": "git@github.com:makeplane/plane.git",
+    "clone_url": "https://github.com/makeplane/plane.git",
+    "svn_url": "https://github.com/makeplane/plane",
+    "homepage": "http://plane.so",
+    "size": 124921,
+    "stargazers_count": 31994,
+    "watchers_count": 31994,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1871,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 448,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "django",
+        "docker",
+        "issue-tracker",
+        "jira",
+        "jira-alternative",
+        "kanban",
+        "linear",
+        "nextjs",
+        "postgresql",
+        "product-management",
+        "project-management",
+        "python",
+        "react",
+        "redis",
+        "rest-api",
+        "typescript",
+        "work-management"
+    ],
+    "visibility": "public",
+    "forks": 1871,
+    "open_issues": 448,
+    "watchers": 31994,
+    "default_branch": "preview",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.24.1",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.24.1",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.24.1",
+            "commit": {
+                "sha": "d0f3987aebd98303ef723d7a63a6b6a7c3c53a38",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/d0f3987aebd98303ef723d7a63a6b6a7c3c53a38"
+            },
+            "node_id": "REF_kwDOIdx9RrFyZWZzL3RhZ3MvdjAuMjQuMQ"
+        },
+        {
+            "name": "v0.24.0",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.24.0",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.24.0",
+            "commit": {
+                "sha": "05894c5b9c3112939340655f37bc17e603332c02",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/05894c5b9c3112939340655f37bc17e603332c02"
+            },
+            "node_id": "REF_kwDOIdx9RrFyZWZzL3RhZ3MvdjAuMjQuMA"
+        },
+        {
+            "name": "v0.23.1",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.23.1",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.23.1",
+            "commit": {
+                "sha": "c68658d877ba0af93044fbcda7a43d779b1ddf5f",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/c68658d877ba0af93044fbcda7a43d779b1ddf5f"
+            },
+            "node_id": "REF_kwDOIdx9RrFyZWZzL3RhZ3MvdjAuMjMuMQ"
+        },
+        {
+            "name": "v0.23.0",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.23.0",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.23.0",
+            "commit": {
+                "sha": "d97ca682296894b18b9611cff380e7f48593f968",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/d97ca682296894b18b9611cff380e7f48593f968"
+            },
+            "node_id": "REF_kwDOIdx9RrFyZWZzL3RhZ3MvdjAuMjMuMA"
+        },
+        {
+            "name": "v0.22-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.22-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.22-dev",
+            "commit": {
+                "sha": "707570ca7ab95d6680953de939f6acf78480ae01",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/707570ca7ab95d6680953de939f6acf78480ae01"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMjItZGV2"
+        },
+        {
+            "name": "v0.21-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.21-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.21-dev",
+            "commit": {
+                "sha": "c76af7d7d6cf61a00fd5ad4b5e9a0fa17816c05e",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/c76af7d7d6cf61a00fd5ad4b5e9a0fa17816c05e"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMjEtZGV2"
+        },
+        {
+            "name": "v0.20-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.20-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.20-dev",
+            "commit": {
+                "sha": "1dcea9bcc885d7ab617ac2f75e6d6b7e648355c6",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/1dcea9bcc885d7ab617ac2f75e6d6b7e648355c6"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMjAtZGV2"
+        },
+        {
+            "name": "v0.19-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.19-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.19-dev",
+            "commit": {
+                "sha": "da957e06b6bfe65ebb7735631e1b31aec077448b",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/da957e06b6bfe65ebb7735631e1b31aec077448b"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTktZGV2"
+        },
+        {
+            "name": "v0.18-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.18-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.18-dev",
+            "commit": {
+                "sha": "a0b9596cb44011bb3a5968916a4cedf46575b4f3",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/a0b9596cb44011bb3a5968916a4cedf46575b4f3"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTgtZGV2"
+        },
+        {
+            "name": "v0.17-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.17-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.17-dev",
+            "commit": {
+                "sha": "002fb4547b0866780abac1d29c9335883ba5cbf1",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/002fb4547b0866780abac1d29c9335883ba5cbf1"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTctZGV2"
+        },
+        {
+            "name": "v0.16-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.16-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.16-dev",
+            "commit": {
+                "sha": "c1b1ba35c161fccd6f833fad212326f4032738eb",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/c1b1ba35c161fccd6f833fad212326f4032738eb"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTYtZGV2"
+        },
+        {
+            "name": "v0.15.4-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.15.4-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.15.4-dev",
+            "commit": {
+                "sha": "4566d6e80c63a582b3d23b6733b1a41056e81817",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/4566d6e80c63a582b3d23b6733b1a41056e81817"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTUuNC1kZXY"
+        },
+        {
+            "name": "v0.15.3-hotfix",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.15.3-hotfix",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.15.3-hotfix",
+            "commit": {
+                "sha": "e8d359e625c29620a31dcb2c3dc10dcaeaba68ad",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/e8d359e625c29620a31dcb2c3dc10dcaeaba68ad"
+            },
+            "node_id": "REF_kwDOIdx9RrhyZWZzL3RhZ3MvdjAuMTUuMy1ob3RmaXg"
+        },
+        {
+            "name": "v0.15.2-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.15.2-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.15.2-dev",
+            "commit": {
+                "sha": "1e27e37b511b0b694f892e3f75e69f8119bd298b",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/1e27e37b511b0b694f892e3f75e69f8119bd298b"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTUuMi1kZXY"
+        },
+        {
+            "name": "v0.15.1-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.15.1-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.15.1-dev",
+            "commit": {
+                "sha": "7df2e9cf1132412dbdbab2bcfa53053b0f3d7b96",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/7df2e9cf1132412dbdbab2bcfa53053b0f3d7b96"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTUuMS1kZXY"
+        },
+        {
+            "name": "v0.15-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.15-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.15-dev",
+            "commit": {
+                "sha": "c6e3f1b932ce85226e095bc4bfae17309831a7f9",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/c6e3f1b932ce85226e095bc4bfae17309831a7f9"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTUtZGV2"
+        },
+        {
+            "name": "v0.14.2-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.14.2-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.14.2-dev",
+            "commit": {
+                "sha": "768b4abf22535e1c37aeee3039890a38d390f13c",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/768b4abf22535e1c37aeee3039890a38d390f13c"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTQuMi1kZXY"
+        },
+        {
+            "name": "v0.14.1-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.14.1-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.14.1-dev",
+            "commit": {
+                "sha": "e7468292c7b1c3f770a326f19e1bd2a1e484a884",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/e7468292c7b1c3f770a326f19e1bd2a1e484a884"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTQuMS1kZXY"
+        },
+        {
+            "name": "v0.14-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.14-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.14-dev",
+            "commit": {
+                "sha": "936452758afe84f117b23912cd7f44c1b907e660",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/936452758afe84f117b23912cd7f44c1b907e660"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTQtZGV2"
+        },
+        {
+            "name": "v0.13.2-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.13.2-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.13.2-dev",
+            "commit": {
+                "sha": "5ac2c270f76dc95a6dca4d9ce18468effc09854e",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/5ac2c270f76dc95a6dca4d9ce18468effc09854e"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTMuMi1kZXY"
+        },
+        {
+            "name": "v0.13.1-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.13.1-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.13.1-dev",
+            "commit": {
+                "sha": "3ff47b38f4b0363121ade36fa1583e1b77220e8b",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/3ff47b38f4b0363121ade36fa1583e1b77220e8b"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTMuMS1kZXY"
+        },
+        {
+            "name": "v0.13-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.13-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.13-dev",
+            "commit": {
+                "sha": "f7516197592ada159730c6bf1ffb9d851e62b92c",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/f7516197592ada159730c6bf1ffb9d851e62b92c"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTMtZGV2"
+        },
+        {
+            "name": "v0.12.2-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.12.2-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.12.2-dev",
+            "commit": {
+                "sha": "2bc05cc7b73ac855da33a876c2a25508cfc9a35a",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/2bc05cc7b73ac855da33a876c2a25508cfc9a35a"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTIuMi1kZXY"
+        },
+        {
+            "name": "v0.12.1-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.12.1-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.12.1-dev",
+            "commit": {
+                "sha": "cc63f676543e5f7cba12524596efa23a1bfdeb16",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/cc63f676543e5f7cba12524596efa23a1bfdeb16"
+            },
+            "node_id": "REF_kwDOIdx9RrVyZWZzL3RhZ3MvdjAuMTIuMS1kZXY"
+        },
+        {
+            "name": "v0.12-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.12-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.12-dev",
+            "commit": {
+                "sha": "80bcca71ff8d44127e47ed7c8fb3e921e02471be",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/80bcca71ff8d44127e47ed7c8fb3e921e02471be"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTItZGV2"
+        },
+        {
+            "name": "v0.11-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.11-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.11-dev",
+            "commit": {
+                "sha": "6f397710ce3ecd75266f2349e5147a294e8f96d1",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/6f397710ce3ecd75266f2349e5147a294e8f96d1"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTEtZGV2"
+        },
+        {
+            "name": "v0.10-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.10-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.10-dev",
+            "commit": {
+                "sha": "9ff8994c0ea63331d723d99308976786b70f2b77",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/9ff8994c0ea63331d723d99308976786b70f2b77"
+            },
+            "node_id": "REF_kwDOIdx9RrNyZWZzL3RhZ3MvdjAuMTAtZGV2"
+        },
+        {
+            "name": "v0.9-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.9-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.9-dev",
+            "commit": {
+                "sha": "11faf3f810df4346dd04b5744e4d818ac718f2ff",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/11faf3f810df4346dd04b5744e4d818ac718f2ff"
+            },
+            "node_id": "REF_kwDOIdx9RrJyZWZzL3RhZ3MvdjAuOS1kZXY"
+        },
+        {
+            "name": "v0.8-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.8-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.8-dev",
+            "commit": {
+                "sha": "6394f517a2620993d5de92ee44e528849d03c9d2",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/6394f517a2620993d5de92ee44e528849d03c9d2"
+            },
+            "node_id": "REF_kwDOIdx9RrJyZWZzL3RhZ3MvdjAuOC1kZXY"
+        },
+        {
+            "name": "v0.7.1-dev",
+            "zipball_url": "https://api.github.com/repos/makeplane/plane/zipball/refs/tags/v0.7.1-dev",
+            "tarball_url": "https://api.github.com/repos/makeplane/plane/tarball/refs/tags/v0.7.1-dev",
+            "commit": {
+                "sha": "02111d779b1fb4fb7a5765ab23f594045b8147df",
+                "url": "https://api.github.com/repos/makeplane/plane/commits/02111d779b1fb4fb7a5765ab23f594045b8147df"
+            },
+            "node_id": "REF_kwDOIdx9RrRyZWZzL3RhZ3MvdjAuNy4xLWRldg"
+        }
+    ]
+}

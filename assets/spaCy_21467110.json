@@ -1,0 +1,435 @@
+{
+    "id": 21467110,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMTQ2NzExMA==",
+    "name": "spaCy",
+    "full_name": "explosion/spaCy",
+    "private": false,
+    "owner": {
+        "login": "explosion",
+        "id": 20011530,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMDExNTMw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20011530?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/explosion",
+        "html_url": "https://github.com/explosion",
+        "followers_url": "https://api.github.com/users/explosion/followers",
+        "following_url": "https://api.github.com/users/explosion/following{/other_user}",
+        "gists_url": "https://api.github.com/users/explosion/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/explosion/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/explosion/subscriptions",
+        "organizations_url": "https://api.github.com/users/explosion/orgs",
+        "repos_url": "https://api.github.com/users/explosion/repos",
+        "events_url": "https://api.github.com/users/explosion/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/explosion/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/explosion/spaCy",
+    "description": "\ud83d\udcab Industrial-strength Natural Language Processing (NLP) in Python",
+    "fork": false,
+    "url": "https://api.github.com/repos/explosion/spaCy",
+    "forks_url": "https://api.github.com/repos/explosion/spaCy/forks",
+    "keys_url": "https://api.github.com/repos/explosion/spaCy/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/explosion/spaCy/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/explosion/spaCy/teams",
+    "hooks_url": "https://api.github.com/repos/explosion/spaCy/hooks",
+    "issue_events_url": "https://api.github.com/repos/explosion/spaCy/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/explosion/spaCy/events",
+    "assignees_url": "https://api.github.com/repos/explosion/spaCy/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/explosion/spaCy/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/explosion/spaCy/tags",
+    "blobs_url": "https://api.github.com/repos/explosion/spaCy/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/explosion/spaCy/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/explosion/spaCy/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/explosion/spaCy/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/explosion/spaCy/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/explosion/spaCy/languages",
+    "stargazers_url": "https://api.github.com/repos/explosion/spaCy/stargazers",
+    "contributors_url": "https://api.github.com/repos/explosion/spaCy/contributors",
+    "subscribers_url": "https://api.github.com/repos/explosion/spaCy/subscribers",
+    "subscription_url": "https://api.github.com/repos/explosion/spaCy/subscription",
+    "commits_url": "https://api.github.com/repos/explosion/spaCy/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/explosion/spaCy/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/explosion/spaCy/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/explosion/spaCy/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/explosion/spaCy/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/explosion/spaCy/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/explosion/spaCy/merges",
+    "archive_url": "https://api.github.com/repos/explosion/spaCy/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/explosion/spaCy/downloads",
+    "issues_url": "https://api.github.com/repos/explosion/spaCy/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/explosion/spaCy/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/explosion/spaCy/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/explosion/spaCy/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/explosion/spaCy/labels{/name}",
+    "releases_url": "https://api.github.com/repos/explosion/spaCy/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/explosion/spaCy/deployments",
+    "created_at": "2014-07-03T15:15:40Z",
+    "updated_at": "2025-01-25T16:12:09Z",
+    "pushed_at": "2025-01-13T17:17:48Z",
+    "git_url": "git://github.com/explosion/spaCy.git",
+    "ssh_url": "git@github.com:explosion/spaCy.git",
+    "clone_url": "https://github.com/explosion/spaCy.git",
+    "svn_url": "https://github.com/explosion/spaCy",
+    "homepage": "https://spacy.io",
+    "size": 202858,
+    "stargazers_count": 30728,
+    "watchers_count": 30728,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4434,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 177,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cython",
+        "data-science",
+        "deep-learning",
+        "entity-linking",
+        "machine-learning",
+        "named-entity-recognition",
+        "natural-language-processing",
+        "neural-network",
+        "neural-networks",
+        "nlp",
+        "nlp-library",
+        "python",
+        "spacy",
+        "text-classification",
+        "tokenization"
+    ],
+    "visibility": "public",
+    "forks": 4434,
+    "open_issues": 177,
+    "watchers": 30728,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.0.0.dev10",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev10",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev10",
+            "commit": {
+                "sha": "a559cde4321c01fe40bf708489266ee4edb31b79",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/a559cde4321c01fe40bf708489266ee4edb31b79"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXYxMA=="
+        },
+        {
+            "name": "v4.0.0.dev9",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev9",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev9",
+            "commit": {
+                "sha": "ae6910b09b5c46ee5b3b32394cf05ac60383ae4e",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/ae6910b09b5c46ee5b3b32394cf05ac60383ae4e"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXY5"
+        },
+        {
+            "name": "v4.0.0.dev8",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev8",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev8",
+            "commit": {
+                "sha": "2a37f973653287becebf9a1c54f499d93ec06020",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/2a37f973653287becebf9a1c54f499d93ec06020"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXY4"
+        },
+        {
+            "name": "v4.0.0.dev7",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev7",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev7",
+            "commit": {
+                "sha": "4eec3bfad193d657d25958166a8d84d5565d7da0",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/4eec3bfad193d657d25958166a8d84d5565d7da0"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXY3"
+        },
+        {
+            "name": "v4.0.0.dev6",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev6",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev6",
+            "commit": {
+                "sha": "b9ecb15439d03f4004f8f85938299abd22368b70",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/b9ecb15439d03f4004f8f85938299abd22368b70"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXY2"
+        },
+        {
+            "name": "v4.0.0.dev5",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev5",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev5",
+            "commit": {
+                "sha": "a5ba7e4716f58d1b83da2efbefd062323db74c3e",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/a5ba7e4716f58d1b83da2efbefd062323db74c3e"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXY1"
+        },
+        {
+            "name": "v4.0.0.dev4",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev4",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev4",
+            "commit": {
+                "sha": "304a8539e9208adca8ee916a08db5efaf4083d3d",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/304a8539e9208adca8ee916a08db5efaf4083d3d"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXY0"
+        },
+        {
+            "name": "v4.0.0.dev3",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev3",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev3",
+            "commit": {
+                "sha": "f4c8fdfaad15490be1f1e1a6c3f068a8f4b57105",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/f4c8fdfaad15490be1f1e1a6c3f068a8f4b57105"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXYz"
+        },
+        {
+            "name": "v4.0.0.dev2",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev2",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev2",
+            "commit": {
+                "sha": "ce9ea9629f36812c828524f2f34d4a5cdeecfffe",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/ce9ea9629f36812c828524f2f34d4a5cdeecfffe"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXYy"
+        },
+        {
+            "name": "v4.0.0.dev1",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev1",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev1",
+            "commit": {
+                "sha": "17c4a3d64617565c7aa24eaf118089a00b65ab5f",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/17c4a3d64617565c7aa24eaf118089a00b65ab5f"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXYx"
+        },
+        {
+            "name": "v4.0.0.dev0",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v4.0.0.dev0",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v4.0.0.dev0",
+            "commit": {
+                "sha": "6348a7a4b4af0e5a4df02df9432b251a0888680b",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/6348a7a4b4af0e5a4df02df9432b251a0888680b"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3Y0LjAuMC5kZXYw"
+        },
+        {
+            "name": "v3.7.5",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.5",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.5",
+            "commit": {
+                "sha": "a6d0fc3602b611e4d4a6fcc4f41cbea114ad13f8",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/a6d0fc3602b611e4d4a6fcc4f41cbea114ad13f8"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuNQ=="
+        },
+        {
+            "name": "v3.7.4",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.4",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.4",
+            "commit": {
+                "sha": "bff8725f4b4b93033bdeba6ad306e7ea79f7a402",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/bff8725f4b4b93033bdeba6ad306e7ea79f7a402"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuNA=="
+        },
+        {
+            "name": "v3.7.3",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.3",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.3",
+            "commit": {
+                "sha": "e1249d3722765aaca56f538e830add7014d20e2a",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/e1249d3722765aaca56f538e830add7014d20e2a"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuMw=="
+        },
+        {
+            "name": "v3.7.2",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.2",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.2",
+            "commit": {
+                "sha": "a89eae928340f66c954345c56346475f6597e786",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/a89eae928340f66c954345c56346475f6597e786"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuMg=="
+        },
+        {
+            "name": "v3.7.1",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.1",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.1",
+            "commit": {
+                "sha": "9d036607f1ad60ebf1719526c0ec1f531eb688e9",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/9d036607f1ad60ebf1719526c0ec1f531eb688e9"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuMQ=="
+        },
+        {
+            "name": "v3.7.0",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.0",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.0",
+            "commit": {
+                "sha": "160e61772e3e4fbd4e9e28446c6d687596921f93",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/160e61772e3e4fbd4e9e28446c6d687596921f93"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuMA=="
+        },
+        {
+            "name": "v3.7.0.dev0",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.7.0.dev0",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.7.0.dev0",
+            "commit": {
+                "sha": "d195923164823d8ce207506862b35c60463188ea",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/d195923164823d8ce207506862b35c60463188ea"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjcuMC5kZXYw"
+        },
+        {
+            "name": "v3.6.1",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.6.1",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.6.1",
+            "commit": {
+                "sha": "458bc5f45c5e371bdbef43d58d078436ee496e43",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/458bc5f45c5e371bdbef43d58d078436ee496e43"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjYuMQ=="
+        },
+        {
+            "name": "v3.6.0",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.6.0",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.6.0",
+            "commit": {
+                "sha": "6fc153a266f66944b72071d04fd112daa77ebac0",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/6fc153a266f66944b72071d04fd112daa77ebac0"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjYuMA=="
+        },
+        {
+            "name": "v3.6.0.dev1",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.6.0.dev1",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.6.0.dev1",
+            "commit": {
+                "sha": "0f9d2b01fb096f8e7eb1c1e7fd728d35bf04e5e6",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/0f9d2b01fb096f8e7eb1c1e7fd728d35bf04e5e6"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjYuMC5kZXYx"
+        },
+        {
+            "name": "v3.6.0.dev0",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.6.0.dev0",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.6.0.dev0",
+            "commit": {
+                "sha": "6f314f99c42c3503b89391798a58befbbc23bee4",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/6f314f99c42c3503b89391798a58befbbc23bee4"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjYuMC5kZXYw"
+        },
+        {
+            "name": "v3.5.4",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.5.4",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.5.4",
+            "commit": {
+                "sha": "7a2833bf22c8ff774a87935395badfd1341c8840",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/7a2833bf22c8ff774a87935395badfd1341c8840"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjUuNA=="
+        },
+        {
+            "name": "v3.5.3",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.5.3",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.5.3",
+            "commit": {
+                "sha": "512241e1248bf418a9f5195e1cc51eba66044efa",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/512241e1248bf418a9f5195e1cc51eba66044efa"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjUuMw=="
+        },
+        {
+            "name": "v3.5.2",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.5.2",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.5.2",
+            "commit": {
+                "sha": "aea4a96f92949b6def5d6bb92e2893a65937af45",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/aea4a96f92949b6def5d6bb92e2893a65937af45"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjUuMg=="
+        },
+        {
+            "name": "v3.5.1",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.5.1",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.5.1",
+            "commit": {
+                "sha": "8153bd573f0bd054709d97a9cc2dce31e09789ed",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/8153bd573f0bd054709d97a9cc2dce31e09789ed"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjUuMQ=="
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "dec81508d28b47f09a06203c472b37f00db6c869",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/dec81508d28b47f09a06203c472b37f00db6c869"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjUuMA=="
+        },
+        {
+            "name": "v3.4.4",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.4.4",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.4.4",
+            "commit": {
+                "sha": "77833bfef9d96fc49e98b9ccaf67e5c726aec75d",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/77833bfef9d96fc49e98b9ccaf67e5c726aec75d"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjQuNA=="
+        },
+        {
+            "name": "v3.4.3",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.4.3",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.4.3",
+            "commit": {
+                "sha": "63673a7925c3a077b7b50f85650ed7f147465ca6",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/63673a7925c3a077b7b50f85650ed7f147465ca6"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjQuMw=="
+        },
+        {
+            "name": "v3.4.2",
+            "zipball_url": "https://api.github.com/repos/explosion/spaCy/zipball/refs/tags/v3.4.2",
+            "tarball_url": "https://api.github.com/repos/explosion/spaCy/tarball/refs/tags/v3.4.2",
+            "commit": {
+                "sha": "3d0e895363921d4acb7f89a5b708472681e6fc1b",
+                "url": "https://api.github.com/repos/explosion/spaCy/commits/3d0e895363921d4acb7f89a5b708472681e6fc1b"
+            },
+            "node_id": "MDM6UmVmMjE0NjcxMTA6cmVmcy90YWdzL3YzLjQuMg=="
+        }
+    ]
+}

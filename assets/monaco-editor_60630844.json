@@ -1,0 +1,423 @@
+{
+    "id": 60630844,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2MDYzMDg0NA==",
+    "name": "monaco-editor",
+    "full_name": "microsoft/monaco-editor",
+    "private": false,
+    "owner": {
+        "login": "microsoft",
+        "id": 6154722,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/microsoft",
+        "html_url": "https://github.com/microsoft",
+        "followers_url": "https://api.github.com/users/microsoft/followers",
+        "following_url": "https://api.github.com/users/microsoft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/microsoft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/microsoft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/microsoft/subscriptions",
+        "organizations_url": "https://api.github.com/users/microsoft/orgs",
+        "repos_url": "https://api.github.com/users/microsoft/repos",
+        "events_url": "https://api.github.com/users/microsoft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/microsoft/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/microsoft/monaco-editor",
+    "description": "A browser based code editor",
+    "fork": false,
+    "url": "https://api.github.com/repos/microsoft/monaco-editor",
+    "forks_url": "https://api.github.com/repos/microsoft/monaco-editor/forks",
+    "keys_url": "https://api.github.com/repos/microsoft/monaco-editor/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/microsoft/monaco-editor/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/microsoft/monaco-editor/teams",
+    "hooks_url": "https://api.github.com/repos/microsoft/monaco-editor/hooks",
+    "issue_events_url": "https://api.github.com/repos/microsoft/monaco-editor/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/microsoft/monaco-editor/events",
+    "assignees_url": "https://api.github.com/repos/microsoft/monaco-editor/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/microsoft/monaco-editor/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/microsoft/monaco-editor/tags",
+    "blobs_url": "https://api.github.com/repos/microsoft/monaco-editor/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/microsoft/monaco-editor/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/microsoft/monaco-editor/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/microsoft/monaco-editor/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/microsoft/monaco-editor/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/microsoft/monaco-editor/languages",
+    "stargazers_url": "https://api.github.com/repos/microsoft/monaco-editor/stargazers",
+    "contributors_url": "https://api.github.com/repos/microsoft/monaco-editor/contributors",
+    "subscribers_url": "https://api.github.com/repos/microsoft/monaco-editor/subscribers",
+    "subscription_url": "https://api.github.com/repos/microsoft/monaco-editor/subscription",
+    "commits_url": "https://api.github.com/repos/microsoft/monaco-editor/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/microsoft/monaco-editor/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/microsoft/monaco-editor/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/microsoft/monaco-editor/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/microsoft/monaco-editor/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/microsoft/monaco-editor/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/microsoft/monaco-editor/merges",
+    "archive_url": "https://api.github.com/repos/microsoft/monaco-editor/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/microsoft/monaco-editor/downloads",
+    "issues_url": "https://api.github.com/repos/microsoft/monaco-editor/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/microsoft/monaco-editor/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/microsoft/monaco-editor/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/microsoft/monaco-editor/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/microsoft/monaco-editor/labels{/name}",
+    "releases_url": "https://api.github.com/repos/microsoft/monaco-editor/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/microsoft/monaco-editor/deployments",
+    "created_at": "2016-06-07T16:56:31Z",
+    "updated_at": "2025-01-25T15:38:35Z",
+    "pushed_at": "2025-01-22T09:36:12Z",
+    "git_url": "git://github.com/microsoft/monaco-editor.git",
+    "ssh_url": "git@github.com:microsoft/monaco-editor.git",
+    "clone_url": "https://github.com/microsoft/monaco-editor.git",
+    "svn_url": "https://github.com/microsoft/monaco-editor",
+    "homepage": "https://microsoft.github.io/monaco-editor/",
+    "size": 136055,
+    "stargazers_count": 41223,
+    "watchers_count": 41223,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 3640,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 648,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "browser",
+        "editor",
+        "monaco-editor",
+        "typescript",
+        "vscode"
+    ],
+    "visibility": "public",
+    "forks": 3640,
+    "open_issues": 648,
+    "watchers": 41223,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.52.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.52.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.52.2",
+            "commit": {
+                "sha": "404545bded1df6ffa41ea0af4e8ddb219018c6c1",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/404545bded1df6ffa41ea0af4e8ddb219018c6c1"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUyLjI="
+        },
+        {
+            "name": "v0.52.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.52.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.52.0",
+            "commit": {
+                "sha": "f6dc0eb8fce67e57f6036f4769d92c1666cdf546",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6dc0eb8fce67e57f6036f4769d92c1666cdf546"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUyLjA="
+        },
+        {
+            "name": "v0.52.0-rc2",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.52.0-rc2",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.52.0-rc2",
+            "commit": {
+                "sha": "3c7eb57085d23d24c3b5527c45324440ea55c865",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/3c7eb57085d23d24c3b5527c45324440ea55c865"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUyLjAtcmMy"
+        },
+        {
+            "name": "v0.51.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0",
+            "commit": {
+                "sha": "67d664a32968e19e2eb08b696a92463804182ae4",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/67d664a32968e19e2eb08b696a92463804182ae4"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjA="
+        },
+        {
+            "name": "v0.51.0-rc3",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-rc3",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-rc3",
+            "commit": {
+                "sha": "2713684d6c5bcacfacf33a48ee8cd282b3e09b0c",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/2713684d6c5bcacfacf33a48ee8cd282b3e09b0c"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtcmMz"
+        },
+        {
+            "name": "v0.51.0-rc2",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-rc2",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-rc2",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtcmMy"
+        },
+        {
+            "name": "v0.51.0-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-rc",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtcmM="
+        },
+        {
+            "name": "v0.51.0-dev-20240807",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240807",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240807",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODA3"
+        },
+        {
+            "name": "v0.51.0-dev-20240806",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240806",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240806",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODA2"
+        },
+        {
+            "name": "v0.51.0-dev-20240805",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240805",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240805",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODA1"
+        },
+        {
+            "name": "v0.51.0-dev-20240804",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240804",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240804",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODA0"
+        },
+        {
+            "name": "v0.51.0-dev-20240803",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240803",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240803",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODAz"
+        },
+        {
+            "name": "v0.51.0-dev-20240802",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240802",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240802",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODAy"
+        },
+        {
+            "name": "v0.51.0-dev-20240801",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240801",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240801",
+            "commit": {
+                "sha": "f6187471cac67802a414c5e0c9f81290b82371f2",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/f6187471cac67802a414c5e0c9f81290b82371f2"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwODAx"
+        },
+        {
+            "name": "v0.51.0-dev-20240731",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240731",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240731",
+            "commit": {
+                "sha": "93a0a2df32926aa86f7e11bc71a43afaea581a09",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/93a0a2df32926aa86f7e11bc71a43afaea581a09"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNzMx"
+        },
+        {
+            "name": "v0.51.0-dev-20240730",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240730",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240730",
+            "commit": {
+                "sha": "93a0a2df32926aa86f7e11bc71a43afaea581a09",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/93a0a2df32926aa86f7e11bc71a43afaea581a09"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNzMw"
+        },
+        {
+            "name": "v0.51.0-dev-20240729",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240729",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240729",
+            "commit": {
+                "sha": "93a0a2df32926aa86f7e11bc71a43afaea581a09",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/93a0a2df32926aa86f7e11bc71a43afaea581a09"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNzI5"
+        },
+        {
+            "name": "v0.51.0-dev-20240728",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240728",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240728",
+            "commit": {
+                "sha": "93a0a2df32926aa86f7e11bc71a43afaea581a09",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/93a0a2df32926aa86f7e11bc71a43afaea581a09"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNzI4"
+        },
+        {
+            "name": "v0.51.0-dev-20240727",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240727",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240727",
+            "commit": {
+                "sha": "93a0a2df32926aa86f7e11bc71a43afaea581a09",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/93a0a2df32926aa86f7e11bc71a43afaea581a09"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNzI3"
+        },
+        {
+            "name": "v0.51.0-dev-20240726-2",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240726-2",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240726-2",
+            "commit": {
+                "sha": "93a0a2df32926aa86f7e11bc71a43afaea581a09",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/93a0a2df32926aa86f7e11bc71a43afaea581a09"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNzI2LTI="
+        },
+        {
+            "name": "v0.51.0-dev-20240628",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240628",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240628",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjI4"
+        },
+        {
+            "name": "v0.51.0-dev-20240627",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240627",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240627",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjI3"
+        },
+        {
+            "name": "v0.51.0-dev-20240626",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240626",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240626",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjI2"
+        },
+        {
+            "name": "v0.51.0-dev-20240625",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240625",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240625",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjI1"
+        },
+        {
+            "name": "v0.51.0-dev-20240624",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240624",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240624",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjI0"
+        },
+        {
+            "name": "v0.51.0-dev-20240623",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240623",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240623",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjIz"
+        },
+        {
+            "name": "v0.51.0-dev-20240622",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240622",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240622",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjIy"
+        },
+        {
+            "name": "v0.51.0-dev-20240621",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.51.0-dev-20240621",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.51.0-dev-20240621",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUxLjAtZGV2LTIwMjQwNjIx"
+        },
+        {
+            "name": "v0.50.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.50.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.50.0",
+            "commit": {
+                "sha": "c321d0fbecb50ab8a5365fa1965476b0ae63fc87",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/c321d0fbecb50ab8a5365fa1965476b0ae63fc87"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUwLjA="
+        },
+        {
+            "name": "v0.50.0-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/monaco-editor/zipball/refs/tags/v0.50.0-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/monaco-editor/tarball/refs/tags/v0.50.0-rc",
+            "commit": {
+                "sha": "ada2b3d6ae3e56d93f718e47f61f15f023734a14",
+                "url": "https://api.github.com/repos/microsoft/monaco-editor/commits/ada2b3d6ae3e56d93f718e47f61f15f023734a14"
+            },
+            "node_id": "MDM6UmVmNjA2MzA4NDQ6cmVmcy90YWdzL3YwLjUwLjAtcmM="
+        }
+    ]
+}

@@ -1,0 +1,427 @@
+{
+    "id": 40484398,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0MDQ4NDM5OA==",
+    "name": "discord.js",
+    "full_name": "discordjs/discord.js",
+    "private": false,
+    "owner": {
+        "login": "discordjs",
+        "id": 26492485,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2NDkyNDg1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26492485?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/discordjs",
+        "html_url": "https://github.com/discordjs",
+        "followers_url": "https://api.github.com/users/discordjs/followers",
+        "following_url": "https://api.github.com/users/discordjs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/discordjs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/discordjs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/discordjs/subscriptions",
+        "organizations_url": "https://api.github.com/users/discordjs/orgs",
+        "repos_url": "https://api.github.com/users/discordjs/repos",
+        "events_url": "https://api.github.com/users/discordjs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/discordjs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "fork": false,
+    "url": "https://api.github.com/repos/discordjs/discord.js",
+    "forks_url": "https://api.github.com/repos/discordjs/discord.js/forks",
+    "keys_url": "https://api.github.com/repos/discordjs/discord.js/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/discordjs/discord.js/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/discordjs/discord.js/teams",
+    "hooks_url": "https://api.github.com/repos/discordjs/discord.js/hooks",
+    "issue_events_url": "https://api.github.com/repos/discordjs/discord.js/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/discordjs/discord.js/events",
+    "assignees_url": "https://api.github.com/repos/discordjs/discord.js/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/discordjs/discord.js/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/discordjs/discord.js/tags",
+    "blobs_url": "https://api.github.com/repos/discordjs/discord.js/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/discordjs/discord.js/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/discordjs/discord.js/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/discordjs/discord.js/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/discordjs/discord.js/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/discordjs/discord.js/languages",
+    "stargazers_url": "https://api.github.com/repos/discordjs/discord.js/stargazers",
+    "contributors_url": "https://api.github.com/repos/discordjs/discord.js/contributors",
+    "subscribers_url": "https://api.github.com/repos/discordjs/discord.js/subscribers",
+    "subscription_url": "https://api.github.com/repos/discordjs/discord.js/subscription",
+    "commits_url": "https://api.github.com/repos/discordjs/discord.js/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/discordjs/discord.js/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/discordjs/discord.js/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/discordjs/discord.js/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/discordjs/discord.js/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/discordjs/discord.js/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/discordjs/discord.js/merges",
+    "archive_url": "https://api.github.com/repos/discordjs/discord.js/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/discordjs/discord.js/downloads",
+    "issues_url": "https://api.github.com/repos/discordjs/discord.js/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/discordjs/discord.js/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/discordjs/discord.js/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/discordjs/discord.js/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/discordjs/discord.js/labels{/name}",
+    "releases_url": "https://api.github.com/repos/discordjs/discord.js/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/discordjs/discord.js/deployments",
+    "created_at": "2015-08-10T13:36:26Z",
+    "updated_at": "2025-01-25T15:46:19Z",
+    "pushed_at": "2025-01-25T12:13:23Z",
+    "git_url": "git://github.com/discordjs/discord.js.git",
+    "ssh_url": "git@github.com:discordjs/discord.js.git",
+    "clone_url": "https://github.com/discordjs/discord.js.git",
+    "svn_url": "https://github.com/discordjs/discord.js",
+    "homepage": "https://discord.js.org",
+    "size": 51148,
+    "stargazers_count": 25613,
+    "watchers_count": 25613,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 3984,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 114,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bot",
+        "discord",
+        "discord-api",
+        "discord-bot",
+        "discord-server",
+        "discordjs",
+        "hacktoberfest",
+        "nodejs",
+        "voice-support"
+    ],
+    "visibility": "public",
+    "forks": 3984,
+    "open_issues": 114,
+    "watchers": 25613,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.3.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/v5.3.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/v5.3.1",
+            "commit": {
+                "sha": "b927b223bbe13de18733c514e4460d7b04d183cf",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/b927b223bbe13de18733c514e4460d7b04d183cf"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL3Y1LjMuMQ=="
+        },
+        {
+            "name": "v5.3.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/v5.3.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/v5.3.0",
+            "commit": {
+                "sha": "f9f7a568fcfe96e818d1620273686dfe6c21a476",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/f9f7a568fcfe96e818d1620273686dfe6c21a476"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL3Y1LjMuMA=="
+        },
+        {
+            "name": "v5.1.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/v5.1.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/v5.1.0",
+            "commit": {
+                "sha": "4f2e2a115c2be755779b12811d6cbf1d6fcee91d",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/4f2e2a115c2be755779b12811d6cbf1d6fcee91d"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL3Y1LjEuMA=="
+        },
+        {
+            "name": "v5.0.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/v5.0.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/v5.0.1",
+            "commit": {
+                "sha": "c9662b2315616dd2cab601cff3b656d429638708",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/c9662b2315616dd2cab601cff3b656d429638708"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL3Y1LjAuMQ=="
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "5496cfc7ebe4fab26e3259bbfb3350937c8f8332",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/5496cfc7ebe4fab26e3259bbfb3350937c8f8332"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL3Y1LjAuMA=="
+        },
+        {
+            "name": "@discordjs/ws@2.0.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@2.0.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@2.0.1",
+            "commit": {
+                "sha": "2b9e4cf9d0feb1ea706defe574ee71fabf11bf57",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/2b9e4cf9d0feb1ea706defe574ee71fabf11bf57"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMi4wLjE="
+        },
+        {
+            "name": "@discordjs/ws@2.0.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@2.0.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@2.0.0",
+            "commit": {
+                "sha": "18ce10a9afeadd4cbd0cd4f42cf42a54ec0c1690",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/18ce10a9afeadd4cbd0cd4f42cf42a54ec0c1690"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMi4wLjA="
+        },
+        {
+            "name": "@discordjs/ws@1.2.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@1.2.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@1.2.0",
+            "commit": {
+                "sha": "f65ff060ae355efddcc6ec0d921039ace02d40c9",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/f65ff060ae355efddcc6ec0d921039ace02d40c9"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMS4yLjA="
+        },
+        {
+            "name": "@discordjs/ws@1.1.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@1.1.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@1.1.1",
+            "commit": {
+                "sha": "311aaf26058c7a95f6d973686e49818c9ecb0fb1",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/311aaf26058c7a95f6d973686e49818c9ecb0fb1"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMS4xLjE="
+        },
+        {
+            "name": "@discordjs/ws@1.1.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@1.1.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@1.1.0",
+            "commit": {
+                "sha": "d92695cdd624bb399836eb7263a7fa61ff6b7e07",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/d92695cdd624bb399836eb7263a7fa61ff6b7e07"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMS4xLjA="
+        },
+        {
+            "name": "@discordjs/ws@1.0.2",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@1.0.2",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@1.0.2",
+            "commit": {
+                "sha": "418032ae1fd389c588420dfedc50f5c1844fa9ee",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/418032ae1fd389c588420dfedc50f5c1844fa9ee"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMS4wLjI="
+        },
+        {
+            "name": "@discordjs/ws@1.0.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@1.0.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@1.0.1",
+            "commit": {
+                "sha": "4ab05e994edccd5918fbc8797dd47038d09ada12",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/4ab05e994edccd5918fbc8797dd47038d09ada12"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMS4wLjE="
+        },
+        {
+            "name": "@discordjs/ws@1.0.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@1.0.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@1.0.0",
+            "commit": {
+                "sha": "ccf65c2d09a7ec9733d3d0a3744e3e8abce5518e",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/ccf65c2d09a7ec9733d3d0a3744e3e8abce5518e"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMS4wLjA="
+        },
+        {
+            "name": "@discordjs/ws@0.8.3",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.8.3",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.8.3",
+            "commit": {
+                "sha": "28f51791a2b4ee8c5f89acbb07b37582897563da",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/28f51791a2b4ee8c5f89acbb07b37582897563da"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC44LjM="
+        },
+        {
+            "name": "@discordjs/ws@0.8.2",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.8.2",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.8.2",
+            "commit": {
+                "sha": "3665ad65d0bd25c067fcbbc90ad12acf01896a75",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/3665ad65d0bd25c067fcbbc90ad12acf01896a75"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC44LjI="
+        },
+        {
+            "name": "@discordjs/ws@0.8.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.8.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.8.1",
+            "commit": {
+                "sha": "7aa5ea731f367fc442014c4860d9c2b4176424d4",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/7aa5ea731f367fc442014c4860d9c2b4176424d4"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC44LjE="
+        },
+        {
+            "name": "@discordjs/ws@0.8.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.8.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.8.0",
+            "commit": {
+                "sha": "38f09860004c84128034ae64a2179da7234bbd12",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/38f09860004c84128034ae64a2179da7234bbd12"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC44LjA="
+        },
+        {
+            "name": "@discordjs/ws@0.7.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.7.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.7.0",
+            "commit": {
+                "sha": "41077c96b5dfc034f73b6925d75350d0a0cab8f0",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/41077c96b5dfc034f73b6925d75350d0a0cab8f0"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC43LjA="
+        },
+        {
+            "name": "@discordjs/ws@0.6.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.6.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.6.0",
+            "commit": {
+                "sha": "82f4827ee517143965af2643466ef82dc2a161bd",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/82f4827ee517143965af2643466ef82dc2a161bd"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC42LjA="
+        },
+        {
+            "name": "@discordjs/ws@0.5.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.5.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.5.0",
+            "commit": {
+                "sha": "0fe503b5169fe9d8fc7ed40a9116371297ff4164",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/0fe503b5169fe9d8fc7ed40a9116371297ff4164"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC41LjA="
+        },
+        {
+            "name": "@discordjs/ws@0.4.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.4.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.4.1",
+            "commit": {
+                "sha": "a4bf975f4939f0a3e8e9c07be3a3830cec4b6c6f",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/a4bf975f4939f0a3e8e9c07be3a3830cec4b6c6f"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC40LjE="
+        },
+        {
+            "name": "@discordjs/ws@0.4.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.4.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.4.0",
+            "commit": {
+                "sha": "c0ea782dd480076f41eabcc4131bdd231647c1df",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/c0ea782dd480076f41eabcc4131bdd231647c1df"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC40LjA="
+        },
+        {
+            "name": "@discordjs/ws@0.3.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.3.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.3.0",
+            "commit": {
+                "sha": "d2f5b5b539e649210d901bf1da401ef420820ebd",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/d2f5b5b539e649210d901bf1da401ef420820ebd"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC4zLjA="
+        },
+        {
+            "name": "@discordjs/ws@0.2.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.2.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.2.0",
+            "commit": {
+                "sha": "b45b99f92b6db6c7ee05f0a4895e530c2a000002",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/b45b99f92b6db6c7ee05f0a4895e530c2a000002"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC4yLjA="
+        },
+        {
+            "name": "@discordjs/ws@0.1.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/ws@0.1.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/ws@0.1.0",
+            "commit": {
+                "sha": "444d7c98ddbd1259df5ad84ec67c00605d911315",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/444d7c98ddbd1259df5ad84ec67c00605d911315"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvd3NAMC4xLjA="
+        },
+        {
+            "name": "@discordjs/voice@0.18.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/voice@0.18.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/voice@0.18.0",
+            "commit": {
+                "sha": "28d5c84ddc4c9fd86bcac8724424065bd3f22359",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/28d5c84ddc4c9fd86bcac8724424065bd3f22359"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvdm9pY2VAMC4xOC4w"
+        },
+        {
+            "name": "@discordjs/voice@0.17.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/voice@0.17.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/voice@0.17.0",
+            "commit": {
+                "sha": "d92695cdd624bb399836eb7263a7fa61ff6b7e07",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/d92695cdd624bb399836eb7263a7fa61ff6b7e07"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvdm9pY2VAMC4xNy4w"
+        },
+        {
+            "name": "@discordjs/voice@0.16.1",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/voice@0.16.1",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/voice@0.16.1",
+            "commit": {
+                "sha": "418032ae1fd389c588420dfedc50f5c1844fa9ee",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/418032ae1fd389c588420dfedc50f5c1844fa9ee"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvdm9pY2VAMC4xNi4x"
+        },
+        {
+            "name": "@discordjs/voice@0.16.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/voice@0.16.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/voice@0.16.0",
+            "commit": {
+                "sha": "9e077b749ca62f619a4aa4cf395eadeaea7dbd4c",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/9e077b749ca62f619a4aa4cf395eadeaea7dbd4c"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvdm9pY2VAMC4xNi4w"
+        },
+        {
+            "name": "@discordjs/voice@0.15.0",
+            "zipball_url": "https://api.github.com/repos/discordjs/discord.js/zipball/refs/tags/@discordjs/voice@0.15.0",
+            "tarball_url": "https://api.github.com/repos/discordjs/discord.js/tarball/refs/tags/@discordjs/voice@0.15.0",
+            "commit": {
+                "sha": "646b6ead7e139141eefac6fc4e5b2ebbe6a81f7d",
+                "url": "https://api.github.com/repos/discordjs/discord.js/commits/646b6ead7e139141eefac6fc4e5b2ebbe6a81f7d"
+            },
+            "node_id": "MDM6UmVmNDA0ODQzOTg6cmVmcy90YWdzL0BkaXNjb3JkanMvdm9pY2VAMC4xNS4w"
+        }
+    ]
+}

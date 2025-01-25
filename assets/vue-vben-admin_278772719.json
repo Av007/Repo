@@ -1,0 +1,432 @@
+{
+    "id": 278772719,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNzg3NzI3MTk=",
+    "name": "vue-vben-admin",
+    "full_name": "vbenjs/vue-vben-admin",
+    "private": false,
+    "owner": {
+        "login": "vbenjs",
+        "id": 76995045,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2OTk1MDQ1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76995045?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vbenjs",
+        "html_url": "https://github.com/vbenjs",
+        "followers_url": "https://api.github.com/users/vbenjs/followers",
+        "following_url": "https://api.github.com/users/vbenjs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vbenjs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vbenjs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vbenjs/subscriptions",
+        "organizations_url": "https://api.github.com/users/vbenjs/orgs",
+        "repos_url": "https://api.github.com/users/vbenjs/repos",
+        "events_url": "https://api.github.com/users/vbenjs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vbenjs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/vbenjs/vue-vben-admin",
+    "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+    "fork": false,
+    "url": "https://api.github.com/repos/vbenjs/vue-vben-admin",
+    "forks_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/forks",
+    "keys_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/teams",
+    "hooks_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/hooks",
+    "issue_events_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/events",
+    "assignees_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tags",
+    "blobs_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/languages",
+    "stargazers_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/stargazers",
+    "contributors_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/contributors",
+    "subscribers_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/subscribers",
+    "subscription_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/subscription",
+    "commits_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/merges",
+    "archive_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/downloads",
+    "issues_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/labels{/name}",
+    "releases_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/deployments",
+    "created_at": "2020-07-11T02:29:21Z",
+    "updated_at": "2025-01-25T11:32:12Z",
+    "pushed_at": "2025-01-21T20:02:54Z",
+    "git_url": "git://github.com/vbenjs/vue-vben-admin.git",
+    "ssh_url": "git@github.com:vbenjs/vue-vben-admin.git",
+    "clone_url": "https://github.com/vbenjs/vue-vben-admin.git",
+    "svn_url": "https://github.com/vbenjs/vue-vben-admin",
+    "homepage": "https://www.vben.pro",
+    "size": 38100,
+    "stargazers_count": 26493,
+    "watchers_count": 26493,
+    "language": "Vue",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 7210,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 70,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "admin-template",
+        "ant-design",
+        "element-plus",
+        "monorepo",
+        "naive-ui",
+        "shadcn-ui",
+        "tsx",
+        "typescript",
+        "vben",
+        "vite",
+        "vite-template",
+        "vue-router",
+        "vue3",
+        "vuex"
+    ],
+    "visibility": "public",
+    "forks": 7210,
+    "open_issues": 70,
+    "watchers": 26493,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.5.3",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.5.3",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.5.3",
+            "commit": {
+                "sha": "195ceec9b4d4d4dc889651eba5c74f655f090c0c",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/195ceec9b4d4d4dc889651eba5c74f655f090c0c"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS41LjM="
+        },
+        {
+            "name": "v5.5.2",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.5.2",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.5.2",
+            "commit": {
+                "sha": "07c4ad05f40507d7d797619814bf75a47c29a9f4",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/07c4ad05f40507d7d797619814bf75a47c29a9f4"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS41LjI="
+        },
+        {
+            "name": "v5.5.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.5.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.5.1",
+            "commit": {
+                "sha": "cbca9ffd953921e846e2a033410a435e3d9f15a9",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/cbca9ffd953921e846e2a033410a435e3d9f15a9"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS41LjE="
+        },
+        {
+            "name": "v5.5.0",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.5.0",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.5.0",
+            "commit": {
+                "sha": "7ab00250bff6f55f00cc02b85d9362eb2843c54c",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/7ab00250bff6f55f00cc02b85d9362eb2843c54c"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS41LjA="
+        },
+        {
+            "name": "v5.4.8",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.8",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.8",
+            "commit": {
+                "sha": "c8dd9bbf0bbde359febf4cec34c00ea783809f42",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/c8dd9bbf0bbde359febf4cec34c00ea783809f42"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40Ljg="
+        },
+        {
+            "name": "v5.4.7",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.7",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.7",
+            "commit": {
+                "sha": "788a29a8cb199dae4483a363264d9c1397031411",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/788a29a8cb199dae4483a363264d9c1397031411"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40Ljc="
+        },
+        {
+            "name": "v5.4.6",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.6",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.6",
+            "commit": {
+                "sha": "94efcec7da1cb249e6bda7ab6766ee65ec2ec77c",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/94efcec7da1cb249e6bda7ab6766ee65ec2ec77c"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjY="
+        },
+        {
+            "name": "v5.4.5",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.5",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.5",
+            "commit": {
+                "sha": "57d5a919d24da883744a0e358ed7c19197551ca6",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/57d5a919d24da883744a0e358ed7c19197551ca6"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjU="
+        },
+        {
+            "name": "v5.4.4",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.4",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.4",
+            "commit": {
+                "sha": "44440d0951d422345321efbf10a0be3aed8b3676",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/44440d0951d422345321efbf10a0be3aed8b3676"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjQ="
+        },
+        {
+            "name": "v5.4.3",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.3",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.3",
+            "commit": {
+                "sha": "ad3963ff7086c062a8b0c037c43a0d52644f3aac",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/ad3963ff7086c062a8b0c037c43a0d52644f3aac"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjM="
+        },
+        {
+            "name": "v5.4.2",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.2",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.2",
+            "commit": {
+                "sha": "bfaa2780ab74687b4312577812211bc2bb227e58",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/bfaa2780ab74687b4312577812211bc2bb227e58"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjI="
+        },
+        {
+            "name": "v5.4.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.1",
+            "commit": {
+                "sha": "d1ca09c7bb39dc703859a7d4fb18426862026261",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/d1ca09c7bb39dc703859a7d4fb18426862026261"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjE="
+        },
+        {
+            "name": "v5.4.0",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.0",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.0",
+            "commit": {
+                "sha": "9856bc88d2baccf32d0a278bbbf6e5eeef28cd76",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/9856bc88d2baccf32d0a278bbbf6e5eeef28cd76"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjA="
+        },
+        {
+            "name": "v5.4.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.4.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.4.0-beta.1",
+            "commit": {
+                "sha": "68465b5fbf723a354551c119b3ecf16f5fe02b3b",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/68465b5fbf723a354551c119b3ecf16f5fe02b3b"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS40LjAtYmV0YS4x"
+        },
+        {
+            "name": "v5.3.2",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.3.2",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.3.2",
+            "commit": {
+                "sha": "46540a73299670e860df1b6fadd88790bc55d8ca",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/46540a73299670e860df1b6fadd88790bc55d8ca"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4zLjI="
+        },
+        {
+            "name": "v5.3.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.3.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.3.1",
+            "commit": {
+                "sha": "01391ee5a138176c9afce89641533d4411bc17b2",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/01391ee5a138176c9afce89641533d4411bc17b2"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4zLjE="
+        },
+        {
+            "name": "v5.3.0",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.3.0",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.3.0",
+            "commit": {
+                "sha": "31f6cc64164464f00a8ebfb3d83582a83d867f47",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/31f6cc64164464f00a8ebfb3d83582a83d867f47"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4zLjA="
+        },
+        {
+            "name": "v5.3.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.3.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.3.0-beta.2",
+            "commit": {
+                "sha": "3697f6bc5ac041f4e53acf0d79aeefbd2db5b359",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/3697f6bc5ac041f4e53acf0d79aeefbd2db5b359"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4zLjAtYmV0YS4y"
+        },
+        {
+            "name": "v5.3.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.3.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.3.0-beta.1",
+            "commit": {
+                "sha": "f3e7438a496ce1186fe12d2610121bcc3b55041f",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/f3e7438a496ce1186fe12d2610121bcc3b55041f"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4zLjAtYmV0YS4x"
+        },
+        {
+            "name": "v5.2.3",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.2.3",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.2.3",
+            "commit": {
+                "sha": "3697f6bc5ac041f4e53acf0d79aeefbd2db5b359",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/3697f6bc5ac041f4e53acf0d79aeefbd2db5b359"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4yLjM="
+        },
+        {
+            "name": "v5.2.2",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.2.2",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.2.2",
+            "commit": {
+                "sha": "41612f7723ae46e58e1fc14a46255d4b763e06da",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/41612f7723ae46e58e1fc14a46255d4b763e06da"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4yLjI="
+        },
+        {
+            "name": "v5.2.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.2.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.2.1",
+            "commit": {
+                "sha": "1063b2268eeda4d02aeb4a52e1785d1e5f2202e7",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/1063b2268eeda4d02aeb4a52e1785d1e5f2202e7"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4yLjE="
+        },
+        {
+            "name": "v5.2.0",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.2.0",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.2.0",
+            "commit": {
+                "sha": "05a52b054046a554b30df7445ca85b5f827a9423",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/05a52b054046a554b30df7445ca85b5f827a9423"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4yLjA="
+        },
+        {
+            "name": "v5.1.2",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.1.2",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.1.2",
+            "commit": {
+                "sha": "edb55b1fc09bad76d1c10918248fdb6836f30ddb",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/edb55b1fc09bad76d1c10918248fdb6836f30ddb"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4xLjI="
+        },
+        {
+            "name": "v5.1.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.1.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.1.1",
+            "commit": {
+                "sha": "e7a4ab70d5994f7ae8a6be25c571b8ab5f2c7ffe",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/e7a4ab70d5994f7ae8a6be25c571b8ab5f2c7ffe"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4xLjE="
+        },
+        {
+            "name": "v5.1.0",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.1.0",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.1.0",
+            "commit": {
+                "sha": "e2d9d08ced7d8812e4cee88c3c2a0edc6623e733",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/e2d9d08ced7d8812e4cee88c3c2a0edc6623e733"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4xLjA="
+        },
+        {
+            "name": "v5.0.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.0.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.0.1",
+            "commit": {
+                "sha": "3f04f6b01fc950c6822b028ebc06a8a7d0143677",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/3f04f6b01fc950c6822b028ebc06a8a7d0143677"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4wLjE="
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "ccaa32125ada6f0d1cf49751e85003f5b6e1b9ea",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/ccaa32125ada6f0d1cf49751e85003f5b6e1b9ea"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92NS4wLjA="
+        },
+        {
+            "name": "v3.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v3.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v3.0.0-alpha.1",
+            "commit": {
+                "sha": "6ec0a01de73ec6930e7604dd386e494092de1f76",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/6ec0a01de73ec6930e7604dd386e494092de1f76"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92My4wLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v2.11.6",
+            "zipball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/zipball/refs/tags/v2.11.6",
+            "tarball_url": "https://api.github.com/repos/vbenjs/vue-vben-admin/tarball/refs/tags/v2.11.6",
+            "commit": {
+                "sha": "ee368d20a4e5d5a0d8784d8657700013b7e3cf1f",
+                "url": "https://api.github.com/repos/vbenjs/vue-vben-admin/commits/ee368d20a4e5d5a0d8784d8657700013b7e3cf1f"
+            },
+            "node_id": "MDM6UmVmMjc4NzcyNzE5OnJlZnMvdGFncy92Mi4xMS42"
+        }
+    ]
+}

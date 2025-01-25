@@ -1,0 +1,426 @@
+{
+    "id": 97249406,
+    "node_id": "MDEwOlJlcG9zaXRvcnk5NzI0OTQwNg==",
+    "name": "wtfjs",
+    "full_name": "denysdovhan/wtfjs",
+    "private": false,
+    "owner": {
+        "login": "denysdovhan",
+        "id": 3459374,
+        "node_id": "MDQ6VXNlcjM0NTkzNzQ=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3459374?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/denysdovhan",
+        "html_url": "https://github.com/denysdovhan",
+        "followers_url": "https://api.github.com/users/denysdovhan/followers",
+        "following_url": "https://api.github.com/users/denysdovhan/following{/other_user}",
+        "gists_url": "https://api.github.com/users/denysdovhan/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/denysdovhan/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/denysdovhan/subscriptions",
+        "organizations_url": "https://api.github.com/users/denysdovhan/orgs",
+        "repos_url": "https://api.github.com/users/denysdovhan/repos",
+        "events_url": "https://api.github.com/users/denysdovhan/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/denysdovhan/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/denysdovhan/wtfjs",
+    "description": "\ud83e\udd2a A list of funny and tricky JavaScript examples",
+    "fork": false,
+    "url": "https://api.github.com/repos/denysdovhan/wtfjs",
+    "forks_url": "https://api.github.com/repos/denysdovhan/wtfjs/forks",
+    "keys_url": "https://api.github.com/repos/denysdovhan/wtfjs/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/denysdovhan/wtfjs/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/denysdovhan/wtfjs/teams",
+    "hooks_url": "https://api.github.com/repos/denysdovhan/wtfjs/hooks",
+    "issue_events_url": "https://api.github.com/repos/denysdovhan/wtfjs/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/denysdovhan/wtfjs/events",
+    "assignees_url": "https://api.github.com/repos/denysdovhan/wtfjs/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/denysdovhan/wtfjs/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/denysdovhan/wtfjs/tags",
+    "blobs_url": "https://api.github.com/repos/denysdovhan/wtfjs/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/denysdovhan/wtfjs/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/denysdovhan/wtfjs/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/denysdovhan/wtfjs/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/denysdovhan/wtfjs/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/denysdovhan/wtfjs/languages",
+    "stargazers_url": "https://api.github.com/repos/denysdovhan/wtfjs/stargazers",
+    "contributors_url": "https://api.github.com/repos/denysdovhan/wtfjs/contributors",
+    "subscribers_url": "https://api.github.com/repos/denysdovhan/wtfjs/subscribers",
+    "subscription_url": "https://api.github.com/repos/denysdovhan/wtfjs/subscription",
+    "commits_url": "https://api.github.com/repos/denysdovhan/wtfjs/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/denysdovhan/wtfjs/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/denysdovhan/wtfjs/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/denysdovhan/wtfjs/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/denysdovhan/wtfjs/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/denysdovhan/wtfjs/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/denysdovhan/wtfjs/merges",
+    "archive_url": "https://api.github.com/repos/denysdovhan/wtfjs/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/denysdovhan/wtfjs/downloads",
+    "issues_url": "https://api.github.com/repos/denysdovhan/wtfjs/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/denysdovhan/wtfjs/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/denysdovhan/wtfjs/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/denysdovhan/wtfjs/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/denysdovhan/wtfjs/labels{/name}",
+    "releases_url": "https://api.github.com/repos/denysdovhan/wtfjs/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/denysdovhan/wtfjs/deployments",
+    "created_at": "2017-07-14T15:42:12Z",
+    "updated_at": "2025-01-25T13:45:55Z",
+    "pushed_at": "2023-11-30T19:14:21Z",
+    "git_url": "git://github.com/denysdovhan/wtfjs.git",
+    "ssh_url": "git@github.com:denysdovhan/wtfjs.git",
+    "clone_url": "https://github.com/denysdovhan/wtfjs.git",
+    "svn_url": "https://github.com/denysdovhan/wtfjs",
+    "homepage": "http://bit.ly/wtfjavascript",
+    "size": 1549,
+    "stargazers_count": 35867,
+    "watchers_count": 35867,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2580,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 42,
+    "license": {
+        "key": "wtfpl",
+        "name": "Do What The F*ck You Want To Public License",
+        "spdx_id": "WTFPL",
+        "url": "https://api.github.com/licenses/wtfpl",
+        "node_id": "MDc6TGljZW5zZTE4"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "book",
+        "handbook",
+        "javascript",
+        "js",
+        "learning",
+        "notes",
+        "specification",
+        "wtf"
+    ],
+    "visibility": "public",
+    "forks": 2580,
+    "open_issues": 42,
+    "watchers": 35867,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.22.8",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.8",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.8",
+            "commit": {
+                "sha": "001378ab84ed62dce1c0f2ffdffdf9f4998fba5f",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/001378ab84ed62dce1c0f2ffdffdf9f4998fba5f"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjg="
+        },
+        {
+            "name": "v1.22.7",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.7",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.7",
+            "commit": {
+                "sha": "d4a5b8054b8650910e1ce632c721d4bc9161d4cb",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/d4a5b8054b8650910e1ce632c721d4bc9161d4cb"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjc="
+        },
+        {
+            "name": "v1.22.6",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.6",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.6",
+            "commit": {
+                "sha": "4206e7231b04a8015ab08617c268c7eb144acc5f",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/4206e7231b04a8015ab08617c268c7eb144acc5f"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjY="
+        },
+        {
+            "name": "v1.22.5",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.5",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.5",
+            "commit": {
+                "sha": "34357b4230b73d64be03203280ad76798c58361f",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/34357b4230b73d64be03203280ad76798c58361f"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjU="
+        },
+        {
+            "name": "v1.22.4",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.4",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.4",
+            "commit": {
+                "sha": "87d78b129ab5f7a3517401ae0d957ea10daee631",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/87d78b129ab5f7a3517401ae0d957ea10daee631"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjQ="
+        },
+        {
+            "name": "v1.22.3",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.3",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.3",
+            "commit": {
+                "sha": "4808fd25b94f91145083edd781050e98d6b3ae16",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/4808fd25b94f91145083edd781050e98d6b3ae16"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjM="
+        },
+        {
+            "name": "v1.22.2",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.2",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.2",
+            "commit": {
+                "sha": "e31310f5204e278b4024d20ae95d3045174a5a58",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/e31310f5204e278b4024d20ae95d3045174a5a58"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjI="
+        },
+        {
+            "name": "v1.22.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.1",
+            "commit": {
+                "sha": "7f5d1b4cba4cf072489107ca4798f9653bb348bd",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/7f5d1b4cba4cf072489107ca4798f9653bb348bd"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjE="
+        },
+        {
+            "name": "v1.22.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.22.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.22.0",
+            "commit": {
+                "sha": "bc6560b70440a9c0673e894cb0c562fddc54c695",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/bc6560b70440a9c0673e894cb0c562fddc54c695"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIyLjA="
+        },
+        {
+            "name": "v1.21.2",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.21.2",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.21.2",
+            "commit": {
+                "sha": "0778f2a102feb573e9b841f344e7bfcc8e6286c5",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/0778f2a102feb573e9b841f344e7bfcc8e6286c5"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIxLjI="
+        },
+        {
+            "name": "v1.21.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.21.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.21.1",
+            "commit": {
+                "sha": "b0f3c859b8e56c73743a07d144af3ad930d8d3f6",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/b0f3c859b8e56c73743a07d144af3ad930d8d3f6"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIxLjE="
+        },
+        {
+            "name": "v1.21.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.21.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.21.0",
+            "commit": {
+                "sha": "44d019116162b00c2093cae9f4ac4ef18b5d002f",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/44d019116162b00c2093cae9f4ac4ef18b5d002f"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIxLjA="
+        },
+        {
+            "name": "v1.20.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.20.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.20.1",
+            "commit": {
+                "sha": "5949e9abceffece0736de31fbb17e99391c63599",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/5949e9abceffece0736de31fbb17e99391c63599"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIwLjE="
+        },
+        {
+            "name": "v1.20.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.20.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.20.0",
+            "commit": {
+                "sha": "5e3829afd13163049356ecea5eb3302fca6d9503",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/5e3829afd13163049356ecea5eb3302fca6d9503"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjIwLjA="
+        },
+        {
+            "name": "v1.19.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.19.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.19.1",
+            "commit": {
+                "sha": "f0f7efc698c63cecfaf2b9d20491620f0180b3b6",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/f0f7efc698c63cecfaf2b9d20491620f0180b3b6"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE5LjE="
+        },
+        {
+            "name": "v1.19.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.19.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.19.0",
+            "commit": {
+                "sha": "00c3985ecf40d84b8380b5c864c7aae28bb12446",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/00c3985ecf40d84b8380b5c864c7aae28bb12446"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE5LjA="
+        },
+        {
+            "name": "v1.18.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.18.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.18.0",
+            "commit": {
+                "sha": "136e818af0178e64d169859a9c9aabcfd412bfa5",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/136e818af0178e64d169859a9c9aabcfd412bfa5"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE4LjA="
+        },
+        {
+            "name": "v1.17.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.17.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.17.0",
+            "commit": {
+                "sha": "b25f4cf4cba4d604191af648b60a935d82810017",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/b25f4cf4cba4d604191af648b60a935d82810017"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE3LjA="
+        },
+        {
+            "name": "v1.16.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.16.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.16.0",
+            "commit": {
+                "sha": "d7771b2dcc3334cdc682eb7008d8558646b1e25a",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/d7771b2dcc3334cdc682eb7008d8558646b1e25a"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE2LjA="
+        },
+        {
+            "name": "v1.15.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.15.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.15.0",
+            "commit": {
+                "sha": "04da785c95dbb0758e34bd08f8a22908f4b5d7bb",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/04da785c95dbb0758e34bd08f8a22908f4b5d7bb"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE1LjA="
+        },
+        {
+            "name": "v1.14.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.14.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.14.0",
+            "commit": {
+                "sha": "fe49ee0c7e23098080256fbbd6ac3b6e186950ef",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/fe49ee0c7e23098080256fbbd6ac3b6e186950ef"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjE0LjA="
+        },
+        {
+            "name": "v1.13.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.13.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.13.1",
+            "commit": {
+                "sha": "d87a05e629a3812141dcaee49b32a1b8960db9e3",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/d87a05e629a3812141dcaee49b32a1b8960db9e3"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjEzLjE="
+        },
+        {
+            "name": "v1.13.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.13.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.13.0",
+            "commit": {
+                "sha": "c36b046fb1ba42af8a13f0a13b80eb766711aa32",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/c36b046fb1ba42af8a13f0a13b80eb766711aa32"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjEzLjA="
+        },
+        {
+            "name": "v1.12.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.12.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.12.1",
+            "commit": {
+                "sha": "f3897b9cb24a7b0d69f46002ef071aea60d84808",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/f3897b9cb24a7b0d69f46002ef071aea60d84808"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjEyLjE="
+        },
+        {
+            "name": "v1.12.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.12.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.12.0",
+            "commit": {
+                "sha": "51317599a74dd3484e4024eaee67e3b00865575d",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/51317599a74dd3484e4024eaee67e3b00865575d"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjEyLjA="
+        },
+        {
+            "name": "v1.11.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.11.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.11.0",
+            "commit": {
+                "sha": "ebe02bc88399b96878e35c1604fc5a95ea8238be",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/ebe02bc88399b96878e35c1604fc5a95ea8238be"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjExLjA="
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "25a91fa1cf339fa2a0c3af9864913ea4f60f6f6c",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/25a91fa1cf339fa2a0c3af9864913ea4f60f6f6c"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjEwLjA="
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "80d54beb6784317dbf5cca8780dbc9df9b2dd2fc",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/80d54beb6784317dbf5cca8780dbc9df9b2dd2fc"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjkuMA=="
+        },
+        {
+            "name": "v1.8.0",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.8.0",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.8.0",
+            "commit": {
+                "sha": "1db12fcb9e8c7d53c8394b22f3e195d1d5391f36",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/1db12fcb9e8c7d53c8394b22f3e195d1d5391f36"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjguMA=="
+        },
+        {
+            "name": "v1.7.1",
+            "zipball_url": "https://api.github.com/repos/denysdovhan/wtfjs/zipball/refs/tags/v1.7.1",
+            "tarball_url": "https://api.github.com/repos/denysdovhan/wtfjs/tarball/refs/tags/v1.7.1",
+            "commit": {
+                "sha": "8859d39ac0f2a45d07af2da33a65507ef1c8a15c",
+                "url": "https://api.github.com/repos/denysdovhan/wtfjs/commits/8859d39ac0f2a45d07af2da33a65507ef1c8a15c"
+            },
+            "node_id": "MDM6UmVmOTcyNDk0MDY6cmVmcy90YWdzL3YxLjcuMQ=="
+        }
+    ]
+}

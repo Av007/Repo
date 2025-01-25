@@ -1,0 +1,422 @@
+{
+    "id": 958314,
+    "node_id": "MDEwOlJlcG9zaXRvcnk5NTgzMTQ=",
+    "name": "nodemon",
+    "full_name": "remy/nodemon",
+    "private": false,
+    "owner": {
+        "login": "remy",
+        "id": 13700,
+        "node_id": "MDQ6VXNlcjEzNzAw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13700?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/remy",
+        "html_url": "https://github.com/remy",
+        "followers_url": "https://api.github.com/users/remy/followers",
+        "following_url": "https://api.github.com/users/remy/following{/other_user}",
+        "gists_url": "https://api.github.com/users/remy/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/remy/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/remy/subscriptions",
+        "organizations_url": "https://api.github.com/users/remy/orgs",
+        "repos_url": "https://api.github.com/users/remy/repos",
+        "events_url": "https://api.github.com/users/remy/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/remy/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/remy/nodemon",
+    "description": "Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+    "fork": false,
+    "url": "https://api.github.com/repos/remy/nodemon",
+    "forks_url": "https://api.github.com/repos/remy/nodemon/forks",
+    "keys_url": "https://api.github.com/repos/remy/nodemon/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/remy/nodemon/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/remy/nodemon/teams",
+    "hooks_url": "https://api.github.com/repos/remy/nodemon/hooks",
+    "issue_events_url": "https://api.github.com/repos/remy/nodemon/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/remy/nodemon/events",
+    "assignees_url": "https://api.github.com/repos/remy/nodemon/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/remy/nodemon/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/remy/nodemon/tags",
+    "blobs_url": "https://api.github.com/repos/remy/nodemon/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/remy/nodemon/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/remy/nodemon/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/remy/nodemon/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/remy/nodemon/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/remy/nodemon/languages",
+    "stargazers_url": "https://api.github.com/repos/remy/nodemon/stargazers",
+    "contributors_url": "https://api.github.com/repos/remy/nodemon/contributors",
+    "subscribers_url": "https://api.github.com/repos/remy/nodemon/subscribers",
+    "subscription_url": "https://api.github.com/repos/remy/nodemon/subscription",
+    "commits_url": "https://api.github.com/repos/remy/nodemon/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/remy/nodemon/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/remy/nodemon/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/remy/nodemon/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/remy/nodemon/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/remy/nodemon/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/remy/nodemon/merges",
+    "archive_url": "https://api.github.com/repos/remy/nodemon/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/remy/nodemon/downloads",
+    "issues_url": "https://api.github.com/repos/remy/nodemon/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/remy/nodemon/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/remy/nodemon/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/remy/nodemon/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/remy/nodemon/labels{/name}",
+    "releases_url": "https://api.github.com/repos/remy/nodemon/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/remy/nodemon/deployments",
+    "created_at": "2010-10-03T12:50:52Z",
+    "updated_at": "2025-01-25T16:10:01Z",
+    "pushed_at": "2025-01-24T10:06:10Z",
+    "git_url": "git://github.com/remy/nodemon.git",
+    "ssh_url": "git@github.com:remy/nodemon.git",
+    "clone_url": "https://github.com/remy/nodemon.git",
+    "svn_url": "https://github.com/remy/nodemon",
+    "homepage": "http://nodemon.io/",
+    "size": 2694,
+    "stargazers_count": 26406,
+    "watchers_count": 26406,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1730,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 7,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "hacktoberfest",
+        "node",
+        "nodemon",
+        "watch"
+    ],
+    "visibility": "public",
+    "forks": 1730,
+    "open_issues": 7,
+    "watchers": 26406,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.1.9",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.9",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.9",
+            "commit": {
+                "sha": "9c9de6eb075c62650145bfebfac3680923f172d6",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/9c9de6eb075c62650145bfebfac3680923f172d6"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjk="
+        },
+        {
+            "name": "v3.1.8",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.8",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.8",
+            "commit": {
+                "sha": "880fc4201e722f36f581b7a2817339dbc052b02e",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/880fc4201e722f36f581b7a2817339dbc052b02e"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjg="
+        },
+        {
+            "name": "v3.1.7",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.7",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.7",
+            "commit": {
+                "sha": "9b0606afc68ad9cf536cd338b7ffc82f6b2bdc79",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/9b0606afc68ad9cf536cd338b7ffc82f6b2bdc79"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjc="
+        },
+        {
+            "name": "v3.1.6",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.6",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.6",
+            "commit": {
+                "sha": "14280013c62a9a8631257ae4adb208c77db8af0b",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/14280013c62a9a8631257ae4adb208c77db8af0b"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjY="
+        },
+        {
+            "name": "v3.1.5",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.5",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.5",
+            "commit": {
+                "sha": "254c2ab17877a79b9573c79371cb0fc567eb0514",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/254c2ab17877a79b9573c79371cb0fc567eb0514"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjU="
+        },
+        {
+            "name": "v3.1.4",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.4",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.4",
+            "commit": {
+                "sha": "d7cfe08403d51f3eef1a1347616306ed29bdd439",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/d7cfe08403d51f3eef1a1347616306ed29bdd439"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjQ="
+        },
+        {
+            "name": "v3.1.3",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.3",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.3",
+            "commit": {
+                "sha": "eaa1d54f69fb2a4160533b6ba9178b9a09fa9cdf",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/eaa1d54f69fb2a4160533b6ba9178b9a09fa9cdf"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjM="
+        },
+        {
+            "name": "v3.1.2",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.2",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.2",
+            "commit": {
+                "sha": "789663c335be5e79f5b8a2248de9729c24e4093b",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/789663c335be5e79f5b8a2248de9729c24e4093b"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjI="
+        },
+        {
+            "name": "v3.1.1",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.1",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.1",
+            "commit": {
+                "sha": "cd27c0b50584e078a10338ef0c37282255f3f9ca",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/cd27c0b50584e078a10338ef0c37282255f3f9ca"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjE="
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "02d216ff6a906871bb7f711f0d5e310f6d96b054",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/02d216ff6a906871bb7f711f0d5e310f6d96b054"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4xLjA="
+        },
+        {
+            "name": "v3.0.3",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.0.3",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.0.3",
+            "commit": {
+                "sha": "da328edaeb98252ddec69db155276e34cd9245ea",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/da328edaeb98252ddec69db155276e34cd9245ea"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4wLjM="
+        },
+        {
+            "name": "v3.0.2",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.0.2",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.0.2",
+            "commit": {
+                "sha": "0ebfaa5d1ce24faf1a2c0f1db31b56dbd0a82628",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/0ebfaa5d1ce24faf1a2c0f1db31b56dbd0a82628"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4wLjI="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "e4c163f7f5c8f73f6e42499b53bf0329d14a9895",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/e4c163f7f5c8f73f6e42499b53bf0329d14a9895"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4wLjE="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "f219dccbf0ab9a48a3f84edb75d620e3a61a9f36",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/f219dccbf0ab9a48a3f84edb75d620e3a61a9f36"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92My4wLjA="
+        },
+        {
+            "name": "v2.0.22",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.22",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.22",
+            "commit": {
+                "sha": "c971fdcd4820938744f6f6f5d90272acf984eba1",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/c971fdcd4820938744f6f6f5d90272acf984eba1"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjIy"
+        },
+        {
+            "name": "v2.0.21",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.21",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.21",
+            "commit": {
+                "sha": "146839711be58995f88723b29de3007de87d6c3a",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/146839711be58995f88723b29de3007de87d6c3a"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjIx"
+        },
+        {
+            "name": "v2.0.20",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.20",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.20",
+            "commit": {
+                "sha": "e099e91cb6ff9cbb7912af86d22b91cd855a1ad0",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/e099e91cb6ff9cbb7912af86d22b91cd855a1ad0"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjIw"
+        },
+        {
+            "name": "v2.0.19",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.19",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.19",
+            "commit": {
+                "sha": "176c4a6bed989fe94f103c905e5eee341d26794d",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/176c4a6bed989fe94f103c905e5eee341d26794d"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjE5"
+        },
+        {
+            "name": "v2.0.18",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.18",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.18",
+            "commit": {
+                "sha": "1b3bc8c3c839024d0de4392f56be571a4b660754",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/1b3bc8c3c839024d0de4392f56be571a4b660754"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjE4"
+        },
+        {
+            "name": "v2.0.17",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.17",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.17",
+            "commit": {
+                "sha": "27e91c36819d510a3e64111957a8ce13f0e186bc",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/27e91c36819d510a3e64111957a8ce13f0e186bc"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjE3"
+        },
+        {
+            "name": "v2.0.16",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.16",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.16",
+            "commit": {
+                "sha": "e26aaa97d9ba245d33e82d42e248f72f50b1e351",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/e26aaa97d9ba245d33e82d42e248f72f50b1e351"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjE2"
+        },
+        {
+            "name": "v2.0.15",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.15",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.15",
+            "commit": {
+                "sha": "54784ab842a220777958cf590a49c5d9721f9834",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/54784ab842a220777958cf590a49c5d9721f9834"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjE1"
+        },
+        {
+            "name": "v2.0.14",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.14",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.14",
+            "commit": {
+                "sha": "61e7abd730839979c3ec099830d4af7030a6ce3f",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/61e7abd730839979c3ec099830d4af7030a6ce3f"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjE0"
+        },
+        {
+            "name": "v2.0.13",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.13",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.13",
+            "commit": {
+                "sha": "b91a61d6c27e557f7a9c072d82508974b13a0e4d",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/b91a61d6c27e557f7a9c072d82508974b13a0e4d"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjEz"
+        },
+        {
+            "name": "v2.0.12",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.12",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.12",
+            "commit": {
+                "sha": "0823f18435e43639f3b6b9f296b7385e99cffa3b",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/0823f18435e43639f3b6b9f296b7385e99cffa3b"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjEy"
+        },
+        {
+            "name": "v2.0.11",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.11",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.11",
+            "commit": {
+                "sha": "b52fc89b4911725ce5da9edf35d614cdf6260651",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/b52fc89b4911725ce5da9edf35d614cdf6260651"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjEx"
+        },
+        {
+            "name": "v2.0.10",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.10",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.10",
+            "commit": {
+                "sha": "6c6cb65317b1d95ef25c91885b55d589c2a020d6",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/6c6cb65317b1d95ef25c91885b55d589c2a020d6"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjEw"
+        },
+        {
+            "name": "v2.0.9",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.9",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.9",
+            "commit": {
+                "sha": "3242215ec438baa96299fd085238178c6ee59f53",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/3242215ec438baa96299fd085238178c6ee59f53"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjk="
+        },
+        {
+            "name": "v2.0.8",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.8",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.8",
+            "commit": {
+                "sha": "17aa92b57fbf6781e317150da7a977686e7074e0",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/17aa92b57fbf6781e317150da7a977686e7074e0"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjg="
+        },
+        {
+            "name": "v2.0.7",
+            "zipball_url": "https://api.github.com/repos/remy/nodemon/zipball/refs/tags/v2.0.7",
+            "tarball_url": "https://api.github.com/repos/remy/nodemon/tarball/refs/tags/v2.0.7",
+            "commit": {
+                "sha": "ac0b55e50a3c48a6ec1b15265d466cee3b83ef3d",
+                "url": "https://api.github.com/repos/remy/nodemon/commits/ac0b55e50a3c48a6ec1b15265d466cee3b83ef3d"
+            },
+            "node_id": "MDM6UmVmOTU4MzE0OnJlZnMvdGFncy92Mi4wLjc="
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+{
+    "id": 39176269,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzOTE3NjI2OQ==",
+    "name": "vuex",
+    "full_name": "vuejs/vuex",
+    "private": false,
+    "owner": {
+        "login": "vuejs",
+        "id": 6128107,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMjgxMDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6128107?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vuejs",
+        "html_url": "https://github.com/vuejs",
+        "followers_url": "https://api.github.com/users/vuejs/followers",
+        "following_url": "https://api.github.com/users/vuejs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vuejs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vuejs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vuejs/subscriptions",
+        "organizations_url": "https://api.github.com/users/vuejs/orgs",
+        "repos_url": "https://api.github.com/users/vuejs/repos",
+        "events_url": "https://api.github.com/users/vuejs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vuejs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/vuejs/vuex",
+    "description": "\ud83d\uddc3\ufe0f Centralized State Management for Vue.js.",
+    "fork": false,
+    "url": "https://api.github.com/repos/vuejs/vuex",
+    "forks_url": "https://api.github.com/repos/vuejs/vuex/forks",
+    "keys_url": "https://api.github.com/repos/vuejs/vuex/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/vuejs/vuex/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/vuejs/vuex/teams",
+    "hooks_url": "https://api.github.com/repos/vuejs/vuex/hooks",
+    "issue_events_url": "https://api.github.com/repos/vuejs/vuex/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/vuejs/vuex/events",
+    "assignees_url": "https://api.github.com/repos/vuejs/vuex/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/vuejs/vuex/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/vuejs/vuex/tags",
+    "blobs_url": "https://api.github.com/repos/vuejs/vuex/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/vuejs/vuex/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/vuejs/vuex/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/vuejs/vuex/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/vuejs/vuex/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/vuejs/vuex/languages",
+    "stargazers_url": "https://api.github.com/repos/vuejs/vuex/stargazers",
+    "contributors_url": "https://api.github.com/repos/vuejs/vuex/contributors",
+    "subscribers_url": "https://api.github.com/repos/vuejs/vuex/subscribers",
+    "subscription_url": "https://api.github.com/repos/vuejs/vuex/subscription",
+    "commits_url": "https://api.github.com/repos/vuejs/vuex/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/vuejs/vuex/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/vuejs/vuex/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/vuejs/vuex/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/vuejs/vuex/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/vuejs/vuex/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/vuejs/vuex/merges",
+    "archive_url": "https://api.github.com/repos/vuejs/vuex/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/vuejs/vuex/downloads",
+    "issues_url": "https://api.github.com/repos/vuejs/vuex/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/vuejs/vuex/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/vuejs/vuex/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/vuejs/vuex/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/vuejs/vuex/labels{/name}",
+    "releases_url": "https://api.github.com/repos/vuejs/vuex/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/vuejs/vuex/deployments",
+    "created_at": "2015-07-16T04:21:26Z",
+    "updated_at": "2025-01-25T13:03:18Z",
+    "pushed_at": "2024-09-25T13:26:41Z",
+    "git_url": "git://github.com/vuejs/vuex.git",
+    "ssh_url": "git@github.com:vuejs/vuex.git",
+    "clone_url": "https://github.com/vuejs/vuex.git",
+    "svn_url": "https://github.com/vuejs/vuex",
+    "homepage": "https://vuex.vuejs.org",
+    "size": 16581,
+    "stargazers_count": 28434,
+    "watchers_count": 28434,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 9559,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 144,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "javascript",
+        "state-management",
+        "time-travel",
+        "vue",
+        "vuex"
+    ],
+    "visibility": "public",
+    "forks": 9559,
+    "open_issues": 144,
+    "watchers": 28434,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "d56222431b91e1927459f7f463e74bb43158ef2b",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/d56222431b91e1927459f7f463e74bb43158ef2b"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.0.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.2",
+            "commit": {
+                "sha": "b18718b45777d4f029c7cb7d4ddb1b4c08ea4b9f",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/b18718b45777d4f029c7cb7d4ddb1b4c08ea4b9f"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMg=="
+        },
+        {
+            "name": "v4.0.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.1",
+            "commit": {
+                "sha": "7744e74f50ff41fc7084466728f1a033610f43b5",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/7744e74f50ff41fc7084466728f1a033610f43b5"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMQ=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "c3944f33690aae47b7113edebbf13fffe01b9256",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/c3944f33690aae47b7113edebbf13fffe01b9256"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v4.0.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-rc.2",
+            "commit": {
+                "sha": "bb7885700d7bd7afd4d12fc8be7f5b3eeaa58b0e",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/bb7885700d7bd7afd4d12fc8be7f5b3eeaa58b0e"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1yYy4y"
+        },
+        {
+            "name": "v4.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-rc.1",
+            "commit": {
+                "sha": "0af60e9390fd3b59228cc4c2bfacca751a49bac9",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/0af60e9390fd3b59228cc4c2bfacca751a49bac9"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1yYy4x"
+        },
+        {
+            "name": "v4.0.0-beta.4",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-beta.4",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-beta.4",
+            "commit": {
+                "sha": "83bc26fe55417692f386db9b76634eb58794282e",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/83bc26fe55417692f386db9b76634eb58794282e"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1iZXRhLjQ="
+        },
+        {
+            "name": "v4.0.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-beta.3",
+            "commit": {
+                "sha": "2fbb861b0c15b2a800a3ccd55676fcc2a889e7dc",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/2fbb861b0c15b2a800a3ccd55676fcc2a889e7dc"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1iZXRhLjM="
+        },
+        {
+            "name": "v4.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-beta.2",
+            "commit": {
+                "sha": "91df799fe95cb268fd9a3e8755f348817ad0baec",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/91df799fe95cb268fd9a3e8755f348817ad0baec"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1iZXRhLjI="
+        },
+        {
+            "name": "v4.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-beta.1",
+            "commit": {
+                "sha": "e72d961eca31830a13e25c876399ebc99eae1b21",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/e72d961eca31830a13e25c876399ebc99eae1b21"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1iZXRhLjE="
+        },
+        {
+            "name": "v4.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v4.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v4.0.0-alpha.1",
+            "commit": {
+                "sha": "f79b0dc436f2b12024e8a15d3c1947c801390a68",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/f79b0dc436f2b12024e8a15d3c1947c801390a68"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3Y0LjAuMC1hbHBoYS4x"
+        },
+        {
+            "name": "v3.6.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.6.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.6.2",
+            "commit": {
+                "sha": "9039c2169634925682ffcb21c57f5df355e16ad1",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/9039c2169634925682ffcb21c57f5df355e16ad1"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjYuMg=="
+        },
+        {
+            "name": "v3.6.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.6.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.6.1",
+            "commit": {
+                "sha": "379986268ed1b9fe761c1131e01fb3f130516152",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/379986268ed1b9fe761c1131e01fb3f130516152"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjYuMQ=="
+        },
+        {
+            "name": "v3.6.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.6.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.6.0",
+            "commit": {
+                "sha": "c9dbb13d4138d0e7d82d103dd3275fc18fa72d28",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/c9dbb13d4138d0e7d82d103dd3275fc18fa72d28"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjYuMA=="
+        },
+        {
+            "name": "v3.5.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.5.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.5.1",
+            "commit": {
+                "sha": "6b0014cada1bfc249c46322810a8256088d83d40",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/6b0014cada1bfc249c46322810a8256088d83d40"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjUuMQ=="
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "bab315546d3f7fb1faa95f4a449c04d6f40bddca",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/bab315546d3f7fb1faa95f4a449c04d6f40bddca"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjUuMA=="
+        },
+        {
+            "name": "v3.4.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.4.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.4.0",
+            "commit": {
+                "sha": "8691e61fa6eafe7e90bcb9ce818c46ade32a9c5b",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/8691e61fa6eafe7e90bcb9ce818c46ade32a9c5b"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjQuMA=="
+        },
+        {
+            "name": "v3.3.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.3.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.3.0",
+            "commit": {
+                "sha": "b1568a56c3b75904cfb61a5adb6122a4c25ec0b0",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/b1568a56c3b75904cfb61a5adb6122a4c25ec0b0"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjMuMA=="
+        },
+        {
+            "name": "v3.2.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.2.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.2.0",
+            "commit": {
+                "sha": "fa1ccde6335eccfef55f9a205ba20702a1dadc70",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/fa1ccde6335eccfef55f9a205ba20702a1dadc70"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjIuMA=="
+        },
+        {
+            "name": "v3.1.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.1.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.1.3",
+            "commit": {
+                "sha": "3a79b6d2a7507adacc6d683d5d0bcd138edfdf44",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/3a79b6d2a7507adacc6d683d5d0bcd138edfdf44"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjEuMw=="
+        },
+        {
+            "name": "v3.1.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.1.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.1.2",
+            "commit": {
+                "sha": "d2703385b3e0ee64544efd9e7d8ffc28f8c05bcd",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/d2703385b3e0ee64544efd9e7d8ffc28f8c05bcd"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjEuMg=="
+        },
+        {
+            "name": "v3.1.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.1.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.1.1",
+            "commit": {
+                "sha": "ffc7d00314a371c09d288bc5123793031d182cd2",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/ffc7d00314a371c09d288bc5123793031d182cd2"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjEuMQ=="
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "4c0d0ae0abcd48f1df2c0c263402a94a214168b2",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/4c0d0ae0abcd48f1df2c0c263402a94a214168b2"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjEuMA=="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "e821f1bf5b818992d7f34c03029ce2ded1f52a75",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/e821f1bf5b818992d7f34c03029ce2ded1f52a75"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjAuMQ=="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "76e1e1039155dd70c6dbbdb0dfd1c545239c8fa9",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/76e1e1039155dd70c6dbbdb0dfd1c545239c8fa9"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YzLjAuMA=="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "285f9c0ae99c5bb183cc86d6b4ff1d8abd1c02d5",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/285f9c0ae99c5bb183cc86d6b4ff1d8abd1c02d5"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YyLjUuMA=="
+        },
+        {
+            "name": "v2.4.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v2.4.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v2.4.1",
+            "commit": {
+                "sha": "43857aa99b25393fb1f2b2daefc823ee11ddd011",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/43857aa99b25393fb1f2b2daefc823ee11ddd011"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YyLjQuMQ=="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "4a3657f3101edafdd41b683e3f0a29fdbb134acc",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/4a3657f3101edafdd41b683e3f0a29fdbb134acc"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YyLjQuMA=="
+        },
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "0b41cf98861c7db6d610e62c8aa5a65c0fdd8f49",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/0b41cf98861c7db6d610e62c8aa5a65c0fdd8f49"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YyLjMuMA=="
+        },
+        {
+            "name": "v2.2.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/vuex/zipball/refs/tags/v2.2.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/vuex/tarball/refs/tags/v2.2.1",
+            "commit": {
+                "sha": "4e1e9b230e7c93885c69bc3edf789069df010e36",
+                "url": "https://api.github.com/repos/vuejs/vuex/commits/4e1e9b230e7c93885c69bc3edf789069df010e36"
+            },
+            "node_id": "MDM6UmVmMzkxNzYyNjk6cmVmcy90YWdzL3YyLjIuMQ=="
+        }
+    ]
+}

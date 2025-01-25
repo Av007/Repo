@@ -1,0 +1,425 @@
+{
+    "id": 107286889,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMDcyODY4ODk=",
+    "name": "croc",
+    "full_name": "schollz/croc",
+    "private": false,
+    "owner": {
+        "login": "schollz",
+        "id": 6550035,
+        "node_id": "MDQ6VXNlcjY1NTAwMzU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6550035?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/schollz",
+        "html_url": "https://github.com/schollz",
+        "followers_url": "https://api.github.com/users/schollz/followers",
+        "following_url": "https://api.github.com/users/schollz/following{/other_user}",
+        "gists_url": "https://api.github.com/users/schollz/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/schollz/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/schollz/subscriptions",
+        "organizations_url": "https://api.github.com/users/schollz/orgs",
+        "repos_url": "https://api.github.com/users/schollz/repos",
+        "events_url": "https://api.github.com/users/schollz/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/schollz/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+    "fork": false,
+    "url": "https://api.github.com/repos/schollz/croc",
+    "forks_url": "https://api.github.com/repos/schollz/croc/forks",
+    "keys_url": "https://api.github.com/repos/schollz/croc/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/schollz/croc/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/schollz/croc/teams",
+    "hooks_url": "https://api.github.com/repos/schollz/croc/hooks",
+    "issue_events_url": "https://api.github.com/repos/schollz/croc/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/schollz/croc/events",
+    "assignees_url": "https://api.github.com/repos/schollz/croc/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/schollz/croc/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/schollz/croc/tags",
+    "blobs_url": "https://api.github.com/repos/schollz/croc/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/schollz/croc/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/schollz/croc/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/schollz/croc/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/schollz/croc/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/schollz/croc/languages",
+    "stargazers_url": "https://api.github.com/repos/schollz/croc/stargazers",
+    "contributors_url": "https://api.github.com/repos/schollz/croc/contributors",
+    "subscribers_url": "https://api.github.com/repos/schollz/croc/subscribers",
+    "subscription_url": "https://api.github.com/repos/schollz/croc/subscription",
+    "commits_url": "https://api.github.com/repos/schollz/croc/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/schollz/croc/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/schollz/croc/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/schollz/croc/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/schollz/croc/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/schollz/croc/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/schollz/croc/merges",
+    "archive_url": "https://api.github.com/repos/schollz/croc/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/schollz/croc/downloads",
+    "issues_url": "https://api.github.com/repos/schollz/croc/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/schollz/croc/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/schollz/croc/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/schollz/croc/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/schollz/croc/labels{/name}",
+    "releases_url": "https://api.github.com/repos/schollz/croc/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/schollz/croc/deployments",
+    "created_at": "2017-10-17T15:20:18Z",
+    "updated_at": "2025-01-25T10:35:23Z",
+    "pushed_at": "2025-01-15T15:28:40Z",
+    "git_url": "git://github.com/schollz/croc.git",
+    "ssh_url": "git@github.com:schollz/croc.git",
+    "clone_url": "https://github.com/schollz/croc.git",
+    "svn_url": "https://github.com/schollz/croc",
+    "homepage": "https://schollz.com/software/croc6",
+    "size": 24950,
+    "stargazers_count": 28612,
+    "watchers_count": 28612,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1131,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 10,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "data-transfer",
+        "file-sharing",
+        "golang",
+        "pake",
+        "peer-to-peer",
+        "tcp",
+        "transfer"
+    ],
+    "visibility": "public",
+    "forks": 1131,
+    "open_issues": 10,
+    "watchers": 28612,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v10.2.1",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.2.1",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.2.1",
+            "commit": {
+                "sha": "08f9d393e213c6c68984e0aa68b98dfe285db45e",
+                "url": "https://api.github.com/repos/schollz/croc/commits/08f9d393e213c6c68984e0aa68b98dfe285db45e"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMi4x"
+        },
+        {
+            "name": "v10.2.0",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.2.0",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.2.0",
+            "commit": {
+                "sha": "42bde222eb9ca4e0fefcc5f6c760451f79736cd0",
+                "url": "https://api.github.com/repos/schollz/croc/commits/42bde222eb9ca4e0fefcc5f6c760451f79736cd0"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMi4w"
+        },
+        {
+            "name": "v10.1.3",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.1.3",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.1.3",
+            "commit": {
+                "sha": "65bda643515d301ba152af0cdbdcdc1f7e304291",
+                "url": "https://api.github.com/repos/schollz/croc/commits/65bda643515d301ba152af0cdbdcdc1f7e304291"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMS4z"
+        },
+        {
+            "name": "v10.1.2",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.1.2",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.1.2",
+            "commit": {
+                "sha": "5c4db82e4667af1f82bc08b7002a6ee333979c3d",
+                "url": "https://api.github.com/repos/schollz/croc/commits/5c4db82e4667af1f82bc08b7002a6ee333979c3d"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMS4y"
+        },
+        {
+            "name": "v10.1.1",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.1.1",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.1.1",
+            "commit": {
+                "sha": "f6012939f37cf64c45846d08a51be7eb8fb6249c",
+                "url": "https://api.github.com/repos/schollz/croc/commits/f6012939f37cf64c45846d08a51be7eb8fb6249c"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMS4x"
+        },
+        {
+            "name": "v10.1.0",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.1.0",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.1.0",
+            "commit": {
+                "sha": "53323cb8c43c05090543e5437fef8b1fa269aeea",
+                "url": "https://api.github.com/repos/schollz/croc/commits/53323cb8c43c05090543e5437fef8b1fa269aeea"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMS4w"
+        },
+        {
+            "name": "v10.0.13",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.13",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.13",
+            "commit": {
+                "sha": "146f6413a9880bbee0424fff507efc9f5bada7a8",
+                "url": "https://api.github.com/repos/schollz/croc/commits/146f6413a9880bbee0424fff507efc9f5bada7a8"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4xMw=="
+        },
+        {
+            "name": "v10.0.12",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.12",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.12",
+            "commit": {
+                "sha": "defee4b4f606221d68118f6022e83ffc591a3a46",
+                "url": "https://api.github.com/repos/schollz/croc/commits/defee4b4f606221d68118f6022e83ffc591a3a46"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4xMg=="
+        },
+        {
+            "name": "v10.0.11",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.11",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.11",
+            "commit": {
+                "sha": "bf26db019cbe2862aef963cd0a32f5f2d62d15d4",
+                "url": "https://api.github.com/repos/schollz/croc/commits/bf26db019cbe2862aef963cd0a32f5f2d62d15d4"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4xMQ=="
+        },
+        {
+            "name": "v10.0.10",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.10",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.10",
+            "commit": {
+                "sha": "b5da962bd166e3db8184b64a334646102f60082d",
+                "url": "https://api.github.com/repos/schollz/croc/commits/b5da962bd166e3db8184b64a334646102f60082d"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4xMA=="
+        },
+        {
+            "name": "v10.0.9",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.9",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.9",
+            "commit": {
+                "sha": "4c120c4963797d94143a191613b7a83981c21eef",
+                "url": "https://api.github.com/repos/schollz/croc/commits/4c120c4963797d94143a191613b7a83981c21eef"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC45"
+        },
+        {
+            "name": "v10.0.8",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.8",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.8",
+            "commit": {
+                "sha": "ca8f01184467afa48d61d78674cecc5872e27eef",
+                "url": "https://api.github.com/repos/schollz/croc/commits/ca8f01184467afa48d61d78674cecc5872e27eef"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC44"
+        },
+        {
+            "name": "v10.0.7",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.7",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.7",
+            "commit": {
+                "sha": "50e0f625bc96c9da84f1ad98eb658894c7cc39de",
+                "url": "https://api.github.com/repos/schollz/croc/commits/50e0f625bc96c9da84f1ad98eb658894c7cc39de"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC43"
+        },
+        {
+            "name": "v10.0.6",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.6",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.6",
+            "commit": {
+                "sha": "fbf1eeedce12489c4c4ccd4bb81b691ddb2ceb49",
+                "url": "https://api.github.com/repos/schollz/croc/commits/fbf1eeedce12489c4c4ccd4bb81b691ddb2ceb49"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC42"
+        },
+        {
+            "name": "v10.0.5",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.5",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.5",
+            "commit": {
+                "sha": "69fc3cee47e30cfaf8b0bcce2f1e7bd2f36387b7",
+                "url": "https://api.github.com/repos/schollz/croc/commits/69fc3cee47e30cfaf8b0bcce2f1e7bd2f36387b7"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC41"
+        },
+        {
+            "name": "v10.0.4",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.4",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.4",
+            "commit": {
+                "sha": "fc457557e027a2bd4da8ef3431c0060265becb0c",
+                "url": "https://api.github.com/repos/schollz/croc/commits/fc457557e027a2bd4da8ef3431c0060265becb0c"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC40"
+        },
+        {
+            "name": "v10.0.3",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.3",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.3",
+            "commit": {
+                "sha": "08103bb7bb8cdf0f844cd1be8f33d0711dbd8a5e",
+                "url": "https://api.github.com/repos/schollz/croc/commits/08103bb7bb8cdf0f844cd1be8f33d0711dbd8a5e"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4z"
+        },
+        {
+            "name": "v10.0.2",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.2",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.2",
+            "commit": {
+                "sha": "a95d67e31c2464ebe3be90bc5ebbc961593789dd",
+                "url": "https://api.github.com/repos/schollz/croc/commits/a95d67e31c2464ebe3be90bc5ebbc961593789dd"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4y"
+        },
+        {
+            "name": "v10.0.1",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.1",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.1",
+            "commit": {
+                "sha": "43f1c535388a6b67faba720bba64607462070d48",
+                "url": "https://api.github.com/repos/schollz/croc/commits/43f1c535388a6b67faba720bba64607462070d48"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4x"
+        },
+        {
+            "name": "v10.0.0",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v10.0.0",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v10.0.0",
+            "commit": {
+                "sha": "6181903c836e055cd33015c2f511c78e178725d7",
+                "url": "https://api.github.com/repos/schollz/croc/commits/6181903c836e055cd33015c2f511c78e178725d7"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92MTAuMC4w"
+        },
+        {
+            "name": "v9.6.17",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.17",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.17",
+            "commit": {
+                "sha": "f6d862eac0e004422c431030b9bd1e405666fe56",
+                "url": "https://api.github.com/repos/schollz/croc/commits/f6d862eac0e004422c431030b9bd1e405666fe56"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjE3"
+        },
+        {
+            "name": "v9.6.16",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.16",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.16",
+            "commit": {
+                "sha": "7622e636e4a202008f55e6de1866997ddbaabcd4",
+                "url": "https://api.github.com/repos/schollz/croc/commits/7622e636e4a202008f55e6de1866997ddbaabcd4"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjE2"
+        },
+        {
+            "name": "v9.6.15",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.15",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.15",
+            "commit": {
+                "sha": "d81116382fcb9dddb79b02ed4b0da99e7aecb2ab",
+                "url": "https://api.github.com/repos/schollz/croc/commits/d81116382fcb9dddb79b02ed4b0da99e7aecb2ab"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjE1"
+        },
+        {
+            "name": "v9.6.14",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.14",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.14",
+            "commit": {
+                "sha": "483c5255bb139adffd012c63e274bd2847c0ff06",
+                "url": "https://api.github.com/repos/schollz/croc/commits/483c5255bb139adffd012c63e274bd2847c0ff06"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjE0"
+        },
+        {
+            "name": "v9.6.13",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.13",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.13",
+            "commit": {
+                "sha": "28bb36b3212cc8b3e7400f9da96745970d315dfb",
+                "url": "https://api.github.com/repos/schollz/croc/commits/28bb36b3212cc8b3e7400f9da96745970d315dfb"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjEz"
+        },
+        {
+            "name": "v9.6.12",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.12",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.12",
+            "commit": {
+                "sha": "53fc9ebd99388545481e1005d421f651c4fc8902",
+                "url": "https://api.github.com/repos/schollz/croc/commits/53fc9ebd99388545481e1005d421f651c4fc8902"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjEy"
+        },
+        {
+            "name": "v9.6.11",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.11",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.11",
+            "commit": {
+                "sha": "8ac1e3a501557ef9ed9c3d6c3a72fe2a2d39e2c7",
+                "url": "https://api.github.com/repos/schollz/croc/commits/8ac1e3a501557ef9ed9c3d6c3a72fe2a2d39e2c7"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjEx"
+        },
+        {
+            "name": "v9.6.10",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.10",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.10",
+            "commit": {
+                "sha": "f874e301511e0aa2a25a90ab123329ba3ff458e4",
+                "url": "https://api.github.com/repos/schollz/croc/commits/f874e301511e0aa2a25a90ab123329ba3ff458e4"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42LjEw"
+        },
+        {
+            "name": "v9.6.9",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.9",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.9",
+            "commit": {
+                "sha": "230de9184d6a726199a5e78510caf39e0752feee",
+                "url": "https://api.github.com/repos/schollz/croc/commits/230de9184d6a726199a5e78510caf39e0752feee"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42Ljk="
+        },
+        {
+            "name": "v9.6.8",
+            "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/refs/tags/v9.6.8",
+            "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/refs/tags/v9.6.8",
+            "commit": {
+                "sha": "f41a2afead27e0f8bd4647d5f66678e7c95652a0",
+                "url": "https://api.github.com/repos/schollz/croc/commits/f41a2afead27e0f8bd4647d5f66678e7c95652a0"
+            },
+            "node_id": "MDM6UmVmMTA3Mjg2ODg5OnJlZnMvdGFncy92OS42Ljg="
+        }
+    ]
+}

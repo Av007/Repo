@@ -1,0 +1,420 @@
+{
+    "id": 619959033,
+    "node_id": "R_kgDOJPPS-Q",
+    "name": "gpt4all",
+    "full_name": "nomic-ai/gpt4all",
+    "private": false,
+    "owner": {
+        "login": "nomic-ai",
+        "id": 102670180,
+        "node_id": "O_kgDOBh6fZA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102670180?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nomic-ai",
+        "html_url": "https://github.com/nomic-ai",
+        "followers_url": "https://api.github.com/users/nomic-ai/followers",
+        "following_url": "https://api.github.com/users/nomic-ai/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nomic-ai/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nomic-ai/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nomic-ai/subscriptions",
+        "organizations_url": "https://api.github.com/users/nomic-ai/orgs",
+        "repos_url": "https://api.github.com/users/nomic-ai/repos",
+        "events_url": "https://api.github.com/users/nomic-ai/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nomic-ai/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "fork": false,
+    "url": "https://api.github.com/repos/nomic-ai/gpt4all",
+    "forks_url": "https://api.github.com/repos/nomic-ai/gpt4all/forks",
+    "keys_url": "https://api.github.com/repos/nomic-ai/gpt4all/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/nomic-ai/gpt4all/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/nomic-ai/gpt4all/teams",
+    "hooks_url": "https://api.github.com/repos/nomic-ai/gpt4all/hooks",
+    "issue_events_url": "https://api.github.com/repos/nomic-ai/gpt4all/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/nomic-ai/gpt4all/events",
+    "assignees_url": "https://api.github.com/repos/nomic-ai/gpt4all/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/nomic-ai/gpt4all/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/nomic-ai/gpt4all/tags",
+    "blobs_url": "https://api.github.com/repos/nomic-ai/gpt4all/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/nomic-ai/gpt4all/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/nomic-ai/gpt4all/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/nomic-ai/gpt4all/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/nomic-ai/gpt4all/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/nomic-ai/gpt4all/languages",
+    "stargazers_url": "https://api.github.com/repos/nomic-ai/gpt4all/stargazers",
+    "contributors_url": "https://api.github.com/repos/nomic-ai/gpt4all/contributors",
+    "subscribers_url": "https://api.github.com/repos/nomic-ai/gpt4all/subscribers",
+    "subscription_url": "https://api.github.com/repos/nomic-ai/gpt4all/subscription",
+    "commits_url": "https://api.github.com/repos/nomic-ai/gpt4all/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/nomic-ai/gpt4all/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/nomic-ai/gpt4all/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/nomic-ai/gpt4all/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/nomic-ai/gpt4all/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/nomic-ai/gpt4all/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/nomic-ai/gpt4all/merges",
+    "archive_url": "https://api.github.com/repos/nomic-ai/gpt4all/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/nomic-ai/gpt4all/downloads",
+    "issues_url": "https://api.github.com/repos/nomic-ai/gpt4all/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/nomic-ai/gpt4all/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/nomic-ai/gpt4all/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/nomic-ai/gpt4all/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/nomic-ai/gpt4all/labels{/name}",
+    "releases_url": "https://api.github.com/repos/nomic-ai/gpt4all/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/nomic-ai/gpt4all/deployments",
+    "created_at": "2023-03-27T18:49:32Z",
+    "updated_at": "2025-01-25T17:19:01Z",
+    "pushed_at": "2025-01-24T19:15:24Z",
+    "git_url": "git://github.com/nomic-ai/gpt4all.git",
+    "ssh_url": "git@github.com:nomic-ai/gpt4all.git",
+    "clone_url": "https://github.com/nomic-ai/gpt4all.git",
+    "svn_url": "https://github.com/nomic-ai/gpt4all",
+    "homepage": "https://nomic.ai/gpt4all",
+    "size": 46996,
+    "stargazers_count": 71892,
+    "watchers_count": 71892,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 7814,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 700,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "ai-chat",
+        "llm-inference"
+    ],
+    "visibility": "public",
+    "forks": 7814,
+    "open_issues": 700,
+    "watchers": 71892,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.7.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.7.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.7.0",
+            "commit": {
+                "sha": "241d5ff40b1d81a8736193a19eec5c539c6da92e",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/241d5ff40b1d81a8736193a19eec5c539c6da92e"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNy4w"
+        },
+        {
+            "name": "v3.6.1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.6.1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.6.1",
+            "commit": {
+                "sha": "13e694e6e89811f537f75ac0ed7436c406298227",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/13e694e6e89811f537f75ac0ed7436c406298227"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNi4x"
+        },
+        {
+            "name": "v3.6.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.6.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.6.0",
+            "commit": {
+                "sha": "183eb9fb4389f5757b5dcec7fa2e7167936225af",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/183eb9fb4389f5757b5dcec7fa2e7167936225af"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNi4w"
+        },
+        {
+            "name": "v3.5.3",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.5.3",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.5.3",
+            "commit": {
+                "sha": "21c06fdebf256cb026ac63ecbd2542c668b508ae",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/21c06fdebf256cb026ac63ecbd2542c668b508ae"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNS4z"
+        },
+        {
+            "name": "v3.5.2",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.5.2",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.5.2",
+            "commit": {
+                "sha": "57b34d50caad2c481ec7eefe01a4703138c0a677",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/57b34d50caad2c481ec7eefe01a4703138c0a677"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNS4y"
+        },
+        {
+            "name": "v3.5.1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.5.1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.5.1",
+            "commit": {
+                "sha": "0871bd11378ad8637a699ecf1f109884703c0a36",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/0871bd11378ad8637a699ecf1f109884703c0a36"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNS4x"
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "f7440c29560717753e2e854774b39ff750ce16b2",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/f7440c29560717753e2e854774b39ff750ce16b2"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNS4w"
+        },
+        {
+            "name": "v3.5.0-rc2",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.5.0-rc2",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.5.0-rc2",
+            "commit": {
+                "sha": "8bf55e99f1dc4c593d0d22bc099210c7d8a9b979",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/8bf55e99f1dc4c593d0d22bc099210c7d8a9b979"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuNS4wLXJjMg"
+        },
+        {
+            "name": "v3.5.0-rc1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.5.0-rc1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.5.0-rc1",
+            "commit": {
+                "sha": "2db59f0092f5be82f4e86ebe31a75aab1a89eb50",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/2db59f0092f5be82f4e86ebe31a75aab1a89eb50"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuNS4wLXJjMQ"
+        },
+        {
+            "name": "v3.4.2",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.4.2",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.4.2",
+            "commit": {
+                "sha": "b4ad461d868b3d0c6832a7c9864df0e6df52e720",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/b4ad461d868b3d0c6832a7c9864df0e6df52e720"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNC4y"
+        },
+        {
+            "name": "v3.4.1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.4.1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.4.1",
+            "commit": {
+                "sha": "87b2aef85c5562debe5a2f50d71494435db0fc4d",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/87b2aef85c5562debe5a2f50d71494435db0fc4d"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNC4x"
+        },
+        {
+            "name": "v3.4.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.4.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.4.0",
+            "commit": {
+                "sha": "8c34b4a2bf4991b723dfc3e1de05a7e6f88bd53c",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/8c34b4a2bf4991b723dfc3e1de05a7e6f88bd53c"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuNC4w"
+        },
+        {
+            "name": "v3.3.1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.3.1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.3.1",
+            "commit": {
+                "sha": "c091491b88299f13fd757af2722795032f607669",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/c091491b88299f13fd757af2722795032f607669"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMy4x"
+        },
+        {
+            "name": "v3.3.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.3.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.3.0",
+            "commit": {
+                "sha": "da21174fb1b6af65016535d254b3e0749b6a22ec",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/da21174fb1b6af65016535d254b3e0749b6a22ec"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMy4w"
+        },
+        {
+            "name": "v3.2.1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.2.1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.2.1",
+            "commit": {
+                "sha": "8ccf1fa2f5a576e69334edb7b88b47d2666ed968",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/8ccf1fa2f5a576e69334edb7b88b47d2666ed968"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMi4x"
+        },
+        {
+            "name": "v3.2.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.2.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.2.0",
+            "commit": {
+                "sha": "3e0ad62fcbb0bb9ca0172dc1c3ca30eba3f03cba",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/3e0ad62fcbb0bb9ca0172dc1c3ca30eba3f03cba"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMi4w"
+        },
+        {
+            "name": "v3.1.1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.1.1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.1.1",
+            "commit": {
+                "sha": "4bbd0360a012c6ec603df7f1a732bc54fcc7b8ab",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/4bbd0360a012c6ec603df7f1a732bc54fcc7b8ab"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMS4x"
+        },
+        {
+            "name": "v3.1.1-web_search_beta_2",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.1.1-web_search_beta_2",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.1.1-web_search_beta_2",
+            "commit": {
+                "sha": "3c57db8cd3e65a2ac3e78e07cdb817e2ee34dc70",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/3c57db8cd3e65a2ac3e78e07cdb817e2ee34dc70"
+            },
+            "node_id": "REF_kwDOJPPS-doAInJlZnMvdGFncy92My4xLjEtd2ViX3NlYXJjaF9iZXRhXzI"
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "03d460c7321bddea25df6988713f01c447d9e0b5",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/03d460c7321bddea25df6988713f01c447d9e0b5"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMS4w"
+        },
+        {
+            "name": "v3.1.0-web_search_beta",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.1.0-web_search_beta",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.1.0-web_search_beta",
+            "commit": {
+                "sha": "8ee97ec26b743ee732ddb17c1d9a070c4bc41ee1",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/8ee97ec26b743ee732ddb17c1d9a070c4bc41ee1"
+            },
+            "node_id": "REF_kwDOJPPS-doAIHJlZnMvdGFncy92My4xLjAtd2ViX3NlYXJjaF9iZXRh"
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "4c26726f3e27dcf9b6e47faecd7bc005d0d918e2",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/4c26726f3e27dcf9b6e47faecd7bc005d0d918e2"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjMuMC4w"
+        },
+        {
+            "name": "v3.0.0-rc5",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.0.0-rc5",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.0.0-rc5",
+            "commit": {
+                "sha": "146428fa0aa9b2d263dc1194f2d544426cb32ecf",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/146428fa0aa9b2d263dc1194f2d544426cb32ecf"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuMC4wLXJjNQ"
+        },
+        {
+            "name": "v3.0.0-rc4",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.0.0-rc4",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.0.0-rc4",
+            "commit": {
+                "sha": "1bc16a2a4fa9f6b81bee6cab0a4314020675c9ee",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/1bc16a2a4fa9f6b81bee6cab0a4314020675c9ee"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuMC4wLXJjNA"
+        },
+        {
+            "name": "v3.0.0-rc3",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.0.0-rc3",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.0.0-rc3",
+            "commit": {
+                "sha": "720ea5a147a6798f978573233ebe769ed37bf257",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/720ea5a147a6798f978573233ebe769ed37bf257"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuMC4wLXJjMw"
+        },
+        {
+            "name": "v3.0.0-rc2",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.0.0-rc2",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.0.0-rc2",
+            "commit": {
+                "sha": "d92252cab15e3f9724157b4d336a536c52bc4c78",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/d92252cab15e3f9724157b4d336a536c52bc4c78"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuMC4wLXJjMg"
+        },
+        {
+            "name": "v3.0.0-rc1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v3.0.0-rc1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v3.0.0-rc1",
+            "commit": {
+                "sha": "88d85be0f97c9643d779436dba1bbe08e64d7510",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/88d85be0f97c9643d779436dba1bbe08e64d7510"
+            },
+            "node_id": "REF_kwDOJPPS-bRyZWZzL3RhZ3MvdjMuMC4wLXJjMQ"
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "09dd3dc31871118f9b3593e57b914016da0a0028",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/09dd3dc31871118f9b3593e57b914016da0a0028"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjIuOC4w"
+        },
+        {
+            "name": "v2.8.0-pre1",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v2.8.0-pre1",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v2.8.0-pre1",
+            "commit": {
+                "sha": "a92d266ceaba79af4b3110727274909f744edc17",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/a92d266ceaba79af4b3110727274909f744edc17"
+            },
+            "node_id": "REF_kwDOJPPS-bVyZWZzL3RhZ3MvdjIuOC4wLXByZTE"
+        },
+        {
+            "name": "v2.7.5",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v2.7.5",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v2.7.5",
+            "commit": {
+                "sha": "d7c47fb6f7bb101f69e171d606ab4b4941a74cf8",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/d7c47fb6f7bb101f69e171d606ab4b4941a74cf8"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjIuNy41"
+        },
+        {
+            "name": "v2.7.4",
+            "zipball_url": "https://api.github.com/repos/nomic-ai/gpt4all/zipball/refs/tags/v2.7.4",
+            "tarball_url": "https://api.github.com/repos/nomic-ai/gpt4all/tarball/refs/tags/v2.7.4",
+            "commit": {
+                "sha": "4f3c9bbe3ebb405f8f6ffc2ac691547f0f6f062d",
+                "url": "https://api.github.com/repos/nomic-ai/gpt4all/commits/4f3c9bbe3ebb405f8f6ffc2ac691547f0f6f062d"
+            },
+            "node_id": "REF_kwDOJPPS-bByZWZzL3RhZ3MvdjIuNy40"
+        }
+    ]
+}

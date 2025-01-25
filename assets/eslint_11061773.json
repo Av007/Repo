@@ -1,0 +1,423 @@
+{
+    "id": 11061773,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTA2MTc3Mw==",
+    "name": "eslint",
+    "full_name": "eslint/eslint",
+    "private": false,
+    "owner": {
+        "login": "eslint",
+        "id": 6019716,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMTk3MTY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6019716?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/eslint",
+        "html_url": "https://github.com/eslint",
+        "followers_url": "https://api.github.com/users/eslint/followers",
+        "following_url": "https://api.github.com/users/eslint/following{/other_user}",
+        "gists_url": "https://api.github.com/users/eslint/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/eslint/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/eslint/subscriptions",
+        "organizations_url": "https://api.github.com/users/eslint/orgs",
+        "repos_url": "https://api.github.com/users/eslint/repos",
+        "events_url": "https://api.github.com/users/eslint/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/eslint/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/eslint/eslint",
+    "description": "Find and fix problems in your JavaScript code.",
+    "fork": false,
+    "url": "https://api.github.com/repos/eslint/eslint",
+    "forks_url": "https://api.github.com/repos/eslint/eslint/forks",
+    "keys_url": "https://api.github.com/repos/eslint/eslint/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/eslint/eslint/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/eslint/eslint/teams",
+    "hooks_url": "https://api.github.com/repos/eslint/eslint/hooks",
+    "issue_events_url": "https://api.github.com/repos/eslint/eslint/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/eslint/eslint/events",
+    "assignees_url": "https://api.github.com/repos/eslint/eslint/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/eslint/eslint/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/eslint/eslint/tags",
+    "blobs_url": "https://api.github.com/repos/eslint/eslint/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/eslint/eslint/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/eslint/eslint/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/eslint/eslint/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/eslint/eslint/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/eslint/eslint/languages",
+    "stargazers_url": "https://api.github.com/repos/eslint/eslint/stargazers",
+    "contributors_url": "https://api.github.com/repos/eslint/eslint/contributors",
+    "subscribers_url": "https://api.github.com/repos/eslint/eslint/subscribers",
+    "subscription_url": "https://api.github.com/repos/eslint/eslint/subscription",
+    "commits_url": "https://api.github.com/repos/eslint/eslint/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/eslint/eslint/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/eslint/eslint/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/eslint/eslint/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/eslint/eslint/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/eslint/eslint/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/eslint/eslint/merges",
+    "archive_url": "https://api.github.com/repos/eslint/eslint/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/eslint/eslint/downloads",
+    "issues_url": "https://api.github.com/repos/eslint/eslint/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/eslint/eslint/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/eslint/eslint/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/eslint/eslint/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/eslint/eslint/labels{/name}",
+    "releases_url": "https://api.github.com/repos/eslint/eslint/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/eslint/eslint/deployments",
+    "created_at": "2013-06-29T23:59:48Z",
+    "updated_at": "2025-01-25T15:54:56Z",
+    "pushed_at": "2025-01-24T19:05:51Z",
+    "git_url": "git://github.com/eslint/eslint.git",
+    "ssh_url": "git@github.com:eslint/eslint.git",
+    "clone_url": "https://github.com/eslint/eslint.git",
+    "svn_url": "https://github.com/eslint/eslint",
+    "homepage": "https://eslint.org",
+    "size": 45186,
+    "stargazers_count": 25473,
+    "watchers_count": 25473,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4627,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 97,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "ecmascript",
+        "eslint",
+        "javascript",
+        "linter",
+        "static-code-analysis"
+    ],
+    "visibility": "public",
+    "forks": 4627,
+    "open_issues": 97,
+    "watchers": 25473,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v9.19.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.19.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.19.0",
+            "commit": {
+                "sha": "208e0b199f5d5f9dd173e58e3f5db19c1f0c38ed",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/208e0b199f5d5f9dd173e58e3f5db19c1f0c38ed"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjE5LjA="
+        },
+        {
+            "name": "v9.18.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.18.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.18.0",
+            "commit": {
+                "sha": "1c87b415313b4aacda496b3b26efc4e0b93dc13a",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/1c87b415313b4aacda496b3b26efc4e0b93dc13a"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjE4LjA="
+        },
+        {
+            "name": "v9.17.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.17.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.17.0",
+            "commit": {
+                "sha": "90c1db9a9676a7e2163158b37aef0b61a37a9820",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/90c1db9a9676a7e2163158b37aef0b61a37a9820"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjE3LjA="
+        },
+        {
+            "name": "v9.16.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.16.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.16.0",
+            "commit": {
+                "sha": "cbf7db0ddfa3b789f7ebc27a66993c08a83e72cd",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/cbf7db0ddfa3b789f7ebc27a66993c08a83e72cd"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjE2LjA="
+        },
+        {
+            "name": "v9.15.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.15.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.15.0",
+            "commit": {
+                "sha": "6f37b0747a14dfa9a9e3bdebc5caed1f39b6b0e2",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/6f37b0747a14dfa9a9e3bdebc5caed1f39b6b0e2"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjE1LjA="
+        },
+        {
+            "name": "v9.14.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.14.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.14.0",
+            "commit": {
+                "sha": "db0b844a66ee25483f9619d04346de1a2a0d79fa",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/db0b844a66ee25483f9619d04346de1a2a0d79fa"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjE0LjA="
+        },
+        {
+            "name": "v9.13.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.13.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.13.0",
+            "commit": {
+                "sha": "1a7cdbfad8d3355132aab3201c7dd3f2e879b19d",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/1a7cdbfad8d3355132aab3201c7dd3f2e879b19d"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjEzLjA="
+        },
+        {
+            "name": "v9.12.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.12.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.12.0",
+            "commit": {
+                "sha": "17cfb684194df48d0a5dc566af9c28fe80ea6d42",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/17cfb684194df48d0a5dc566af9c28fe80ea6d42"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjEyLjA="
+        },
+        {
+            "name": "v9.11.1",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.11.1",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.11.1",
+            "commit": {
+                "sha": "69e94597caa92c9b9f4071f8c9ed4a03772fa6de",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/69e94597caa92c9b9f4071f8c9ed4a03772fa6de"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjExLjE="
+        },
+        {
+            "name": "v9.11.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.11.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.11.0",
+            "commit": {
+                "sha": "26baf4056dfb92b3018339c3802db87d28ad8a66",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/26baf4056dfb92b3018339c3802db87d28ad8a66"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjExLjA="
+        },
+        {
+            "name": "v9.10.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.10.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.10.0",
+            "commit": {
+                "sha": "6448f3280f85137b429c1c320da6fb4b48169bd5",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/6448f3280f85137b429c1c320da6fb4b48169bd5"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjEwLjA="
+        },
+        {
+            "name": "v9.9.1",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.9.1",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.9.1",
+            "commit": {
+                "sha": "8781e6f063e56438dc22346504ff637df3f84daf",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/8781e6f063e56438dc22346504ff637df3f84daf"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjkuMQ=="
+        },
+        {
+            "name": "v9.9.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.9.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.9.0",
+            "commit": {
+                "sha": "0dd38631b8dd60f93807e9cee1df3e752b86ab51",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/0dd38631b8dd60f93807e9cee1df3e752b86ab51"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjkuMA=="
+        },
+        {
+            "name": "v9.8.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.8.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.8.0",
+            "commit": {
+                "sha": "63881dc11299aba1d0960747c199a4cf48d6b9c8",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/63881dc11299aba1d0960747c199a4cf48d6b9c8"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjguMA=="
+        },
+        {
+            "name": "v9.7.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.7.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.7.0",
+            "commit": {
+                "sha": "05ab812df9af044143dc25b19ba2dee39f6b80ce",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/05ab812df9af044143dc25b19ba2dee39f6b80ce"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjcuMA=="
+        },
+        {
+            "name": "v9.6.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.6.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.6.0",
+            "commit": {
+                "sha": "473d1bb7c3dfcf629ac048ca811f4b5eef04a692",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/473d1bb7c3dfcf629ac048ca811f4b5eef04a692"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjYuMA=="
+        },
+        {
+            "name": "v9.5.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.5.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.5.0",
+            "commit": {
+                "sha": "535235701fb029db6f656bd4e58acdfdeb8c02de",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/535235701fb029db6f656bd4e58acdfdeb8c02de"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjUuMA=="
+        },
+        {
+            "name": "v9.4.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.4.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.4.0",
+            "commit": {
+                "sha": "a5f7e589eca05a8a30bd2532380c304759cc8225",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/a5f7e589eca05a8a30bd2532380c304759cc8225"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjQuMA=="
+        },
+        {
+            "name": "v9.3.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.3.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.3.0",
+            "commit": {
+                "sha": "41a871cf43874e2f27ad08554c7900daf0e94b06",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/41a871cf43874e2f27ad08554c7900daf0e94b06"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjMuMA=="
+        },
+        {
+            "name": "v9.2.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.2.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.2.0",
+            "commit": {
+                "sha": "271e7ab1adc45a7b2f66cfea55a54e6048d9749a",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/271e7ab1adc45a7b2f66cfea55a54e6048d9749a"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjIuMA=="
+        },
+        {
+            "name": "v9.1.1",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.1.1",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.1.1",
+            "commit": {
+                "sha": "b4d2512809a1b28466ad1ce5af9d01c181b9bf9e",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/b4d2512809a1b28466ad1ce5af9d01c181b9bf9e"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjEuMQ=="
+        },
+        {
+            "name": "v9.1.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.1.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.1.0",
+            "commit": {
+                "sha": "b78d831e244171c939279b03be519b5c13836fce",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/b78d831e244171c939279b03be519b5c13836fce"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjEuMA=="
+        },
+        {
+            "name": "v9.0.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0",
+            "commit": {
+                "sha": "e0cbc50179adac1670f4e0bd9093387a51f4f42a",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/e0cbc50179adac1670f4e0bd9093387a51f4f42a"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMA=="
+        },
+        {
+            "name": "v9.0.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-rc.0",
+            "commit": {
+                "sha": "b185eb97ec60319cc39023e8615959dd598919ae",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/b185eb97ec60319cc39023e8615959dd598919ae"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1yYy4w"
+        },
+        {
+            "name": "v9.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-beta.2",
+            "commit": {
+                "sha": "ba89c73261f7fd1b6cdd50cfaeb8f4ce36101757",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/ba89c73261f7fd1b6cdd50cfaeb8f4ce36101757"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1iZXRhLjI="
+        },
+        {
+            "name": "v9.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-beta.1",
+            "commit": {
+                "sha": "491a1d16a8dbcbe2f0cc82ce7bef580229d09b86",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/491a1d16a8dbcbe2f0cc82ce7bef580229d09b86"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1iZXRhLjE="
+        },
+        {
+            "name": "v9.0.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-beta.0",
+            "commit": {
+                "sha": "428dbdbef367e17edef7ba648fba0d37c860be9c",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/428dbdbef367e17edef7ba648fba0d37c860be9c"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1iZXRhLjA="
+        },
+        {
+            "name": "v9.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-alpha.2",
+            "commit": {
+                "sha": "fd1e2f346307f7711bf0f206b4d09656d15a7e1a",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/fd1e2f346307f7711bf0f206b4d09656d15a7e1a"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1hbHBoYS4y"
+        },
+        {
+            "name": "v9.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-alpha.1",
+            "commit": {
+                "sha": "bbf2b214473606329a5dbcbe022079f4048923a8",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/bbf2b214473606329a5dbcbe022079f4048923a8"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1hbHBoYS4x"
+        },
+        {
+            "name": "v9.0.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/eslint/eslint/zipball/refs/tags/v9.0.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/eslint/eslint/tarball/refs/tags/v9.0.0-alpha.0",
+            "commit": {
+                "sha": "73a841a7dff809e6cf7bb9a37f073d168eabd45f",
+                "url": "https://api.github.com/repos/eslint/eslint/commits/73a841a7dff809e6cf7bb9a37f073d168eabd45f"
+            },
+            "node_id": "MDM6UmVmMTEwNjE3NzM6cmVmcy90YWdzL3Y5LjAuMC1hbHBoYS4w"
+        }
+    ]
+}

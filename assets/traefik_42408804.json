@@ -1,0 +1,432 @@
+{
+    "id": 42408804,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0MjQwODgwNA==",
+    "name": "traefik",
+    "full_name": "traefik/traefik",
+    "private": false,
+    "owner": {
+        "login": "traefik",
+        "id": 14280338,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MjgwMzM4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14280338?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/traefik",
+        "html_url": "https://github.com/traefik",
+        "followers_url": "https://api.github.com/users/traefik/followers",
+        "following_url": "https://api.github.com/users/traefik/following{/other_user}",
+        "gists_url": "https://api.github.com/users/traefik/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/traefik/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/traefik/subscriptions",
+        "organizations_url": "https://api.github.com/users/traefik/orgs",
+        "repos_url": "https://api.github.com/users/traefik/repos",
+        "events_url": "https://api.github.com/users/traefik/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/traefik/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/traefik/traefik",
+    "description": "The Cloud Native Application Proxy",
+    "fork": false,
+    "url": "https://api.github.com/repos/traefik/traefik",
+    "forks_url": "https://api.github.com/repos/traefik/traefik/forks",
+    "keys_url": "https://api.github.com/repos/traefik/traefik/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/traefik/traefik/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/traefik/traefik/teams",
+    "hooks_url": "https://api.github.com/repos/traefik/traefik/hooks",
+    "issue_events_url": "https://api.github.com/repos/traefik/traefik/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/traefik/traefik/events",
+    "assignees_url": "https://api.github.com/repos/traefik/traefik/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/traefik/traefik/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/traefik/traefik/tags",
+    "blobs_url": "https://api.github.com/repos/traefik/traefik/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/traefik/traefik/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/traefik/traefik/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/traefik/traefik/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/traefik/traefik/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/traefik/traefik/languages",
+    "stargazers_url": "https://api.github.com/repos/traefik/traefik/stargazers",
+    "contributors_url": "https://api.github.com/repos/traefik/traefik/contributors",
+    "subscribers_url": "https://api.github.com/repos/traefik/traefik/subscribers",
+    "subscription_url": "https://api.github.com/repos/traefik/traefik/subscription",
+    "commits_url": "https://api.github.com/repos/traefik/traefik/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/traefik/traefik/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/traefik/traefik/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/traefik/traefik/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/traefik/traefik/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/traefik/traefik/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/traefik/traefik/merges",
+    "archive_url": "https://api.github.com/repos/traefik/traefik/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/traefik/traefik/downloads",
+    "issues_url": "https://api.github.com/repos/traefik/traefik/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/traefik/traefik/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/traefik/traefik/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/traefik/traefik/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/traefik/traefik/labels{/name}",
+    "releases_url": "https://api.github.com/repos/traefik/traefik/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/traefik/traefik/deployments",
+    "created_at": "2015-09-13T19:04:02Z",
+    "updated_at": "2025-01-25T16:37:17Z",
+    "pushed_at": "2025-01-24T16:00:01Z",
+    "git_url": "git://github.com/traefik/traefik.git",
+    "ssh_url": "git@github.com:traefik/traefik.git",
+    "clone_url": "https://github.com/traefik/traefik.git",
+    "svn_url": "https://github.com/traefik/traefik",
+    "homepage": "https://traefik.io",
+    "size": 137202,
+    "stargazers_count": 52884,
+    "watchers_count": 52884,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5193,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 650,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "consul",
+        "docker",
+        "etcd",
+        "go",
+        "golang",
+        "kubernetes",
+        "letsencrypt",
+        "load-balancer",
+        "marathon",
+        "mesos",
+        "microservice",
+        "reverse-proxy",
+        "traefik",
+        "zookeeper"
+    ],
+    "visibility": "public",
+    "forks": 5193,
+    "open_issues": 650,
+    "watchers": 52884,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.3.2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.3.2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.3.2",
+            "commit": {
+                "sha": "020ab5f34703ea523895ab004825dbfa6f7de060",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/020ab5f34703ea523895ab004825dbfa6f7de060"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjMuMg=="
+        },
+        {
+            "name": "v3.3.1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.3.1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.3.1",
+            "commit": {
+                "sha": "d4d61151e1476be37b02089b8e1b5d55546d2f19",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/d4d61151e1476be37b02089b8e1b5d55546d2f19"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjMuMQ=="
+        },
+        {
+            "name": "v3.3.0",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.3.0",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.3.0",
+            "commit": {
+                "sha": "5b53bae42d2dab453b8f932db760b874f99ee984",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/5b53bae42d2dab453b8f932db760b874f99ee984"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjMuMA=="
+        },
+        {
+            "name": "v3.3.0-rc2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.3.0-rc2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.3.0-rc2",
+            "commit": {
+                "sha": "d9f58f94a23abc2e8eacc668a280cf5e971335a0",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/d9f58f94a23abc2e8eacc668a280cf5e971335a0"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjMuMC1yYzI="
+        },
+        {
+            "name": "v3.3.0-rc1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.3.0-rc1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.3.0-rc1",
+            "commit": {
+                "sha": "68a8650297733f7d601d455b40ccf43b8f689b6d",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/68a8650297733f7d601d455b40ccf43b8f689b6d"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjMuMC1yYzE="
+        },
+        {
+            "name": "v3.2.5",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.5",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.5",
+            "commit": {
+                "sha": "03c170f2642ee690ad9d41c2a5889b4834d4652c",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/03c170f2642ee690ad9d41c2a5889b4834d4652c"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuNQ=="
+        },
+        {
+            "name": "v3.2.4",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.4",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.4",
+            "commit": {
+                "sha": "69c8ecfa99389dd772eb152a2e2926bc928dbc39",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/69c8ecfa99389dd772eb152a2e2926bc928dbc39"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuNA=="
+        },
+        {
+            "name": "v3.2.3",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.3",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.3",
+            "commit": {
+                "sha": "8983e45fcf16ca28dd6e326191f2550f0460644d",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/8983e45fcf16ca28dd6e326191f2550f0460644d"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuMw=="
+        },
+        {
+            "name": "v3.2.2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.2",
+            "commit": {
+                "sha": "8eb12795d709d1906b4ae25d0d757f184636d65f",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/8eb12795d709d1906b4ae25d0d757f184636d65f"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuMg=="
+        },
+        {
+            "name": "v3.2.1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.1",
+            "commit": {
+                "sha": "5cfc11fe68f0371f2374bf07f0812b9b537e64c1",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/5cfc11fe68f0371f2374bf07f0812b9b537e64c1"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuMQ=="
+        },
+        {
+            "name": "v3.2.0",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.0",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.0",
+            "commit": {
+                "sha": "25caa72c0972fcb829276ebf5a41ef0263fa4a6f",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/25caa72c0972fcb829276ebf5a41ef0263fa4a6f"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuMA=="
+        },
+        {
+            "name": "v3.2.0-rc2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.0-rc2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.0-rc2",
+            "commit": {
+                "sha": "b46665c620b9f3b5e3873b224c40b0c6963445fb",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/b46665c620b9f3b5e3873b224c40b0c6963445fb"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuMC1yYzI="
+        },
+        {
+            "name": "v3.2.0-rc1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.2.0-rc1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.2.0-rc1",
+            "commit": {
+                "sha": "a7502c8700e111963b2b52fb0d25c0128fb0c05a",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/a7502c8700e111963b2b52fb0d25c0128fb0c05a"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjIuMC1yYzE="
+        },
+        {
+            "name": "v3.1.7",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.7",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.7",
+            "commit": {
+                "sha": "e90f4a7cb4e2a457ce72b292c2ce383ae71661eb",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/e90f4a7cb4e2a457ce72b292c2ce383ae71661eb"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuNw=="
+        },
+        {
+            "name": "v3.1.6",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.6",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.6",
+            "commit": {
+                "sha": "4613ddd757acf09f0d47fa8ce82bea670ede82de",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/4613ddd757acf09f0d47fa8ce82bea670ede82de"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuNg=="
+        },
+        {
+            "name": "v3.1.5",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.5",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.5",
+            "commit": {
+                "sha": "a2ab3e534dfa9775e0809e0c5d754f48979925fd",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/a2ab3e534dfa9775e0809e0c5d754f48979925fd"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuNQ=="
+        },
+        {
+            "name": "v3.1.4",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.4",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.4",
+            "commit": {
+                "sha": "0be01cc067a3089fd9b108dc84e146d223962882",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/0be01cc067a3089fd9b108dc84e146d223962882"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuNA=="
+        },
+        {
+            "name": "v3.1.3",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.3",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.3",
+            "commit": {
+                "sha": "89f3b272c3d4ed3f075f92f8acca494cdba4f708",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/89f3b272c3d4ed3f075f92f8acca494cdba4f708"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMw=="
+        },
+        {
+            "name": "v3.1.2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.2",
+            "commit": {
+                "sha": "4c4780f88692fa38c6a0a6da814f0449704075f0",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/4c4780f88692fa38c6a0a6da814f0449704075f0"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMg=="
+        },
+        {
+            "name": "v3.1.1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.1",
+            "commit": {
+                "sha": "f52a36ba120d18e5748be59efce13fef439d03ce",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/f52a36ba120d18e5748be59efce13fef439d03ce"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMQ=="
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "4b4eaa49b5c93460cac089ed6d87e1c68c29d8d1",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/4b4eaa49b5c93460cac089ed6d87e1c68c29d8d1"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMA=="
+        },
+        {
+            "name": "v3.1.0-rc3",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.0-rc3",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.0-rc3",
+            "commit": {
+                "sha": "876899be4bb347b00a2f697e776bc844f1afbcb3",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/876899be4bb347b00a2f697e776bc844f1afbcb3"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMC1yYzM="
+        },
+        {
+            "name": "v3.1.0-rc2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.0-rc2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.0-rc2",
+            "commit": {
+                "sha": "9758b1ce3691773303ac3774439a7f9f63ab4410",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/9758b1ce3691773303ac3774439a7f9f63ab4410"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMC1yYzI="
+        },
+        {
+            "name": "v3.1.0-rc1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.1.0-rc1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.1.0-rc1",
+            "commit": {
+                "sha": "b1b4e6b918e8eeaf9e24823baf24dbc77f7d373e",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/b1b4e6b918e8eeaf9e24823baf24dbc77f7d373e"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjEuMC1yYzE="
+        },
+        {
+            "name": "v3.0.4",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.0.4",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.0.4",
+            "commit": {
+                "sha": "d42e75bb2eabbe684809929ce96abfe09d4e50fb",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/d42e75bb2eabbe684809929ce96abfe09d4e50fb"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjAuNA=="
+        },
+        {
+            "name": "v3.0.3",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.0.3",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.0.3",
+            "commit": {
+                "sha": "53a8bd76f21835e457ee730bb73839cf99e77db1",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/53a8bd76f21835e457ee730bb73839cf99e77db1"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjAuMw=="
+        },
+        {
+            "name": "v3.0.2",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.0.2",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.0.2",
+            "commit": {
+                "sha": "8ea339816ab2c8b60e1642d772d669548584db96",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/8ea339816ab2c8b60e1642d772d669548584db96"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjAuMg=="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "736f37cb583550bf62d98970ee289771d6b5c1c5",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/736f37cb583550bf62d98970ee289771d6b5c1c5"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjAuMQ=="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "d99d2f95e66a28ee8180634dc80fdf13ba68c62a",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/d99d2f95e66a28ee8180634dc80fdf13ba68c62a"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjAuMA=="
+        },
+        {
+            "name": "v3.0.0-rc5",
+            "zipball_url": "https://api.github.com/repos/traefik/traefik/zipball/refs/tags/v3.0.0-rc5",
+            "tarball_url": "https://api.github.com/repos/traefik/traefik/tarball/refs/tags/v3.0.0-rc5",
+            "commit": {
+                "sha": "da7bb5fc25ab21d6a8f5ff6ca44eeaddc47ee210",
+                "url": "https://api.github.com/repos/traefik/traefik/commits/da7bb5fc25ab21d6a8f5ff6ca44eeaddc47ee210"
+            },
+            "node_id": "MDM6UmVmNDI0MDg4MDQ6cmVmcy90YWdzL3YzLjAuMC1yYzU="
+        }
+    ]
+}

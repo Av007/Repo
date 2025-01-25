@@ -1,0 +1,438 @@
+{
+    "id": 615869301,
+    "node_id": "R_kgDOJLVrdQ",
+    "name": "LocalAI",
+    "full_name": "mudler/LocalAI",
+    "private": false,
+    "owner": {
+        "login": "mudler",
+        "id": 2420543,
+        "node_id": "MDQ6VXNlcjI0MjA1NDM=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2420543?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mudler",
+        "html_url": "https://github.com/mudler",
+        "followers_url": "https://api.github.com/users/mudler/followers",
+        "following_url": "https://api.github.com/users/mudler/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mudler/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mudler/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mudler/subscriptions",
+        "organizations_url": "https://api.github.com/users/mudler/orgs",
+        "repos_url": "https://api.github.com/users/mudler/repos",
+        "events_url": "https://api.github.com/users/mudler/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mudler/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/mudler/LocalAI",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+    "fork": false,
+    "url": "https://api.github.com/repos/mudler/LocalAI",
+    "forks_url": "https://api.github.com/repos/mudler/LocalAI/forks",
+    "keys_url": "https://api.github.com/repos/mudler/LocalAI/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/mudler/LocalAI/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/mudler/LocalAI/teams",
+    "hooks_url": "https://api.github.com/repos/mudler/LocalAI/hooks",
+    "issue_events_url": "https://api.github.com/repos/mudler/LocalAI/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/mudler/LocalAI/events",
+    "assignees_url": "https://api.github.com/repos/mudler/LocalAI/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/mudler/LocalAI/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/mudler/LocalAI/tags",
+    "blobs_url": "https://api.github.com/repos/mudler/LocalAI/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/mudler/LocalAI/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/mudler/LocalAI/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/mudler/LocalAI/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/mudler/LocalAI/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/mudler/LocalAI/languages",
+    "stargazers_url": "https://api.github.com/repos/mudler/LocalAI/stargazers",
+    "contributors_url": "https://api.github.com/repos/mudler/LocalAI/contributors",
+    "subscribers_url": "https://api.github.com/repos/mudler/LocalAI/subscribers",
+    "subscription_url": "https://api.github.com/repos/mudler/LocalAI/subscription",
+    "commits_url": "https://api.github.com/repos/mudler/LocalAI/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/mudler/LocalAI/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/mudler/LocalAI/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/mudler/LocalAI/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/mudler/LocalAI/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/mudler/LocalAI/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/mudler/LocalAI/merges",
+    "archive_url": "https://api.github.com/repos/mudler/LocalAI/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/mudler/LocalAI/downloads",
+    "issues_url": "https://api.github.com/repos/mudler/LocalAI/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/mudler/LocalAI/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/mudler/LocalAI/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/mudler/LocalAI/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/mudler/LocalAI/labels{/name}",
+    "releases_url": "https://api.github.com/repos/mudler/LocalAI/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/mudler/LocalAI/deployments",
+    "created_at": "2023-03-18T22:58:02Z",
+    "updated_at": "2025-01-25T17:02:47Z",
+    "pushed_at": "2025-01-25T10:07:32Z",
+    "git_url": "git://github.com/mudler/LocalAI.git",
+    "ssh_url": "git@github.com:mudler/LocalAI.git",
+    "clone_url": "https://github.com/mudler/LocalAI.git",
+    "svn_url": "https://github.com/mudler/LocalAI",
+    "homepage": "https://localai.io",
+    "size": 13115,
+    "stargazers_count": 29726,
+    "watchers_count": 29726,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2237,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 410,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "ai",
+        "api",
+        "audio-generation",
+        "distributed",
+        "gemma",
+        "gpt4all",
+        "image-generation",
+        "kubernetes",
+        "libp2p",
+        "llama",
+        "llama3",
+        "llm",
+        "mamba",
+        "mistral",
+        "musicgen",
+        "rerank",
+        "rwkv",
+        "stable-diffusion",
+        "text-generation",
+        "tts"
+    ],
+    "visibility": "public",
+    "forks": 2237,
+    "open_issues": 410,
+    "watchers": 29726,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.25.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.25.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.25.0",
+            "commit": {
+                "sha": "07655c0c2e0e5fe2bca86339a12237b69d258636",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/07655c0c2e0e5fe2bca86339a12237b69d258636"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjUuMA"
+        },
+        {
+            "name": "v2.24.2",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.24.2",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.24.2",
+            "commit": {
+                "sha": "59cf30a80e40236b9ff4b36e527fadff2f3fc0c3",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/59cf30a80e40236b9ff4b36e527fadff2f3fc0c3"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjQuMg"
+        },
+        {
+            "name": "v2.24.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.24.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.24.1",
+            "commit": {
+                "sha": "184fbc26bf11599a11da8de0df14a885f1c7d2c0",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/184fbc26bf11599a11da8de0df14a885f1c7d2c0"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjQuMQ"
+        },
+        {
+            "name": "v2.24.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.24.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.24.0",
+            "commit": {
+                "sha": "87b7648591573ea59c090b1095ba3073623933ad",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/87b7648591573ea59c090b1095ba3073623933ad"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjQuMA"
+        },
+        {
+            "name": "v2.23.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.23.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.23.0",
+            "commit": {
+                "sha": "9099d0c77e9e52f4a63c53aa546cc47f1e0cfdb1",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/9099d0c77e9e52f4a63c53aa546cc47f1e0cfdb1"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjMuMA"
+        },
+        {
+            "name": "v2.22.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.22.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.22.1",
+            "commit": {
+                "sha": "015835dba2854572d50e167b7cade05af41ed214",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/015835dba2854572d50e167b7cade05af41ed214"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjIuMQ"
+        },
+        {
+            "name": "v2.22.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.22.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.22.0",
+            "commit": {
+                "sha": "a1634b219a4e52813e70ff07e6376a01449c4515",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/a1634b219a4e52813e70ff07e6376a01449c4515"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjIuMA"
+        },
+        {
+            "name": "v2.21.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.21.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.21.1",
+            "commit": {
+                "sha": "33b2d38dd0198d78dbc26aa020acfb6ff4c4048c",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/33b2d38dd0198d78dbc26aa020acfb6ff4c4048c"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjEuMQ"
+        },
+        {
+            "name": "v2.21.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.21.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.21.0",
+            "commit": {
+                "sha": "90cacb9692f3dc374766b0e32f75be8229a47db3",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/90cacb9692f3dc374766b0e32f75be8229a47db3"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjEuMA"
+        },
+        {
+            "name": "v2.20.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.20.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.20.1",
+            "commit": {
+                "sha": "a9c521eb41dc2dd63769e5362f05d9ab5d8bec50",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/a9c521eb41dc2dd63769e5362f05d9ab5d8bec50"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjAuMQ"
+        },
+        {
+            "name": "v2.20.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.20.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.20.0",
+            "commit": {
+                "sha": "fbaae8528d2e47c924f223940a09715c5177df74",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/fbaae8528d2e47c924f223940a09715c5177df74"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMjAuMA"
+        },
+        {
+            "name": "v2.19.4",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.19.4",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.19.4",
+            "commit": {
+                "sha": "af0545834fd565ab56af0b9348550ca9c3cb5349",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/af0545834fd565ab56af0b9348550ca9c3cb5349"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTkuNA"
+        },
+        {
+            "name": "v2.19.3",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.19.3",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.19.3",
+            "commit": {
+                "sha": "86f8d5b50acd8fe88af4f537be0d42472772b928",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/86f8d5b50acd8fe88af4f537be0d42472772b928"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTkuMw"
+        },
+        {
+            "name": "v2.19.2",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.19.2",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.19.2",
+            "commit": {
+                "sha": "80ae919dbe1c8e8022a9daecbdabf00482cbdd38",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/80ae919dbe1c8e8022a9daecbdabf00482cbdd38"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTkuMg"
+        },
+        {
+            "name": "v2.19.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.19.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.19.1",
+            "commit": {
+                "sha": "f9f83791d1997cf0f1f88e7bdbad27190df9a5f5",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/f9f83791d1997cf0f1f88e7bdbad27190df9a5f5"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTkuMQ"
+        },
+        {
+            "name": "v2.19.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.19.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.19.0",
+            "commit": {
+                "sha": "f19ee465d2c0ee66cc56b6918311a46020df8a6b",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/f19ee465d2c0ee66cc56b6918311a46020df8a6b"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTkuMA"
+        },
+        {
+            "name": "v2.18.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.18.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.18.1",
+            "commit": {
+                "sha": "b941732f5494a7f3d7cc88b8fc64aaeae27a97e2",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/b941732f5494a7f3d7cc88b8fc64aaeae27a97e2"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTguMQ"
+        },
+        {
+            "name": "v2.18.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.18.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.18.0",
+            "commit": {
+                "sha": "8d9a452e4b3e81077b552259d740747c0b34e910",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/8d9a452e4b3e81077b552259d740747c0b34e910"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTguMA"
+        },
+        {
+            "name": "v2.17.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.17.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.17.1",
+            "commit": {
+                "sha": "8142bdc48f3619eddc6344fa4ed83b331f7b37c2",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/8142bdc48f3619eddc6344fa4ed83b331f7b37c2"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTcuMQ"
+        },
+        {
+            "name": "v2.17.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.17.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.17.0",
+            "commit": {
+                "sha": "2f297979a7c8fe564e176e1544151794e75d70d0",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/2f297979a7c8fe564e176e1544151794e75d70d0"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTcuMA"
+        },
+        {
+            "name": "v2.16.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.16.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.16.0",
+            "commit": {
+                "sha": "e0187c2a1a4cde837398ada217d0ad161b7976d6",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/e0187c2a1a4cde837398ada217d0ad161b7976d6"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTYuMA"
+        },
+        {
+            "name": "v2.15.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.15.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.15.0",
+            "commit": {
+                "sha": "f69de3be0d274a676f1d1cd302dc4699f1b5aaf0",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/f69de3be0d274a676f1d1cd302dc4699f1b5aaf0"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTUuMA"
+        },
+        {
+            "name": "v2.14.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.14.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.14.0",
+            "commit": {
+                "sha": "b58274b8a26a3d22605e3c484cf39c5dd9a5cf8e",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/b58274b8a26a3d22605e3c484cf39c5dd9a5cf8e"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTQuMA"
+        },
+        {
+            "name": "v2.13.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.13.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.13.0",
+            "commit": {
+                "sha": "c9451cb604d9325fadf678e1e511d7e8e5367e8a",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/c9451cb604d9325fadf678e1e511d7e8e5367e8a"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTMuMA"
+        },
+        {
+            "name": "v2.12.4",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.12.4",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.12.4",
+            "commit": {
+                "sha": "0004ec8be3ca150ce6d8b79f2991bfe3a9dc65ad",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/0004ec8be3ca150ce6d8b79f2991bfe3a9dc65ad"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTIuNA"
+        },
+        {
+            "name": "v2.12.3",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.12.3",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.12.3",
+            "commit": {
+                "sha": "d692b2c32a400a4aa0c6df9a51aa4f3cbe73edff",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/d692b2c32a400a4aa0c6df9a51aa4f3cbe73edff"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTIuMw"
+        },
+        {
+            "name": "v2.12.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.12.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.12.1",
+            "commit": {
+                "sha": "cc3d601836891fc4694745929f90204c684b4152",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/cc3d601836891fc4694745929f90204c684b4152"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTIuMQ"
+        },
+        {
+            "name": "v2.12.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.12.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.12.0",
+            "commit": {
+                "sha": "2bbb221fb18cb119c384f86739c1433cec8a491b",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/2bbb221fb18cb119c384f86739c1433cec8a491b"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTIuMA"
+        },
+        {
+            "name": "v2.11.0",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.11.0",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.11.0",
+            "commit": {
+                "sha": "1395e505cd8f1cc90ce575602c7eb21706da6067",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/1395e505cd8f1cc90ce575602c7eb21706da6067"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTEuMA"
+        },
+        {
+            "name": "v2.10.1",
+            "zipball_url": "https://api.github.com/repos/mudler/LocalAI/zipball/refs/tags/v2.10.1",
+            "tarball_url": "https://api.github.com/repos/mudler/LocalAI/tarball/refs/tags/v2.10.1",
+            "commit": {
+                "sha": "ed5734ae25edadb631e9de58d1f10f9c50e18c00",
+                "url": "https://api.github.com/repos/mudler/LocalAI/commits/ed5734ae25edadb631e9de58d1f10f9c50e18c00"
+            },
+            "node_id": "REF_kwDOJLVrdbFyZWZzL3RhZ3MvdjIuMTAuMQ"
+        }
+    ]
+}

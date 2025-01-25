@@ -1,0 +1,438 @@
+{
+    "id": 130688011,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMzA2ODgwMTE=",
+    "name": "meilisearch",
+    "full_name": "meilisearch/meilisearch",
+    "private": false,
+    "owner": {
+        "login": "meilisearch",
+        "id": 43250847,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMjUwODQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43250847?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/meilisearch",
+        "html_url": "https://github.com/meilisearch",
+        "followers_url": "https://api.github.com/users/meilisearch/followers",
+        "following_url": "https://api.github.com/users/meilisearch/following{/other_user}",
+        "gists_url": "https://api.github.com/users/meilisearch/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/meilisearch/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/meilisearch/subscriptions",
+        "organizations_url": "https://api.github.com/users/meilisearch/orgs",
+        "repos_url": "https://api.github.com/users/meilisearch/repos",
+        "events_url": "https://api.github.com/users/meilisearch/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/meilisearch/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/meilisearch/meilisearch",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "fork": false,
+    "url": "https://api.github.com/repos/meilisearch/meilisearch",
+    "forks_url": "https://api.github.com/repos/meilisearch/meilisearch/forks",
+    "keys_url": "https://api.github.com/repos/meilisearch/meilisearch/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/meilisearch/meilisearch/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/meilisearch/meilisearch/teams",
+    "hooks_url": "https://api.github.com/repos/meilisearch/meilisearch/hooks",
+    "issue_events_url": "https://api.github.com/repos/meilisearch/meilisearch/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/meilisearch/meilisearch/events",
+    "assignees_url": "https://api.github.com/repos/meilisearch/meilisearch/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/meilisearch/meilisearch/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/meilisearch/meilisearch/tags",
+    "blobs_url": "https://api.github.com/repos/meilisearch/meilisearch/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/meilisearch/meilisearch/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/meilisearch/meilisearch/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/meilisearch/meilisearch/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/meilisearch/meilisearch/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/meilisearch/meilisearch/languages",
+    "stargazers_url": "https://api.github.com/repos/meilisearch/meilisearch/stargazers",
+    "contributors_url": "https://api.github.com/repos/meilisearch/meilisearch/contributors",
+    "subscribers_url": "https://api.github.com/repos/meilisearch/meilisearch/subscribers",
+    "subscription_url": "https://api.github.com/repos/meilisearch/meilisearch/subscription",
+    "commits_url": "https://api.github.com/repos/meilisearch/meilisearch/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/meilisearch/meilisearch/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/meilisearch/meilisearch/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/meilisearch/meilisearch/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/meilisearch/meilisearch/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/meilisearch/meilisearch/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/meilisearch/meilisearch/merges",
+    "archive_url": "https://api.github.com/repos/meilisearch/meilisearch/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/meilisearch/meilisearch/downloads",
+    "issues_url": "https://api.github.com/repos/meilisearch/meilisearch/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/meilisearch/meilisearch/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/meilisearch/meilisearch/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/meilisearch/meilisearch/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/meilisearch/meilisearch/labels{/name}",
+    "releases_url": "https://api.github.com/repos/meilisearch/meilisearch/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/meilisearch/meilisearch/deployments",
+    "created_at": "2018-04-23T11:45:28Z",
+    "updated_at": "2025-01-25T17:18:52Z",
+    "pushed_at": "2025-01-24T12:24:25Z",
+    "git_url": "git://github.com/meilisearch/meilisearch.git",
+    "ssh_url": "git@github.com:meilisearch/meilisearch.git",
+    "clone_url": "https://github.com/meilisearch/meilisearch.git",
+    "svn_url": "https://github.com/meilisearch/meilisearch",
+    "homepage": "https://www.meilisearch.com",
+    "size": 66047,
+    "stargazers_count": 48835,
+    "watchers_count": 48835,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1911,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 202,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "app-search",
+        "database",
+        "enterprise-search",
+        "faceting",
+        "full-text-search",
+        "fuzzy-search",
+        "geosearch",
+        "hybrid-search",
+        "instantsearch",
+        "rest",
+        "rust",
+        "search",
+        "search-as-you-type",
+        "search-engine",
+        "semantic-search",
+        "site-search",
+        "synonyms",
+        "typo-tolerance",
+        "vector-database",
+        "vectors"
+    ],
+    "visibility": "public",
+    "forks": 1911,
+    "open_issues": 202,
+    "watchers": 48835,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.12.7",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.7",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.7",
+            "commit": {
+                "sha": "e20b91210d1b5da82072289a9198435276661174",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/e20b91210d1b5da82072289a9198435276661174"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi43"
+        },
+        {
+            "name": "v1.12.6",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.6",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.6",
+            "commit": {
+                "sha": "ad9d8e10f2ad6a53adda6d78f0a88df110f037c2",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/ad9d8e10f2ad6a53adda6d78f0a88df110f037c2"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi42"
+        },
+        {
+            "name": "v1.12.5",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.5",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.5",
+            "commit": {
+                "sha": "1c78447226668b260a05dcf67a67e96fcd674dc5",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/1c78447226668b260a05dcf67a67e96fcd674dc5"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi41"
+        },
+        {
+            "name": "v1.12.4",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.4",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.4",
+            "commit": {
+                "sha": "a5c44b4d79d497f154ee3b53817c6cafa5a7fce2",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/a5c44b4d79d497f154ee3b53817c6cafa5a7fce2"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi40"
+        },
+        {
+            "name": "v1.12.3",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.3",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.3",
+            "commit": {
+                "sha": "aee74f47aa2b80751a473656fcb04182236b7807",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/aee74f47aa2b80751a473656fcb04182236b7807"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4z"
+        },
+        {
+            "name": "v1.12.2",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.2",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.2",
+            "commit": {
+                "sha": "dcb4c49cf260045985eab8caafa9e2461cc00eb5",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/dcb4c49cf260045985eab8caafa9e2461cc00eb5"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4y"
+        },
+        {
+            "name": "v1.12.1",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.1",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.1",
+            "commit": {
+                "sha": "5908aec6cbb3be8edac063f743da70aba1ae589c",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/5908aec6cbb3be8edac063f743da70aba1ae589c"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4x"
+        },
+        {
+            "name": "v1.12.0",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0",
+            "commit": {
+                "sha": "ba11121cfc822438659ccb4120327c0c211a2796",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/ba11121cfc822438659ccb4120327c0c211a2796"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4w"
+        },
+        {
+            "name": "v1.12.0-rc.6",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.6",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.6",
+            "commit": {
+                "sha": "ba11121cfc822438659ccb4120327c0c211a2796",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/ba11121cfc822438659ccb4120327c0c211a2796"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjY="
+        },
+        {
+            "name": "v1.12.0-rc.5",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.5",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.5",
+            "commit": {
+                "sha": "1995040846ad4b741d2fbe0d73efdd6fbf515b14",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/1995040846ad4b741d2fbe0d73efdd6fbf515b14"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjU="
+        },
+        {
+            "name": "v1.12.0-rc.4",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.4",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.4",
+            "commit": {
+                "sha": "9a9383643f9a6b5ee9ab2ace3e9d63b920d94a53",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/9a9383643f9a6b5ee9ab2ace3e9d63b920d94a53"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjQ="
+        },
+        {
+            "name": "v1.12.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.3",
+            "commit": {
+                "sha": "054622bd167d1359e1561a42ef2678a5677ff3d1",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/054622bd167d1359e1561a42ef2678a5677ff3d1"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjM="
+        },
+        {
+            "name": "v1.12.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.2",
+            "commit": {
+                "sha": "8d33af1dffda13bafb5c906d61a418f7161726f2",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/8d33af1dffda13bafb5c906d61a418f7161726f2"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjI="
+        },
+        {
+            "name": "v1.12.0-rc1",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc1",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc1",
+            "commit": {
+                "sha": "a2f64f65520c38932c2eddc85f00e8db25b50209",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/a2f64f65520c38932c2eddc85f00e8db25b50209"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjMQ=="
+        },
+        {
+            "name": "v1.12.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.1",
+            "commit": {
+                "sha": "a2f64f65520c38932c2eddc85f00e8db25b50209",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/a2f64f65520c38932c2eddc85f00e8db25b50209"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjE="
+        },
+        {
+            "name": "v1.12.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.12.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.12.0-rc.0",
+            "commit": {
+                "sha": "dd76eaaaec9cf4c4cc60218c01a0857318fb7835",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/dd76eaaaec9cf4c4cc60218c01a0857318fb7835"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMi4wLXJjLjA="
+        },
+        {
+            "name": "v1.11.3",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.3",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.3",
+            "commit": {
+                "sha": "cfaac6f7ca55e91ec3cf40f8682f528cd8743562",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/cfaac6f7ca55e91ec3cf40f8682f528cd8743562"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4z"
+        },
+        {
+            "name": "v1.11.2",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.2",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.2",
+            "commit": {
+                "sha": "4e1ac9b0b4f175ee8bacf25257a3b19f75e47a61",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/4e1ac9b0b4f175ee8bacf25257a3b19f75e47a61"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4y"
+        },
+        {
+            "name": "v1.11.1",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.1",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.1",
+            "commit": {
+                "sha": "13025594a8303b3445df89399a75db9d951031f3",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/13025594a8303b3445df89399a75db9d951031f3"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4x"
+        },
+        {
+            "name": "v1.11.0",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.0",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.0",
+            "commit": {
+                "sha": "3753f87fd89ed57045c2e05172a4139011579ed6",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/3753f87fd89ed57045c2e05172a4139011579ed6"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4w"
+        },
+        {
+            "name": "v1.11.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.0-rc.3",
+            "commit": {
+                "sha": "3753f87fd89ed57045c2e05172a4139011579ed6",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/3753f87fd89ed57045c2e05172a4139011579ed6"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4wLXJjLjM="
+        },
+        {
+            "name": "v1.11.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.0-rc.2",
+            "commit": {
+                "sha": "75b2f22add8c0662253c6cf523797b5b526c149c",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/75b2f22add8c0662253c6cf523797b5b526c149c"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4wLXJjLjI="
+        },
+        {
+            "name": "v1.11.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.0-rc.1",
+            "commit": {
+                "sha": "0566f2549d87a40d8bd32adbce1815c00debecab",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/0566f2549d87a40d8bd32adbce1815c00debecab"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4wLXJjLjE="
+        },
+        {
+            "name": "v1.11.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.11.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.11.0-rc.0",
+            "commit": {
+                "sha": "7f20c13f3fc374faa0b812d4e21de541ed95746a",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/7f20c13f3fc374faa0b812d4e21de541ed95746a"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMS4wLXJjLjA="
+        },
+        {
+            "name": "v1.10.3",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.10.3",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.10.3",
+            "commit": {
+                "sha": "cf5aa630d2fd262ccbac86ad007da451fa4d72c6",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/cf5aa630d2fd262ccbac86ad007da451fa4d72c6"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMC4z"
+        },
+        {
+            "name": "v1.10.2",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.10.2",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.10.2",
+            "commit": {
+                "sha": "885b9f07b10ce7c22cbbbe0d6f3468ad1fbc4fd4",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/885b9f07b10ce7c22cbbbe0d6f3468ad1fbc4fd4"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMC4y"
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "3f517dfae6e72159666bca535ab24a8f00ea6ee3",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/3f517dfae6e72159666bca535ab24a8f00ea6ee3"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMC4x"
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "36d8684dc8882cf611a2dc2d5724f8712fae26ec",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/36d8684dc8882cf611a2dc2d5724f8712fae26ec"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMC4w"
+        },
+        {
+            "name": "v1.10.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.10.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.10.0-rc.3",
+            "commit": {
+                "sha": "36d8684dc8882cf611a2dc2d5724f8712fae26ec",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/36d8684dc8882cf611a2dc2d5724f8712fae26ec"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMC4wLXJjLjM="
+        },
+        {
+            "name": "v1.10.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/meilisearch/meilisearch/zipball/refs/tags/v1.10.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/meilisearch/meilisearch/tarball/refs/tags/v1.10.0-rc.2",
+            "commit": {
+                "sha": "57f7af77c75add035c7bb6e732d58e428b69792b",
+                "url": "https://api.github.com/repos/meilisearch/meilisearch/commits/57f7af77c75add035c7bb6e732d58e428b69792b"
+            },
+            "node_id": "MDM6UmVmMTMwNjg4MDExOnJlZnMvdGFncy92MS4xMC4wLXJjLjI="
+        }
+    ]
+}

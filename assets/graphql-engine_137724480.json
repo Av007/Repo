@@ -1,0 +1,433 @@
+{
+    "id": 137724480,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMzc3MjQ0ODA=",
+    "name": "graphql-engine",
+    "full_name": "hasura/graphql-engine",
+    "private": false,
+    "owner": {
+        "login": "hasura",
+        "id": 13966722,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTY2NzIy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13966722?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/hasura",
+        "html_url": "https://github.com/hasura",
+        "followers_url": "https://api.github.com/users/hasura/followers",
+        "following_url": "https://api.github.com/users/hasura/following{/other_user}",
+        "gists_url": "https://api.github.com/users/hasura/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/hasura/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/hasura/subscriptions",
+        "organizations_url": "https://api.github.com/users/hasura/orgs",
+        "repos_url": "https://api.github.com/users/hasura/repos",
+        "events_url": "https://api.github.com/users/hasura/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/hasura/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+    "fork": false,
+    "url": "https://api.github.com/repos/hasura/graphql-engine",
+    "forks_url": "https://api.github.com/repos/hasura/graphql-engine/forks",
+    "keys_url": "https://api.github.com/repos/hasura/graphql-engine/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/hasura/graphql-engine/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/hasura/graphql-engine/teams",
+    "hooks_url": "https://api.github.com/repos/hasura/graphql-engine/hooks",
+    "issue_events_url": "https://api.github.com/repos/hasura/graphql-engine/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/hasura/graphql-engine/events",
+    "assignees_url": "https://api.github.com/repos/hasura/graphql-engine/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/hasura/graphql-engine/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/hasura/graphql-engine/tags",
+    "blobs_url": "https://api.github.com/repos/hasura/graphql-engine/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/hasura/graphql-engine/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/hasura/graphql-engine/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/hasura/graphql-engine/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/hasura/graphql-engine/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/hasura/graphql-engine/languages",
+    "stargazers_url": "https://api.github.com/repos/hasura/graphql-engine/stargazers",
+    "contributors_url": "https://api.github.com/repos/hasura/graphql-engine/contributors",
+    "subscribers_url": "https://api.github.com/repos/hasura/graphql-engine/subscribers",
+    "subscription_url": "https://api.github.com/repos/hasura/graphql-engine/subscription",
+    "commits_url": "https://api.github.com/repos/hasura/graphql-engine/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/hasura/graphql-engine/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/hasura/graphql-engine/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/hasura/graphql-engine/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/hasura/graphql-engine/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/hasura/graphql-engine/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/hasura/graphql-engine/merges",
+    "archive_url": "https://api.github.com/repos/hasura/graphql-engine/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/hasura/graphql-engine/downloads",
+    "issues_url": "https://api.github.com/repos/hasura/graphql-engine/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/hasura/graphql-engine/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/hasura/graphql-engine/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/hasura/graphql-engine/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/hasura/graphql-engine/labels{/name}",
+    "releases_url": "https://api.github.com/repos/hasura/graphql-engine/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/hasura/graphql-engine/deployments",
+    "created_at": "2018-06-18T07:57:36Z",
+    "updated_at": "2025-01-25T17:19:22Z",
+    "pushed_at": "2025-01-24T15:36:45Z",
+    "git_url": "git://github.com/hasura/graphql-engine.git",
+    "ssh_url": "git@github.com:hasura/graphql-engine.git",
+    "clone_url": "https://github.com/hasura/graphql-engine.git",
+    "svn_url": "https://github.com/hasura/graphql-engine",
+    "homepage": "https://hasura.io",
+    "size": 5155529,
+    "stargazers_count": 31277,
+    "watchers_count": 31277,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 2783,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2364,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "access-control",
+        "api",
+        "automatic-api",
+        "bigquery",
+        "graphql",
+        "graphql-api",
+        "graphql-server",
+        "haskell",
+        "hasura",
+        "mongodb",
+        "postgres",
+        "rest-api",
+        "sql-server",
+        "subgraph",
+        "supergraph"
+    ],
+    "visibility": "public",
+    "forks": 2783,
+    "open_issues": 2364,
+    "watchers": 31277,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.alpha.12-19-2023",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v3.alpha.12-19-2023",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v3.alpha.12-19-2023",
+            "commit": {
+                "sha": "e27e5b7ffe62961c824de5c6b4d5f25edd8b3881",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/e27e5b7ffe62961c824de5c6b4d5f25edd8b3881"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92My5hbHBoYS4xMi0xOS0yMDIz"
+        },
+        {
+            "name": "v2.45.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.45.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.45.1",
+            "commit": {
+                "sha": "5930000cfd306e591d7660fbae0953d8672d923e",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/5930000cfd306e591d7660fbae0953d8672d923e"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40NS4x"
+        },
+        {
+            "name": "v2.45.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.45.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.45.0",
+            "commit": {
+                "sha": "bfb38caee8730381e9f03344acc844a5eb0217cb",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/bfb38caee8730381e9f03344acc844a5eb0217cb"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40NS4w"
+        },
+        {
+            "name": "v2.45.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.45.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.45.0-beta.1",
+            "commit": {
+                "sha": "b2e0c4763035b422c5584d813276ffa23fb6d51d",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/b2e0c4763035b422c5584d813276ffa23fb6d51d"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40NS4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.44.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.44.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.44.1",
+            "commit": {
+                "sha": "ca9b4defc9efbebaacee29cd90a9f21221e83f6f",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/ca9b4defc9efbebaacee29cd90a9f21221e83f6f"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40NC4x"
+        },
+        {
+            "name": "v2.44.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.44.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.44.0",
+            "commit": {
+                "sha": "f7f711b83cafb01d9426a6eae8a179af4eec7c6a",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/f7f711b83cafb01d9426a6eae8a179af4eec7c6a"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40NC4w"
+        },
+        {
+            "name": "v2.44.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.44.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.44.0-beta.1",
+            "commit": {
+                "sha": "c40c84c8a019cd5af2fb5c7605d48c098c4c7042",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/c40c84c8a019cd5af2fb5c7605d48c098c4c7042"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40NC4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.43.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.43.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.43.0",
+            "commit": {
+                "sha": "074920eb4c83332de5a7c841995c264ae4d03a4f",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/074920eb4c83332de5a7c841995c264ae4d03a4f"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40My4w"
+        },
+        {
+            "name": "v2.43.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.43.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.43.0-beta.1",
+            "commit": {
+                "sha": "868fe80f80db0a943a97719123eaae54775a651a",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/868fe80f80db0a943a97719123eaae54775a651a"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40My4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.42.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.42.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.42.0",
+            "commit": {
+                "sha": "13552f6d15a9e54ea1fad4e0c7e400aada1ea701",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/13552f6d15a9e54ea1fad4e0c7e400aada1ea701"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40Mi4w"
+        },
+        {
+            "name": "v2.42.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.42.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.42.0-beta.1",
+            "commit": {
+                "sha": "f210135610c59cb3f274e68d4835e188da7db95d",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/f210135610c59cb3f274e68d4835e188da7db95d"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40Mi4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.41.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.41.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.41.0",
+            "commit": {
+                "sha": "f1bbe5981e1780d53a9d3143d090c1493ad54d30",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/f1bbe5981e1780d53a9d3143d090c1493ad54d30"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MS4w"
+        },
+        {
+            "name": "v2.41.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.41.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.41.0-beta.1",
+            "commit": {
+                "sha": "0a45a68ac2cf361709b4abac9f3beb3e8b72aeb5",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/0a45a68ac2cf361709b4abac9f3beb3e8b72aeb5"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MS4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.40.3",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.40.3",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.40.3",
+            "commit": {
+                "sha": "428dd133310db87fed239f516ad24e1d13c6a036",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/428dd133310db87fed239f516ad24e1d13c6a036"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MC4z"
+        },
+        {
+            "name": "v2.40.2",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.40.2",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.40.2",
+            "commit": {
+                "sha": "64ac4afdbef2ba66cfc30a4a3ffcb41c336e47f3",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/64ac4afdbef2ba66cfc30a4a3ffcb41c336e47f3"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MC4y"
+        },
+        {
+            "name": "v2.40.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.40.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.40.1",
+            "commit": {
+                "sha": "558896b92e897bb7d6ef9976b8d160392115d03d",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/558896b92e897bb7d6ef9976b8d160392115d03d"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MC4x"
+        },
+        {
+            "name": "v2.40.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.40.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.40.0",
+            "commit": {
+                "sha": "d85052f1c41aa10b3db12e455c26fdde6eb09d55",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/d85052f1c41aa10b3db12e455c26fdde6eb09d55"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MC4w"
+        },
+        {
+            "name": "v2.40.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.40.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.40.0-beta.1",
+            "commit": {
+                "sha": "8b5b114f7c8b760435bfd698a3989b8da8fec95e",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/8b5b114f7c8b760435bfd698a3989b8da8fec95e"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi40MC4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.39.2",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.39.2",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.39.2",
+            "commit": {
+                "sha": "362dde0ca3594bd9f263f7cadfb816f0cff1eaaf",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/362dde0ca3594bd9f263f7cadfb816f0cff1eaaf"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOS4y"
+        },
+        {
+            "name": "v2.39.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.39.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.39.1",
+            "commit": {
+                "sha": "2d0071977f4d1174d1b62310db1ce01303d1d9d5",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/2d0071977f4d1174d1b62310db1ce01303d1d9d5"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOS4x"
+        },
+        {
+            "name": "v2.39.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.39.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.39.0",
+            "commit": {
+                "sha": "8c21e7cbde386acd9dfe344fb757d912bee292f2",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/8c21e7cbde386acd9dfe344fb757d912bee292f2"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOS4w"
+        },
+        {
+            "name": "v2.39.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.39.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.39.0-beta.1",
+            "commit": {
+                "sha": "e4d7ac9fe3826560336de540ef1af4c16ee91140",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/e4d7ac9fe3826560336de540ef1af4c16ee91140"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOS4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.38.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.38.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.38.1",
+            "commit": {
+                "sha": "0e9f5d2b886dd35b403b78c0a9faf007f7bb8501",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/0e9f5d2b886dd35b403b78c0a9faf007f7bb8501"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOC4x"
+        },
+        {
+            "name": "v2.38.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.38.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.38.0",
+            "commit": {
+                "sha": "32adce4fe183660af491e37ba8d9c7f9ecbb9fa9",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/32adce4fe183660af491e37ba8d9c7f9ecbb9fa9"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOC4w"
+        },
+        {
+            "name": "v2.38.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.38.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.38.0-beta.1",
+            "commit": {
+                "sha": "0ac35908e3159533c7c78579a14fd40ff94abc7f",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/0ac35908e3159533c7c78579a14fd40ff94abc7f"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zOC4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.37.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.37.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.37.1",
+            "commit": {
+                "sha": "5c192d76ae7b71c644ebc9da5ae4446b1a1ce09e",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/5c192d76ae7b71c644ebc9da5ae4446b1a1ce09e"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zNy4x"
+        },
+        {
+            "name": "v2.37.0",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.37.0",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.37.0",
+            "commit": {
+                "sha": "aab74c8492e27474bdd0d084d0666c3c1c552092",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/aab74c8492e27474bdd0d084d0666c3c1c552092"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zNy4w"
+        },
+        {
+            "name": "v2.37.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.37.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.37.0-beta.1",
+            "commit": {
+                "sha": "6281bb5a2da267414ba2bdf81e6e365ca62c6b1c",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/6281bb5a2da267414ba2bdf81e6e365ca62c6b1c"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zNy4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v2.36.9",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.36.9",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.36.9",
+            "commit": {
+                "sha": "66f0125f2592b6aec97076cf6f94eb47c3a8a357",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/66f0125f2592b6aec97076cf6f94eb47c3a8a357"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zNi45"
+        },
+        {
+            "name": "v2.36.8",
+            "zipball_url": "https://api.github.com/repos/hasura/graphql-engine/zipball/refs/tags/v2.36.8",
+            "tarball_url": "https://api.github.com/repos/hasura/graphql-engine/tarball/refs/tags/v2.36.8",
+            "commit": {
+                "sha": "b41a500e02cca7e9b317aa7cc680b1f78829bafc",
+                "url": "https://api.github.com/repos/hasura/graphql-engine/commits/b41a500e02cca7e9b317aa7cc680b1f78829bafc"
+            },
+            "node_id": "MDM6UmVmMTM3NzI0NDgwOnJlZnMvdGFncy92Mi4zNi44"
+        }
+    ]
+}

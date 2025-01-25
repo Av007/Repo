@@ -1,0 +1,423 @@
+{
+    "id": 616372661,
+    "node_id": "R_kgDOJL0ZtQ",
+    "name": "gpt_academic",
+    "full_name": "binary-husky/gpt_academic",
+    "private": false,
+    "owner": {
+        "login": "binary-husky",
+        "id": 96192199,
+        "node_id": "U_kgDOBbvGxw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96192199?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/binary-husky",
+        "html_url": "https://github.com/binary-husky",
+        "followers_url": "https://api.github.com/users/binary-husky/followers",
+        "following_url": "https://api.github.com/users/binary-husky/following{/other_user}",
+        "gists_url": "https://api.github.com/users/binary-husky/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/binary-husky/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/binary-husky/subscriptions",
+        "organizations_url": "https://api.github.com/users/binary-husky/orgs",
+        "repos_url": "https://api.github.com/users/binary-husky/repos",
+        "events_url": "https://api.github.com/users/binary-husky/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/binary-husky/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/binary-husky/gpt_academic",
+    "description": "\u4e3aGPT/GLM\u7b49LLM\u5927\u8bed\u8a00\u6a21\u578b\u63d0\u4f9b\u5b9e\u7528\u5316\u4ea4\u4e92\u63a5\u53e3\uff0c\u7279\u522b\u4f18\u5316\u8bba\u6587\u9605\u8bfb/\u6da6\u8272/\u5199\u4f5c\u4f53\u9a8c\uff0c\u6a21\u5757\u5316\u8bbe\u8ba1\uff0c\u652f\u6301\u81ea\u5b9a\u4e49\u5feb\u6377\u6309\u94ae&\u51fd\u6570\u63d2\u4ef6\uff0c\u652f\u6301Python\u548cC++\u7b49\u9879\u76ee\u5256\u6790&\u81ea\u8bd1\u89e3\u529f\u80fd\uff0cPDF/LaTex\u8bba\u6587\u7ffb\u8bd1&\u603b\u7ed3\u529f\u80fd\uff0c\u652f\u6301\u5e76\u884c\u95ee\u8be2\u591a\u79cdLLM\u6a21\u578b\uff0c\u652f\u6301chatglm3\u7b49\u672c\u5730\u6a21\u578b\u3002\u63a5\u5165\u901a\u4e49\u5343\u95ee, deepseekcoder, \u8baf\u98de\u661f\u706b, \u6587\u5fc3\u4e00\u8a00, llama2, rwkv, claude2, moss\u7b49\u3002",
+    "fork": false,
+    "url": "https://api.github.com/repos/binary-husky/gpt_academic",
+    "forks_url": "https://api.github.com/repos/binary-husky/gpt_academic/forks",
+    "keys_url": "https://api.github.com/repos/binary-husky/gpt_academic/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/binary-husky/gpt_academic/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/binary-husky/gpt_academic/teams",
+    "hooks_url": "https://api.github.com/repos/binary-husky/gpt_academic/hooks",
+    "issue_events_url": "https://api.github.com/repos/binary-husky/gpt_academic/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/binary-husky/gpt_academic/events",
+    "assignees_url": "https://api.github.com/repos/binary-husky/gpt_academic/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/binary-husky/gpt_academic/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/binary-husky/gpt_academic/tags",
+    "blobs_url": "https://api.github.com/repos/binary-husky/gpt_academic/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/binary-husky/gpt_academic/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/binary-husky/gpt_academic/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/binary-husky/gpt_academic/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/binary-husky/gpt_academic/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/binary-husky/gpt_academic/languages",
+    "stargazers_url": "https://api.github.com/repos/binary-husky/gpt_academic/stargazers",
+    "contributors_url": "https://api.github.com/repos/binary-husky/gpt_academic/contributors",
+    "subscribers_url": "https://api.github.com/repos/binary-husky/gpt_academic/subscribers",
+    "subscription_url": "https://api.github.com/repos/binary-husky/gpt_academic/subscription",
+    "commits_url": "https://api.github.com/repos/binary-husky/gpt_academic/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/binary-husky/gpt_academic/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/binary-husky/gpt_academic/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/binary-husky/gpt_academic/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/binary-husky/gpt_academic/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/binary-husky/gpt_academic/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/binary-husky/gpt_academic/merges",
+    "archive_url": "https://api.github.com/repos/binary-husky/gpt_academic/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/binary-husky/gpt_academic/downloads",
+    "issues_url": "https://api.github.com/repos/binary-husky/gpt_academic/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/binary-husky/gpt_academic/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/binary-husky/gpt_academic/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/binary-husky/gpt_academic/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/binary-husky/gpt_academic/labels{/name}",
+    "releases_url": "https://api.github.com/repos/binary-husky/gpt_academic/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/binary-husky/gpt_academic/deployments",
+    "created_at": "2023-03-20T09:05:13Z",
+    "updated_at": "2025-01-25T15:43:43Z",
+    "pushed_at": "2025-01-21T17:50:40Z",
+    "git_url": "git://github.com/binary-husky/gpt_academic.git",
+    "ssh_url": "git@github.com:binary-husky/gpt_academic.git",
+    "clone_url": "https://github.com/binary-husky/gpt_academic.git",
+    "svn_url": "https://github.com/binary-husky/gpt_academic",
+    "homepage": "https://github.com/binary-husky/gpt_academic/wiki/online",
+    "size": 71425,
+    "stargazers_count": 67107,
+    "watchers_count": 67107,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8240,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 419,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "academic",
+        "chatglm-6b",
+        "chatgpt",
+        "gpt-4",
+        "large-language-models"
+    ],
+    "visibility": "public",
+    "forks": 8240,
+    "open_issues": 419,
+    "watchers": 67107,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "version3.91",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.91",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.91",
+            "commit": {
+                "sha": "8413fb15ba05c4d1bf245a13096e9a2e03777866",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/8413fb15ba05c4d1bf245a13096e9a2e03777866"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuOTE"
+        },
+        {
+            "name": "version3.90",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.90",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.90",
+            "commit": {
+                "sha": "2fe5febaf00257f716c6fe9915f61f006ee8bac3",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/2fe5febaf00257f716c6fe9915f61f006ee8bac3"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuOTA"
+        },
+        {
+            "name": "version3.90patch1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.90patch1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.90patch1",
+            "commit": {
+                "sha": "adbed044e4e85f3efe5af94ae5cb9cf139638c24",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/adbed044e4e85f3efe5af94ae5cb9cf139638c24"
+            },
+            "node_id": "REF_kwDOJL0ZtbtyZWZzL3RhZ3MvdmVyc2lvbjMuOTBwYXRjaDE"
+        },
+        {
+            "name": "version3.83",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.83",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.83",
+            "commit": {
+                "sha": "573dc4d1844705b738d3c830774c4d10dca96fad",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/573dc4d1844705b738d3c830774c4d10dca96fad"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuODM"
+        },
+        {
+            "name": "version3.83-fix-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.83-fix-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.83-fix-1",
+            "commit": {
+                "sha": "f35f6633e0df674128556fdaf7db6e880e7d7f69",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/f35f6633e0df674128556fdaf7db6e880e7d7f69"
+            },
+            "node_id": "REF_kwDOJL0ZtbtyZWZzL3RhZ3MvdmVyc2lvbjMuODMtZml4LTE"
+        },
+        {
+            "name": "version3.75",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.75",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.75",
+            "commit": {
+                "sha": "43ed8cb8a8d582b2a278e70e527bac5324d64b8f",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/43ed8cb8a8d582b2a278e70e527bac5324d64b8f"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNzU"
+        },
+        {
+            "name": "version3.74",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.74",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.74",
+            "commit": {
+                "sha": "163f12c533765fa3093134f9b7357ff9dc281fd2",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/163f12c533765fa3093134f9b7357ff9dc281fd2"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNzQ"
+        },
+        {
+            "name": "version3.70",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.70",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.70",
+            "commit": {
+                "sha": "8565a35cf745d2f52f7bd641f863d509a2c7431e",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/8565a35cf745d2f52f7bd641f863d509a2c7431e"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNzA"
+        },
+        {
+            "name": "version3.64-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.64-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.64-1",
+            "commit": {
+                "sha": "bb431db7d3402d0903f7f0971acfaa445190fe69",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/bb431db7d3402d0903f7f0971acfaa445190fe69"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNjQtMQ"
+        },
+        {
+            "name": "version3.60-3",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.60-3",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.60-3",
+            "commit": {
+                "sha": "1253a2b0a6d9d9a720ed3ec316062f3ff16a1809",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/1253a2b0a6d9d9a720ed3ec316062f3ff16a1809"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNjAtMw"
+        },
+        {
+            "name": "version3.60-2",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.60-2",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.60-2",
+            "commit": {
+                "sha": "c7a0a5f2079bbe85e134b7927a66ce15386927b6",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/c7a0a5f2079bbe85e134b7927a66ce15386927b6"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNjAtMg"
+        },
+        {
+            "name": "version3.60-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.60-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.60-1",
+            "commit": {
+                "sha": "b1be05009bfc7b14478459d96a293252d0afcce3",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/b1be05009bfc7b14478459d96a293252d0afcce3"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNjAtMQ"
+        },
+        {
+            "name": "version3.56",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.56",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.56",
+            "commit": {
+                "sha": "c957cc00f8b16f7e8588eff68113419f7dff2d1b",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/c957cc00f8b16f7e8588eff68113419f7dff2d1b"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNTY"
+        },
+        {
+            "name": "version3.55",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.55",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.55",
+            "commit": {
+                "sha": "491174095a386167329dfa6ca6b1e218cedb41b4",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/491174095a386167329dfa6ca6b1e218cedb41b4"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNTU"
+        },
+        {
+            "name": "version3.55-2",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.55-2",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.55-2",
+            "commit": {
+                "sha": "32ddcd067a93d1673f64aea208a5f397edded66f",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/32ddcd067a93d1673f64aea208a5f397edded66f"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTUtMg"
+        },
+        {
+            "name": "version3.54",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.54",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.54",
+            "commit": {
+                "sha": "0844b6e9cfda2d55a70ca60d89954fd8b91ef81f",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/0844b6e9cfda2d55a70ca60d89954fd8b91ef81f"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNTQ"
+        },
+        {
+            "name": "version3.54-2",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.54-2",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.54-2",
+            "commit": {
+                "sha": "87ccd1a89aa08767436d7b31d9884f6894091b10",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/87ccd1a89aa08767436d7b31d9884f6894091b10"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTQtMg"
+        },
+        {
+            "name": "version3.53",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.53",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.53",
+            "commit": {
+                "sha": "868faf00cc59158efd097bc5788d654b9611ee8e",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/868faf00cc59158efd097bc5788d654b9611ee8e"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNTM"
+        },
+        {
+            "name": "version3.53-2",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.53-2",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.53-2",
+            "commit": {
+                "sha": "5e647ff1497ae9cbf046da6b6adb350604988ef3",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/5e647ff1497ae9cbf046da6b6adb350604988ef3"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTMtMg"
+        },
+        {
+            "name": "version3.53-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.53-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.53-1",
+            "commit": {
+                "sha": "5e647ff1497ae9cbf046da6b6adb350604988ef3",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/5e647ff1497ae9cbf046da6b6adb350604988ef3"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTMtMQ"
+        },
+        {
+            "name": "version3.52",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.52",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.52",
+            "commit": {
+                "sha": "16ff5ddcdc2be805108d8fc70d7b2ec11ba8aea2",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/16ff5ddcdc2be805108d8fc70d7b2ec11ba8aea2"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNTI"
+        },
+        {
+            "name": "version3.52-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.52-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.52-1",
+            "commit": {
+                "sha": "760ff1840ce3b9c71f2ff36f3a2bb78894946f10",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/760ff1840ce3b9c71f2ff36f3a2bb78894946f10"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTItMQ"
+        },
+        {
+            "name": "version3.50",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.50",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.50",
+            "commit": {
+                "sha": "843113ba0f3825e496c2b98c25c6249a2ab87e30",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/843113ba0f3825e496c2b98c25c6249a2ab87e30"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNTA"
+        },
+        {
+            "name": "version3.50-3",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.50-3",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.50-3",
+            "commit": {
+                "sha": "34784333dc29f9c8e8261d1a607c90ac1c3e7ed9",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/34784333dc29f9c8e8261d1a607c90ac1c3e7ed9"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTAtMw"
+        },
+        {
+            "name": "version3.50-2",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.50-2",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.50-2",
+            "commit": {
+                "sha": "2f83b60fb3be02a8ed56a9b11ee35d47bb954ce3",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/2f83b60fb3be02a8ed56a9b11ee35d47bb954ce3"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTAtMg"
+        },
+        {
+            "name": "version3.50-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.50-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.50-1",
+            "commit": {
+                "sha": "f0482d3baeca7bcb066ccf231c2cd61a89a641cc",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/f0482d3baeca7bcb066ccf231c2cd61a89a641cc"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNTAtMQ"
+        },
+        {
+            "name": "version3.48",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.48",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.48",
+            "commit": {
+                "sha": "d16329c1af29a61864b8534fdf4499ca2688ec86",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/d16329c1af29a61864b8534fdf4499ca2688ec86"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNDg"
+        },
+        {
+            "name": "version3.48-1",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.48-1",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.48-1",
+            "commit": {
+                "sha": "5e48fc98ed9b42a3a0a4962f36dbce931b366762",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/5e48fc98ed9b42a3a0a4962f36dbce931b366762"
+            },
+            "node_id": "REF_kwDOJL0ZtbdyZWZzL3RhZ3MvdmVyc2lvbjMuNDgtMQ"
+        },
+        {
+            "name": "version3.47",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.47",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.47",
+            "commit": {
+                "sha": "e4e2430255ea948a96f301110ab2b66ee2eef306",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/e4e2430255ea948a96f301110ab2b66ee2eef306"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNDc"
+        },
+        {
+            "name": "version3.45",
+            "zipball_url": "https://api.github.com/repos/binary-husky/gpt_academic/zipball/refs/tags/version3.45",
+            "tarball_url": "https://api.github.com/repos/binary-husky/gpt_academic/tarball/refs/tags/version3.45",
+            "commit": {
+                "sha": "d364df1cd6ed5ecbc024846df7fb569ee62b2614",
+                "url": "https://api.github.com/repos/binary-husky/gpt_academic/commits/d364df1cd6ed5ecbc024846df7fb569ee62b2614"
+            },
+            "node_id": "REF_kwDOJL0ZtbVyZWZzL3RhZ3MvdmVyc2lvbjMuNDU"
+        }
+    ]
+}

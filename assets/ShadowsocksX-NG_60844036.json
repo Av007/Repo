@@ -1,0 +1,424 @@
+{
+    "id": 60844036,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2MDg0NDAzNg==",
+    "name": "ShadowsocksX-NG",
+    "full_name": "shadowsocks/ShadowsocksX-NG",
+    "private": false,
+    "owner": {
+        "login": "shadowsocks",
+        "id": 3006190,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwMDYxOTA=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3006190?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/shadowsocks",
+        "html_url": "https://github.com/shadowsocks",
+        "followers_url": "https://api.github.com/users/shadowsocks/followers",
+        "following_url": "https://api.github.com/users/shadowsocks/following{/other_user}",
+        "gists_url": "https://api.github.com/users/shadowsocks/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/shadowsocks/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/shadowsocks/subscriptions",
+        "organizations_url": "https://api.github.com/users/shadowsocks/orgs",
+        "repos_url": "https://api.github.com/users/shadowsocks/repos",
+        "events_url": "https://api.github.com/users/shadowsocks/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/shadowsocks/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+    "description": "Next Generation of ShadowsocksX",
+    "fork": false,
+    "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG",
+    "forks_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/forks",
+    "keys_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/teams",
+    "hooks_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/hooks",
+    "issue_events_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/events",
+    "assignees_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tags",
+    "blobs_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/languages",
+    "stargazers_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/stargazers",
+    "contributors_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/contributors",
+    "subscribers_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/subscribers",
+    "subscription_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/subscription",
+    "commits_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/merges",
+    "archive_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/downloads",
+    "issues_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/labels{/name}",
+    "releases_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/deployments",
+    "created_at": "2016-06-10T11:49:00Z",
+    "updated_at": "2025-01-25T16:25:06Z",
+    "pushed_at": "2024-10-29T12:19:30Z",
+    "git_url": "git://github.com/shadowsocks/ShadowsocksX-NG.git",
+    "ssh_url": "git@github.com:shadowsocks/ShadowsocksX-NG.git",
+    "clone_url": "https://github.com/shadowsocks/ShadowsocksX-NG.git",
+    "svn_url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+    "homepage": "",
+    "size": 50660,
+    "stargazers_count": 32576,
+    "watchers_count": 32576,
+    "language": "Swift",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 7935,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 313,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "kcptun",
+        "macos",
+        "shadowsocks",
+        "shadowsocksx-ng",
+        "swift",
+        "v2ray-plugin"
+    ],
+    "visibility": "public",
+    "forks": 7935,
+    "open_issues": 313,
+    "watchers": 32576,
+    "default_branch": "develop",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.10.3",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.10.3",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.10.3",
+            "commit": {
+                "sha": "719203afc60e1dbab00e459ebcfecc468e7700bd",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/719203afc60e1dbab00e459ebcfecc468e7700bd"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjEwLjM="
+        },
+        {
+            "name": "v1.10.2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.10.2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.10.2",
+            "commit": {
+                "sha": "4c731d3dda5d217fd1c45eaac063fa9f9fe1c46e",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/4c731d3dda5d217fd1c45eaac063fa9f9fe1c46e"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjEwLjI="
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "e42131e8e4ecc550df087a5f2cdb8f9fef458123",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/e42131e8e4ecc550df087a5f2cdb8f9fef458123"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjEwLjE="
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "b8eb26caaa7aad338c9f7ae6660c74d7efb0ce04",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/b8eb26caaa7aad338c9f7ae6660c74d7efb0ce04"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjEwLjA="
+        },
+        {
+            "name": "v1.9.4",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.9.4",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.9.4",
+            "commit": {
+                "sha": "2357b07fdc2b8c82b7d40e73a9e4b20ca400c8f7",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/2357b07fdc2b8c82b7d40e73a9e4b20ca400c8f7"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjkuNA=="
+        },
+        {
+            "name": "v1.9.3",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.9.3",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.9.3",
+            "commit": {
+                "sha": "3fa0945116a77ac230119e9178868016bde1f191",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/3fa0945116a77ac230119e9178868016bde1f191"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjkuMw=="
+        },
+        {
+            "name": "v1.9.2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.9.2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.9.2",
+            "commit": {
+                "sha": "8c8dc9efb49a09e41505952bf2ca7bb63994bbc4",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/8c8dc9efb49a09e41505952bf2ca7bb63994bbc4"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjkuMg=="
+        },
+        {
+            "name": "v1.9.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.9.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.9.1",
+            "commit": {
+                "sha": "f257550526b65c27a87b417e5738d36a8079754b",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/f257550526b65c27a87b417e5738d36a8079754b"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjkuMQ=="
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "97ba0d08e6bfbf20cd9ef5fc5c7b8ec5b10964cc",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/97ba0d08e6bfbf20cd9ef5fc5c7b8ec5b10964cc"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjkuMA=="
+        },
+        {
+            "name": "v1.8.2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.8.2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.8.2",
+            "commit": {
+                "sha": "bbefbadb67bd41a829f64340ea0df0f8fe6c8dde",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/bbefbadb67bd41a829f64340ea0df0f8fe6c8dde"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjguMg=="
+        },
+        {
+            "name": "v1.8.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.8.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.8.1",
+            "commit": {
+                "sha": "bc57db4502fa68bc95e02a685527d1ddcd268283",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/bc57db4502fa68bc95e02a685527d1ddcd268283"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjguMQ=="
+        },
+        {
+            "name": "v1.8.0",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.8.0",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.8.0",
+            "commit": {
+                "sha": "30d7e453e278016eeef7f5cbcde8186952baa30d",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/30d7e453e278016eeef7f5cbcde8186952baa30d"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjguMA=="
+        },
+        {
+            "name": "v1.7.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.7.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.7.1",
+            "commit": {
+                "sha": "5062c697e07bb073eabe76bef36d8d2c7fc4245c",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/5062c697e07bb073eabe76bef36d8d2c7fc4245c"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjcuMQ=="
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "3b724d75f16a0eed717a60555e7627dbe4539ce1",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/3b724d75f16a0eed717a60555e7627dbe4539ce1"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjcuMA=="
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "959c82483af720c83cfc747aeab234b111143592",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/959c82483af720c83cfc747aeab234b111143592"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjYuMQ=="
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "9cae12aae552b03860255103dcd17427c83da134",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/9cae12aae552b03860255103dcd17427c83da134"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjYuMA=="
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "fd99f1613038f83bed9adbe65e7cc8cf3e29e816",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/fd99f1613038f83bed9adbe65e7cc8cf3e29e816"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjUuMQ=="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "037366ff4483c2eab8a7154e534fb275fd83ad89",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/037366ff4483c2eab8a7154e534fb275fd83ad89"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjUuMA=="
+        },
+        {
+            "name": "v1.5-beta.2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.5-beta.2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.5-beta.2",
+            "commit": {
+                "sha": "5ce5b191c978a538d15f0a9108a9683a3996017a",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/5ce5b191c978a538d15f0a9108a9683a3996017a"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjUtYmV0YS4y"
+        },
+        {
+            "name": "v1.5-beta",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.5-beta",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.5-beta",
+            "commit": {
+                "sha": "6c73432eed98be91d86933d16bc873a0ab0b609f",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/6c73432eed98be91d86933d16bc873a0ab0b609f"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjUtYmV0YQ=="
+        },
+        {
+            "name": "v1.5-alpha",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.5-alpha",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.5-alpha",
+            "commit": {
+                "sha": "63afe0a32539ce52aa5a80e3c84fa918773954ff",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/63afe0a32539ce52aa5a80e3c84fa918773954ff"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjUtYWxwaGE="
+        },
+        {
+            "name": "v1.4",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.4",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.4",
+            "commit": {
+                "sha": "bc17592ad65d7a5d770a8bd3183529ce953d97ed",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/bc17592ad65d7a5d770a8bd3183529ce953d97ed"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjQ="
+        },
+        {
+            "name": "v1.4-beta",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.4-beta",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.4-beta",
+            "commit": {
+                "sha": "e481860075d874ac5d99d12c9089c148f4feab06",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/e481860075d874ac5d99d12c9089c148f4feab06"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjQtYmV0YQ=="
+        },
+        {
+            "name": "v1.4-alpha",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.4-alpha",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.4-alpha",
+            "commit": {
+                "sha": "59f914febeb8a28477327a84e98169a56aef3ebb",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/59f914febeb8a28477327a84e98169a56aef3ebb"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjQtYWxwaGE="
+        },
+        {
+            "name": "v1.0-beta2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.0-beta2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.0-beta2",
+            "commit": {
+                "sha": "a28612b1c33aa0c1a5e8d26c6aae4948dcbe1e6f",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/a28612b1c33aa0c1a5e8d26c6aae4948dcbe1e6f"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjAtYmV0YTI="
+        },
+        {
+            "name": "v1.0-beta",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/v1.0-beta",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/v1.0-beta",
+            "commit": {
+                "sha": "98e3fb6bea192622250bb2c0c61e4e4932dcda87",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/98e3fb6bea192622250bb2c0c61e4e4932dcda87"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzL3YxLjAtYmV0YQ=="
+        },
+        {
+            "name": "1.3.2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/1.3.2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/1.3.2",
+            "commit": {
+                "sha": "9e231a7b343fb2a3dab8669ab5a529f7efcac2a1",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/9e231a7b343fb2a3dab8669ab5a529f7efcac2a1"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzLzEuMy4y"
+        },
+        {
+            "name": "1.3.1",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/1.3.1",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/1.3.1",
+            "commit": {
+                "sha": "713bcae7b1696476cfb97d1a064af2d844379728",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/713bcae7b1696476cfb97d1a064af2d844379728"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzLzEuMy4x"
+        },
+        {
+            "name": "1.3",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/1.3",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/1.3",
+            "commit": {
+                "sha": "8ba816300c1d726f3a1d5d2cda5d39e4c6679d0f",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/8ba816300c1d726f3a1d5d2cda5d39e4c6679d0f"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzLzEuMw=="
+        },
+        {
+            "name": "1.2",
+            "zipball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/zipball/refs/tags/1.2",
+            "tarball_url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/tarball/refs/tags/1.2",
+            "commit": {
+                "sha": "f03287ec0e449a97767ef0975b2df535a72c73ff",
+                "url": "https://api.github.com/repos/shadowsocks/ShadowsocksX-NG/commits/f03287ec0e449a97767ef0975b2df535a72c73ff"
+            },
+            "node_id": "MDM6UmVmNjA4NDQwMzY6cmVmcy90YWdzLzEuMg=="
+        }
+    ]
+}

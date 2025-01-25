@@ -1,0 +1,427 @@
+{
+    "id": 4793392,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0NzkzMzky",
+    "name": "sqlmap",
+    "full_name": "sqlmapproject/sqlmap",
+    "private": false,
+    "owner": {
+        "login": "sqlmapproject",
+        "id": 735289,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjczNTI4OQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/735289?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sqlmapproject",
+        "html_url": "https://github.com/sqlmapproject",
+        "followers_url": "https://api.github.com/users/sqlmapproject/followers",
+        "following_url": "https://api.github.com/users/sqlmapproject/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sqlmapproject/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sqlmapproject/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sqlmapproject/subscriptions",
+        "organizations_url": "https://api.github.com/users/sqlmapproject/orgs",
+        "repos_url": "https://api.github.com/users/sqlmapproject/repos",
+        "events_url": "https://api.github.com/users/sqlmapproject/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sqlmapproject/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "description": "Automatic SQL injection and database takeover tool",
+    "fork": false,
+    "url": "https://api.github.com/repos/sqlmapproject/sqlmap",
+    "forks_url": "https://api.github.com/repos/sqlmapproject/sqlmap/forks",
+    "keys_url": "https://api.github.com/repos/sqlmapproject/sqlmap/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/sqlmapproject/sqlmap/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/sqlmapproject/sqlmap/teams",
+    "hooks_url": "https://api.github.com/repos/sqlmapproject/sqlmap/hooks",
+    "issue_events_url": "https://api.github.com/repos/sqlmapproject/sqlmap/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/sqlmapproject/sqlmap/events",
+    "assignees_url": "https://api.github.com/repos/sqlmapproject/sqlmap/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/sqlmapproject/sqlmap/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tags",
+    "blobs_url": "https://api.github.com/repos/sqlmapproject/sqlmap/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/sqlmapproject/sqlmap/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/sqlmapproject/sqlmap/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/sqlmapproject/sqlmap/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/sqlmapproject/sqlmap/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/sqlmapproject/sqlmap/languages",
+    "stargazers_url": "https://api.github.com/repos/sqlmapproject/sqlmap/stargazers",
+    "contributors_url": "https://api.github.com/repos/sqlmapproject/sqlmap/contributors",
+    "subscribers_url": "https://api.github.com/repos/sqlmapproject/sqlmap/subscribers",
+    "subscription_url": "https://api.github.com/repos/sqlmapproject/sqlmap/subscription",
+    "commits_url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/sqlmapproject/sqlmap/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/sqlmapproject/sqlmap/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/sqlmapproject/sqlmap/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/sqlmapproject/sqlmap/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/sqlmapproject/sqlmap/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/sqlmapproject/sqlmap/merges",
+    "archive_url": "https://api.github.com/repos/sqlmapproject/sqlmap/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/sqlmapproject/sqlmap/downloads",
+    "issues_url": "https://api.github.com/repos/sqlmapproject/sqlmap/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/sqlmapproject/sqlmap/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/sqlmapproject/sqlmap/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/sqlmapproject/sqlmap/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/sqlmapproject/sqlmap/labels{/name}",
+    "releases_url": "https://api.github.com/repos/sqlmapproject/sqlmap/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/sqlmapproject/sqlmap/deployments",
+    "created_at": "2012-06-26T09:52:15Z",
+    "updated_at": "2025-01-25T14:07:21Z",
+    "pushed_at": "2025-01-02T00:12:47Z",
+    "git_url": "git://github.com/sqlmapproject/sqlmap.git",
+    "ssh_url": "git@github.com:sqlmapproject/sqlmap.git",
+    "clone_url": "https://github.com/sqlmapproject/sqlmap.git",
+    "svn_url": "https://github.com/sqlmapproject/sqlmap",
+    "homepage": "http://sqlmap.org",
+    "size": 83879,
+    "stargazers_count": 33131,
+    "watchers_count": 33131,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 5778,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 65,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "database",
+        "detection",
+        "exploitation",
+        "pentesting",
+        "python",
+        "sql-injection",
+        "sqlmap",
+        "takeover",
+        "vulnerability-scanner"
+    ],
+    "visibility": "public",
+    "forks": 5778,
+    "open_issues": 65,
+    "watchers": 33131,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "1.9",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.9",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.9",
+            "commit": {
+                "sha": "fee62ae14c15e555662b1d1099304add3eff3b1c",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/fee62ae14c15e555662b1d1099304add3eff3b1c"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS45"
+        },
+        {
+            "name": "1.8.12",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.12",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.12",
+            "commit": {
+                "sha": "7584a6742223f13706255be9fa74ec717ab2e24d",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/7584a6742223f13706255be9fa74ec717ab2e24d"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjEy"
+        },
+        {
+            "name": "1.8.11",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.11",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.11",
+            "commit": {
+                "sha": "22ddd4e8439cad81a1cdfe8dd0515907d128adb8",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/22ddd4e8439cad81a1cdfe8dd0515907d128adb8"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjEx"
+        },
+        {
+            "name": "1.8.10",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.10",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.10",
+            "commit": {
+                "sha": "db2c6bc546f247f95127b6afef21a682bc15d307",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/db2c6bc546f247f95127b6afef21a682bc15d307"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjEw"
+        },
+        {
+            "name": "1.8.9",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.9",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.9",
+            "commit": {
+                "sha": "944e90dad5b72eb6e68e3829823dacb88f0cc91a",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/944e90dad5b72eb6e68e3829823dacb88f0cc91a"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44Ljk="
+        },
+        {
+            "name": "1.8.8",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.8",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.8",
+            "commit": {
+                "sha": "8b5564463177f0b46b7171b460a74b7be42b8cd0",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/8b5564463177f0b46b7171b460a74b7be42b8cd0"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44Ljg="
+        },
+        {
+            "name": "1.8.7",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.7",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.7",
+            "commit": {
+                "sha": "1d17e2a942f262794c61d0f5aeeb69afbf54d929",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/1d17e2a942f262794c61d0f5aeeb69afbf54d929"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44Ljc="
+        },
+        {
+            "name": "1.8.6",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.6",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.6",
+            "commit": {
+                "sha": "2b3af646496bece226e937e0bb6bef6ccb186dde",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/2b3af646496bece226e937e0bb6bef6ccb186dde"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjY="
+        },
+        {
+            "name": "1.8.5",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.5",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.5",
+            "commit": {
+                "sha": "9bbf70790cee30cc3e6b23cd7d9fc9981398d8ad",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/9bbf70790cee30cc3e6b23cd7d9fc9981398d8ad"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjU="
+        },
+        {
+            "name": "1.8.4",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.4",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.4",
+            "commit": {
+                "sha": "5c9a5943e7753c01bb5376397d4091f0d535393a",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/5c9a5943e7753c01bb5376397d4091f0d535393a"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjQ="
+        },
+        {
+            "name": "1.8.3",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.3",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.3",
+            "commit": {
+                "sha": "626b310e7e11519cceb1596293aa350512ae96ee",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/626b310e7e11519cceb1596293aa350512ae96ee"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjM="
+        },
+        {
+            "name": "1.8.2",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.2",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.2",
+            "commit": {
+                "sha": "ae1bd2136a40fcd01f9297318d7981f72ddf5dcc",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/ae1bd2136a40fcd01f9297318d7981f72ddf5dcc"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjI="
+        },
+        {
+            "name": "1.8.1",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8.1",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8.1",
+            "commit": {
+                "sha": "585a13d89bd75562981fd3c1d8573de2f5dc289b",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/585a13d89bd75562981fd3c1d8573de2f5dc289b"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44LjE="
+        },
+        {
+            "name": "1.8",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.8",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.8",
+            "commit": {
+                "sha": "f94ab0f650fbaee68e928a9801648f9881a1ae80",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/f94ab0f650fbaee68e928a9801648f9881a1ae80"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS44"
+        },
+        {
+            "name": "1.7.12",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.12",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.12",
+            "commit": {
+                "sha": "29f09e235c4f37a74307f201d2883a202ce8f7a9",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/29f09e235c4f37a74307f201d2883a202ce8f7a9"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjEy"
+        },
+        {
+            "name": "1.7.11",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.11",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.11",
+            "commit": {
+                "sha": "124c3902cca07c1850dd081d79eab8784e236d35",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/124c3902cca07c1850dd081d79eab8784e236d35"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjEx"
+        },
+        {
+            "name": "1.7.10",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.10",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.10",
+            "commit": {
+                "sha": "1740f6332e96fb85585e185d5c47aebbb78740c1",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/1740f6332e96fb85585e185d5c47aebbb78740c1"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjEw"
+        },
+        {
+            "name": "1.7.9",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.9",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.9",
+            "commit": {
+                "sha": "be118e861ca926246512aebc8f7f8aa96ee04d16",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/be118e861ca926246512aebc8f7f8aa96ee04d16"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43Ljk="
+        },
+        {
+            "name": "1.7.8",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.8",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.8",
+            "commit": {
+                "sha": "21878560eecf2bf123ea65e6ca0869c07540da9f",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/21878560eecf2bf123ea65e6ca0869c07540da9f"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43Ljg="
+        },
+        {
+            "name": "1.7.7",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.7",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.7",
+            "commit": {
+                "sha": "bb48dd037f04d60d5d2804657f44444eefa07f93",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/bb48dd037f04d60d5d2804657f44444eefa07f93"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43Ljc="
+        },
+        {
+            "name": "1.7.6",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.6",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.6",
+            "commit": {
+                "sha": "153a40bf137a9127265921bd6d8a3aca404d74bf",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/153a40bf137a9127265921bd6d8a3aca404d74bf"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjY="
+        },
+        {
+            "name": "1.7.5",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.5",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.5",
+            "commit": {
+                "sha": "8bc2ace0940ea97710c7a455d9f3c13f02444e16",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/8bc2ace0940ea97710c7a455d9f3c13f02444e16"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjU="
+        },
+        {
+            "name": "1.7.4",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.4",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.4",
+            "commit": {
+                "sha": "7d763e224a9b5e89dcccaa4db7f932ddcd2b43ef",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/7d763e224a9b5e89dcccaa4db7f932ddcd2b43ef"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjQ="
+        },
+        {
+            "name": "1.7.3",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.3",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.3",
+            "commit": {
+                "sha": "323af987ed498d7605a9207bf15f3c32cc972764",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/323af987ed498d7605a9207bf15f3c32cc972764"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjM="
+        },
+        {
+            "name": "1.7.2",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.2",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.2",
+            "commit": {
+                "sha": "45852431754c95be3c6fc03b8de990bb13deaef6",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/45852431754c95be3c6fc03b8de990bb13deaef6"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjI="
+        },
+        {
+            "name": "1.7.1",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7.1",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7.1",
+            "commit": {
+                "sha": "c84f141b89919325a4dc06561136a0dc4068b714",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/c84f141b89919325a4dc06561136a0dc4068b714"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43LjE="
+        },
+        {
+            "name": "1.7",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.7",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.7",
+            "commit": {
+                "sha": "05293e01a4012d9ba09ec66343aa0c14f7a492f7",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/05293e01a4012d9ba09ec66343aa0c14f7a492f7"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS43"
+        },
+        {
+            "name": "1.6.12",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.6.12",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.6.12",
+            "commit": {
+                "sha": "33a6547f5b8362c7fc5c9dd6e04f1ee0aa1a73c7",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/33a6547f5b8362c7fc5c9dd6e04f1ee0aa1a73c7"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS42LjEy"
+        },
+        {
+            "name": "1.6.11",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.6.11",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.6.11",
+            "commit": {
+                "sha": "85f25c90bbf8fe4078e12033803d36dddc6a0e8e",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/85f25c90bbf8fe4078e12033803d36dddc6a0e8e"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS42LjEx"
+        },
+        {
+            "name": "1.6.10",
+            "zipball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/zipball/refs/tags/1.6.10",
+            "tarball_url": "https://api.github.com/repos/sqlmapproject/sqlmap/tarball/refs/tags/1.6.10",
+            "commit": {
+                "sha": "9c103b3dd698eb63c2eb7f76e1fe35f1b86098cc",
+                "url": "https://api.github.com/repos/sqlmapproject/sqlmap/commits/9c103b3dd698eb63c2eb7f76e1fe35f1b86098cc"
+            },
+            "node_id": "MDM6UmVmNDc5MzM5MjpyZWZzL3RhZ3MvMS42LjEw"
+        }
+    ]
+}

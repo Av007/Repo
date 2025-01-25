@@ -1,0 +1,436 @@
+{
+    "id": 119162419,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTkxNjI0MTk=",
+    "name": "next-auth",
+    "full_name": "nextauthjs/next-auth",
+    "private": false,
+    "owner": {
+        "login": "nextauthjs",
+        "id": 67470890,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NDcwODkw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/67470890?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nextauthjs",
+        "html_url": "https://github.com/nextauthjs",
+        "followers_url": "https://api.github.com/users/nextauthjs/followers",
+        "following_url": "https://api.github.com/users/nextauthjs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nextauthjs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nextauthjs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nextauthjs/subscriptions",
+        "organizations_url": "https://api.github.com/users/nextauthjs/orgs",
+        "repos_url": "https://api.github.com/users/nextauthjs/repos",
+        "events_url": "https://api.github.com/users/nextauthjs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nextauthjs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/nextauthjs/next-auth",
+    "description": "Authentication for the Web.",
+    "fork": false,
+    "url": "https://api.github.com/repos/nextauthjs/next-auth",
+    "forks_url": "https://api.github.com/repos/nextauthjs/next-auth/forks",
+    "keys_url": "https://api.github.com/repos/nextauthjs/next-auth/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/nextauthjs/next-auth/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/nextauthjs/next-auth/teams",
+    "hooks_url": "https://api.github.com/repos/nextauthjs/next-auth/hooks",
+    "issue_events_url": "https://api.github.com/repos/nextauthjs/next-auth/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/nextauthjs/next-auth/events",
+    "assignees_url": "https://api.github.com/repos/nextauthjs/next-auth/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/nextauthjs/next-auth/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/nextauthjs/next-auth/tags",
+    "blobs_url": "https://api.github.com/repos/nextauthjs/next-auth/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/nextauthjs/next-auth/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/nextauthjs/next-auth/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/nextauthjs/next-auth/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/nextauthjs/next-auth/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/nextauthjs/next-auth/languages",
+    "stargazers_url": "https://api.github.com/repos/nextauthjs/next-auth/stargazers",
+    "contributors_url": "https://api.github.com/repos/nextauthjs/next-auth/contributors",
+    "subscribers_url": "https://api.github.com/repos/nextauthjs/next-auth/subscribers",
+    "subscription_url": "https://api.github.com/repos/nextauthjs/next-auth/subscription",
+    "commits_url": "https://api.github.com/repos/nextauthjs/next-auth/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/nextauthjs/next-auth/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/nextauthjs/next-auth/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/nextauthjs/next-auth/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/nextauthjs/next-auth/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/nextauthjs/next-auth/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/nextauthjs/next-auth/merges",
+    "archive_url": "https://api.github.com/repos/nextauthjs/next-auth/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/nextauthjs/next-auth/downloads",
+    "issues_url": "https://api.github.com/repos/nextauthjs/next-auth/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/nextauthjs/next-auth/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/nextauthjs/next-auth/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/nextauthjs/next-auth/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/nextauthjs/next-auth/labels{/name}",
+    "releases_url": "https://api.github.com/repos/nextauthjs/next-auth/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/nextauthjs/next-auth/deployments",
+    "created_at": "2018-01-27T12:28:16Z",
+    "updated_at": "2025-01-25T16:23:52Z",
+    "pushed_at": "2025-01-22T00:03:10Z",
+    "git_url": "git://github.com/nextauthjs/next-auth.git",
+    "ssh_url": "git@github.com:nextauthjs/next-auth.git",
+    "clone_url": "https://github.com/nextauthjs/next-auth.git",
+    "svn_url": "https://github.com/nextauthjs/next-auth",
+    "homepage": "https://authjs.dev",
+    "size": 68267,
+    "stargazers_count": 25692,
+    "watchers_count": 25692,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 3657,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 417,
+    "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdx_id": "ISC",
+        "url": "https://api.github.com/licenses/isc",
+        "node_id": "MDc6TGljZW5zZTEw"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "auth",
+        "authentication",
+        "csrf",
+        "jwt",
+        "nextauth",
+        "nextjs",
+        "nodejs",
+        "nuxt",
+        "nuxt-auth",
+        "oauth",
+        "oauth2",
+        "oidc",
+        "react",
+        "remix-auth",
+        "solid-auth",
+        "solidjs",
+        "sveltekit",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 3657,
+    "open_issues": 417,
+    "watchers": 25692,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.2.1",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.2.1",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.2.1",
+            "commit": {
+                "sha": "f7fc562b4946c705ca19244a6b8db43d9a0ed6a0",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/f7fc562b4946c705ca19244a6b8db43d9a0ed6a0"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4yLjE="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "f3be5e87f6fa2bdd6f633ed1adfa3bc59579eadc",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/f3be5e87f6fa2bdd6f633ed1adfa3bc59579eadc"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4yLjA="
+        },
+        {
+            "name": "v4.1.2",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.1.2",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.1.2",
+            "commit": {
+                "sha": "59985264a2dff7059c623c3bf440128cd58300be",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/59985264a2dff7059c623c3bf440128cd58300be"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4xLjI="
+        },
+        {
+            "name": "v4.1.1",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.1.1",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.1.1",
+            "commit": {
+                "sha": "c844296982fec29ff9e9c8e4621cb1d943eda6a6",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/c844296982fec29ff9e9c8e4621cb1d943eda6a6"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4xLjE="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "82447f8e3ebc7004cf91121725b4f5970d2276d8",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/82447f8e3ebc7004cf91121725b4f5970d2276d8"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4xLjA="
+        },
+        {
+            "name": "v4.1.0-next.2",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.1.0-next.2",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.1.0-next.2",
+            "commit": {
+                "sha": "cee0f100f3ee51d9d62cad1f06f4d0759f191f93",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/cee0f100f3ee51d9d62cad1f06f4d0759f191f93"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4xLjAtbmV4dC4y"
+        },
+        {
+            "name": "v4.1.0-next.1",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.1.0-next.1",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.1.0-next.1",
+            "commit": {
+                "sha": "10f3848940a53a6fd22aaadccecd33936faef861",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/10f3848940a53a6fd22aaadccecd33936faef861"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4xLjAtbmV4dC4x"
+        },
+        {
+            "name": "v4.0.6",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.6",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.6",
+            "commit": {
+                "sha": "0e8be0c7d28b7304277868804cb20bd128b73d47",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/0e8be0c7d28b7304277868804cb20bd128b73d47"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjY="
+        },
+        {
+            "name": "v4.0.5",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.5",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.5",
+            "commit": {
+                "sha": "30a0fc6bc0246b30eb03c19b8a0ceb6c040c1b2e",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/30a0fc6bc0246b30eb03c19b8a0ceb6c040c1b2e"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjU="
+        },
+        {
+            "name": "v4.0.4",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.4",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.4",
+            "commit": {
+                "sha": "1c7fe57edbee2e0247a087a8bc7686c1f5dbac62",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/1c7fe57edbee2e0247a087a8bc7686c1f5dbac62"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjQ="
+        },
+        {
+            "name": "v4.0.3",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.3",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.3",
+            "commit": {
+                "sha": "59797bbdef5ce19f2f8326c8027c8edc06037beb",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/59797bbdef5ce19f2f8326c8027c8edc06037beb"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjM="
+        },
+        {
+            "name": "v4.0.2",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.2",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.2",
+            "commit": {
+                "sha": "4dcdb62dcabad8cbc14a5357cf6c5690bb12c3d1",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/4dcdb62dcabad8cbc14a5357cf6c5690bb12c3d1"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjI="
+        },
+        {
+            "name": "v4.0.1",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.1",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.1",
+            "commit": {
+                "sha": "fedb84872d8b54004e38cc60d6367e2debe77b52",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/fedb84872d8b54004e38cc60d6367e2debe77b52"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjE="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "29b67b664785ba086008159e69c5e22969f69b48",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/29b67b664785ba086008159e69c5e22969f69b48"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjA="
+        },
+        {
+            "name": "v4.0.0-next.26",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.26",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.26",
+            "commit": {
+                "sha": "245567bb98adbc7d918b535b311e990d209cfcdf",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/245567bb98adbc7d918b535b311e990d209cfcdf"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yNg=="
+        },
+        {
+            "name": "v4.0.0-next.25",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.25",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.25",
+            "commit": {
+                "sha": "08349c3a8b77befd63dfb99a3d9fca53ed53dc53",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/08349c3a8b77befd63dfb99a3d9fca53ed53dc53"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yNQ=="
+        },
+        {
+            "name": "v4.0.0-next.24",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.24",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.24",
+            "commit": {
+                "sha": "eb8ba69d3b2b85ebef1dccb93d7d2f432d5081e6",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/eb8ba69d3b2b85ebef1dccb93d7d2f432d5081e6"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yNA=="
+        },
+        {
+            "name": "v4.0.0-next.23",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.23",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.23",
+            "commit": {
+                "sha": "78d8f289682b5afed5ae2b5acc0686c4e2856df1",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/78d8f289682b5afed5ae2b5acc0686c4e2856df1"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yMw=="
+        },
+        {
+            "name": "v4.0.0-next.22",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.22",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.22",
+            "commit": {
+                "sha": "8914f88cd7e3b5a990a4984e3473cdbddecda267",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/8914f88cd7e3b5a990a4984e3473cdbddecda267"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yMg=="
+        },
+        {
+            "name": "v4.0.0-next.21",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.21",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.21",
+            "commit": {
+                "sha": "92b9d223096c8a209788e7bd165fdee1a3bfa745",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/92b9d223096c8a209788e7bd165fdee1a3bfa745"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yMQ=="
+        },
+        {
+            "name": "v4.0.0-next.20",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.20",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.20",
+            "commit": {
+                "sha": "7c65bda6f139a29ec8ed25bb483f934172089a4b",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/7c65bda6f139a29ec8ed25bb483f934172089a4b"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4yMA=="
+        },
+        {
+            "name": "v4.0.0-next.19",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.19",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.19",
+            "commit": {
+                "sha": "acc9393560972ab40c590ebc7b822eef8e1fd907",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/acc9393560972ab40c590ebc7b822eef8e1fd907"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xOQ=="
+        },
+        {
+            "name": "v4.0.0-next.18",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.18",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.18",
+            "commit": {
+                "sha": "a2e5afa16252335a0186fce304ebd466207a38c7",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/a2e5afa16252335a0186fce304ebd466207a38c7"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xOA=="
+        },
+        {
+            "name": "v4.0.0-next.17",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.17",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.17",
+            "commit": {
+                "sha": "2833b661bdb93f69aad5ee5fd4495df43d173ae5",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/2833b661bdb93f69aad5ee5fd4495df43d173ae5"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xNw=="
+        },
+        {
+            "name": "v4.0.0-next.16",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.16",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.16",
+            "commit": {
+                "sha": "6c1a0ec6208cd7690c2b56440415599d54c36f10",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/6c1a0ec6208cd7690c2b56440415599d54c36f10"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xNg=="
+        },
+        {
+            "name": "v4.0.0-next.15",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.15",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.15",
+            "commit": {
+                "sha": "d10bd9beba5d4cd5ecafab459e1d39140d6c9add",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/d10bd9beba5d4cd5ecafab459e1d39140d6c9add"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xNQ=="
+        },
+        {
+            "name": "v4.0.0-next.14",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.14",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.14",
+            "commit": {
+                "sha": "86ff89e2961e61187a35dfeef52ecea1083d2d8a",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/86ff89e2961e61187a35dfeef52ecea1083d2d8a"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xNA=="
+        },
+        {
+            "name": "v4.0.0-next.13",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.13",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.13",
+            "commit": {
+                "sha": "abaa5aed650cc3cab61a5aceff0ec8322ac22b5a",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/abaa5aed650cc3cab61a5aceff0ec8322ac22b5a"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xMw=="
+        },
+        {
+            "name": "v4.0.0-next.12",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.12",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.12",
+            "commit": {
+                "sha": "ca0ed1e2a8cdf9b6656941074ce51ac87f018872",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/ca0ed1e2a8cdf9b6656941074ce51ac87f018872"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xMg=="
+        },
+        {
+            "name": "v4.0.0-next.11",
+            "zipball_url": "https://api.github.com/repos/nextauthjs/next-auth/zipball/refs/tags/v4.0.0-next.11",
+            "tarball_url": "https://api.github.com/repos/nextauthjs/next-auth/tarball/refs/tags/v4.0.0-next.11",
+            "commit": {
+                "sha": "ed345346db03fbafef3fa9c58a1a7b3639da41b5",
+                "url": "https://api.github.com/repos/nextauthjs/next-auth/commits/ed345346db03fbafef3fa9c58a1a7b3639da41b5"
+            },
+            "node_id": "MDM6UmVmMTE5MTYyNDE5OnJlZnMvdGFncy92NC4wLjAtbmV4dC4xMQ=="
+        }
+    ]
+}

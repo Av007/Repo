@@ -1,0 +1,425 @@
+{
+    "id": 33263118,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzMzI2MzExOA==",
+    "name": "uBlock",
+    "full_name": "gorhill/uBlock",
+    "private": false,
+    "owner": {
+        "login": "gorhill",
+        "id": 585534,
+        "node_id": "MDQ6VXNlcjU4NTUzNA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/585534?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gorhill",
+        "html_url": "https://github.com/gorhill",
+        "followers_url": "https://api.github.com/users/gorhill/followers",
+        "following_url": "https://api.github.com/users/gorhill/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gorhill/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gorhill/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gorhill/subscriptions",
+        "organizations_url": "https://api.github.com/users/gorhill/orgs",
+        "repos_url": "https://api.github.com/users/gorhill/repos",
+        "events_url": "https://api.github.com/users/gorhill/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gorhill/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "fork": false,
+    "url": "https://api.github.com/repos/gorhill/uBlock",
+    "forks_url": "https://api.github.com/repos/gorhill/uBlock/forks",
+    "keys_url": "https://api.github.com/repos/gorhill/uBlock/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/gorhill/uBlock/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/gorhill/uBlock/teams",
+    "hooks_url": "https://api.github.com/repos/gorhill/uBlock/hooks",
+    "issue_events_url": "https://api.github.com/repos/gorhill/uBlock/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/gorhill/uBlock/events",
+    "assignees_url": "https://api.github.com/repos/gorhill/uBlock/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/gorhill/uBlock/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/gorhill/uBlock/tags",
+    "blobs_url": "https://api.github.com/repos/gorhill/uBlock/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/gorhill/uBlock/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/gorhill/uBlock/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/gorhill/uBlock/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/gorhill/uBlock/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/gorhill/uBlock/languages",
+    "stargazers_url": "https://api.github.com/repos/gorhill/uBlock/stargazers",
+    "contributors_url": "https://api.github.com/repos/gorhill/uBlock/contributors",
+    "subscribers_url": "https://api.github.com/repos/gorhill/uBlock/subscribers",
+    "subscription_url": "https://api.github.com/repos/gorhill/uBlock/subscription",
+    "commits_url": "https://api.github.com/repos/gorhill/uBlock/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/gorhill/uBlock/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/gorhill/uBlock/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/gorhill/uBlock/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/gorhill/uBlock/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/gorhill/uBlock/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/gorhill/uBlock/merges",
+    "archive_url": "https://api.github.com/repos/gorhill/uBlock/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/gorhill/uBlock/downloads",
+    "issues_url": "https://api.github.com/repos/gorhill/uBlock/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/gorhill/uBlock/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/gorhill/uBlock/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/gorhill/uBlock/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/gorhill/uBlock/labels{/name}",
+    "releases_url": "https://api.github.com/repos/gorhill/uBlock/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/gorhill/uBlock/deployments",
+    "created_at": "2015-04-01T17:51:11Z",
+    "updated_at": "2025-01-25T16:48:57Z",
+    "pushed_at": "2025-01-19T14:36:52Z",
+    "git_url": "git://github.com/gorhill/uBlock.git",
+    "ssh_url": "git@github.com:gorhill/uBlock.git",
+    "clone_url": "https://github.com/gorhill/uBlock.git",
+    "svn_url": "https://github.com/gorhill/uBlock",
+    "homepage": "",
+    "size": 147908,
+    "stargazers_count": 49279,
+    "watchers_count": 49279,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 3260,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 15,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "blocker",
+        "browser-extension",
+        "chromium",
+        "firefox",
+        "javascript",
+        "ublock",
+        "ublock-origin"
+    ],
+    "visibility": "public",
+    "forks": 3260,
+    "open_issues": 15,
+    "watchers": 49279,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "npm_0.1.11",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/npm_0.1.11",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/npm_0.1.11",
+            "commit": {
+                "sha": "6d21bd4af9b95c743f81438ca3f56e4b29fff9e7",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/6d21bd4af9b95c743f81438ca3f56e4b29fff9e7"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzL25wbV8wLjEuMTE="
+        },
+        {
+            "name": "1.62.1b1",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.62.1b1",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.62.1b1",
+            "commit": {
+                "sha": "3685a18fe9b8659f594a2eb111118fe07d04d2d8",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/3685a18fe9b8659f594a2eb111118fe07d04d2d8"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjIuMWIx"
+        },
+        {
+            "name": "1.62.1b0",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.62.1b0",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.62.1b0",
+            "commit": {
+                "sha": "25030e6cb99e3cfe8742d90fb5e7541a01343445",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/25030e6cb99e3cfe8742d90fb5e7541a01343445"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjIuMWIw"
+        },
+        {
+            "name": "1.62.0",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.62.0",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.62.0",
+            "commit": {
+                "sha": "7f78d1959704cc447d1ae7a1642b6a76f9a05a1e",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/7f78d1959704cc447d1ae7a1642b6a76f9a05a1e"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjIuMA=="
+        },
+        {
+            "name": "1.61.3rc3",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3rc3",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3rc3",
+            "commit": {
+                "sha": "e3757e32a5b18eb6e41eedbd8fa2882a26b6f572",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/e3757e32a5b18eb6e41eedbd8fa2882a26b6f572"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM3JjMw=="
+        },
+        {
+            "name": "1.61.3rc2",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3rc2",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3rc2",
+            "commit": {
+                "sha": "9032afef102287feb4915d8f6a699e382118fbb9",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/9032afef102287feb4915d8f6a699e382118fbb9"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM3JjMg=="
+        },
+        {
+            "name": "1.61.3rc1",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3rc1",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3rc1",
+            "commit": {
+                "sha": "a4677f160fad1e7a1879e2ac226e74c7c3fdcdd8",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/a4677f160fad1e7a1879e2ac226e74c7c3fdcdd8"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM3JjMQ=="
+        },
+        {
+            "name": "1.61.3rc0",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3rc0",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3rc0",
+            "commit": {
+                "sha": "d4194353f89f3487f5cfed6f8c7635aca1df2d22",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/d4194353f89f3487f5cfed6f8c7635aca1df2d22"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM3JjMA=="
+        },
+        {
+            "name": "1.61.3b11",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b11",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b11",
+            "commit": {
+                "sha": "dd281d9fc5f288f077dee4686cc9dd75e12948e0",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/dd281d9fc5f288f077dee4686cc9dd75e12948e0"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2IxMQ=="
+        },
+        {
+            "name": "1.61.3b10",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b10",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b10",
+            "commit": {
+                "sha": "743a9076921395992360382db2a84f99f22a5604",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/743a9076921395992360382db2a84f99f22a5604"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2IxMA=="
+        },
+        {
+            "name": "1.61.3b9",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b9",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b9",
+            "commit": {
+                "sha": "73b85efae2fa839f068c4237af0179fc1935f4f3",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/73b85efae2fa839f068c4237af0179fc1935f4f3"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2I5"
+        },
+        {
+            "name": "1.61.3b8",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b8",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b8",
+            "commit": {
+                "sha": "25a4433e2a21c87871a17344cd94c4a74b6f651c",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/25a4433e2a21c87871a17344cd94c4a74b6f651c"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2I4"
+        },
+        {
+            "name": "1.61.3b7",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b7",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b7",
+            "commit": {
+                "sha": "d193ae7d2f1fdc0dbfcdecf0fb3de63b6611e09b",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/d193ae7d2f1fdc0dbfcdecf0fb3de63b6611e09b"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2I3"
+        },
+        {
+            "name": "1.61.3b6",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b6",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b6",
+            "commit": {
+                "sha": "2ccb01973ee009e6a2e414cd178e2b9dfce6a230",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/2ccb01973ee009e6a2e414cd178e2b9dfce6a230"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2I2"
+        },
+        {
+            "name": "1.61.3b5",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b5",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b5",
+            "commit": {
+                "sha": "0701422dcf30c8c0010cd839101ccaa278cd7763",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/0701422dcf30c8c0010cd839101ccaa278cd7763"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2I1"
+        },
+        {
+            "name": "1.61.3b4",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b4",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b4",
+            "commit": {
+                "sha": "fd2ddd3c01c4033eed0d14dbe11ec543e16a3ee2",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/fd2ddd3c01c4033eed0d14dbe11ec543e16a3ee2"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2I0"
+        },
+        {
+            "name": "1.61.3b3",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b3",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b3",
+            "commit": {
+                "sha": "5eb44d01e50fd55a19bdded64789b3df1096df27",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/5eb44d01e50fd55a19bdded64789b3df1096df27"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2Iz"
+        },
+        {
+            "name": "1.61.3b2",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b2",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b2",
+            "commit": {
+                "sha": "47bdec422a683815c8594d71e8b7c97ea4ecfa99",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/47bdec422a683815c8594d71e8b7c97ea4ecfa99"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2Iy"
+        },
+        {
+            "name": "1.61.3b1",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b1",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b1",
+            "commit": {
+                "sha": "f04645ab9fd37ca748403f35cd6ec5434aeaad19",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/f04645ab9fd37ca748403f35cd6ec5434aeaad19"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2Ix"
+        },
+        {
+            "name": "1.61.3b0",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.3b0",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.3b0",
+            "commit": {
+                "sha": "4a8efe1ed840702ced1f7fb849f1cb07b7100917",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/4a8efe1ed840702ced1f7fb849f1cb07b7100917"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuM2Iw"
+        },
+        {
+            "name": "1.61.2",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.2",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.2",
+            "commit": {
+                "sha": "f18a9a22bf71946cbceb5a324be586d0df4bc8e4",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/f18a9a22bf71946cbceb5a324be586d0df4bc8e4"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMg=="
+        },
+        {
+            "name": "1.61.1b5",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.1b5",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.1b5",
+            "commit": {
+                "sha": "9fb90ad14cbc026536653c2828e3472ec9f7a52d",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/9fb90ad14cbc026536653c2828e3472ec9f7a52d"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMWI1"
+        },
+        {
+            "name": "1.61.1b4",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.1b4",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.1b4",
+            "commit": {
+                "sha": "f8bd9a10073154bde006eaba61c1ae034a63e1ed",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/f8bd9a10073154bde006eaba61c1ae034a63e1ed"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMWI0"
+        },
+        {
+            "name": "1.61.1b3",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.1b3",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.1b3",
+            "commit": {
+                "sha": "2e66d7bd557e7638c9e5ade165ba8086d6cf2ffb",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/2e66d7bd557e7638c9e5ade165ba8086d6cf2ffb"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMWIz"
+        },
+        {
+            "name": "1.61.1b2",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.1b2",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.1b2",
+            "commit": {
+                "sha": "7ccb4c6314f8161a05f3ff997ad75a8cd2220bfb",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/7ccb4c6314f8161a05f3ff997ad75a8cd2220bfb"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMWIy"
+        },
+        {
+            "name": "1.61.1b1",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.1b1",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.1b1",
+            "commit": {
+                "sha": "74d8be96d25143959a6d8bbcd55b4ac04de63bfd",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/74d8be96d25143959a6d8bbcd55b4ac04de63bfd"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMWIx"
+        },
+        {
+            "name": "1.61.1b0",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.1b0",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.1b0",
+            "commit": {
+                "sha": "34eed9abef96baffa70c4b2a62db0513d7dd73d1",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/34eed9abef96baffa70c4b2a62db0513d7dd73d1"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMWIw"
+        },
+        {
+            "name": "1.61.0",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.61.0",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.61.0",
+            "commit": {
+                "sha": "652f1787878ba434c3a65287afcd84082c409397",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/652f1787878ba434c3a65287afcd84082c409397"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjEuMA=="
+        },
+        {
+            "name": "1.60.1rc5",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.60.1rc5",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.60.1rc5",
+            "commit": {
+                "sha": "67310b0fb6120931bdf4d0edfd59439615b5f970",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/67310b0fb6120931bdf4d0edfd59439615b5f970"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjAuMXJjNQ=="
+        },
+        {
+            "name": "1.60.1rc4",
+            "zipball_url": "https://api.github.com/repos/gorhill/uBlock/zipball/refs/tags/1.60.1rc4",
+            "tarball_url": "https://api.github.com/repos/gorhill/uBlock/tarball/refs/tags/1.60.1rc4",
+            "commit": {
+                "sha": "d401527e8303c809be27e466e0a5b34fba3e82fe",
+                "url": "https://api.github.com/repos/gorhill/uBlock/commits/d401527e8303c809be27e466e0a5b34fba3e82fe"
+            },
+            "node_id": "MDM6UmVmMzMyNjMxMTg6cmVmcy90YWdzLzEuNjAuMXJjNA=="
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "id": 25136308,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNTEzNjMwOA==",
+    "name": "fetch",
+    "full_name": "JakeChampion/fetch",
+    "private": false,
+    "owner": {
+        "login": "JakeChampion",
+        "id": 1569131,
+        "node_id": "MDQ6VXNlcjE1NjkxMzE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1569131?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/JakeChampion",
+        "html_url": "https://github.com/JakeChampion",
+        "followers_url": "https://api.github.com/users/JakeChampion/followers",
+        "following_url": "https://api.github.com/users/JakeChampion/following{/other_user}",
+        "gists_url": "https://api.github.com/users/JakeChampion/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/JakeChampion/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/JakeChampion/subscriptions",
+        "organizations_url": "https://api.github.com/users/JakeChampion/orgs",
+        "repos_url": "https://api.github.com/users/JakeChampion/repos",
+        "events_url": "https://api.github.com/users/JakeChampion/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/JakeChampion/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/JakeChampion/fetch",
+    "description": "A window.fetch JavaScript polyfill.",
+    "fork": false,
+    "url": "https://api.github.com/repos/JakeChampion/fetch",
+    "forks_url": "https://api.github.com/repos/JakeChampion/fetch/forks",
+    "keys_url": "https://api.github.com/repos/JakeChampion/fetch/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/JakeChampion/fetch/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/JakeChampion/fetch/teams",
+    "hooks_url": "https://api.github.com/repos/JakeChampion/fetch/hooks",
+    "issue_events_url": "https://api.github.com/repos/JakeChampion/fetch/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/JakeChampion/fetch/events",
+    "assignees_url": "https://api.github.com/repos/JakeChampion/fetch/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/JakeChampion/fetch/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/JakeChampion/fetch/tags",
+    "blobs_url": "https://api.github.com/repos/JakeChampion/fetch/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/JakeChampion/fetch/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/JakeChampion/fetch/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/JakeChampion/fetch/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/JakeChampion/fetch/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/JakeChampion/fetch/languages",
+    "stargazers_url": "https://api.github.com/repos/JakeChampion/fetch/stargazers",
+    "contributors_url": "https://api.github.com/repos/JakeChampion/fetch/contributors",
+    "subscribers_url": "https://api.github.com/repos/JakeChampion/fetch/subscribers",
+    "subscription_url": "https://api.github.com/repos/JakeChampion/fetch/subscription",
+    "commits_url": "https://api.github.com/repos/JakeChampion/fetch/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/JakeChampion/fetch/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/JakeChampion/fetch/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/JakeChampion/fetch/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/JakeChampion/fetch/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/JakeChampion/fetch/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/JakeChampion/fetch/merges",
+    "archive_url": "https://api.github.com/repos/JakeChampion/fetch/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/JakeChampion/fetch/downloads",
+    "issues_url": "https://api.github.com/repos/JakeChampion/fetch/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/JakeChampion/fetch/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/JakeChampion/fetch/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/JakeChampion/fetch/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/JakeChampion/fetch/labels{/name}",
+    "releases_url": "https://api.github.com/repos/JakeChampion/fetch/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/JakeChampion/fetch/deployments",
+    "created_at": "2014-10-13T00:26:19Z",
+    "updated_at": "2025-01-25T17:18:02Z",
+    "pushed_at": "2024-07-15T00:26:39Z",
+    "git_url": "git://github.com/JakeChampion/fetch.git",
+    "ssh_url": "git@github.com:JakeChampion/fetch.git",
+    "clone_url": "https://github.com/JakeChampion/fetch.git",
+    "svn_url": "https://github.com/JakeChampion/fetch",
+    "homepage": "",
+    "size": 581,
+    "stargazers_count": 25759,
+    "watchers_count": 25759,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 2840,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 14,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "fetch",
+        "javascript",
+        "polyfill",
+        "promise"
+    ],
+    "visibility": "public",
+    "forks": 2840,
+    "open_issues": 14,
+    "watchers": 25759,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.6.20",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.20",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.20",
+            "commit": {
+                "sha": "a0aea1004830a1976c0c70d2f23c42a71da21cc7",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/a0aea1004830a1976c0c70d2f23c42a71da21cc7"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMjA="
+        },
+        {
+            "name": "v3.6.19",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.19",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.19",
+            "commit": {
+                "sha": "385655b808ea5b994156c7d23973c836c18a7180",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/385655b808ea5b994156c7d23973c836c18a7180"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTk="
+        },
+        {
+            "name": "v3.6.18",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.18",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.18",
+            "commit": {
+                "sha": "b48a6964bbb97b9e626fcee489cf09cb2bb82716",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/b48a6964bbb97b9e626fcee489cf09cb2bb82716"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTg="
+        },
+        {
+            "name": "v3.6.17",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.17",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.17",
+            "commit": {
+                "sha": "49b71a7468bb45e533bfb82ae47f3755aae97cb1",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/49b71a7468bb45e533bfb82ae47f3755aae97cb1"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTc="
+        },
+        {
+            "name": "v3.6.16",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.16",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.16",
+            "commit": {
+                "sha": "4cb527f7d52ce2e002f2f351971ce314d66a91b7",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/4cb527f7d52ce2e002f2f351971ce314d66a91b7"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTY="
+        },
+        {
+            "name": "v3.6.15",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.15",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.15",
+            "commit": {
+                "sha": "7ef82f0f350a881b0603dacb5d3f03423e77ab72",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/7ef82f0f350a881b0603dacb5d3f03423e77ab72"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTU="
+        },
+        {
+            "name": "v3.6.14",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.14",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.14",
+            "commit": {
+                "sha": "cb83de054f91b17c85ee15ce1c5191ec6478c867",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/cb83de054f91b17c85ee15ce1c5191ec6478c867"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTQ="
+        },
+        {
+            "name": "v3.6.13",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.13",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.13",
+            "commit": {
+                "sha": "eb522257985b41b5551b71c906ddffba35d92642",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/eb522257985b41b5551b71c906ddffba35d92642"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTM="
+        },
+        {
+            "name": "v3.6.12",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.12",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.12",
+            "commit": {
+                "sha": "55404111a467c4ca6637a774dde78ff306d2028a",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/55404111a467c4ca6637a774dde78ff306d2028a"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTI="
+        },
+        {
+            "name": "v3.6.11",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.11",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.11",
+            "commit": {
+                "sha": "814e79fe2b2156d9921ba63662fb20e758c61aa6",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/814e79fe2b2156d9921ba63662fb20e758c61aa6"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTE="
+        },
+        {
+            "name": "v3.6.10",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.10",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.10",
+            "commit": {
+                "sha": "cbb28f39269b801a93d3f70f6e6ecd2d76766b71",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/cbb28f39269b801a93d3f70f6e6ecd2d76766b71"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMTA="
+        },
+        {
+            "name": "v3.6.9",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.9",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.9",
+            "commit": {
+                "sha": "71b0c20c64554a2b92967e4998457e7102de7be5",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/71b0c20c64554a2b92967e4998457e7102de7be5"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuOQ=="
+        },
+        {
+            "name": "v3.6.8",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.8",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.8",
+            "commit": {
+                "sha": "0711ef014dda8c4d92385b471373c2d2ebd23d26",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/0711ef014dda8c4d92385b471373c2d2ebd23d26"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuOA=="
+        },
+        {
+            "name": "v3.6.7",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.7",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.7",
+            "commit": {
+                "sha": "83b5dbef5d3c98ef8204fd1460ed55a1099ea273",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/83b5dbef5d3c98ef8204fd1460ed55a1099ea273"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuNw=="
+        },
+        {
+            "name": "v3.6.6",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.6",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.6",
+            "commit": {
+                "sha": "92b66e81a168a44f0cf874e0c25d60a23f43b3c4",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/92b66e81a168a44f0cf874e0c25d60a23f43b3c4"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuNg=="
+        },
+        {
+            "name": "v3.6.5",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.5",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.5",
+            "commit": {
+                "sha": "b42171687e84350d9392b72b631836a3f57e2ab6",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/b42171687e84350d9392b72b631836a3f57e2ab6"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuNQ=="
+        },
+        {
+            "name": "v3.6.4",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.4",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.4",
+            "commit": {
+                "sha": "097d872bfe25fddb3e6a6d73579a4ef7a0de416e",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/097d872bfe25fddb3e6a6d73579a4ef7a0de416e"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuNA=="
+        },
+        {
+            "name": "v3.6.3",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.3",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.3",
+            "commit": {
+                "sha": "a01ccd2501fe2f8a64439737f925d454acd7f039",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/a01ccd2501fe2f8a64439737f925d454acd7f039"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMw=="
+        },
+        {
+            "name": "v3.6.2",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.2",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.2",
+            "commit": {
+                "sha": "8f48ca686f9564bf52704e0e4b410ca970b17031",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/8f48ca686f9564bf52704e0e4b410ca970b17031"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMg=="
+        },
+        {
+            "name": "v3.6.1",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.1",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.1",
+            "commit": {
+                "sha": "90fb680c1f50181782f276122c1b1115535b1603",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/90fb680c1f50181782f276122c1b1115535b1603"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMQ=="
+        },
+        {
+            "name": "v3.6.0",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.6.0",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.6.0",
+            "commit": {
+                "sha": "1fce243d23b2aa2e44abf58c39f54097d8a9917c",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/1fce243d23b2aa2e44abf58c39f54097d8a9917c"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjYuMA=="
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "75d9455d380f365701151f3ac85c5bda4bbbde76",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/75d9455d380f365701151f3ac85c5bda4bbbde76"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjUuMA=="
+        },
+        {
+            "name": "v3.4.1",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.4.1",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.4.1",
+            "commit": {
+                "sha": "5e3aa109b5d23a982c4a01718469e2c63bc6815f",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/5e3aa109b5d23a982c4a01718469e2c63bc6815f"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjQuMQ=="
+        },
+        {
+            "name": "v3.4.0",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.4.0",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.4.0",
+            "commit": {
+                "sha": "99b26818147a4288429fcd96421cf038dccbc1ac",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/99b26818147a4288429fcd96421cf038dccbc1ac"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjQuMA=="
+        },
+        {
+            "name": "v3.3.1",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.3.1",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.3.1",
+            "commit": {
+                "sha": "3129f89925d271c2f2223f855ebd79038c424284",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/3129f89925d271c2f2223f855ebd79038c424284"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjMuMQ=="
+        },
+        {
+            "name": "v3.3.0",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.3.0",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.3.0",
+            "commit": {
+                "sha": "573c5d4669be8fefd243b03b4c6dbd098605b63a",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/573c5d4669be8fefd243b03b4c6dbd098605b63a"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjMuMA=="
+        },
+        {
+            "name": "v3.2.0",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.2.0",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.2.0",
+            "commit": {
+                "sha": "fdd09e278b1cf4625a876fc0edabcec391051850",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/fdd09e278b1cf4625a876fc0edabcec391051850"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjIuMA=="
+        },
+        {
+            "name": "v3.1.1",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.1.1",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.1.1",
+            "commit": {
+                "sha": "44a7e5e65dfdb8c6c6bb6bf49dc088f6fc02ad12",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/44a7e5e65dfdb8c6c6bb6bf49dc088f6fc02ad12"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjEuMQ=="
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "923ed30e086ae7192917e3a6dc4e0478646ad0ea",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/923ed30e086ae7192917e3a6dc4e0478646ad0ea"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjEuMA=="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/JakeChampion/fetch/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/JakeChampion/fetch/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "a29c40a4262d1824f8771fca34bc632218b5bb8a",
+                "url": "https://api.github.com/repos/JakeChampion/fetch/commits/a29c40a4262d1824f8771fca34bc632218b5bb8a"
+            },
+            "node_id": "MDM6UmVmMjUxMzYzMDg6cmVmcy90YWdzL3YzLjAuMQ=="
+        }
+    ]
+}

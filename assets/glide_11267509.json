@@ -1,0 +1,423 @@
+{
+    "id": 11267509,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTI2NzUwOQ==",
+    "name": "glide",
+    "full_name": "bumptech/glide",
+    "private": false,
+    "owner": {
+        "login": "bumptech",
+        "id": 423539,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyMzUzOQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/423539?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bumptech",
+        "html_url": "https://github.com/bumptech",
+        "followers_url": "https://api.github.com/users/bumptech/followers",
+        "following_url": "https://api.github.com/users/bumptech/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bumptech/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bumptech/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bumptech/subscriptions",
+        "organizations_url": "https://api.github.com/users/bumptech/orgs",
+        "repos_url": "https://api.github.com/users/bumptech/repos",
+        "events_url": "https://api.github.com/users/bumptech/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bumptech/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/bumptech/glide",
+    "description": "An image loading and caching library for Android focused on smooth scrolling",
+    "fork": false,
+    "url": "https://api.github.com/repos/bumptech/glide",
+    "forks_url": "https://api.github.com/repos/bumptech/glide/forks",
+    "keys_url": "https://api.github.com/repos/bumptech/glide/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/bumptech/glide/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/bumptech/glide/teams",
+    "hooks_url": "https://api.github.com/repos/bumptech/glide/hooks",
+    "issue_events_url": "https://api.github.com/repos/bumptech/glide/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/bumptech/glide/events",
+    "assignees_url": "https://api.github.com/repos/bumptech/glide/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/bumptech/glide/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/bumptech/glide/tags",
+    "blobs_url": "https://api.github.com/repos/bumptech/glide/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/bumptech/glide/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/bumptech/glide/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/bumptech/glide/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/bumptech/glide/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/bumptech/glide/languages",
+    "stargazers_url": "https://api.github.com/repos/bumptech/glide/stargazers",
+    "contributors_url": "https://api.github.com/repos/bumptech/glide/contributors",
+    "subscribers_url": "https://api.github.com/repos/bumptech/glide/subscribers",
+    "subscription_url": "https://api.github.com/repos/bumptech/glide/subscription",
+    "commits_url": "https://api.github.com/repos/bumptech/glide/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/bumptech/glide/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/bumptech/glide/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/bumptech/glide/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/bumptech/glide/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/bumptech/glide/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/bumptech/glide/merges",
+    "archive_url": "https://api.github.com/repos/bumptech/glide/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/bumptech/glide/downloads",
+    "issues_url": "https://api.github.com/repos/bumptech/glide/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/bumptech/glide/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/bumptech/glide/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/bumptech/glide/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/bumptech/glide/labels{/name}",
+    "releases_url": "https://api.github.com/repos/bumptech/glide/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/bumptech/glide/deployments",
+    "created_at": "2013-07-08T22:52:33Z",
+    "updated_at": "2025-01-25T16:19:31Z",
+    "pushed_at": "2025-01-09T23:00:20Z",
+    "git_url": "git://github.com/bumptech/glide.git",
+    "ssh_url": "git@github.com:bumptech/glide.git",
+    "clone_url": "https://github.com/bumptech/glide.git",
+    "svn_url": "https://github.com/bumptech/glide",
+    "homepage": "https://bumptech.github.io/glide/",
+    "size": 96820,
+    "stargazers_count": 34747,
+    "watchers_count": 34747,
+    "language": "Java",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 6137,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 555,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "android",
+        "disk-cache",
+        "gif",
+        "glide",
+        "imageloader"
+    ],
+    "visibility": "public",
+    "forks": 6137,
+    "open_issues": 555,
+    "watchers": 34747,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.0.0-rc01",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v5.0.0-rc01",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v5.0.0-rc01",
+            "commit": {
+                "sha": "b3fd2bc1b68b988202e50fac757a318274c16be8",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/b3fd2bc1b68b988202e50fac757a318274c16be8"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y1LjAuMC1yYzAx"
+        },
+        {
+            "name": "v4.16.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.16.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.16.0",
+            "commit": {
+                "sha": "374306f7445ca62dce9adcb196f5c2a29b510895",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/374306f7445ca62dce9adcb196f5c2a29b510895"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjE2LjA="
+        },
+        {
+            "name": "v4.15.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.15.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.15.1",
+            "commit": {
+                "sha": "facc541119ae523d0d489fe9a057dc1d2221afaa",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/facc541119ae523d0d489fe9a057dc1d2221afaa"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjE1LjE="
+        },
+        {
+            "name": "v4.15.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.15.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.15.0",
+            "commit": {
+                "sha": "462416b88df5714f883c75c74eff9ed2af1b0a29",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/462416b88df5714f883c75c74eff9ed2af1b0a29"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjE1LjA="
+        },
+        {
+            "name": "v4.14.2",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.14.2",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.14.2",
+            "commit": {
+                "sha": "ca47d9eeeffb37e550a115535c04a44747f2d2d7",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/ca47d9eeeffb37e550a115535c04a44747f2d2d7"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjE0LjI="
+        },
+        {
+            "name": "v4.14.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.14.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.14.1",
+            "commit": {
+                "sha": "4152c04d6aeca83480c537596fa390d502d4a7e7",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/4152c04d6aeca83480c537596fa390d502d4a7e7"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjE0LjE="
+        },
+        {
+            "name": "v4.14.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.14.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.14.0",
+            "commit": {
+                "sha": "fd8e68ad9b577e6f53fef5dead16bd56ee4ef564",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/fd8e68ad9b577e6f53fef5dead16bd56ee4ef564"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjE0LjA="
+        },
+        {
+            "name": "v4.13.2",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.13.2",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.13.2",
+            "commit": {
+                "sha": "3c1e7b90fb72ef72711cc4ff7c55bdd8dc29d916",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/3c1e7b90fb72ef72711cc4ff7c55bdd8dc29d916"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEzLjI="
+        },
+        {
+            "name": "v4.13.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.13.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.13.1",
+            "commit": {
+                "sha": "6e51c138d8775c726563b3a66ee30d9fb4341ab7",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/6e51c138d8775c726563b3a66ee30d9fb4341ab7"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEzLjE="
+        },
+        {
+            "name": "v4.13.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.13.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.13.0",
+            "commit": {
+                "sha": "1a6fa926ea391d6e5ac0045f67bb3ea249840117",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/1a6fa926ea391d6e5ac0045f67bb3ea249840117"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEzLjA="
+        },
+        {
+            "name": "v4.12.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.12.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.12.0",
+            "commit": {
+                "sha": "384617791a97f3d2f3052e0b63bd4d971da92f7d",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/384617791a97f3d2f3052e0b63bd4d971da92f7d"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEyLjA="
+        },
+        {
+            "name": "v4.11.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.11.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.11.0",
+            "commit": {
+                "sha": "f05dc6071451b7fe3f1695bd55a071a34bdcc919",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/f05dc6071451b7fe3f1695bd55a071a34bdcc919"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjExLjA="
+        },
+        {
+            "name": "v4.10.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.10.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.10.0",
+            "commit": {
+                "sha": "3bb8782f722391ef750efdea08cb94bbb966ad40",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/3bb8782f722391ef750efdea08cb94bbb966ad40"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEwLjA="
+        },
+        {
+            "name": "v4.9.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.9.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.9.0",
+            "commit": {
+                "sha": "3035749168c8a4187cf3a51d19a6aee3bc5958d1",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/3035749168c8a4187cf3a51d19a6aee3bc5958d1"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjkuMA=="
+        },
+        {
+            "name": "v4.8.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.8.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.8.0",
+            "commit": {
+                "sha": "914996cac11108ec1a02c21a10af53ebc4980d7f",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/914996cac11108ec1a02c21a10af53ebc4980d7f"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjguMA=="
+        },
+        {
+            "name": "v4.7.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.7.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.7.1",
+            "commit": {
+                "sha": "6ea67b6b3e634759c8b81c2c5f26487709c4c267",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/6ea67b6b3e634759c8b81c2c5f26487709c4c267"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjcuMQ=="
+        },
+        {
+            "name": "v4.7.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.7.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.7.0",
+            "commit": {
+                "sha": "f36ac461db69a3aa7a2938bce3adeb1d2c7a8034",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/f36ac461db69a3aa7a2938bce3adeb1d2c7a8034"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjcuMA=="
+        },
+        {
+            "name": "v4.6.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.6.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.6.1",
+            "commit": {
+                "sha": "3a3a06108fe5e93ae39b5264ac2376ae889236f4",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/3a3a06108fe5e93ae39b5264ac2376ae889236f4"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjYuMQ=="
+        },
+        {
+            "name": "v4.6.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.6.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.6.0",
+            "commit": {
+                "sha": "761654c85a3c32fe7712618e1f7082632858ae02",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/761654c85a3c32fe7712618e1f7082632858ae02"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjYuMA=="
+        },
+        {
+            "name": "v4.5.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.5.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.5.0",
+            "commit": {
+                "sha": "4f1a8b6e4eba083a9affad9720f172d49f2bb7c3",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/4f1a8b6e4eba083a9affad9720f172d49f2bb7c3"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjUuMA=="
+        },
+        {
+            "name": "v4.4.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.4.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.4.0",
+            "commit": {
+                "sha": "f9918e7b9f74d078778d8461798a56f349bcc649",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/f9918e7b9f74d078778d8461798a56f349bcc649"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjQuMA=="
+        },
+        {
+            "name": "v4.3.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.3.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.3.1",
+            "commit": {
+                "sha": "57d3fa8da8988147241321a5e44054a7ce71f76b",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/57d3fa8da8988147241321a5e44054a7ce71f76b"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjMuMQ=="
+        },
+        {
+            "name": "v4.3.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.3.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.3.0",
+            "commit": {
+                "sha": "85c2176609427fd67fc14a33410b67ee25eec51a",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/85c2176609427fd67fc14a33410b67ee25eec51a"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjMuMA=="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "6bbe88ec79f73f1f5cc4f6af04a733ea854e2def",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/6bbe88ec79f73f1f5cc4f6af04a733ea854e2def"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjIuMA=="
+        },
+        {
+            "name": "v4.1.1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.1.1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.1.1",
+            "commit": {
+                "sha": "f5d5403ffbe54e9a8190be1a16654494462e5457",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/f5d5403ffbe54e9a8190be1a16654494462e5457"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEuMQ=="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "c8f04ca3eb6aeb3746b14bde7e6c1f3c539bfe38",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/c8f04ca3eb6aeb3746b14bde7e6c1f3c539bfe38"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "43eb2907e96d180b76c48595836c39c2ce2ab510",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/43eb2907e96d180b76c48595836c39c2ce2ab510"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v4.0.0-RC1",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.0.0-RC1",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.0.0-RC1",
+            "commit": {
+                "sha": "2c23a7b834d62ffb42616d639bbdcda49f989dde",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/2c23a7b834d62ffb42616d639bbdcda49f989dde"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjAuMC1SQzE="
+        },
+        {
+            "name": "v4.0.0-RC0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v4.0.0-RC0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v4.0.0-RC0",
+            "commit": {
+                "sha": "ab534710686611e09527d9743f1ffafee21cdb76",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/ab534710686611e09527d9743f1ffafee21cdb76"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3Y0LjAuMC1SQzA="
+        },
+        {
+            "name": "v3.8.0",
+            "zipball_url": "https://api.github.com/repos/bumptech/glide/zipball/refs/tags/v3.8.0",
+            "tarball_url": "https://api.github.com/repos/bumptech/glide/tarball/refs/tags/v3.8.0",
+            "commit": {
+                "sha": "b9b33e60f24e2560126ca0113521396d0331e0bd",
+                "url": "https://api.github.com/repos/bumptech/glide/commits/b9b33e60f24e2560126ca0113521396d0331e0bd"
+            },
+            "node_id": "MDM6UmVmMTEyNjc1MDk6cmVmcy90YWdzL3YzLjguMA=="
+        }
+    ]
+}

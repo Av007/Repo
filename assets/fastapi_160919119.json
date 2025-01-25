@@ -1,0 +1,438 @@
+{
+    "id": 160919119,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjA5MTkxMTk=",
+    "name": "fastapi",
+    "full_name": "fastapi/fastapi",
+    "private": false,
+    "owner": {
+        "login": "fastapi",
+        "id": 156354296,
+        "node_id": "O_kgDOCVHG-A",
+        "avatar_url": "https://avatars.githubusercontent.com/u/156354296?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/fastapi",
+        "html_url": "https://github.com/fastapi",
+        "followers_url": "https://api.github.com/users/fastapi/followers",
+        "following_url": "https://api.github.com/users/fastapi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/fastapi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/fastapi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/fastapi/subscriptions",
+        "organizations_url": "https://api.github.com/users/fastapi/orgs",
+        "repos_url": "https://api.github.com/users/fastapi/repos",
+        "events_url": "https://api.github.com/users/fastapi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/fastapi/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "fork": false,
+    "url": "https://api.github.com/repos/fastapi/fastapi",
+    "forks_url": "https://api.github.com/repos/fastapi/fastapi/forks",
+    "keys_url": "https://api.github.com/repos/fastapi/fastapi/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/fastapi/fastapi/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/fastapi/fastapi/teams",
+    "hooks_url": "https://api.github.com/repos/fastapi/fastapi/hooks",
+    "issue_events_url": "https://api.github.com/repos/fastapi/fastapi/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/fastapi/fastapi/events",
+    "assignees_url": "https://api.github.com/repos/fastapi/fastapi/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/fastapi/fastapi/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/fastapi/fastapi/tags",
+    "blobs_url": "https://api.github.com/repos/fastapi/fastapi/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/fastapi/fastapi/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/fastapi/fastapi/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/fastapi/fastapi/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/fastapi/fastapi/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/fastapi/fastapi/languages",
+    "stargazers_url": "https://api.github.com/repos/fastapi/fastapi/stargazers",
+    "contributors_url": "https://api.github.com/repos/fastapi/fastapi/contributors",
+    "subscribers_url": "https://api.github.com/repos/fastapi/fastapi/subscribers",
+    "subscription_url": "https://api.github.com/repos/fastapi/fastapi/subscription",
+    "commits_url": "https://api.github.com/repos/fastapi/fastapi/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/fastapi/fastapi/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/fastapi/fastapi/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/fastapi/fastapi/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/fastapi/fastapi/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/fastapi/fastapi/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/fastapi/fastapi/merges",
+    "archive_url": "https://api.github.com/repos/fastapi/fastapi/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/fastapi/fastapi/downloads",
+    "issues_url": "https://api.github.com/repos/fastapi/fastapi/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/fastapi/fastapi/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/fastapi/fastapi/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/fastapi/fastapi/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/fastapi/fastapi/labels{/name}",
+    "releases_url": "https://api.github.com/repos/fastapi/fastapi/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/fastapi/fastapi/deployments",
+    "created_at": "2018-12-08T08:21:47Z",
+    "updated_at": "2025-01-25T17:02:22Z",
+    "pushed_at": "2025-01-24T19:44:55Z",
+    "git_url": "git://github.com/fastapi/fastapi.git",
+    "ssh_url": "git@github.com:fastapi/fastapi.git",
+    "clone_url": "https://github.com/fastapi/fastapi.git",
+    "svn_url": "https://github.com/fastapi/fastapi",
+    "homepage": "https://fastapi.tiangolo.com/",
+    "size": 25244,
+    "stargazers_count": 80182,
+    "watchers_count": 80182,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 6860,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 312,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "api",
+        "async",
+        "asyncio",
+        "fastapi",
+        "framework",
+        "json",
+        "json-schema",
+        "openapi",
+        "openapi3",
+        "pydantic",
+        "python",
+        "python-types",
+        "python3",
+        "redoc",
+        "rest",
+        "starlette",
+        "swagger",
+        "swagger-ui",
+        "uvicorn",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 6860,
+    "open_issues": 312,
+    "watchers": 80182,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.1.16",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/v0.1.16",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/v0.1.16",
+            "commit": {
+                "sha": "3c08b05ea6b58b3e5564c026f071cbb0979a6797",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/3c08b05ea6b58b3e5564c026f071cbb0979a6797"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy92MC4xLjE2"
+        },
+        {
+            "name": "0.115.7",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.7",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.7",
+            "commit": {
+                "sha": "fe513719ea98abade167d8a89e92f600d9d8f0e5",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/fe513719ea98abade167d8a89e92f600d9d8f0e5"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS43"
+        },
+        {
+            "name": "0.115.6",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.6",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.6",
+            "commit": {
+                "sha": "bb8c2a64981d3e806575a445115f29eddf014c77",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/bb8c2a64981d3e806575a445115f29eddf014c77"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS42"
+        },
+        {
+            "name": "0.115.5",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.5",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.5",
+            "commit": {
+                "sha": "f057f4a0679255a01d79a96f259bc7e6ad2327e2",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/f057f4a0679255a01d79a96f259bc7e6ad2327e2"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS41"
+        },
+        {
+            "name": "0.115.4",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.4",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.4",
+            "commit": {
+                "sha": "31887b1cc6fb45373b615448627c63410bd37333",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/31887b1cc6fb45373b615448627c63410bd37333"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS40"
+        },
+        {
+            "name": "0.115.3",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.3",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.3",
+            "commit": {
+                "sha": "c519614b45009e7d51f010e82b0ddf77a327e327",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/c519614b45009e7d51f010e82b0ddf77a327e327"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS4z"
+        },
+        {
+            "name": "0.115.2",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.2",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.2",
+            "commit": {
+                "sha": "07684aea793d042fb5a12dde46dfe6d1e2196725",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/07684aea793d042fb5a12dde46dfe6d1e2196725"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS4y"
+        },
+        {
+            "name": "0.115.1",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.1",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.1",
+            "commit": {
+                "sha": "113da5b0a7f33be300b7fea8dddbe51ee7b96157",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/113da5b0a7f33be300b7fea8dddbe51ee7b96157"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS4x"
+        },
+        {
+            "name": "0.115.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.115.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.115.0",
+            "commit": {
+                "sha": "40e33e492dbf4af6172997f4e3238a32e56cbe26",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/40e33e492dbf4af6172997f4e3238a32e56cbe26"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNS4w"
+        },
+        {
+            "name": "0.114.2",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.114.2",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.114.2",
+            "commit": {
+                "sha": "2ada1615a338a415a0ad7a9b879a1e7c09b9cce6",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/2ada1615a338a415a0ad7a9b879a1e7c09b9cce6"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNC4y"
+        },
+        {
+            "name": "0.114.1",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.114.1",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.114.1",
+            "commit": {
+                "sha": "212fd5e247279073dceaba346fd4afc52f627232",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/212fd5e247279073dceaba346fd4afc52f627232"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNC4x"
+        },
+        {
+            "name": "0.114.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.114.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.114.0",
+            "commit": {
+                "sha": "bde12faea20313e4570f7cb896c201058c26e546",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/bde12faea20313e4570f7cb896c201058c26e546"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExNC4w"
+        },
+        {
+            "name": "0.113.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.113.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.113.0",
+            "commit": {
+                "sha": "d86f6603029def91e0798ca42f5fd12eff13c87b",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/d86f6603029def91e0798ca42f5fd12eff13c87b"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMy4w"
+        },
+        {
+            "name": "0.112.4",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.112.4",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.112.4",
+            "commit": {
+                "sha": "999eeb6c76ff37f94612dd140ce8091932f56c54",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/999eeb6c76ff37f94612dd140ce8091932f56c54"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMi40"
+        },
+        {
+            "name": "0.112.3",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.112.3",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.112.3",
+            "commit": {
+                "sha": "7213d421f5bf0a4b9b8815e69a141550b4fc3f09",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/7213d421f5bf0a4b9b8815e69a141550b4fc3f09"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMi4z"
+        },
+        {
+            "name": "0.112.2",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.112.2",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.112.2",
+            "commit": {
+                "sha": "d00af00d3f15e9a963e2f1baf8f9b4c8357f6f66",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/d00af00d3f15e9a963e2f1baf8f9b4c8357f6f66"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMi4y"
+        },
+        {
+            "name": "0.112.1",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.112.1",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.112.1",
+            "commit": {
+                "sha": "4f937c0c4afbd0b46cf2db91acac6814504bbdcb",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/4f937c0c4afbd0b46cf2db91acac6814504bbdcb"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMi4x"
+        },
+        {
+            "name": "0.112.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.112.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.112.0",
+            "commit": {
+                "sha": "b2e233867cdd255ac7cb86878d643d953c78f418",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/b2e233867cdd255ac7cb86878d643d953c78f418"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMi4w"
+        },
+        {
+            "name": "0.111.1",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.111.1",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.111.1",
+            "commit": {
+                "sha": "b1993642461031bac9d21dd87e7faf59f19049f6",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/b1993642461031bac9d21dd87e7faf59f19049f6"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMS4x"
+        },
+        {
+            "name": "0.111.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.111.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.111.0",
+            "commit": {
+                "sha": "1c3e6918750ccb3f20ea260e9a4238ce2c0e5f63",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/1c3e6918750ccb3f20ea260e9a4238ce2c0e5f63"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMS4w"
+        },
+        {
+            "name": "0.110.3",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.110.3",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.110.3",
+            "commit": {
+                "sha": "32be95dd867386d8331705a3c47d1b8b64bb1c9e",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/32be95dd867386d8331705a3c47d1b8b64bb1c9e"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMC4z"
+        },
+        {
+            "name": "0.110.2",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.110.2",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.110.2",
+            "commit": {
+                "sha": "be1e3faa63bd6785399d6cd98dbc8417ddd045dc",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/be1e3faa63bd6785399d6cd98dbc8417ddd045dc"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMC4y"
+        },
+        {
+            "name": "0.110.1",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.110.1",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.110.1",
+            "commit": {
+                "sha": "50a880b39f09217ccb9b4144f9f5c8439af54cfd",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/50a880b39f09217ccb9b4144f9f5c8439af54cfd"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMC4x"
+        },
+        {
+            "name": "0.110.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.110.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.110.0",
+            "commit": {
+                "sha": "e40747f10ae911910e9cb9a9684576f3b21304c9",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/e40747f10ae911910e9cb9a9684576f3b21304c9"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjExMC4w"
+        },
+        {
+            "name": "0.109.2",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.109.2",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.109.2",
+            "commit": {
+                "sha": "141e34f281ed746431766d712d56d357e306a689",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/141e34f281ed746431766d712d56d357e306a689"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjEwOS4y"
+        },
+        {
+            "name": "0.109.1",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.109.1",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.109.1",
+            "commit": {
+                "sha": "7633d1571cc0c2792b766f67172edb9427c66899",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/7633d1571cc0c2792b766f67172edb9427c66899"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjEwOS4x"
+        },
+        {
+            "name": "0.109.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.109.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.109.0",
+            "commit": {
+                "sha": "cb95d1cb8927292fc096834a62c3aa46af46e4ee",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/cb95d1cb8927292fc096834a62c3aa46af46e4ee"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjEwOS4w"
+        },
+        {
+            "name": "0.108.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.108.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.108.0",
+            "commit": {
+                "sha": "fe0249a23ebb294be183b3e2cab82addbd68c42c",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/fe0249a23ebb294be183b3e2cab82addbd68c42c"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjEwOC4w"
+        },
+        {
+            "name": "0.107.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.107.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.107.0",
+            "commit": {
+                "sha": "f933fd6ff8db06ff77be8406ad56b6b07f13a532",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/f933fd6ff8db06ff77be8406ad56b6b07f13a532"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjEwNy4w"
+        },
+        {
+            "name": "0.106.0",
+            "zipball_url": "https://api.github.com/repos/fastapi/fastapi/zipball/refs/tags/0.106.0",
+            "tarball_url": "https://api.github.com/repos/fastapi/fastapi/tarball/refs/tags/0.106.0",
+            "commit": {
+                "sha": "5826c4f31f8b6e0d8a289d4c5a6c5a7f8ccb263a",
+                "url": "https://api.github.com/repos/fastapi/fastapi/commits/5826c4f31f8b6e0d8a289d4c5a6c5a7f8ccb263a"
+            },
+            "node_id": "MDM6UmVmMTYwOTE5MTE5OnJlZnMvdGFncy8wLjEwNi4w"
+        }
+    ]
+}

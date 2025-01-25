@@ -1,0 +1,425 @@
+{
+    "id": 6838921,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2ODM4OTIx",
+    "name": "prometheus",
+    "full_name": "prometheus/prometheus",
+    "private": false,
+    "owner": {
+        "login": "prometheus",
+        "id": 3380462,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzODA0NjI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3380462?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/prometheus",
+        "html_url": "https://github.com/prometheus",
+        "followers_url": "https://api.github.com/users/prometheus/followers",
+        "following_url": "https://api.github.com/users/prometheus/following{/other_user}",
+        "gists_url": "https://api.github.com/users/prometheus/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/prometheus/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/prometheus/subscriptions",
+        "organizations_url": "https://api.github.com/users/prometheus/orgs",
+        "repos_url": "https://api.github.com/users/prometheus/repos",
+        "events_url": "https://api.github.com/users/prometheus/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/prometheus/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "fork": false,
+    "url": "https://api.github.com/repos/prometheus/prometheus",
+    "forks_url": "https://api.github.com/repos/prometheus/prometheus/forks",
+    "keys_url": "https://api.github.com/repos/prometheus/prometheus/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/prometheus/prometheus/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/prometheus/prometheus/teams",
+    "hooks_url": "https://api.github.com/repos/prometheus/prometheus/hooks",
+    "issue_events_url": "https://api.github.com/repos/prometheus/prometheus/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/prometheus/prometheus/events",
+    "assignees_url": "https://api.github.com/repos/prometheus/prometheus/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/prometheus/prometheus/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/prometheus/prometheus/tags",
+    "blobs_url": "https://api.github.com/repos/prometheus/prometheus/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/prometheus/prometheus/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/prometheus/prometheus/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/prometheus/prometheus/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/prometheus/prometheus/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/prometheus/prometheus/languages",
+    "stargazers_url": "https://api.github.com/repos/prometheus/prometheus/stargazers",
+    "contributors_url": "https://api.github.com/repos/prometheus/prometheus/contributors",
+    "subscribers_url": "https://api.github.com/repos/prometheus/prometheus/subscribers",
+    "subscription_url": "https://api.github.com/repos/prometheus/prometheus/subscription",
+    "commits_url": "https://api.github.com/repos/prometheus/prometheus/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/prometheus/prometheus/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/prometheus/prometheus/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/prometheus/prometheus/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/prometheus/prometheus/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/prometheus/prometheus/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/prometheus/prometheus/merges",
+    "archive_url": "https://api.github.com/repos/prometheus/prometheus/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/prometheus/prometheus/downloads",
+    "issues_url": "https://api.github.com/repos/prometheus/prometheus/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/prometheus/prometheus/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/prometheus/prometheus/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/prometheus/prometheus/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/prometheus/prometheus/labels{/name}",
+    "releases_url": "https://api.github.com/repos/prometheus/prometheus/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/prometheus/prometheus/deployments",
+    "created_at": "2012-11-24T11:14:12Z",
+    "updated_at": "2025-01-25T15:04:38Z",
+    "pushed_at": "2025-01-24T23:33:39Z",
+    "git_url": "git://github.com/prometheus/prometheus.git",
+    "ssh_url": "git@github.com:prometheus/prometheus.git",
+    "clone_url": "https://github.com/prometheus/prometheus.git",
+    "svn_url": "https://github.com/prometheus/prometheus",
+    "homepage": "https://prometheus.io/",
+    "size": 251384,
+    "stargazers_count": 56956,
+    "watchers_count": 56956,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 9318,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 719,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "alerting",
+        "graphing",
+        "hacktoberfest",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "time-series"
+    ],
+    "visibility": "public",
+    "forks": 9318,
+    "open_issues": 719,
+    "watchers": 56956,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "7086161a93b262aa0949dbf2aba15a5a7b13e0a3",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/7086161a93b262aa0949dbf2aba15a5a7b13e0a3"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMS4w"
+        },
+        {
+            "name": "v3.1.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.1.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.1.0-rc.1",
+            "commit": {
+                "sha": "9f5e6299def184f1c98c5882e2745d56c60f87f7",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/9f5e6299def184f1c98c5882e2745d56c60f87f7"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMS4wLXJjLjE="
+        },
+        {
+            "name": "v3.1.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.1.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.1.0-rc.0",
+            "commit": {
+                "sha": "9671e1d63b372b828e8b189d33ada06b8f109b51",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/9671e1d63b372b828e8b189d33ada06b8f109b51"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMS4wLXJjLjA="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "1f56e8492c31a558ccea833027db4bd7f8b6d0e9",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/1f56e8492c31a558ccea833027db4bd7f8b6d0e9"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMC4x"
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "c5d009d57fcccb7247e1191a0b10d74b06295388",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/c5d009d57fcccb7247e1191a0b10d74b06295388"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMC4w"
+        },
+        {
+            "name": "v3.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.0.0-rc.1",
+            "commit": {
+                "sha": "14f7a8e6ba035f87eae83b7433b1bfb09f4ab20d",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/14f7a8e6ba035f87eae83b7433b1bfb09f4ab20d"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMC4wLXJjLjE="
+        },
+        {
+            "name": "v3.0.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.0.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.0.0-rc.0",
+            "commit": {
+                "sha": "1ac3ca952858f329b280a0bf549ec6bc24726ee0",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/1ac3ca952858f329b280a0bf549ec6bc24726ee0"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMC4wLXJjLjA="
+        },
+        {
+            "name": "v3.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.0.0-beta.1",
+            "commit": {
+                "sha": "911c3efb96093a010e0ddd08c50db5e320ee2ecb",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/911c3efb96093a010e0ddd08c50db5e320ee2ecb"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMC4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v3.0.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v3.0.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v3.0.0-beta.0",
+            "commit": {
+                "sha": "91608c002f08039c7c0f5a3fbebaf2cf78c3b1f2",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/91608c002f08039c7c0f5a3fbebaf2cf78c3b1f2"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjMuMC4wLWJldGEuMA=="
+        },
+        {
+            "name": "v2.55.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.55.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.55.1",
+            "commit": {
+                "sha": "6d7569113f1ca814f1e149f74176656540043b8d",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/6d7569113f1ca814f1e149f74176656540043b8d"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTUuMQ=="
+        },
+        {
+            "name": "v2.55.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.55.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.55.0",
+            "commit": {
+                "sha": "91d80252c3e528728b0f88d254dd720f6be07cb8",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/91d80252c3e528728b0f88d254dd720f6be07cb8"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTUuMA=="
+        },
+        {
+            "name": "v2.55.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.55.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.55.0-rc.1",
+            "commit": {
+                "sha": "1f9e6341f90669120142d6ff5d979aae6f8ec6aa",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/1f9e6341f90669120142d6ff5d979aae6f8ec6aa"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTUuMC1yYy4x"
+        },
+        {
+            "name": "v2.55.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.55.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.55.0-rc.0",
+            "commit": {
+                "sha": "e0260930d6ffbd945f7b6d030f6258b27078a442",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/e0260930d6ffbd945f7b6d030f6258b27078a442"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTUuMC1yYy4w"
+        },
+        {
+            "name": "v2.54.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.54.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.54.1",
+            "commit": {
+                "sha": "e6cfa720fbe6280153fab13090a483dbd40bece3",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/e6cfa720fbe6280153fab13090a483dbd40bece3"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTQuMQ=="
+        },
+        {
+            "name": "v2.54.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.54.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.54.0",
+            "commit": {
+                "sha": "5354e87a70d3eb26b81b601b286d66ff983990f6",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/5354e87a70d3eb26b81b601b286d66ff983990f6"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTQuMA=="
+        },
+        {
+            "name": "v2.54.0+dedupelabels",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.54.0+dedupelabels",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.54.0+dedupelabels",
+            "commit": {
+                "sha": "f92eeb00a99cc5e052eb2b6640b184f724f9e849",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/f92eeb00a99cc5e052eb2b6640b184f724f9e849"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTQuMCtkZWR1cGVsYWJlbHM="
+        },
+        {
+            "name": "v2.54.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.54.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.54.0-rc.1",
+            "commit": {
+                "sha": "6d7ed08850849c2adcedb63cddeb61fc4f6a425e",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/6d7ed08850849c2adcedb63cddeb61fc4f6a425e"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTQuMC1yYy4x"
+        },
+        {
+            "name": "v2.54.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.54.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.54.0-rc.0",
+            "commit": {
+                "sha": "2898d5d715738776bf8dd31d424a9b297380a2f3",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/2898d5d715738776bf8dd31d424a9b297380a2f3"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTQuMC1yYy4w"
+        },
+        {
+            "name": "v2.54.0-rc.0+dedupelabels",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.54.0-rc.0+dedupelabels",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.54.0-rc.0+dedupelabels",
+            "commit": {
+                "sha": "1ed9185c519a398032e9364e038b00f2dd7b8c4b",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/1ed9185c519a398032e9364e038b00f2dd7b8c4b"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTQuMC1yYy4wK2RlZHVwZWxhYmVscw=="
+        },
+        {
+            "name": "v2.53.3",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.53.3",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.53.3",
+            "commit": {
+                "sha": "1491d29fb1e8f8acbab29fd54fd4ce9be2cbd7bc",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/1491d29fb1e8f8acbab29fd54fd4ce9be2cbd7bc"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTMuMw=="
+        },
+        {
+            "name": "v2.53.2",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.53.2",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.53.2",
+            "commit": {
+                "sha": "6e971a7dc905696d4bc4ffa150bf282fcfac5fa9",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/6e971a7dc905696d4bc4ffa150bf282fcfac5fa9"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTMuMg=="
+        },
+        {
+            "name": "v2.53.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.53.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.53.1",
+            "commit": {
+                "sha": "14cfec3f6048b735e08c1e9c64c8d4211d32bab4",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/14cfec3f6048b735e08c1e9c64c8d4211d32bab4"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTMuMQ=="
+        },
+        {
+            "name": "v2.53.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.53.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.53.0",
+            "commit": {
+                "sha": "4c35b9250afefede41c5f5acd76191f90f625898",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/4c35b9250afefede41c5f5acd76191f90f625898"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTMuMA=="
+        },
+        {
+            "name": "v2.53.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.53.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.53.0-rc.1",
+            "commit": {
+                "sha": "604287400cd02b64783011e63ef2d060eb795274",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/604287400cd02b64783011e63ef2d060eb795274"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTMuMC1yYy4x"
+        },
+        {
+            "name": "v2.53.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.53.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.53.0-rc.0",
+            "commit": {
+                "sha": "80d39c8189ecb970215835f72e657a1e781b2d4b",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/80d39c8189ecb970215835f72e657a1e781b2d4b"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTMuMC1yYy4w"
+        },
+        {
+            "name": "v2.52.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.52.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.52.0",
+            "commit": {
+                "sha": "879d80922a227c37df502e7315fad8ceb10a986d",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/879d80922a227c37df502e7315fad8ceb10a986d"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTIuMA=="
+        },
+        {
+            "name": "v2.52.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.52.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.52.0-rc.1",
+            "commit": {
+                "sha": "48e6e169435e934abea41db3d37b80cd5066c10f",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/48e6e169435e934abea41db3d37b80cd5066c10f"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTIuMC1yYy4x"
+        },
+        {
+            "name": "v2.52.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.52.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.52.0-rc.0",
+            "commit": {
+                "sha": "f170a014f31cc97d2aba47cc769e846c68f8545d",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/f170a014f31cc97d2aba47cc769e846c68f8545d"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTIuMC1yYy4w"
+        },
+        {
+            "name": "v2.51.2",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.51.2",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.51.2",
+            "commit": {
+                "sha": "b4c0ab52c3e9b940ab803581ddae9b3d9a452337",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/b4c0ab52c3e9b940ab803581ddae9b3d9a452337"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTEuMg=="
+        },
+        {
+            "name": "v2.51.1",
+            "zipball_url": "https://api.github.com/repos/prometheus/prometheus/zipball/refs/tags/v2.51.1",
+            "tarball_url": "https://api.github.com/repos/prometheus/prometheus/tarball/refs/tags/v2.51.1",
+            "commit": {
+                "sha": "855b5ac4b80956874eb1790a04c92327f2f99e38",
+                "url": "https://api.github.com/repos/prometheus/prometheus/commits/855b5ac4b80956874eb1790a04c92327f2f99e38"
+            },
+            "node_id": "MDM6UmVmNjgzODkyMTpyZWZzL3RhZ3MvdjIuNTEuMQ=="
+        }
+    ]
+}

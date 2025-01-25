@@ -1,0 +1,425 @@
+{
+    "id": 18723836,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODcyMzgzNg==",
+    "name": "hutool",
+    "full_name": "dromara/hutool",
+    "private": false,
+    "owner": {
+        "login": "dromara",
+        "id": 41095225,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQxMDk1MjI1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41095225?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dromara",
+        "html_url": "https://github.com/dromara",
+        "followers_url": "https://api.github.com/users/dromara/followers",
+        "following_url": "https://api.github.com/users/dromara/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dromara/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dromara/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dromara/subscriptions",
+        "organizations_url": "https://api.github.com/users/dromara/orgs",
+        "repos_url": "https://api.github.com/users/dromara/repos",
+        "events_url": "https://api.github.com/users/dromara/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dromara/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/dromara/hutool",
+    "description": "\ud83c\udf6cA set of tools that keep Java sweet.",
+    "fork": false,
+    "url": "https://api.github.com/repos/dromara/hutool",
+    "forks_url": "https://api.github.com/repos/dromara/hutool/forks",
+    "keys_url": "https://api.github.com/repos/dromara/hutool/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/dromara/hutool/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/dromara/hutool/teams",
+    "hooks_url": "https://api.github.com/repos/dromara/hutool/hooks",
+    "issue_events_url": "https://api.github.com/repos/dromara/hutool/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/dromara/hutool/events",
+    "assignees_url": "https://api.github.com/repos/dromara/hutool/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/dromara/hutool/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/dromara/hutool/tags",
+    "blobs_url": "https://api.github.com/repos/dromara/hutool/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/dromara/hutool/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/dromara/hutool/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/dromara/hutool/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/dromara/hutool/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/dromara/hutool/languages",
+    "stargazers_url": "https://api.github.com/repos/dromara/hutool/stargazers",
+    "contributors_url": "https://api.github.com/repos/dromara/hutool/contributors",
+    "subscribers_url": "https://api.github.com/repos/dromara/hutool/subscribers",
+    "subscription_url": "https://api.github.com/repos/dromara/hutool/subscription",
+    "commits_url": "https://api.github.com/repos/dromara/hutool/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/dromara/hutool/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/dromara/hutool/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/dromara/hutool/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/dromara/hutool/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/dromara/hutool/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/dromara/hutool/merges",
+    "archive_url": "https://api.github.com/repos/dromara/hutool/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/dromara/hutool/downloads",
+    "issues_url": "https://api.github.com/repos/dromara/hutool/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/dromara/hutool/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/dromara/hutool/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/dromara/hutool/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/dromara/hutool/labels{/name}",
+    "releases_url": "https://api.github.com/repos/dromara/hutool/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/dromara/hutool/deployments",
+    "created_at": "2014-04-13T07:23:51Z",
+    "updated_at": "2025-01-25T09:27:37Z",
+    "pushed_at": "2025-01-24T09:15:20Z",
+    "git_url": "git://github.com/dromara/hutool.git",
+    "ssh_url": "git@github.com:dromara/hutool.git",
+    "clone_url": "https://github.com/dromara/hutool.git",
+    "svn_url": "https://github.com/dromara/hutool",
+    "homepage": "https://hutool.cn",
+    "size": 66044,
+    "stargazers_count": 29437,
+    "watchers_count": 29437,
+    "language": "Java",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 7557,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "http",
+        "hutool",
+        "java",
+        "json",
+        "orm",
+        "tool",
+        "util"
+    ],
+    "visibility": "public",
+    "forks": 7557,
+    "open_issues": 2,
+    "watchers": 29437,
+    "default_branch": "v5-master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "test",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/test",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/test",
+            "commit": {
+                "sha": "d7de4dd4e73924cbbee5d0e56df6493ffe120f16",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/d7de4dd4e73924cbbee5d0e56df6493ffe120f16"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzL3Rlc3Q="
+        },
+        {
+            "name": "5.8.35",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.35",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.35",
+            "commit": {
+                "sha": "ced8bf817ab4448e9b1162af6ce697cef8640827",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/ced8bf817ab4448e9b1162af6ce697cef8640827"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4zNQ=="
+        },
+        {
+            "name": "5.8.34",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.34",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.34",
+            "commit": {
+                "sha": "fe567de38d6715e27f8a5357af968ff80f6a30c9",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/fe567de38d6715e27f8a5357af968ff80f6a30c9"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4zNA=="
+        },
+        {
+            "name": "5.8.33",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.33",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.33",
+            "commit": {
+                "sha": "d57de39963f6b83c6c91ddfbb42a74ec3a736e8f",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/d57de39963f6b83c6c91ddfbb42a74ec3a736e8f"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4zMw=="
+        },
+        {
+            "name": "5.8.32",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.32",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.32",
+            "commit": {
+                "sha": "467d67e83ae5fc40364cda9e36e30a7283be2449",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/467d67e83ae5fc40364cda9e36e30a7283be2449"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4zMg=="
+        },
+        {
+            "name": "5.8.31",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.31",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.31",
+            "commit": {
+                "sha": "8d0f4d696817c808b4237fd16d5e1024e2bf9cec",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/8d0f4d696817c808b4237fd16d5e1024e2bf9cec"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4zMQ=="
+        },
+        {
+            "name": "5.8.30",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.30",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.30",
+            "commit": {
+                "sha": "b4274402744678f4fe74dfefe379bd3d004e159a",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/b4274402744678f4fe74dfefe379bd3d004e159a"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4zMA=="
+        },
+        {
+            "name": "5.8.29",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.29",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.29",
+            "commit": {
+                "sha": "95a363cc74084ec333a8495db7106159875024a8",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/95a363cc74084ec333a8495db7106159875024a8"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yOQ=="
+        },
+        {
+            "name": "5.8.28",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.28",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.28",
+            "commit": {
+                "sha": "38592915eb1e599fdd9a2ba66881b19dcdff7ee6",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/38592915eb1e599fdd9a2ba66881b19dcdff7ee6"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yOA=="
+        },
+        {
+            "name": "5.8.27",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.27",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.27",
+            "commit": {
+                "sha": "3e716fcf0a80d91f74cce6545ee089aad1e89ce9",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/3e716fcf0a80d91f74cce6545ee089aad1e89ce9"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yNw=="
+        },
+        {
+            "name": "5.8.26",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.26",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.26",
+            "commit": {
+                "sha": "96b486bb5ab5c2690c7b907a3fc67e25eab3c991",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/96b486bb5ab5c2690c7b907a3fc67e25eab3c991"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yNg=="
+        },
+        {
+            "name": "5.8.25",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.25",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.25",
+            "commit": {
+                "sha": "3a1c7538f30855b867e23f70179e5a29692543f5",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/3a1c7538f30855b867e23f70179e5a29692543f5"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yNQ=="
+        },
+        {
+            "name": "5.8.24",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.24",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.24",
+            "commit": {
+                "sha": "6f9279a3132155896994dab078ba90d822334ca4",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/6f9279a3132155896994dab078ba90d822334ca4"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yNA=="
+        },
+        {
+            "name": "5.8.23",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.23",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.23",
+            "commit": {
+                "sha": "4852c4790470a3ca312966e6c70cb263571a231f",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/4852c4790470a3ca312966e6c70cb263571a231f"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yMw=="
+        },
+        {
+            "name": "5.8.22",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.22",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.22",
+            "commit": {
+                "sha": "20f0c720c457efccde2bcfdd683b06a6ddcdd270",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/20f0c720c457efccde2bcfdd683b06a6ddcdd270"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yMg=="
+        },
+        {
+            "name": "5.8.21",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.21",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.21",
+            "commit": {
+                "sha": "5889435e0998a4159f4c219ac001a44d50070b8c",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/5889435e0998a4159f4c219ac001a44d50070b8c"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yMQ=="
+        },
+        {
+            "name": "5.8.20",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.20",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.20",
+            "commit": {
+                "sha": "ce04de3422e53202109a94f488e452b29eab57b0",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/ce04de3422e53202109a94f488e452b29eab57b0"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4yMA=="
+        },
+        {
+            "name": "5.8.19",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.19",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.19",
+            "commit": {
+                "sha": "ecf321bf07b6e3279ff30c9c9878ee895b05c166",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/ecf321bf07b6e3279ff30c9c9878ee895b05c166"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xOQ=="
+        },
+        {
+            "name": "5.8.17",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.17",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.17",
+            "commit": {
+                "sha": "cfbdd1205c5465521136bf1dcb5645a54a92d4e5",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/cfbdd1205c5465521136bf1dcb5645a54a92d4e5"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xNw=="
+        },
+        {
+            "name": "5.8.15",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.15",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.15",
+            "commit": {
+                "sha": "9b81e5502daabe21ff7f71bcb420662c7d1c3b90",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/9b81e5502daabe21ff7f71bcb420662c7d1c3b90"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xNQ=="
+        },
+        {
+            "name": "5.8.14",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.14",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.14",
+            "commit": {
+                "sha": "0eec1623b211fabb3fab2552ca68d59e8342aeae",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/0eec1623b211fabb3fab2552ca68d59e8342aeae"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xNA=="
+        },
+        {
+            "name": "5.8.13",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.13",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.13",
+            "commit": {
+                "sha": "09351d3b9dc72f0d9d578a999f7115d8f40fcdc7",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/09351d3b9dc72f0d9d578a999f7115d8f40fcdc7"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xMw=="
+        },
+        {
+            "name": "5.8.12",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.12",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.12",
+            "commit": {
+                "sha": "9dbdf1423efcbe573962e7e1554f6426df67bb3a",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/9dbdf1423efcbe573962e7e1554f6426df67bb3a"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xMg=="
+        },
+        {
+            "name": "5.8.11",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.11",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.11",
+            "commit": {
+                "sha": "61dbf0ffe2a8bef3c9f1a12f8266c108c7547322",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/61dbf0ffe2a8bef3c9f1a12f8266c108c7547322"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xMQ=="
+        },
+        {
+            "name": "5.8.10",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.10",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.10",
+            "commit": {
+                "sha": "47479f45a7cacfbebf4c9f6e9fc439fd6a853152",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/47479f45a7cacfbebf4c9f6e9fc439fd6a853152"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC4xMA=="
+        },
+        {
+            "name": "5.8.9",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.9",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.9",
+            "commit": {
+                "sha": "ec14f8384ad384fb6e054df722fe089d64af0c41",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/ec14f8384ad384fb6e054df722fe089d64af0c41"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC45"
+        },
+        {
+            "name": "5.8.8",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.8",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.8",
+            "commit": {
+                "sha": "77e42315a7526a603569b5fc5e9b567688db33ef",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/77e42315a7526a603569b5fc5e9b567688db33ef"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC44"
+        },
+        {
+            "name": "5.8.7",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.7",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.7",
+            "commit": {
+                "sha": "e4c2478c6f45bce9157ca60a846d1941d672fc96",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/e4c2478c6f45bce9157ca60a846d1941d672fc96"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC43"
+        },
+        {
+            "name": "5.8.6",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.6",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.6",
+            "commit": {
+                "sha": "3fa9181bedce6a3b94781bcd29b1dbf406f9ecc6",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/3fa9181bedce6a3b94781bcd29b1dbf406f9ecc6"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC42"
+        },
+        {
+            "name": "5.8.5",
+            "zipball_url": "https://api.github.com/repos/dromara/hutool/zipball/refs/tags/5.8.5",
+            "tarball_url": "https://api.github.com/repos/dromara/hutool/tarball/refs/tags/5.8.5",
+            "commit": {
+                "sha": "b1642d462525e3962c4dce79f8cf9d9135bdff02",
+                "url": "https://api.github.com/repos/dromara/hutool/commits/b1642d462525e3962c4dce79f8cf9d9135bdff02"
+            },
+            "node_id": "MDM6UmVmMTg3MjM4MzY6cmVmcy90YWdzLzUuOC41"
+        }
+    ]
+}

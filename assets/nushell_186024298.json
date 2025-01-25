@@ -1,0 +1,420 @@
+{
+    "id": 186024298,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODYwMjQyOTg=",
+    "name": "nushell",
+    "full_name": "nushell/nushell",
+    "private": false,
+    "owner": {
+        "login": "nushell",
+        "id": 50749515,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwNzQ5NTE1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50749515?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nushell",
+        "html_url": "https://github.com/nushell",
+        "followers_url": "https://api.github.com/users/nushell/followers",
+        "following_url": "https://api.github.com/users/nushell/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nushell/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nushell/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nushell/subscriptions",
+        "organizations_url": "https://api.github.com/users/nushell/orgs",
+        "repos_url": "https://api.github.com/users/nushell/repos",
+        "events_url": "https://api.github.com/users/nushell/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nushell/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "fork": false,
+    "url": "https://api.github.com/repos/nushell/nushell",
+    "forks_url": "https://api.github.com/repos/nushell/nushell/forks",
+    "keys_url": "https://api.github.com/repos/nushell/nushell/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/nushell/nushell/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/nushell/nushell/teams",
+    "hooks_url": "https://api.github.com/repos/nushell/nushell/hooks",
+    "issue_events_url": "https://api.github.com/repos/nushell/nushell/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/nushell/nushell/events",
+    "assignees_url": "https://api.github.com/repos/nushell/nushell/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/nushell/nushell/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/nushell/nushell/tags",
+    "blobs_url": "https://api.github.com/repos/nushell/nushell/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/nushell/nushell/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/nushell/nushell/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/nushell/nushell/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/nushell/nushell/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/nushell/nushell/languages",
+    "stargazers_url": "https://api.github.com/repos/nushell/nushell/stargazers",
+    "contributors_url": "https://api.github.com/repos/nushell/nushell/contributors",
+    "subscribers_url": "https://api.github.com/repos/nushell/nushell/subscribers",
+    "subscription_url": "https://api.github.com/repos/nushell/nushell/subscription",
+    "commits_url": "https://api.github.com/repos/nushell/nushell/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/nushell/nushell/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/nushell/nushell/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/nushell/nushell/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/nushell/nushell/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/nushell/nushell/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/nushell/nushell/merges",
+    "archive_url": "https://api.github.com/repos/nushell/nushell/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/nushell/nushell/downloads",
+    "issues_url": "https://api.github.com/repos/nushell/nushell/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/nushell/nushell/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/nushell/nushell/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/nushell/nushell/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/nushell/nushell/labels{/name}",
+    "releases_url": "https://api.github.com/repos/nushell/nushell/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/nushell/nushell/deployments",
+    "created_at": "2019-05-10T16:59:42Z",
+    "updated_at": "2025-01-25T16:35:05Z",
+    "pushed_at": "2025-01-25T14:12:47Z",
+    "git_url": "git://github.com/nushell/nushell.git",
+    "ssh_url": "git@github.com:nushell/nushell.git",
+    "clone_url": "https://github.com/nushell/nushell.git",
+    "svn_url": "https://github.com/nushell/nushell",
+    "homepage": "https://www.nushell.sh/",
+    "size": 50941,
+    "stargazers_count": 33550,
+    "watchers_count": 33550,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1722,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1464,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "rust",
+        "shell"
+    ],
+    "visibility": "public",
+    "forks": 1722,
+    "open_issues": 1464,
+    "watchers": 33550,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "0.101.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.101.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.101.0",
+            "commit": {
+                "sha": "fb2610904997f54f50ad52095948bede81695f31",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/fb2610904997f54f50ad52095948bede81695f31"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjEwMS4w"
+        },
+        {
+            "name": "0.100.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.100.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.100.0",
+            "commit": {
+                "sha": "30f98f7e64a63a159ce70f02aa6c4c1196cd9ca7",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/30f98f7e64a63a159ce70f02aa6c4c1196cd9ca7"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjEwMC4w"
+        },
+        {
+            "name": "0.99.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.99.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.99.1",
+            "commit": {
+                "sha": "8812072f065be283df3e9a81f3945d0364f2f247",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/8812072f065be283df3e9a81f3945d0364f2f247"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk5LjE="
+        },
+        {
+            "name": "0.99.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.99.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.99.0",
+            "commit": {
+                "sha": "91ff57faa7921223fe54b3cfca2e324d36c7018d",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/91ff57faa7921223fe54b3cfca2e324d36c7018d"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk5LjA="
+        },
+        {
+            "name": "0.98.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.98.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.98.0",
+            "commit": {
+                "sha": "6e1e824473e15eba246e1c43704c5d88fa237a17",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/6e1e824473e15eba246e1c43704c5d88fa237a17"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk4LjA="
+        },
+        {
+            "name": "0.97.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.97.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.97.1",
+            "commit": {
+                "sha": "60769ac1ba3ea036d889f140095d855e5597840c",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/60769ac1ba3ea036d889f140095d855e5597840c"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk3LjE="
+        },
+        {
+            "name": "0.97.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.97.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.97.0",
+            "commit": {
+                "sha": "d667b3c0bcbdf90d28324a231b034a4939d6499b",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/d667b3c0bcbdf90d28324a231b034a4939d6499b"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk3LjA="
+        },
+        {
+            "name": "0.96.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.96.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.96.1",
+            "commit": {
+                "sha": "f7d6c28a001f94f224e459e21df0da2ab5bdc923",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/f7d6c28a001f94f224e459e21df0da2ab5bdc923"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk2LjE="
+        },
+        {
+            "name": "0.96.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.96.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.96.0",
+            "commit": {
+                "sha": "a80dfe8e807035ad8d5bb751b385315982e7aad6",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/a80dfe8e807035ad8d5bb751b385315982e7aad6"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk2LjA="
+        },
+        {
+            "name": "0.95.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.95.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.95.0",
+            "commit": {
+                "sha": "f93c6680bd5ae158190556eb1afc924b0290b52f",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/f93c6680bd5ae158190556eb1afc924b0290b52f"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk1LjA="
+        },
+        {
+            "name": "0.94.2",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.94.2",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.94.2",
+            "commit": {
+                "sha": "be8c1dc0066cd1034a6b110a622f47b516bfe029",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/be8c1dc0066cd1034a6b110a622f47b516bfe029"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk0LjI="
+        },
+        {
+            "name": "0.94.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.94.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.94.1",
+            "commit": {
+                "sha": "f3cf693ec701ab3086f984a8aeadfc9b50fadd90",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/f3cf693ec701ab3086f984a8aeadfc9b50fadd90"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk0LjE="
+        },
+        {
+            "name": "0.94.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.94.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.94.0",
+            "commit": {
+                "sha": "61182deb96c84fe1171179edcfeef9f1d301e8fb",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/61182deb96c84fe1171179edcfeef9f1d301e8fb"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjk0LjA="
+        },
+        {
+            "name": "0.93.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.93.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.93.0",
+            "commit": {
+                "sha": "3b220e07e3e3652bc722d4bc8370f2413df69473",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/3b220e07e3e3652bc722d4bc8370f2413df69473"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkzLjA="
+        },
+        {
+            "name": "0.92.2",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.92.2",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.92.2",
+            "commit": {
+                "sha": "2a08a18b26865a86c793d183b9b042220ecb733a",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/2a08a18b26865a86c793d183b9b042220ecb733a"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkyLjI="
+        },
+        {
+            "name": "0.92.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.92.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.92.1",
+            "commit": {
+                "sha": "c00a05a7625275811a3795abc1e903f4e820adf8",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/c00a05a7625275811a3795abc1e903f4e820adf8"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkyLjE="
+        },
+        {
+            "name": "0.92.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.92.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.92.0",
+            "commit": {
+                "sha": "c3428b891a6ca733fd976971d2f440b5f41cd082",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/c3428b891a6ca733fd976971d2f440b5f41cd082"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkyLjA="
+        },
+        {
+            "name": "0.91.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.91.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.91.0",
+            "commit": {
+                "sha": "3016d7a64ccb2c2eac9f735f6144fc896ea724a5",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/3016d7a64ccb2c2eac9f735f6144fc896ea724a5"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkxLjA="
+        },
+        {
+            "name": "0.90.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.90.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.90.1",
+            "commit": {
+                "sha": "c2992d5d8b8541b64e9fc1440ed2917fc9b757f7",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/c2992d5d8b8541b64e9fc1440ed2917fc9b757f7"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkwLjE="
+        },
+        {
+            "name": "0.90.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.90.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.90.0",
+            "commit": {
+                "sha": "f5f21aca2db9a3aad7ab9061adcac57db82b094f",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/f5f21aca2db9a3aad7ab9061adcac57db82b094f"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjkwLjA="
+        },
+        {
+            "name": "0.89.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.89.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.89.0",
+            "commit": {
+                "sha": "2c1560e281d65a50d90b30c42006755b364b4928",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/2c1560e281d65a50d90b30c42006755b364b4928"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg5LjA="
+        },
+        {
+            "name": "0.88.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.88.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.88.1",
+            "commit": {
+                "sha": "fd56768fdcc1acbebcb75745600fc7419f72833d",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/fd56768fdcc1acbebcb75745600fc7419f72833d"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg4LjE="
+        },
+        {
+            "name": "0.88.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.88.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.88.0",
+            "commit": {
+                "sha": "d43f4253e8f4591517f5ee32a9ccea4f69bb47d7",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/d43f4253e8f4591517f5ee32a9ccea4f69bb47d7"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg4LjA="
+        },
+        {
+            "name": "0.87.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.87.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.87.1",
+            "commit": {
+                "sha": "3d631490bc17cfef2944072f9b7869cd9cac1e7b",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/3d631490bc17cfef2944072f9b7869cd9cac1e7b"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg3LjE="
+        },
+        {
+            "name": "0.87.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.87.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.87.0",
+            "commit": {
+                "sha": "77a1c3c7b2f3a110d48bcb792968e6b0d85d4bb7",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/77a1c3c7b2f3a110d48bcb792968e6b0d85d4bb7"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg3LjA="
+        },
+        {
+            "name": "0.86.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.86.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.86.0",
+            "commit": {
+                "sha": "5d8763ed1d14048ac9fc09eb21be36e6e622f0d7",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/5d8763ed1d14048ac9fc09eb21be36e6e622f0d7"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg2LjA="
+        },
+        {
+            "name": "0.85.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.85.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.85.0",
+            "commit": {
+                "sha": "a6f62e05ae5b4e9ba4027fbfffd21025a898783e",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/a6f62e05ae5b4e9ba4027fbfffd21025a898783e"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg1LjA="
+        },
+        {
+            "name": "0.84.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.84.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.84.0",
+            "commit": {
+                "sha": "d2abb8603abab43ec4a6d4ed56f9018790b99dce",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/d2abb8603abab43ec4a6d4ed56f9018790b99dce"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjg0LjA="
+        },
+        {
+            "name": "0.83.1",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.83.1",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.83.1",
+            "commit": {
+                "sha": "bf5bd3ff102689a3cae78ea5dfe2e67dfa92f4cd",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/bf5bd3ff102689a3cae78ea5dfe2e67dfa92f4cd"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjgzLjE="
+        },
+        {
+            "name": "0.83.0",
+            "zipball_url": "https://api.github.com/repos/nushell/nushell/zipball/refs/tags/0.83.0",
+            "tarball_url": "https://api.github.com/repos/nushell/nushell/tarball/refs/tags/0.83.0",
+            "commit": {
+                "sha": "a33b5fe6ce97b5e9fe8a774c13e783ed65c1b591",
+                "url": "https://api.github.com/repos/nushell/nushell/commits/a33b5fe6ce97b5e9fe8a774c13e783ed65c1b591"
+            },
+            "node_id": "MDM6UmVmMTg2MDI0Mjk4OnJlZnMvdGFncy8wLjgzLjA="
+        }
+    ]
+}

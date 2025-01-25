@@ -1,0 +1,423 @@
+{
+    "id": 37958358,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNzk1ODM1OA==",
+    "name": "tesseract.js",
+    "full_name": "naptha/tesseract.js",
+    "private": false,
+    "owner": {
+        "login": "naptha",
+        "id": 7720173,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3MjAxNzM=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7720173?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/naptha",
+        "html_url": "https://github.com/naptha",
+        "followers_url": "https://api.github.com/users/naptha/followers",
+        "following_url": "https://api.github.com/users/naptha/following{/other_user}",
+        "gists_url": "https://api.github.com/users/naptha/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/naptha/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/naptha/subscriptions",
+        "organizations_url": "https://api.github.com/users/naptha/orgs",
+        "repos_url": "https://api.github.com/users/naptha/repos",
+        "events_url": "https://api.github.com/users/naptha/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/naptha/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/naptha/tesseract.js",
+    "description": "Pure Javascript OCR for more than 100 Languages \ud83d\udcd6\ud83c\udf89\ud83d\udda5",
+    "fork": false,
+    "url": "https://api.github.com/repos/naptha/tesseract.js",
+    "forks_url": "https://api.github.com/repos/naptha/tesseract.js/forks",
+    "keys_url": "https://api.github.com/repos/naptha/tesseract.js/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/naptha/tesseract.js/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/naptha/tesseract.js/teams",
+    "hooks_url": "https://api.github.com/repos/naptha/tesseract.js/hooks",
+    "issue_events_url": "https://api.github.com/repos/naptha/tesseract.js/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/naptha/tesseract.js/events",
+    "assignees_url": "https://api.github.com/repos/naptha/tesseract.js/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/naptha/tesseract.js/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/naptha/tesseract.js/tags",
+    "blobs_url": "https://api.github.com/repos/naptha/tesseract.js/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/naptha/tesseract.js/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/naptha/tesseract.js/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/naptha/tesseract.js/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/naptha/tesseract.js/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/naptha/tesseract.js/languages",
+    "stargazers_url": "https://api.github.com/repos/naptha/tesseract.js/stargazers",
+    "contributors_url": "https://api.github.com/repos/naptha/tesseract.js/contributors",
+    "subscribers_url": "https://api.github.com/repos/naptha/tesseract.js/subscribers",
+    "subscription_url": "https://api.github.com/repos/naptha/tesseract.js/subscription",
+    "commits_url": "https://api.github.com/repos/naptha/tesseract.js/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/naptha/tesseract.js/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/naptha/tesseract.js/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/naptha/tesseract.js/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/naptha/tesseract.js/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/naptha/tesseract.js/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/naptha/tesseract.js/merges",
+    "archive_url": "https://api.github.com/repos/naptha/tesseract.js/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/naptha/tesseract.js/downloads",
+    "issues_url": "https://api.github.com/repos/naptha/tesseract.js/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/naptha/tesseract.js/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/naptha/tesseract.js/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/naptha/tesseract.js/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/naptha/tesseract.js/labels{/name}",
+    "releases_url": "https://api.github.com/repos/naptha/tesseract.js/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/naptha/tesseract.js/deployments",
+    "created_at": "2015-06-24T02:49:52Z",
+    "updated_at": "2025-01-25T15:03:08Z",
+    "pushed_at": "2025-01-07T17:25:39Z",
+    "git_url": "git://github.com/naptha/tesseract.js.git",
+    "ssh_url": "git@github.com:naptha/tesseract.js.git",
+    "clone_url": "https://github.com/naptha/tesseract.js.git",
+    "svn_url": "https://github.com/naptha/tesseract.js",
+    "homepage": "http://tesseract.projectnaptha.com/",
+    "size": 108862,
+    "stargazers_count": 35822,
+    "watchers_count": 35822,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 2267,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 33,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "deep-learning",
+        "javascript",
+        "ocr",
+        "tesseract",
+        "webassembly"
+    ],
+    "visibility": "public",
+    "forks": 2267,
+    "open_issues": 33,
+    "watchers": 35822,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v6.0.0",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v6.0.0",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v6.0.0",
+            "commit": {
+                "sha": "7d64af10bc574254cc069b4138944f622c8cb217",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/7d64af10bc574254cc069b4138944f622c8cb217"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y2LjAuMA=="
+        },
+        {
+            "name": "v5.1.1",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.1.1",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.1.1",
+            "commit": {
+                "sha": "e36d20da331712d6e62af14a70c48779d3f4ef96",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/e36d20da331712d6e62af14a70c48779d3f4ef96"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjEuMQ=="
+        },
+        {
+            "name": "v5.1.0",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.1.0",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.1.0",
+            "commit": {
+                "sha": "83df363b848968402ad38f66f6919e775b483f61",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/83df363b848968402ad38f66f6919e775b483f61"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjEuMA=="
+        },
+        {
+            "name": "v5.0.5",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.0.5",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.0.5",
+            "commit": {
+                "sha": "0c3f1cf8d48ec593773b4a23949525b3aaf44372",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/0c3f1cf8d48ec593773b4a23949525b3aaf44372"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjAuNQ=="
+        },
+        {
+            "name": "v5.0.4",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.0.4",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.0.4",
+            "commit": {
+                "sha": "bc427454f837b4fb576ab28f60dbbcfa18abc201",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/bc427454f837b4fb576ab28f60dbbcfa18abc201"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjAuNA=="
+        },
+        {
+            "name": "v5.0.3",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.0.3",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.0.3",
+            "commit": {
+                "sha": "3da53501f5d4bdf77d95367c6ffd992e106e09e0",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/3da53501f5d4bdf77d95367c6ffd992e106e09e0"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjAuMw=="
+        },
+        {
+            "name": "v5.0.2",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.0.2",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.0.2",
+            "commit": {
+                "sha": "778aa00a11ea086a0b3a138ab520b38524b1ec10",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/778aa00a11ea086a0b3a138ab520b38524b1ec10"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjAuMg=="
+        },
+        {
+            "name": "v5.0.1",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.0.1",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.0.1",
+            "commit": {
+                "sha": "dd7b8e2d60fbf6f3b28d4d9c6cc7c1ebc386f30d",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/dd7b8e2d60fbf6f3b28d4d9c6cc7c1ebc386f30d"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjAuMQ=="
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "3474d07604d0d97f46077ad898b1a89c398b7563",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/3474d07604d0d97f46077ad898b1a89c398b7563"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y1LjAuMA=="
+        },
+        {
+            "name": "v4.1.4",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.1.4",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.1.4",
+            "commit": {
+                "sha": "0af35fa940cc9e665209d6488541a11fd7dcdcbe",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/0af35fa940cc9e665209d6488541a11fd7dcdcbe"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjEuNA=="
+        },
+        {
+            "name": "v4.1.3",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.1.3",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.1.3",
+            "commit": {
+                "sha": "ccf7414bc22b1f3710fb2998183ca9966254cc7a",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/ccf7414bc22b1f3710fb2998183ca9966254cc7a"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjEuMw=="
+        },
+        {
+            "name": "v4.1.2",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.1.2",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.1.2",
+            "commit": {
+                "sha": "71b227f2e0246d3caa0b424281a2966847bb816f",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/71b227f2e0246d3caa0b424281a2966847bb816f"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjEuMg=="
+        },
+        {
+            "name": "v4.1.1",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.1.1",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.1.1",
+            "commit": {
+                "sha": "b7411f4d7e48a3f9bd0be6633dcb4d1c5e380490",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/b7411f4d7e48a3f9bd0be6633dcb4d1c5e380490"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjEuMQ=="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "07feaa774d812fff99d04be9b132e222749fd51e",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/07feaa774d812fff99d04be9b132e222749fd51e"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.0.6",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.6",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.6",
+            "commit": {
+                "sha": "b23ebf3fa2b3637ac42cbfb5dce53fbc460f7200",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/b23ebf3fa2b3637ac42cbfb5dce53fbc460f7200"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuNg=="
+        },
+        {
+            "name": "v4.0.5",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.5",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.5",
+            "commit": {
+                "sha": "7a087ca988c41d35467619fe66bf4f866bfdbb34",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/7a087ca988c41d35467619fe66bf4f866bfdbb34"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuNQ=="
+        },
+        {
+            "name": "v4.0.4",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.4",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.4",
+            "commit": {
+                "sha": "202666346c9e71844bb6565e341350055be5b98a",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/202666346c9e71844bb6565e341350055be5b98a"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuNA=="
+        },
+        {
+            "name": "v4.0.3",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.3",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.3",
+            "commit": {
+                "sha": "845088bd7de7135e4f5745f6394dc46b4c4dfc60",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/845088bd7de7135e4f5745f6394dc46b4c4dfc60"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuMw=="
+        },
+        {
+            "name": "v4.0.2",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.2",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.2",
+            "commit": {
+                "sha": "7ddbfd43e187613d573927d3251c3b3de8ed7936",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/7ddbfd43e187613d573927d3251c3b3de8ed7936"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuMg=="
+        },
+        {
+            "name": "v4.0.1",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.1",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.1",
+            "commit": {
+                "sha": "487f5d1fd63806d09c2a523be30c55bd2d91cf5c",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/487f5d1fd63806d09c2a523be30c55bd2d91cf5c"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuMQ=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "91f9f6cbd9dfa7501fa1f7b9eaeadfd099c6ed2c",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/91f9f6cbd9dfa7501fa1f7b9eaeadfd099c6ed2c"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v3.0.3",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v3.0.3",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v3.0.3",
+            "commit": {
+                "sha": "bce7cd84fe823ca970854fe9c2c76d0c75051447",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/bce7cd84fe823ca970854fe9c2c76d0c75051447"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YzLjAuMw=="
+        },
+        {
+            "name": "v3.0.2",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v3.0.2",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v3.0.2",
+            "commit": {
+                "sha": "b419e45114dce2719f8e26b188faefd86caca2a1",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/b419e45114dce2719f8e26b188faefd86caca2a1"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YzLjAuMg=="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "0e368c69d61056d8420a2fcc0e0a8ca9a5620f33",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/0e368c69d61056d8420a2fcc0e0a8ca9a5620f33"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YzLjAuMQ=="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "44d322e6ff71fd0a4203f8c04982d5cee007a50e",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/44d322e6ff71fd0a4203f8c04982d5cee007a50e"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YzLjAuMA=="
+        },
+        {
+            "name": "v2.1.5",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v2.1.5",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v2.1.5",
+            "commit": {
+                "sha": "294ced5c85d3ea359b59a4c1404f426eed2247f8",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/294ced5c85d3ea359b59a4c1404f426eed2247f8"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YyLjEuNQ=="
+        },
+        {
+            "name": "v2.1.4",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v2.1.4",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v2.1.4",
+            "commit": {
+                "sha": "69355a7c070e35d0185caf9fcf04e4634f900caa",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/69355a7c070e35d0185caf9fcf04e4634f900caa"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YyLjEuNA=="
+        },
+        {
+            "name": "v2.1.3",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v2.1.3",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v2.1.3",
+            "commit": {
+                "sha": "2bbd1e896c9ba984a2ede1252dc7a579f7e2b5f7",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/2bbd1e896c9ba984a2ede1252dc7a579f7e2b5f7"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YyLjEuMw=="
+        },
+        {
+            "name": "v2.1.2",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v2.1.2",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v2.1.2",
+            "commit": {
+                "sha": "13ab9cec700b272173af8d32fde3afb3c624bd6a",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/13ab9cec700b272173af8d32fde3afb3c624bd6a"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YyLjEuMg=="
+        },
+        {
+            "name": "v2.1.1",
+            "zipball_url": "https://api.github.com/repos/naptha/tesseract.js/zipball/refs/tags/v2.1.1",
+            "tarball_url": "https://api.github.com/repos/naptha/tesseract.js/tarball/refs/tags/v2.1.1",
+            "commit": {
+                "sha": "1df208ffabcd914bc3089f7260f6169784ce2399",
+                "url": "https://api.github.com/repos/naptha/tesseract.js/commits/1df208ffabcd914bc3089f7260f6169784ce2399"
+            },
+            "node_id": "MDM6UmVmMzc5NTgzNTg6cmVmcy90YWdzL3YyLjEuMQ=="
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "id": 10744183,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==",
+    "name": "netdata",
+    "full_name": "netdata/netdata",
+    "private": false,
+    "owner": {
+        "login": "netdata",
+        "id": 43390781,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMzkwNzgx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43390781?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/netdata",
+        "html_url": "https://github.com/netdata",
+        "followers_url": "https://api.github.com/users/netdata/followers",
+        "following_url": "https://api.github.com/users/netdata/following{/other_user}",
+        "gists_url": "https://api.github.com/users/netdata/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/netdata/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/netdata/subscriptions",
+        "organizations_url": "https://api.github.com/users/netdata/orgs",
+        "repos_url": "https://api.github.com/users/netdata/repos",
+        "events_url": "https://api.github.com/users/netdata/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/netdata/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/netdata/netdata",
+    "description": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+    "fork": false,
+    "url": "https://api.github.com/repos/netdata/netdata",
+    "forks_url": "https://api.github.com/repos/netdata/netdata/forks",
+    "keys_url": "https://api.github.com/repos/netdata/netdata/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/netdata/netdata/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/netdata/netdata/teams",
+    "hooks_url": "https://api.github.com/repos/netdata/netdata/hooks",
+    "issue_events_url": "https://api.github.com/repos/netdata/netdata/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/netdata/netdata/events",
+    "assignees_url": "https://api.github.com/repos/netdata/netdata/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/netdata/netdata/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/netdata/netdata/tags",
+    "blobs_url": "https://api.github.com/repos/netdata/netdata/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/netdata/netdata/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/netdata/netdata/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/netdata/netdata/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/netdata/netdata/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/netdata/netdata/languages",
+    "stargazers_url": "https://api.github.com/repos/netdata/netdata/stargazers",
+    "contributors_url": "https://api.github.com/repos/netdata/netdata/contributors",
+    "subscribers_url": "https://api.github.com/repos/netdata/netdata/subscribers",
+    "subscription_url": "https://api.github.com/repos/netdata/netdata/subscription",
+    "commits_url": "https://api.github.com/repos/netdata/netdata/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/netdata/netdata/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/netdata/netdata/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/netdata/netdata/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/netdata/netdata/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/netdata/netdata/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/netdata/netdata/merges",
+    "archive_url": "https://api.github.com/repos/netdata/netdata/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/netdata/netdata/downloads",
+    "issues_url": "https://api.github.com/repos/netdata/netdata/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/netdata/netdata/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/netdata/netdata/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/netdata/netdata/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/netdata/netdata/labels{/name}",
+    "releases_url": "https://api.github.com/repos/netdata/netdata/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/netdata/netdata/deployments",
+    "created_at": "2013-06-17T18:39:10Z",
+    "updated_at": "2025-01-25T17:16:01Z",
+    "pushed_at": "2025-01-25T09:48:44Z",
+    "git_url": "git://github.com/netdata/netdata.git",
+    "ssh_url": "git@github.com:netdata/netdata.git",
+    "clone_url": "https://github.com/netdata/netdata.git",
+    "svn_url": "https://github.com/netdata/netdata",
+    "homepage": "https://www.netdata.cloud",
+    "size": 225358,
+    "stargazers_count": 73027,
+    "watchers_count": 73027,
+    "language": "C",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5998,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 211,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "alerting",
+        "cncf",
+        "data-visualization",
+        "database",
+        "devops",
+        "docker",
+        "grafana",
+        "influxdb",
+        "kubernetes",
+        "linux",
+        "machine-learning",
+        "mongodb",
+        "monitoring",
+        "mysql",
+        "netdata",
+        "observability",
+        "postgresql",
+        "prometheus",
+        "raspberry-pi",
+        "statsd"
+    ],
+    "visibility": "public",
+    "forks": 5998,
+    "open_issues": 211,
+    "watchers": 73027,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "7bc04133e08252f83462cca5d6675e33c80a400d",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/7bc04133e08252f83462cca5d6675e33c80a400d"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjIuMA=="
+        },
+        {
+            "name": "v2.1.1",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.1.1",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.1.1",
+            "commit": {
+                "sha": "741ae982c3d9f38e26e1437c995e0758146c9b5f",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/741ae982c3d9f38e26e1437c995e0758146c9b5f"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjEuMQ=="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "1029c59572f85abf4930892f1729d8d5911e55f7",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/1029c59572f85abf4930892f1729d8d5911e55f7"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjEuMA=="
+        },
+        {
+            "name": "v2.0.3",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.0.3",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.0.3",
+            "commit": {
+                "sha": "84ef807ad12eb144248f8808165196254552523f",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/84ef807ad12eb144248f8808165196254552523f"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjAuMw=="
+        },
+        {
+            "name": "v2.0.2",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.0.2",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.0.2",
+            "commit": {
+                "sha": "6244081a030cd622ff36aa064abc9c6090fbf78d",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/6244081a030cd622ff36aa064abc9c6090fbf78d"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjAuMg=="
+        },
+        {
+            "name": "v2.0.1",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.0.1",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.0.1",
+            "commit": {
+                "sha": "725b2a9ddec121a63779739367b14135673692fa",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/725b2a9ddec121a63779739367b14135673692fa"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjAuMQ=="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "92b67c5bfd8ee40b4443ce3911608a2d91a50a24",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/92b67c5bfd8ee40b4443ce3911608a2d91a50a24"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YyLjAuMA=="
+        },
+        {
+            "name": "v1.99.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.99.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.99.0",
+            "commit": {
+                "sha": "96fc4d5c16919d7bba51baabffdb99ead0b65d5e",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/96fc4d5c16919d7bba51baabffdb99ead0b65d5e"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjk5LjA="
+        },
+        {
+            "name": "v1.47.5",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.47.5",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.47.5",
+            "commit": {
+                "sha": "d1d5bebfc5cae605c3f17bc7ee9c620ac268bda7",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/d1d5bebfc5cae605c3f17bc7ee9c620ac268bda7"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ3LjU="
+        },
+        {
+            "name": "v1.47.4",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.47.4",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.47.4",
+            "commit": {
+                "sha": "1cdb8c93551f3c6c7270e001d4ce07aa6971a88a",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/1cdb8c93551f3c6c7270e001d4ce07aa6971a88a"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ3LjQ="
+        },
+        {
+            "name": "v1.47.3",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.47.3",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.47.3",
+            "commit": {
+                "sha": "452591570d8169da58242bbaf1a00e8433f0e3ec",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/452591570d8169da58242bbaf1a00e8433f0e3ec"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ3LjM="
+        },
+        {
+            "name": "v1.47.2",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.47.2",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.47.2",
+            "commit": {
+                "sha": "59acdc6a1f489c78bde5583f99314ad8892f5bf2",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/59acdc6a1f489c78bde5583f99314ad8892f5bf2"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ3LjI="
+        },
+        {
+            "name": "v1.47.1",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.47.1",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.47.1",
+            "commit": {
+                "sha": "b4ccffcbeebd6af857a0de092b4ec60e615eb6ce",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/b4ccffcbeebd6af857a0de092b4ec60e615eb6ce"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ3LjE="
+        },
+        {
+            "name": "v1.47.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.47.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.47.0",
+            "commit": {
+                "sha": "0aa4481eed6448d0564af0748b6e17c1290035bb",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/0aa4481eed6448d0564af0748b6e17c1290035bb"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ3LjA="
+        },
+        {
+            "name": "v1.46.3",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.46.3",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.46.3",
+            "commit": {
+                "sha": "1525e866e4ba3d00d122a8c6928c5058a7fde7b7",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/1525e866e4ba3d00d122a8c6928c5058a7fde7b7"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ2LjM="
+        },
+        {
+            "name": "v1.46.2",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.46.2",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.46.2",
+            "commit": {
+                "sha": "2f0ae41476bce7dc1f08bc6ac7aea3b5da815519",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/2f0ae41476bce7dc1f08bc6ac7aea3b5da815519"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ2LjI="
+        },
+        {
+            "name": "v1.46.1",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.46.1",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.46.1",
+            "commit": {
+                "sha": "7d197531985f9c2917d714dc51c754ad936728ab",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/7d197531985f9c2917d714dc51c754ad936728ab"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ2LjE="
+        },
+        {
+            "name": "v1.46.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.46.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.46.0",
+            "commit": {
+                "sha": "77d2d1bce3a7eda4c14b97366ab40319963f8bcb",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/77d2d1bce3a7eda4c14b97366ab40319963f8bcb"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ2LjA="
+        },
+        {
+            "name": "v1.45.6",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.6",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.6",
+            "commit": {
+                "sha": "7bf20e42efd386ca7ddae9ed95eaebfabf37defb",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/7bf20e42efd386ca7ddae9ed95eaebfabf37defb"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjY="
+        },
+        {
+            "name": "v1.45.5",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.5",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.5",
+            "commit": {
+                "sha": "21b4d6d1aca60e8a0d2452d6faac988cc3626257",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/21b4d6d1aca60e8a0d2452d6faac988cc3626257"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjU="
+        },
+        {
+            "name": "v1.45.4",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.4",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.4",
+            "commit": {
+                "sha": "c60ae8d48c8d626f1984f9893d761a4d4937514e",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/c60ae8d48c8d626f1984f9893d761a4d4937514e"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjQ="
+        },
+        {
+            "name": "v1.45.3",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.3",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.3",
+            "commit": {
+                "sha": "59ee49c63212596c79cf7cdaf9b7e0167f1c1739",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/59ee49c63212596c79cf7cdaf9b7e0167f1c1739"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjM="
+        },
+        {
+            "name": "v1.45.2",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.2",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.2",
+            "commit": {
+                "sha": "6385bc73f7fad9be16b8f296d31fb8bedcd4b3ea",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/6385bc73f7fad9be16b8f296d31fb8bedcd4b3ea"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjI="
+        },
+        {
+            "name": "v1.45.1",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.1",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.1",
+            "commit": {
+                "sha": "b8315a54e9720a982cf9aa69aa38fa533a07f314",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/b8315a54e9720a982cf9aa69aa38fa533a07f314"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjE="
+        },
+        {
+            "name": "v1.45.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.45.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.45.0",
+            "commit": {
+                "sha": "f70556d7cb121178de9c01cf11b97c1956ad1221",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/f70556d7cb121178de9c01cf11b97c1956ad1221"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ1LjA="
+        },
+        {
+            "name": "v1.44.3",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.44.3",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.44.3",
+            "commit": {
+                "sha": "42ae4d8d4ce180e4c387d98cc27eddee85604781",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/42ae4d8d4ce180e4c387d98cc27eddee85604781"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ0LjM="
+        },
+        {
+            "name": "v1.44.2",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.44.2",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.44.2",
+            "commit": {
+                "sha": "124349bdffbe45db9f71f893ea725dd583a13fc9",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/124349bdffbe45db9f71f893ea725dd583a13fc9"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ0LjI="
+        },
+        {
+            "name": "v1.44.1",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.44.1",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.44.1",
+            "commit": {
+                "sha": "5d998b946fedddbde106309d57b64ec96f596332",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/5d998b946fedddbde106309d57b64ec96f596332"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ0LjE="
+        },
+        {
+            "name": "v1.44.0",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.44.0",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.44.0",
+            "commit": {
+                "sha": "5f5667ce3ca9edaa8d4ca0126a000f2b7811cb61",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/5f5667ce3ca9edaa8d4ca0126a000f2b7811cb61"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQ0LjA="
+        },
+        {
+            "name": "v1.43.2",
+            "zipball_url": "https://api.github.com/repos/netdata/netdata/zipball/refs/tags/v1.43.2",
+            "tarball_url": "https://api.github.com/repos/netdata/netdata/tarball/refs/tags/v1.43.2",
+            "commit": {
+                "sha": "9dc3b13b4d0f372d32f83788b2acce7060362a14",
+                "url": "https://api.github.com/repos/netdata/netdata/commits/9dc3b13b4d0f372d32f83788b2acce7060362a14"
+            },
+            "node_id": "MDM6UmVmMTA3NDQxODM6cmVmcy90YWdzL3YxLjQzLjI="
+        }
+    ]
+}

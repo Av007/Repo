@@ -1,0 +1,438 @@
+{
+    "id": 193215554,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+    "name": "n8n",
+    "full_name": "n8n-io/n8n",
+    "private": false,
+    "owner": {
+        "login": "n8n-io",
+        "id": 45487711,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1NDg3NzEx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/45487711?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/n8n-io",
+        "html_url": "https://github.com/n8n-io",
+        "followers_url": "https://api.github.com/users/n8n-io/followers",
+        "following_url": "https://api.github.com/users/n8n-io/following{/other_user}",
+        "gists_url": "https://api.github.com/users/n8n-io/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/n8n-io/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/n8n-io/subscriptions",
+        "organizations_url": "https://api.github.com/users/n8n-io/orgs",
+        "repos_url": "https://api.github.com/users/n8n-io/repos",
+        "events_url": "https://api.github.com/users/n8n-io/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/n8n-io/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "fork": false,
+    "url": "https://api.github.com/repos/n8n-io/n8n",
+    "forks_url": "https://api.github.com/repos/n8n-io/n8n/forks",
+    "keys_url": "https://api.github.com/repos/n8n-io/n8n/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/n8n-io/n8n/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/n8n-io/n8n/teams",
+    "hooks_url": "https://api.github.com/repos/n8n-io/n8n/hooks",
+    "issue_events_url": "https://api.github.com/repos/n8n-io/n8n/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/n8n-io/n8n/events",
+    "assignees_url": "https://api.github.com/repos/n8n-io/n8n/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/n8n-io/n8n/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/n8n-io/n8n/tags",
+    "blobs_url": "https://api.github.com/repos/n8n-io/n8n/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/n8n-io/n8n/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/n8n-io/n8n/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/n8n-io/n8n/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/n8n-io/n8n/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/n8n-io/n8n/languages",
+    "stargazers_url": "https://api.github.com/repos/n8n-io/n8n/stargazers",
+    "contributors_url": "https://api.github.com/repos/n8n-io/n8n/contributors",
+    "subscribers_url": "https://api.github.com/repos/n8n-io/n8n/subscribers",
+    "subscription_url": "https://api.github.com/repos/n8n-io/n8n/subscription",
+    "commits_url": "https://api.github.com/repos/n8n-io/n8n/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/n8n-io/n8n/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/n8n-io/n8n/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/n8n-io/n8n/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/n8n-io/n8n/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/n8n-io/n8n/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/n8n-io/n8n/merges",
+    "archive_url": "https://api.github.com/repos/n8n-io/n8n/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/n8n-io/n8n/downloads",
+    "issues_url": "https://api.github.com/repos/n8n-io/n8n/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/n8n-io/n8n/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/n8n-io/n8n/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/n8n-io/n8n/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/n8n-io/n8n/labels{/name}",
+    "releases_url": "https://api.github.com/repos/n8n-io/n8n/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/n8n-io/n8n/deployments",
+    "created_at": "2019-06-22T09:24:21Z",
+    "updated_at": "2025-01-25T17:10:03Z",
+    "pushed_at": "2025-01-25T15:33:43Z",
+    "git_url": "git://github.com/n8n-io/n8n.git",
+    "ssh_url": "git@github.com:n8n-io/n8n.git",
+    "clone_url": "https://github.com/n8n-io/n8n.git",
+    "svn_url": "https://github.com/n8n-io/n8n",
+    "homepage": "https://n8n.io",
+    "size": 189828,
+    "stargazers_count": 56517,
+    "watchers_count": 56517,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 10726,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 599,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "ai",
+        "apis",
+        "automated",
+        "automation",
+        "cli",
+        "data-flow",
+        "development",
+        "docker",
+        "integration-framework",
+        "integrations",
+        "ipaas",
+        "low-code",
+        "low-code-platform",
+        "n8n",
+        "no-code",
+        "node",
+        "self-hosted",
+        "typescript",
+        "workflow",
+        "workflow-automation"
+    ],
+    "visibility": "public",
+    "forks": 10726,
+    "open_issues": 599,
+    "watchers": 56517,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "release/1.37.2",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/release/1.37.2",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/release/1.37.2",
+            "commit": {
+                "sha": "658b6fc2f6c982305f2027bfe9261a7cbd7c59ae",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/658b6fc2f6c982305f2027bfe9261a7cbd7c59ae"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9yZWxlYXNlLzEuMzcuMg=="
+        },
+        {
+            "name": "n8n-workflow@0.137.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.137.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.137.0",
+            "commit": {
+                "sha": "49865b7b6292492aba52ac6bdc59e773c3e90c46",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/49865b7b6292492aba52ac6bdc59e773c3e90c46"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzcuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.136.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.136.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.136.1",
+            "commit": {
+                "sha": "a245dbe0c9f123f3b49cd8635a60db6257e1e915",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/a245dbe0c9f123f3b49cd8635a60db6257e1e915"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzYuMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.136.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.136.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.136.0",
+            "commit": {
+                "sha": "7ec7e31565f6864a95e28f492ea52e821e0c4e37",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/7ec7e31565f6864a95e28f492ea52e821e0c4e37"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzYuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.135.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.135.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.135.0",
+            "commit": {
+                "sha": "bf3ba59331fb104a25629cecfeb8ac45d3ae23b7",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/bf3ba59331fb104a25629cecfeb8ac45d3ae23b7"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzUuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.134.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.134.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.134.0",
+            "commit": {
+                "sha": "b9768b3b80d5a6190ff1b7560ef374ecc219bd2f",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/b9768b3b80d5a6190ff1b7560ef374ecc219bd2f"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzQuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.133.2",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.133.2",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.133.2",
+            "commit": {
+                "sha": "211729ecc7887d93fe170f6f0179301050648a21",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/211729ecc7887d93fe170f6f0179301050648a21"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzMuMg=="
+        },
+        {
+            "name": "n8n-workflow@0.133.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.133.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.133.1",
+            "commit": {
+                "sha": "3b3413996997ee69a7fa9ff9021f7d9a4bd0c4af",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/3b3413996997ee69a7fa9ff9021f7d9a4bd0c4af"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzMuMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.133.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.133.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.133.0",
+            "commit": {
+                "sha": "03b2bcaa88d956d273c7ce50f1784d68f2061bcb",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/03b2bcaa88d956d273c7ce50f1784d68f2061bcb"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzMuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.132.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.132.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.132.1",
+            "commit": {
+                "sha": "be038db6954b7a686a343771c0ba651fefc33f35",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/be038db6954b7a686a343771c0ba651fefc33f35"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzIuMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.132.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.132.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.132.0",
+            "commit": {
+                "sha": "828ff6b5214e7890537eb6ee217548ec68acbb66",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/828ff6b5214e7890537eb6ee217548ec68acbb66"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzIuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.131.2",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.131.2",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.131.2",
+            "commit": {
+                "sha": "2ffabb3c2aef495336a7bcf4ad9bdc9f34ae8228",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/2ffabb3c2aef495336a7bcf4ad9bdc9f34ae8228"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzEuMg=="
+        },
+        {
+            "name": "n8n-workflow@0.131.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.131.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.131.1",
+            "commit": {
+                "sha": "d2b40681f6cf9af4f2a3c5fb04a8e6ded062d879",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/d2b40681f6cf9af4f2a3c5fb04a8e6ded062d879"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzEuMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.131.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.131.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.131.0",
+            "commit": {
+                "sha": "f05672b330380d1495effc76bc57001344d69c0b",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/f05672b330380d1495effc76bc57001344d69c0b"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzEuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.130.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.130.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.130.0",
+            "commit": {
+                "sha": "9f980ac371504f4a34d7c5bb9dc010aaddfc2f0b",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/9f980ac371504f4a34d7c5bb9dc010aaddfc2f0b"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMzAuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.129.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.129.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.129.0",
+            "commit": {
+                "sha": "4f0b1cde4d69b66920d2801128cde2025a4cb420",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/4f0b1cde4d69b66920d2801128cde2025a4cb420"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjkuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.128.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.128.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.128.1",
+            "commit": {
+                "sha": "3713e2fd3d39ca5e3db4cbd9a1fc104f9826c7cc",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/3713e2fd3d39ca5e3db4cbd9a1fc104f9826c7cc"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjguMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.128.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.128.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.128.0",
+            "commit": {
+                "sha": "b1c99b9fe6608f2bbb4f2417b3ba1500a8a7c0e2",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/b1c99b9fe6608f2bbb4f2417b3ba1500a8a7c0e2"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjguMA=="
+        },
+        {
+            "name": "n8n-workflow@0.127.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.127.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.127.0",
+            "commit": {
+                "sha": "afc57c539759caa8bfd2dce4dffba2fe45fb583e",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/afc57c539759caa8bfd2dce4dffba2fe45fb583e"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjcuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.126.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.126.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.126.0",
+            "commit": {
+                "sha": "44d6185118f66f804cffe0bbb537ad40611d68ff",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/44d6185118f66f804cffe0bbb537ad40611d68ff"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjYuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.125.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.125.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.125.0",
+            "commit": {
+                "sha": "fdfb803fa016a37a5bb28c56f72e8edcb0923c16",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/fdfb803fa016a37a5bb28c56f72e8edcb0923c16"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjUuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.124.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.124.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.124.1",
+            "commit": {
+                "sha": "083316b4dbe66aa352553dfc8a17df1c85415d88",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/083316b4dbe66aa352553dfc8a17df1c85415d88"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjQuMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.124.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.124.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.124.0",
+            "commit": {
+                "sha": "d95382e330e0dd0941b34faf2c00596b96a10ad9",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/d95382e330e0dd0941b34faf2c00596b96a10ad9"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjQuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.123.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.123.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.123.0",
+            "commit": {
+                "sha": "e4e4823d087a8eead70c888be3c0971d114480a5",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/e4e4823d087a8eead70c888be3c0971d114480a5"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjMuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.122.1",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.122.1",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.122.1",
+            "commit": {
+                "sha": "198ae0869c566a5eea0a93f6c6f98a046243983c",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/198ae0869c566a5eea0a93f6c6f98a046243983c"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjIuMQ=="
+        },
+        {
+            "name": "n8n-workflow@0.122.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.122.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.122.0",
+            "commit": {
+                "sha": "520914f5252f72bb56eb52d6a0a62f040950c216",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/520914f5252f72bb56eb52d6a0a62f040950c216"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjIuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.121.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.121.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.121.0",
+            "commit": {
+                "sha": "faab9d66dca297c8b2a7f7d82e7da3ef13d17832",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/faab9d66dca297c8b2a7f7d82e7da3ef13d17832"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjEuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.120.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.120.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.120.0",
+            "commit": {
+                "sha": "c88653bb28b518339ce93ef9abc852240a31f37c",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/c88653bb28b518339ce93ef9abc852240a31f37c"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMjAuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.119.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.119.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.119.0",
+            "commit": {
+                "sha": "486a30a1525f30226a25379a7958b9c13e3215a2",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/486a30a1525f30226a25379a7958b9c13e3215a2"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMTkuMA=="
+        },
+        {
+            "name": "n8n-workflow@0.118.0",
+            "zipball_url": "https://api.github.com/repos/n8n-io/n8n/zipball/refs/tags/n8n-workflow@0.118.0",
+            "tarball_url": "https://api.github.com/repos/n8n-io/n8n/tarball/refs/tags/n8n-workflow@0.118.0",
+            "commit": {
+                "sha": "f4f611358fb15520e3a6d7391e0106c872c53130",
+                "url": "https://api.github.com/repos/n8n-io/n8n/commits/f4f611358fb15520e3a6d7391e0106c872c53130"
+            },
+            "node_id": "MDM6UmVmMTkzMjE1NTU0OnJlZnMvdGFncy9uOG4td29ya2Zsb3dAMC4xMTguMA=="
+        }
+    ]
+}

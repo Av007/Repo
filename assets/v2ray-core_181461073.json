@@ -1,0 +1,431 @@
+{
+    "id": 181461073,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODE0NjEwNzM=",
+    "name": "v2ray-core",
+    "full_name": "v2fly/v2ray-core",
+    "private": false,
+    "owner": {
+        "login": "v2fly",
+        "id": 49637375,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5NjM3Mzc1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49637375?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/v2fly",
+        "html_url": "https://github.com/v2fly",
+        "followers_url": "https://api.github.com/users/v2fly/followers",
+        "following_url": "https://api.github.com/users/v2fly/following{/other_user}",
+        "gists_url": "https://api.github.com/users/v2fly/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/v2fly/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/v2fly/subscriptions",
+        "organizations_url": "https://api.github.com/users/v2fly/orgs",
+        "repos_url": "https://api.github.com/users/v2fly/repos",
+        "events_url": "https://api.github.com/users/v2fly/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/v2fly/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "fork": false,
+    "url": "https://api.github.com/repos/v2fly/v2ray-core",
+    "forks_url": "https://api.github.com/repos/v2fly/v2ray-core/forks",
+    "keys_url": "https://api.github.com/repos/v2fly/v2ray-core/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/v2fly/v2ray-core/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/v2fly/v2ray-core/teams",
+    "hooks_url": "https://api.github.com/repos/v2fly/v2ray-core/hooks",
+    "issue_events_url": "https://api.github.com/repos/v2fly/v2ray-core/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/v2fly/v2ray-core/events",
+    "assignees_url": "https://api.github.com/repos/v2fly/v2ray-core/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/v2fly/v2ray-core/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/v2fly/v2ray-core/tags",
+    "blobs_url": "https://api.github.com/repos/v2fly/v2ray-core/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/v2fly/v2ray-core/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/v2fly/v2ray-core/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/v2fly/v2ray-core/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/v2fly/v2ray-core/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/v2fly/v2ray-core/languages",
+    "stargazers_url": "https://api.github.com/repos/v2fly/v2ray-core/stargazers",
+    "contributors_url": "https://api.github.com/repos/v2fly/v2ray-core/contributors",
+    "subscribers_url": "https://api.github.com/repos/v2fly/v2ray-core/subscribers",
+    "subscription_url": "https://api.github.com/repos/v2fly/v2ray-core/subscription",
+    "commits_url": "https://api.github.com/repos/v2fly/v2ray-core/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/v2fly/v2ray-core/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/v2fly/v2ray-core/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/v2fly/v2ray-core/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/v2fly/v2ray-core/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/v2fly/v2ray-core/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/v2fly/v2ray-core/merges",
+    "archive_url": "https://api.github.com/repos/v2fly/v2ray-core/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/v2fly/v2ray-core/downloads",
+    "issues_url": "https://api.github.com/repos/v2fly/v2ray-core/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/v2fly/v2ray-core/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/v2fly/v2ray-core/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/v2fly/v2ray-core/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/v2fly/v2ray-core/labels{/name}",
+    "releases_url": "https://api.github.com/repos/v2fly/v2ray-core/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/v2fly/v2ray-core/deployments",
+    "created_at": "2019-04-15T10:05:54Z",
+    "updated_at": "2025-01-25T14:09:24Z",
+    "pushed_at": "2025-01-24T22:11:14Z",
+    "git_url": "git://github.com/v2fly/v2ray-core.git",
+    "ssh_url": "git@github.com:v2fly/v2ray-core.git",
+    "clone_url": "https://github.com/v2fly/v2ray-core.git",
+    "svn_url": "https://github.com/v2fly/v2ray-core",
+    "homepage": "https://v2fly.org",
+    "size": 68120,
+    "stargazers_count": 30228,
+    "watchers_count": 30228,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4728,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 39,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "anticensorship",
+        "hacktoberfest",
+        "network",
+        "proxy",
+        "shadowsocks",
+        "socks5",
+        "trojan",
+        "tunnel",
+        "v2fly",
+        "v2ray",
+        "vless",
+        "vmess",
+        "vpn"
+    ],
+    "visibility": "public",
+    "forks": 4728,
+    "open_issues": 39,
+    "watchers": 30228,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.25.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.25.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.25.1",
+            "commit": {
+                "sha": "efec9ea0dcdc6edbffee50292a87d840f1483a46",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/efec9ea0dcdc6edbffee50292a87d840f1483a46"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yNS4x"
+        },
+        {
+            "name": "v5.25.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.25.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.25.0",
+            "commit": {
+                "sha": "f5938647a065133a32b259a6c7d446c4e45db242",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/f5938647a065133a32b259a6c7d446c4e45db242"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yNS4w"
+        },
+        {
+            "name": "v5.24.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.24.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.24.0",
+            "commit": {
+                "sha": "ca4bc96341c9ea0cfd978cd7fbde9fd17161e052",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/ca4bc96341c9ea0cfd978cd7fbde9fd17161e052"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yNC4w"
+        },
+        {
+            "name": "v5.23.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.23.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.23.0",
+            "commit": {
+                "sha": "d59c2b4c8567a35a17069a3f448c292e361a9e81",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/d59c2b4c8567a35a17069a3f448c292e361a9e81"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yMy4w"
+        },
+        {
+            "name": "v5.22.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.22.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.22.0",
+            "commit": {
+                "sha": "a72c4d264453cfcae57cd5ee14475e4808e44905",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/a72c4d264453cfcae57cd5ee14475e4808e44905"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yMi4w"
+        },
+        {
+            "name": "v5.21.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.21.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.21.0",
+            "commit": {
+                "sha": "cab66deacee780ad01ab9ad376716bb57c2cb1b6",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/cab66deacee780ad01ab9ad376716bb57c2cb1b6"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yMS4w"
+        },
+        {
+            "name": "v5.20.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.20.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.20.0",
+            "commit": {
+                "sha": "6c091e66450639e2a091cd8067a5d2f3ec96079a",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/6c091e66450639e2a091cd8067a5d2f3ec96079a"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4yMC4w"
+        },
+        {
+            "name": "v5.19.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.19.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.19.0",
+            "commit": {
+                "sha": "531b3533b56c2078e24243cb8bd21228bf8e58d3",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/531b3533b56c2078e24243cb8bd21228bf8e58d3"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xOS4w"
+        },
+        {
+            "name": "v5.18.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.18.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.18.0",
+            "commit": {
+                "sha": "8b36010fc2b9786e871762146506df42dffb16bb",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/8b36010fc2b9786e871762146506df42dffb16bb"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xOC4w"
+        },
+        {
+            "name": "v5.17.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.17.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.17.1",
+            "commit": {
+                "sha": "b7d02ad972c3075ff4dd9c87f6e741876f6747da",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/b7d02ad972c3075ff4dd9c87f6e741876f6747da"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNy4x"
+        },
+        {
+            "name": "v5.17.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.17.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.17.0",
+            "commit": {
+                "sha": "ae4b7733eeffc6496040b5ace936d14684b07ed6",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/ae4b7733eeffc6496040b5ace936d14684b07ed6"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNy4w"
+        },
+        {
+            "name": "v5.16.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.16.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.16.1",
+            "commit": {
+                "sha": "346ca66c57ab1b6872908354d5f3e4152fff59da",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/346ca66c57ab1b6872908354d5f3e4152fff59da"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNi4x"
+        },
+        {
+            "name": "v5.16.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.16.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.16.0",
+            "commit": {
+                "sha": "704e95a6c9390f7ed8195df2bb226c9bdc8108c6",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/704e95a6c9390f7ed8195df2bb226c9bdc8108c6"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNi4w"
+        },
+        {
+            "name": "v5.15.3",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.15.3",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.15.3",
+            "commit": {
+                "sha": "2a22a8579d485498b2f423af5073fcbcb784c351",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/2a22a8579d485498b2f423af5073fcbcb784c351"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNS4z"
+        },
+        {
+            "name": "v5.15.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.15.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.15.1",
+            "commit": {
+                "sha": "49b5068606f5c764dcdf65854565b1b9c8abb292",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/49b5068606f5c764dcdf65854565b1b9c8abb292"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNS4x"
+        },
+        {
+            "name": "v5.15.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.15.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.15.0",
+            "commit": {
+                "sha": "6645af6bd0b877c492cfb9d293f353106798d414",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/6645af6bd0b877c492cfb9d293f353106798d414"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNS4w"
+        },
+        {
+            "name": "v5.14.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.14.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.14.1",
+            "commit": {
+                "sha": "1f1ff246ddebb530d8fadeb49ffd32b8617e64ec",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/1f1ff246ddebb530d8fadeb49ffd32b8617e64ec"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNC4x"
+        },
+        {
+            "name": "v5.14.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.14.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.14.0",
+            "commit": {
+                "sha": "04e143e2377b5783301f4c2c46c8457330838809",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/04e143e2377b5783301f4c2c46c8457330838809"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xNC4w"
+        },
+        {
+            "name": "v5.13.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.13.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.13.0",
+            "commit": {
+                "sha": "458db3954f76bbf7ce621a24151d9d5469d8b6fb",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/458db3954f76bbf7ce621a24151d9d5469d8b6fb"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xMy4w"
+        },
+        {
+            "name": "v5.12.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.12.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.12.1",
+            "commit": {
+                "sha": "b91354901c90f472b8806f1f81dce38f848e483e",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/b91354901c90f472b8806f1f81dce38f848e483e"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xMi4x"
+        },
+        {
+            "name": "v5.12.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.12.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.12.0",
+            "commit": {
+                "sha": "62428d8011df4c4f590d48bde6aa1513e7a92c20",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/62428d8011df4c4f590d48bde6aa1513e7a92c20"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xMi4w"
+        },
+        {
+            "name": "v5.11.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.11.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.11.0",
+            "commit": {
+                "sha": "f67e46cb1bf093e9874a9bbafaabcd02bd33a927",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/f67e46cb1bf093e9874a9bbafaabcd02bd33a927"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xMS4w"
+        },
+        {
+            "name": "v5.10.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.10.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.10.1",
+            "commit": {
+                "sha": "f8d27415bc5c4b77562e161b0ad623ebd331585c",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/f8d27415bc5c4b77562e161b0ad623ebd331585c"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xMC4x"
+        },
+        {
+            "name": "v5.10.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.10.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.10.0",
+            "commit": {
+                "sha": "bf7684c7907b215c0cfa7d02ff49d631bfae13e0",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/bf7684c7907b215c0cfa7d02ff49d631bfae13e0"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS4xMC4w"
+        },
+        {
+            "name": "v5.9.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.9.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.9.0",
+            "commit": {
+                "sha": "be8e8accb82d4dcffe7e35f17d9e0e5ce1fa6d53",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/be8e8accb82d4dcffe7e35f17d9e0e5ce1fa6d53"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS45LjA="
+        },
+        {
+            "name": "v5.8.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.8.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.8.0",
+            "commit": {
+                "sha": "2f60dec37b82f5aa54dac27497739a6069f7fdb8",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/2f60dec37b82f5aa54dac27497739a6069f7fdb8"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS44LjA="
+        },
+        {
+            "name": "v5.7.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.7.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.7.0",
+            "commit": {
+                "sha": "2ac0188d6f3072bb02de4432217b0e0077705b3d",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/2ac0188d6f3072bb02de4432217b0e0077705b3d"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS43LjA="
+        },
+        {
+            "name": "v5.6.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.6.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.6.0",
+            "commit": {
+                "sha": "acbb5e6e0820fc113c476bd25386a098abcac07c",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/acbb5e6e0820fc113c476bd25386a098abcac07c"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS42LjA="
+        },
+        {
+            "name": "v5.5.0",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.5.0",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.5.0",
+            "commit": {
+                "sha": "c2510495683eac5979c241ef2de45f29dd5ca363",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/c2510495683eac5979c241ef2de45f29dd5ca363"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS41LjA="
+        },
+        {
+            "name": "v5.4.1",
+            "zipball_url": "https://api.github.com/repos/v2fly/v2ray-core/zipball/refs/tags/v5.4.1",
+            "tarball_url": "https://api.github.com/repos/v2fly/v2ray-core/tarball/refs/tags/v5.4.1",
+            "commit": {
+                "sha": "9b5262855fd5bf432c5abdd24152a9089bbb874f",
+                "url": "https://api.github.com/repos/v2fly/v2ray-core/commits/9b5262855fd5bf432c5abdd24152a9089bbb874f"
+            },
+            "node_id": "MDM6UmVmMTgxNDYxMDczOnJlZnMvdGFncy92NS40LjE="
+        }
+    ]
+}

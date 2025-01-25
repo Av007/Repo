@@ -1,0 +1,417 @@
+{
+    "id": 2935735,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyOTM1NzM1",
+    "name": "brackets",
+    "full_name": "adobe/brackets",
+    "private": false,
+    "owner": {
+        "login": "adobe",
+        "id": 476009,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3NjAwOQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/476009?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adobe",
+        "html_url": "https://github.com/adobe",
+        "followers_url": "https://api.github.com/users/adobe/followers",
+        "following_url": "https://api.github.com/users/adobe/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adobe/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adobe/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adobe/subscriptions",
+        "organizations_url": "https://api.github.com/users/adobe/orgs",
+        "repos_url": "https://api.github.com/users/adobe/repos",
+        "events_url": "https://api.github.com/users/adobe/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adobe/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/adobe/brackets",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+    "fork": false,
+    "url": "https://api.github.com/repos/adobe/brackets",
+    "forks_url": "https://api.github.com/repos/adobe/brackets/forks",
+    "keys_url": "https://api.github.com/repos/adobe/brackets/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/adobe/brackets/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/adobe/brackets/teams",
+    "hooks_url": "https://api.github.com/repos/adobe/brackets/hooks",
+    "issue_events_url": "https://api.github.com/repos/adobe/brackets/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/adobe/brackets/events",
+    "assignees_url": "https://api.github.com/repos/adobe/brackets/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/adobe/brackets/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/adobe/brackets/tags",
+    "blobs_url": "https://api.github.com/repos/adobe/brackets/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/adobe/brackets/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/adobe/brackets/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/adobe/brackets/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/adobe/brackets/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/adobe/brackets/languages",
+    "stargazers_url": "https://api.github.com/repos/adobe/brackets/stargazers",
+    "contributors_url": "https://api.github.com/repos/adobe/brackets/contributors",
+    "subscribers_url": "https://api.github.com/repos/adobe/brackets/subscribers",
+    "subscription_url": "https://api.github.com/repos/adobe/brackets/subscription",
+    "commits_url": "https://api.github.com/repos/adobe/brackets/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/adobe/brackets/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/adobe/brackets/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/adobe/brackets/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/adobe/brackets/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/adobe/brackets/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/adobe/brackets/merges",
+    "archive_url": "https://api.github.com/repos/adobe/brackets/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/adobe/brackets/downloads",
+    "issues_url": "https://api.github.com/repos/adobe/brackets/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/adobe/brackets/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/adobe/brackets/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/adobe/brackets/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/adobe/brackets/labels{/name}",
+    "releases_url": "https://api.github.com/repos/adobe/brackets/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/adobe/brackets/deployments",
+    "created_at": "2011-12-07T21:14:40Z",
+    "updated_at": "2025-01-22T16:48:10Z",
+    "pushed_at": "2022-06-12T08:19:24Z",
+    "git_url": "git://github.com/adobe/brackets.git",
+    "ssh_url": "git@github.com:adobe/brackets.git",
+    "clone_url": "https://github.com/adobe/brackets.git",
+    "svn_url": "https://github.com/adobe/brackets",
+    "homepage": "http://brackets.io",
+    "size": 92974,
+    "stargazers_count": 33217,
+    "watchers_count": 33217,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 7608,
+    "mirror_url": null,
+    "archived": true,
+    "disabled": false,
+    "open_issues_count": 2783,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 7608,
+    "open_issues": 2783,
+    "watchers": 33217,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v34.10744",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/v34.10744",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/v34.10744",
+            "commit": {
+                "sha": "a1addee49066ec75f89edccb882a39a7de3c6f10",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/a1addee49066ec75f89edccb882a39a7de3c6f10"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3MvdjM0LjEwNzQ0"
+        },
+        {
+            "name": "v34.10534",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/v34.10534",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/v34.10534",
+            "commit": {
+                "sha": "3f7f56a5795c46b91bdf71ae460eb013ce200ee0",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/3f7f56a5795c46b91bdf71ae460eb013ce200ee0"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3MvdjM0LjEwNTM0"
+        },
+        {
+            "name": "v0.36.0-10998",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/v0.36.0-10998",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/v0.36.0-10998",
+            "commit": {
+                "sha": "aa09120c56d5f1b509e65e7d71adafa4e379b766",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/aa09120c56d5f1b509e65e7d71adafa4e379b766"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3MvdjAuMzYuMC0xMDk5OA=="
+        },
+        {
+            "name": "untagged-293a2ac7be89eb7a80b8",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/untagged-293a2ac7be89eb7a80b8",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/untagged-293a2ac7be89eb7a80b8",
+            "commit": {
+                "sha": "1c9d5b012a827a86a9ce05e9729f254894af6ac4",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/1c9d5b012a827a86a9ce05e9729f254894af6ac4"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3MvdW50YWdnZWQtMjkzYTJhYzdiZTg5ZWI3YTgwYjg="
+        },
+        {
+            "name": "untagged-71c185fc4eecfb5086d0",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/untagged-71c185fc4eecfb5086d0",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/untagged-71c185fc4eecfb5086d0",
+            "commit": {
+                "sha": "0d7b9f03c3ab5b4b700868b5d8862d1e5aa534a8",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/0d7b9f03c3ab5b4b700868b5d8862d1e5aa534a8"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3MvdW50YWdnZWQtNzFjMTg1ZmM0ZWVjZmI1MDg2ZDA="
+        },
+        {
+            "name": "test-45",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/test-45",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/test-45",
+            "commit": {
+                "sha": "03a062c47ca9eb242880dc10e8da5618afb1ae8b",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/03a062c47ca9eb242880dc10e8da5618afb1ae8b"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3MvdGVzdC00NQ=="
+        },
+        {
+            "name": "sprint-41",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-41",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-41",
+            "commit": {
+                "sha": "e642284b3d9959e11d19bec07e49c3b67682ee0d",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/e642284b3d9959e11d19bec07e49c3b67682ee0d"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTQx"
+        },
+        {
+            "name": "sprint-40",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-40",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-40",
+            "commit": {
+                "sha": "e4b58d46e01fd66c2cd056e33d4aefc55dc9c528",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/e4b58d46e01fd66c2cd056e33d4aefc55dc9c528"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTQw"
+        },
+        {
+            "name": "sprint-39",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-39",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-39",
+            "commit": {
+                "sha": "b74889180e2ad8d474929831257655e30a49146a",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/b74889180e2ad8d474929831257655e30a49146a"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM5"
+        },
+        {
+            "name": "sprint-38",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-38",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-38",
+            "commit": {
+                "sha": "4df8afdadfdc97971f6e4ba2c789c9522d377638",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/4df8afdadfdc97971f6e4ba2c789c9522d377638"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM4"
+        },
+        {
+            "name": "sprint-37",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-37",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-37",
+            "commit": {
+                "sha": "abbda8dd2633a2c5d3388c92ddec1001ee2f263f",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/abbda8dd2633a2c5d3388c92ddec1001ee2f263f"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM3"
+        },
+        {
+            "name": "sprint-36",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-36",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-36",
+            "commit": {
+                "sha": "2274521a5da0e9601163af00342170aed6e190f6",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/2274521a5da0e9601163af00342170aed6e190f6"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM2"
+        },
+        {
+            "name": "sprint-35",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-35",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-35",
+            "commit": {
+                "sha": "445deaaa915e4b701237c940733efbb998d86813",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/445deaaa915e4b701237c940733efbb998d86813"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM1"
+        },
+        {
+            "name": "sprint-34.1",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-34.1",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-34.1",
+            "commit": {
+                "sha": "b5d77492b88c7b89f821420114847bde147a14e0",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/b5d77492b88c7b89f821420114847bde147a14e0"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM0LjE="
+        },
+        {
+            "name": "sprint-34",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-34",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-34",
+            "commit": {
+                "sha": "efbd1dc7c19be69a672e4fa4aee5bd0f30f72816",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/efbd1dc7c19be69a672e4fa4aee5bd0f30f72816"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTM0"
+        },
+        {
+            "name": "sprint-33",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-33",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-33",
+            "commit": {
+                "sha": "ecc9ab391e160b3937b7a2545fa4a130a3f26e29",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/ecc9ab391e160b3937b7a2545fa4a130a3f26e29"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTMz"
+        },
+        {
+            "name": "sprint-32",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-32",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-32",
+            "commit": {
+                "sha": "e49a849fbfa1a9b10c0e4c964cb0f3389fc40a4d",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/e49a849fbfa1a9b10c0e4c964cb0f3389fc40a4d"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTMy"
+        },
+        {
+            "name": "sprint-31",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-31",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-31",
+            "commit": {
+                "sha": "b57dfc99aa665d2874b8ab7f97c938c4d2f6f8f5",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/b57dfc99aa665d2874b8ab7f97c938c4d2f6f8f5"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTMx"
+        },
+        {
+            "name": "sprint-31a",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-31a",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-31a",
+            "commit": {
+                "sha": "dd28c6a6eaa14be71b8f8f38e9c614278ff8fbf1",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/dd28c6a6eaa14be71b8f8f38e9c614278ff8fbf1"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTMxYQ=="
+        },
+        {
+            "name": "sprint-30",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-30",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-30",
+            "commit": {
+                "sha": "60dc6b72ff1ffb22b3382475a9ffebacc1364fed",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/60dc6b72ff1ffb22b3382475a9ffebacc1364fed"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTMw"
+        },
+        {
+            "name": "sprint-29",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-29",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-29",
+            "commit": {
+                "sha": "c2b47c81e6b9254813ca6a89bac53ae08d5cfd14",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/c2b47c81e6b9254813ca6a89bac53ae08d5cfd14"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTI5"
+        },
+        {
+            "name": "sprint-28",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-28",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-28",
+            "commit": {
+                "sha": "c211ba55b186e9c627937f9e552b5443f9b2af55",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/c211ba55b186e9c627937f9e552b5443f9b2af55"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTI4"
+        },
+        {
+            "name": "sprint-27",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-27",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-27",
+            "commit": {
+                "sha": "f3f8e25d816f153a2779963fa1a33efe21c9bd73",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/f3f8e25d816f153a2779963fa1a33efe21c9bd73"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTI3"
+        },
+        {
+            "name": "sprint-26",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-26",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-26",
+            "commit": {
+                "sha": "841344c3326490231e78d98e4b7f1e221e5ef029",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/841344c3326490231e78d98e4b7f1e221e5ef029"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTI2"
+        },
+        {
+            "name": "sprint-25",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-25",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-25",
+            "commit": {
+                "sha": "e664a00d092a6618361b99ec5eadd4f4d018440b",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/e664a00d092a6618361b99ec5eadd4f4d018440b"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTI1"
+        },
+        {
+            "name": "sprint-24",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-24",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-24",
+            "commit": {
+                "sha": "d6c3e70dd13a7f4a561f38eceb9656d9eda1e743",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/d6c3e70dd13a7f4a561f38eceb9656d9eda1e743"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTI0"
+        },
+        {
+            "name": "sprint-23",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-23",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-23",
+            "commit": {
+                "sha": "6908b48b78e201259f5ea1aeade67879bbbbd883",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/6908b48b78e201259f5ea1aeade67879bbbbd883"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTIz"
+        },
+        {
+            "name": "sprint-22",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-22",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-22",
+            "commit": {
+                "sha": "8bcebea482bca215924f7e60b98918b36fac8d4e",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/8bcebea482bca215924f7e60b98918b36fac8d4e"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTIy"
+        },
+        {
+            "name": "sprint-21",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-21",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-21",
+            "commit": {
+                "sha": "d4a54913d2b8c9967f2241247386eeb80cb004f4",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/d4a54913d2b8c9967f2241247386eeb80cb004f4"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTIx"
+        },
+        {
+            "name": "sprint-20",
+            "zipball_url": "https://api.github.com/repos/adobe/brackets/zipball/refs/tags/sprint-20",
+            "tarball_url": "https://api.github.com/repos/adobe/brackets/tarball/refs/tags/sprint-20",
+            "commit": {
+                "sha": "40a627552f301c2bee454c2079c2b371c6ae607a",
+                "url": "https://api.github.com/repos/adobe/brackets/commits/40a627552f301c2bee454c2079c2b371c6ae607a"
+            },
+            "node_id": "MDM6UmVmMjkzNTczNTpyZWZzL3RhZ3Mvc3ByaW50LTIw"
+        }
+    ]
+}

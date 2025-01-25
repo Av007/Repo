@@ -1,0 +1,437 @@
+{
+    "id": 180190854,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODAxOTA4NTQ=",
+    "name": "appwrite",
+    "full_name": "appwrite/appwrite",
+    "private": false,
+    "owner": {
+        "login": "appwrite",
+        "id": 25003669,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MDAzNjY5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25003669?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/appwrite",
+        "html_url": "https://github.com/appwrite",
+        "followers_url": "https://api.github.com/users/appwrite/followers",
+        "following_url": "https://api.github.com/users/appwrite/following{/other_user}",
+        "gists_url": "https://api.github.com/users/appwrite/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/appwrite/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/appwrite/subscriptions",
+        "organizations_url": "https://api.github.com/users/appwrite/orgs",
+        "repos_url": "https://api.github.com/users/appwrite/repos",
+        "events_url": "https://api.github.com/users/appwrite/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/appwrite/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/appwrite/appwrite",
+    "description": "Your backend, minus the hassle.",
+    "fork": false,
+    "url": "https://api.github.com/repos/appwrite/appwrite",
+    "forks_url": "https://api.github.com/repos/appwrite/appwrite/forks",
+    "keys_url": "https://api.github.com/repos/appwrite/appwrite/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/appwrite/appwrite/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/appwrite/appwrite/teams",
+    "hooks_url": "https://api.github.com/repos/appwrite/appwrite/hooks",
+    "issue_events_url": "https://api.github.com/repos/appwrite/appwrite/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/appwrite/appwrite/events",
+    "assignees_url": "https://api.github.com/repos/appwrite/appwrite/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/appwrite/appwrite/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/appwrite/appwrite/tags",
+    "blobs_url": "https://api.github.com/repos/appwrite/appwrite/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/appwrite/appwrite/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/appwrite/appwrite/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/appwrite/appwrite/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/appwrite/appwrite/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/appwrite/appwrite/languages",
+    "stargazers_url": "https://api.github.com/repos/appwrite/appwrite/stargazers",
+    "contributors_url": "https://api.github.com/repos/appwrite/appwrite/contributors",
+    "subscribers_url": "https://api.github.com/repos/appwrite/appwrite/subscribers",
+    "subscription_url": "https://api.github.com/repos/appwrite/appwrite/subscription",
+    "commits_url": "https://api.github.com/repos/appwrite/appwrite/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/appwrite/appwrite/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/appwrite/appwrite/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/appwrite/appwrite/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/appwrite/appwrite/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/appwrite/appwrite/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/appwrite/appwrite/merges",
+    "archive_url": "https://api.github.com/repos/appwrite/appwrite/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/appwrite/appwrite/downloads",
+    "issues_url": "https://api.github.com/repos/appwrite/appwrite/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/appwrite/appwrite/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/appwrite/appwrite/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/appwrite/appwrite/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/appwrite/appwrite/labels{/name}",
+    "releases_url": "https://api.github.com/repos/appwrite/appwrite/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/appwrite/appwrite/deployments",
+    "created_at": "2019-04-08T16:36:25Z",
+    "updated_at": "2025-01-25T17:13:31Z",
+    "pushed_at": "2025-01-24T20:34:58Z",
+    "git_url": "git://github.com/appwrite/appwrite.git",
+    "ssh_url": "git@github.com:appwrite/appwrite.git",
+    "clone_url": "https://github.com/appwrite/appwrite.git",
+    "svn_url": "https://github.com/appwrite/appwrite",
+    "homepage": "https://appwrite.io",
+    "size": 308551,
+    "stargazers_count": 46709,
+    "watchers_count": 46709,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4159,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 733,
+    "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "android",
+        "appwrite",
+        "backend",
+        "backend-as-a-service",
+        "docker",
+        "firebase",
+        "flutter",
+        "hacktoberfest",
+        "ios",
+        "javascript",
+        "nextjs",
+        "react",
+        "react-native",
+        "reactnative",
+        "self-hosted",
+        "selfhosted",
+        "serverless",
+        "swift",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 4159,
+    "open_issues": 733,
+    "watchers": 46709,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "working-graphql",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/working-graphql",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/working-graphql",
+            "commit": {
+                "sha": "ae32d89a0fa22c4ac1d3038624561764bbe70e54",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/ae32d89a0fa22c4ac1d3038624561764bbe70e54"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy93b3JraW5nLWdyYXBocWw="
+        },
+        {
+            "name": "cl-usage-poc-4",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-usage-poc-4",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-usage-poc-4",
+            "commit": {
+                "sha": "d0985db27dc00de6b953ac96e8d6c6a0e24abc30",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/d0985db27dc00de6b953ac96e8d6c6a0e24abc30"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC11c2FnZS1wb2MtNA=="
+        },
+        {
+            "name": "cl-usage-poc-3",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-usage-poc-3",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-usage-poc-3",
+            "commit": {
+                "sha": "d0985db27dc00de6b953ac96e8d6c6a0e24abc30",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/d0985db27dc00de6b953ac96e8d6c6a0e24abc30"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC11c2FnZS1wb2MtMw=="
+        },
+        {
+            "name": "cl-usage-poc-2",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-usage-poc-2",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-usage-poc-2",
+            "commit": {
+                "sha": "d0985db27dc00de6b953ac96e8d6c6a0e24abc30",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/d0985db27dc00de6b953ac96e8d6c6a0e24abc30"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC11c2FnZS1wb2MtMg=="
+        },
+        {
+            "name": "cl-usage-poc-1",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-usage-poc-1",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-usage-poc-1",
+            "commit": {
+                "sha": "3788d5bcebc3eb7709d9bb4f3de6d6f500e5bd70",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/3788d5bcebc3eb7709d9bb4f3de6d6f500e5bd70"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC11c2FnZS1wb2MtMQ=="
+        },
+        {
+            "name": "cl-usage-poc",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-usage-poc",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-usage-poc",
+            "commit": {
+                "sha": "c1fb4ecf39d01dfd30f5376f141fc1c0648e62c6",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/c1fb4ecf39d01dfd30f5376f141fc1c0648e62c6"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC11c2FnZS1wb2M="
+        },
+        {
+            "name": "cl-shared-tables-zdt-6",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-zdt-6",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-zdt-6",
+            "commit": {
+                "sha": "d18a67e6d8ec3bd17fe43fc2e8011819e358f4d1",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/d18a67e6d8ec3bd17fe43fc2e8011819e358f4d1"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLXpkdC02"
+        },
+        {
+            "name": "cl-shared-tables-zdt-5",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-zdt-5",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-zdt-5",
+            "commit": {
+                "sha": "c18308c024d682a4e4eff903c24050fb9aa9af2d",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/c18308c024d682a4e4eff903c24050fb9aa9af2d"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLXpkdC01"
+        },
+        {
+            "name": "cl-shared-tables-zdt-4",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-zdt-4",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-zdt-4",
+            "commit": {
+                "sha": "1eafbf2ee2ca0bb590fe0efa4d23395a55bf38d1",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/1eafbf2ee2ca0bb590fe0efa4d23395a55bf38d1"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLXpkdC00"
+        },
+        {
+            "name": "cl-shared-tables-zdt-3",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-zdt-3",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-zdt-3",
+            "commit": {
+                "sha": "b98bcdd4a177a18852e3a6a6d1bb151d90a2af2f",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/b98bcdd4a177a18852e3a6a6d1bb151d90a2af2f"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLXpkdC0z"
+        },
+        {
+            "name": "cl-shared-tables-zdt-2",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-zdt-2",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-zdt-2",
+            "commit": {
+                "sha": "4c8cd5b6c6ca1ddf19c47f1819aa4df0a7e00c79",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/4c8cd5b6c6ca1ddf19c47f1819aa4df0a7e00c79"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLXpkdC0y"
+        },
+        {
+            "name": "cl-shared-tables-zdt-1",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-zdt-1",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-zdt-1",
+            "commit": {
+                "sha": "5b37a91b462bd7f7c62fff12b78530a224cda2bd",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/5b37a91b462bd7f7c62fff12b78530a224cda2bd"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLXpkdC0x"
+        },
+        {
+            "name": "cl-shared-tables-20",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-20",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-20",
+            "commit": {
+                "sha": "356d155df20b012bd86a1751a65a7ea5df347474",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/356d155df20b012bd86a1751a65a7ea5df347474"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTIw"
+        },
+        {
+            "name": "cl-shared-tables-19",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-19",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-19",
+            "commit": {
+                "sha": "74a147f3b209a1e02ef01e94f1eb5f53aadb8f92",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/74a147f3b209a1e02ef01e94f1eb5f53aadb8f92"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTE5"
+        },
+        {
+            "name": "cl-shared-tables-18",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-18",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-18",
+            "commit": {
+                "sha": "c4deb0ba93c409c6c0edf697324ed17089c9ac91",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/c4deb0ba93c409c6c0edf697324ed17089c9ac91"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTE4"
+        },
+        {
+            "name": "cl-shared-tables-17",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-17",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-17",
+            "commit": {
+                "sha": "a680b27e2b5935687551837cc64e574904a90f93",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/a680b27e2b5935687551837cc64e574904a90f93"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTE3"
+        },
+        {
+            "name": "cl-shared-tables-16",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-16",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-16",
+            "commit": {
+                "sha": "99d05b3d8c617234cc2bdfa355924b5b1d64b843",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/99d05b3d8c617234cc2bdfa355924b5b1d64b843"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTE2"
+        },
+        {
+            "name": "cl-shared-tables-15",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-15",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-15",
+            "commit": {
+                "sha": "1959e6498b4b061eadccaddab2d6c9bc508144dc",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/1959e6498b4b061eadccaddab2d6c9bc508144dc"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTE1"
+        },
+        {
+            "name": "cl-shared-tables-14",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-14",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-14",
+            "commit": {
+                "sha": "0112fd9b841690cab9020c19046aca8b0d82d002",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/0112fd9b841690cab9020c19046aca8b0d82d002"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTE0"
+        },
+        {
+            "name": "cl-shared-tables-13",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-13",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-13",
+            "commit": {
+                "sha": "c7bf9bb3ec3d8c28bfaa978000894afd78b1df01",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/c7bf9bb3ec3d8c28bfaa978000894afd78b1df01"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTEz"
+        },
+        {
+            "name": "cl-shared-tables-12",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-12",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-12",
+            "commit": {
+                "sha": "7e1894feb57a561cfeee263aaecc315734614b05",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/7e1894feb57a561cfeee263aaecc315734614b05"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTEy"
+        },
+        {
+            "name": "cl-shared-tables-11",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-11",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-11",
+            "commit": {
+                "sha": "7fc990a56d7cc2f86c8854e9279e1635b72764bf",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/7fc990a56d7cc2f86c8854e9279e1635b72764bf"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTEx"
+        },
+        {
+            "name": "cl-shared-tables-10",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-10",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-10",
+            "commit": {
+                "sha": "65c21a34c0383359856dacc0710983eb2966de26",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/65c21a34c0383359856dacc0710983eb2966de26"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTEw"
+        },
+        {
+            "name": "cl-shared-tables-9",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-9",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-9",
+            "commit": {
+                "sha": "664df69a5f944b83c99f2367d8386e2aeff8067d",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/664df69a5f944b83c99f2367d8386e2aeff8067d"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTk="
+        },
+        {
+            "name": "cl-shared-tables-8",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-8",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-8",
+            "commit": {
+                "sha": "f166a1c20114c891d42f2f519f5e00bc63e26099",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/f166a1c20114c891d42f2f519f5e00bc63e26099"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTg="
+        },
+        {
+            "name": "cl-shared-tables-7",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-7",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-7",
+            "commit": {
+                "sha": "8a73203635f781599361984a34b28c5fd2823679",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/8a73203635f781599361984a34b28c5fd2823679"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTc="
+        },
+        {
+            "name": "cl-shared-tables-6",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-6",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-6",
+            "commit": {
+                "sha": "b857fa3cdc690112e52d87bf3d3fa1ccdf74d363",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/b857fa3cdc690112e52d87bf3d3fa1ccdf74d363"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTY="
+        },
+        {
+            "name": "cl-shared-tables-5",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-5",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-5",
+            "commit": {
+                "sha": "503fb2ca82290e6ce8e01c44ad687212e411c162",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/503fb2ca82290e6ce8e01c44ad687212e411c162"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTU="
+        },
+        {
+            "name": "cl-shared-tables-4",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-4",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-4",
+            "commit": {
+                "sha": "1db9d8b9aba110286d3151f149ab0c44a3424d3c",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/1db9d8b9aba110286d3151f149ab0c44a3424d3c"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTQ="
+        },
+        {
+            "name": "cl-shared-tables-3",
+            "zipball_url": "https://api.github.com/repos/appwrite/appwrite/zipball/refs/tags/cl-shared-tables-3",
+            "tarball_url": "https://api.github.com/repos/appwrite/appwrite/tarball/refs/tags/cl-shared-tables-3",
+            "commit": {
+                "sha": "2bed17de35bcd3a7f2ea3e958b8b67dd32f89079",
+                "url": "https://api.github.com/repos/appwrite/appwrite/commits/2bed17de35bcd3a7f2ea3e958b8b67dd32f89079"
+            },
+            "node_id": "MDM6UmVmMTgwMTkwODU0OnJlZnMvdGFncy9jbC1zaGFyZWQtdGFibGVzLTM="
+        }
+    ]
+}

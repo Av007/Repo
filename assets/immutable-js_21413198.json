@@ -1,0 +1,417 @@
+{
+    "id": 21413198,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMTQxMzE5OA==",
+    "name": "immutable-js",
+    "full_name": "immutable-js/immutable-js",
+    "private": false,
+    "owner": {
+        "login": "immutable-js",
+        "id": 46405934,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2NDA1OTM0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/46405934?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/immutable-js",
+        "html_url": "https://github.com/immutable-js",
+        "followers_url": "https://api.github.com/users/immutable-js/followers",
+        "following_url": "https://api.github.com/users/immutable-js/following{/other_user}",
+        "gists_url": "https://api.github.com/users/immutable-js/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/immutable-js/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/immutable-js/subscriptions",
+        "organizations_url": "https://api.github.com/users/immutable-js/orgs",
+        "repos_url": "https://api.github.com/users/immutable-js/repos",
+        "events_url": "https://api.github.com/users/immutable-js/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/immutable-js/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/immutable-js/immutable-js",
+    "description": "Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
+    "fork": false,
+    "url": "https://api.github.com/repos/immutable-js/immutable-js",
+    "forks_url": "https://api.github.com/repos/immutable-js/immutable-js/forks",
+    "keys_url": "https://api.github.com/repos/immutable-js/immutable-js/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/immutable-js/immutable-js/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/immutable-js/immutable-js/teams",
+    "hooks_url": "https://api.github.com/repos/immutable-js/immutable-js/hooks",
+    "issue_events_url": "https://api.github.com/repos/immutable-js/immutable-js/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/immutable-js/immutable-js/events",
+    "assignees_url": "https://api.github.com/repos/immutable-js/immutable-js/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/immutable-js/immutable-js/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/immutable-js/immutable-js/tags",
+    "blobs_url": "https://api.github.com/repos/immutable-js/immutable-js/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/immutable-js/immutable-js/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/immutable-js/immutable-js/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/immutable-js/immutable-js/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/immutable-js/immutable-js/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/immutable-js/immutable-js/languages",
+    "stargazers_url": "https://api.github.com/repos/immutable-js/immutable-js/stargazers",
+    "contributors_url": "https://api.github.com/repos/immutable-js/immutable-js/contributors",
+    "subscribers_url": "https://api.github.com/repos/immutable-js/immutable-js/subscribers",
+    "subscription_url": "https://api.github.com/repos/immutable-js/immutable-js/subscription",
+    "commits_url": "https://api.github.com/repos/immutable-js/immutable-js/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/immutable-js/immutable-js/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/immutable-js/immutable-js/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/immutable-js/immutable-js/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/immutable-js/immutable-js/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/immutable-js/immutable-js/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/immutable-js/immutable-js/merges",
+    "archive_url": "https://api.github.com/repos/immutable-js/immutable-js/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/immutable-js/immutable-js/downloads",
+    "issues_url": "https://api.github.com/repos/immutable-js/immutable-js/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/immutable-js/immutable-js/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/immutable-js/immutable-js/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/immutable-js/immutable-js/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/immutable-js/immutable-js/labels{/name}",
+    "releases_url": "https://api.github.com/repos/immutable-js/immutable-js/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/immutable-js/immutable-js/deployments",
+    "created_at": "2014-07-02T06:02:29Z",
+    "updated_at": "2025-01-25T09:29:40Z",
+    "pushed_at": "2025-01-11T22:07:43Z",
+    "git_url": "git://github.com/immutable-js/immutable-js.git",
+    "ssh_url": "git@github.com:immutable-js/immutable-js.git",
+    "clone_url": "https://github.com/immutable-js/immutable-js.git",
+    "svn_url": "https://github.com/immutable-js/immutable-js",
+    "homepage": "https://immutable-js.com",
+    "size": 73312,
+    "stargazers_count": 33000,
+    "watchers_count": 33000,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 1782,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 117,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 1782,
+    "open_issues": 117,
+    "watchers": 33000,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.0.3",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.3",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.3",
+            "commit": {
+                "sha": "0fc45d35d09ae57e9e1746c006d3186cf5d7e79d",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/0fc45d35d09ae57e9e1746c006d3186cf5d7e79d"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMw=="
+        },
+        {
+            "name": "v5.0.2",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.2",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.2",
+            "commit": {
+                "sha": "879f42893cebbad6fcf4fad5425c408ac08a57b5",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/879f42893cebbad6fcf4fad5425c408ac08a57b5"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMg=="
+        },
+        {
+            "name": "v5.0.1",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.1",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.1",
+            "commit": {
+                "sha": "52c3c64209c666be1b653d49547f87a96a51090b",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/52c3c64209c666be1b653d49547f87a96a51090b"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMQ=="
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "c90cdc263d94553b2439bbff4f761f4df7f361af",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/c90cdc263d94553b2439bbff4f761f4df7f361af"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMA=="
+        },
+        {
+            "name": "v5.0.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0-rc.2",
+            "commit": {
+                "sha": "7838ab1123eb0258925a69c33b62c6dc12239872",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/7838ab1123eb0258925a69c33b62c6dc12239872"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMC1yYy4y"
+        },
+        {
+            "name": "v5.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0-rc.1",
+            "commit": {
+                "sha": "9ff692046c7a2722b8bec6477f8efe7733aeb3c0",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/9ff692046c7a2722b8bec6477f8efe7733aeb3c0"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMC1yYy4x"
+        },
+        {
+            "name": "v5.0.0-beta.5",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0-beta.5",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0-beta.5",
+            "commit": {
+                "sha": "a8478b6d151a6f013c54fe5f547a9198ffbd3277",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/a8478b6d151a6f013c54fe5f547a9198ffbd3277"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMC1iZXRhLjU="
+        },
+        {
+            "name": "v5.0.0-beta.4",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0-beta.4",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0-beta.4",
+            "commit": {
+                "sha": "8776e0f6b37eed647e65127852622976d8e978ed",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/8776e0f6b37eed647e65127852622976d8e978ed"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMC1iZXRhLjQ="
+        },
+        {
+            "name": "v5.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0-beta.2",
+            "commit": {
+                "sha": "53bcb2fbf8e5ad7f9a29d4285a693873aeb29e8e",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/53bcb2fbf8e5ad7f9a29d4285a693873aeb29e8e"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMC1iZXRhLjI="
+        },
+        {
+            "name": "v5.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v5.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v5.0.0-beta.1",
+            "commit": {
+                "sha": "2a72ba41e8d72242ee42282fbca9c0b71e5dc567",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/2a72ba41e8d72242ee42282fbca9c0b71e5dc567"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y1LjAuMC1iZXRhLjE="
+        },
+        {
+            "name": "v4.3.7",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.7",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.7",
+            "commit": {
+                "sha": "37ca4170060827e5f4eaa1969d1b61e5dc5eb11d",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/37ca4170060827e5f4eaa1969d1b61e5dc5eb11d"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuNw=="
+        },
+        {
+            "name": "v4.3.6",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.6",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.6",
+            "commit": {
+                "sha": "493afba6ec17d9c999dc5a15ac80c71c6bdba1c3",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/493afba6ec17d9c999dc5a15ac80c71c6bdba1c3"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuNg=="
+        },
+        {
+            "name": "v4.3.5",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.5",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.5",
+            "commit": {
+                "sha": "a5b50b2dcc36898e153ba8f1760ca7fc5d941046",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/a5b50b2dcc36898e153ba8f1760ca7fc5d941046"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuNQ=="
+        },
+        {
+            "name": "v4.3.4",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.4",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.4",
+            "commit": {
+                "sha": "fdfc97514f1b288301c7a1ea73873bbd4c832ffb",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/fdfc97514f1b288301c7a1ea73873bbd4c832ffb"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuNA=="
+        },
+        {
+            "name": "v4.3.3",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.3",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.3",
+            "commit": {
+                "sha": "2306527b42067bc433d9d32be12a7e561e85d9e0",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/2306527b42067bc433d9d32be12a7e561e85d9e0"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuMw=="
+        },
+        {
+            "name": "v4.3.2",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.2",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.2",
+            "commit": {
+                "sha": "7c30c7d5c4a42ea2c975024dcba7baf635ba0718",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/7c30c7d5c4a42ea2c975024dcba7baf635ba0718"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuMg=="
+        },
+        {
+            "name": "v4.3.1",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.1",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.1",
+            "commit": {
+                "sha": "a4eaaf09f0c9199baf84b871646d7c4222fd4f72",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/a4eaaf09f0c9199baf84b871646d7c4222fd4f72"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuMQ=="
+        },
+        {
+            "name": "v4.3.0",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.3.0",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.3.0",
+            "commit": {
+                "sha": "41fcd04a1e02f9914e9304da316592ac2c83c7ed",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/41fcd04a1e02f9914e9304da316592ac2c83c7ed"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjMuMA=="
+        },
+        {
+            "name": "v4.2.4",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.2.4",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.2.4",
+            "commit": {
+                "sha": "11f988ae96af5b5ddae6897374834c540ab6a730",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/11f988ae96af5b5ddae6897374834c540ab6a730"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjIuNA=="
+        },
+        {
+            "name": "v4.2.3",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.2.3",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.2.3",
+            "commit": {
+                "sha": "0eab8093186d5b14f4bf20eb47a1140cae5c4ae1",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/0eab8093186d5b14f4bf20eb47a1140cae5c4ae1"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjIuMw=="
+        },
+        {
+            "name": "v4.2.2",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.2.2",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.2.2",
+            "commit": {
+                "sha": "f172ca1f298028c25ee1fa0637b14c97439c103e",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/f172ca1f298028c25ee1fa0637b14c97439c103e"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjIuMg=="
+        },
+        {
+            "name": "v4.2.1",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.2.1",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.2.1",
+            "commit": {
+                "sha": "7e33ca96d861c0a67cd7c60c814389aee2cba1dd",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/7e33ca96d861c0a67cd7c60c814389aee2cba1dd"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjIuMQ=="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "d88f7221f1d3b960aeaf7aedd72e306d2b8b4cf5",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/d88f7221f1d3b960aeaf7aedd72e306d2b8b4cf5"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjIuMA=="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "f3cb38e545326125b9b1c225ece8b113d3c057d9",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/f3cb38e545326125b9b1c225ece8b113d3c057d9"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "2ddb5c235f543464010569f9fb8249974fd56314",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/2ddb5c235f543464010569f9fb8249974fd56314"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v4.0.0-rc.15",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.0.0-rc.15",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.0.0-rc.15",
+            "commit": {
+                "sha": "ec328d6b7b130ee884cad7c218e26c47becfe073",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/ec328d6b7b130ee884cad7c218e26c47becfe073"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjAuMC1yYy4xNQ=="
+        },
+        {
+            "name": "v4.0.0-rc.14",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.0.0-rc.14",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.0.0-rc.14",
+            "commit": {
+                "sha": "8afe18652ffb88dd20a5fa6c9c2fff932ff21a44",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/8afe18652ffb88dd20a5fa6c9c2fff932ff21a44"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjAuMC1yYy4xNA=="
+        },
+        {
+            "name": "v4.0.0-rc.13",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.0.0-rc.13",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.0.0-rc.13",
+            "commit": {
+                "sha": "0e7d75024820e8da8d47a7ac061345b88bb7e1f6",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/0e7d75024820e8da8d47a7ac061345b88bb7e1f6"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjAuMC1yYy4xMw=="
+        },
+        {
+            "name": "v4.0.0-rc.12",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.0.0-rc.12",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.0.0-rc.12",
+            "commit": {
+                "sha": "40efbc31f7abcd9c26d714c9b5af0ba03b4dfcaa",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/40efbc31f7abcd9c26d714c9b5af0ba03b4dfcaa"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjAuMC1yYy4xMg=="
+        },
+        {
+            "name": "v4.0.0-rc.11",
+            "zipball_url": "https://api.github.com/repos/immutable-js/immutable-js/zipball/refs/tags/v4.0.0-rc.11",
+            "tarball_url": "https://api.github.com/repos/immutable-js/immutable-js/tarball/refs/tags/v4.0.0-rc.11",
+            "commit": {
+                "sha": "b58c3abf9f82a8c7876bf5f3344e5abd0c351c64",
+                "url": "https://api.github.com/repos/immutable-js/immutable-js/commits/b58c3abf9f82a8c7876bf5f3344e5abd0c351c64"
+            },
+            "node_id": "MDM6UmVmMjE0MTMxOTg6cmVmcy90YWdzL3Y0LjAuMC1yYy4xMQ=="
+        }
+    ]
+}

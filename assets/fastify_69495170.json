@@ -1,0 +1,422 @@
+{
+    "id": 69495170,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2OTQ5NTE3MA==",
+    "name": "fastify",
+    "full_name": "fastify/fastify",
+    "private": false,
+    "owner": {
+        "login": "fastify",
+        "id": 24939410,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0OTM5NDEw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24939410?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/fastify",
+        "html_url": "https://github.com/fastify",
+        "followers_url": "https://api.github.com/users/fastify/followers",
+        "following_url": "https://api.github.com/users/fastify/following{/other_user}",
+        "gists_url": "https://api.github.com/users/fastify/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/fastify/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/fastify/subscriptions",
+        "organizations_url": "https://api.github.com/users/fastify/orgs",
+        "repos_url": "https://api.github.com/users/fastify/repos",
+        "events_url": "https://api.github.com/users/fastify/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/fastify/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/fastify/fastify",
+    "description": "Fast and low overhead web framework, for Node.js",
+    "fork": false,
+    "url": "https://api.github.com/repos/fastify/fastify",
+    "forks_url": "https://api.github.com/repos/fastify/fastify/forks",
+    "keys_url": "https://api.github.com/repos/fastify/fastify/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/fastify/fastify/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/fastify/fastify/teams",
+    "hooks_url": "https://api.github.com/repos/fastify/fastify/hooks",
+    "issue_events_url": "https://api.github.com/repos/fastify/fastify/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/fastify/fastify/events",
+    "assignees_url": "https://api.github.com/repos/fastify/fastify/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/fastify/fastify/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/fastify/fastify/tags",
+    "blobs_url": "https://api.github.com/repos/fastify/fastify/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/fastify/fastify/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/fastify/fastify/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/fastify/fastify/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/fastify/fastify/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/fastify/fastify/languages",
+    "stargazers_url": "https://api.github.com/repos/fastify/fastify/stargazers",
+    "contributors_url": "https://api.github.com/repos/fastify/fastify/contributors",
+    "subscribers_url": "https://api.github.com/repos/fastify/fastify/subscribers",
+    "subscription_url": "https://api.github.com/repos/fastify/fastify/subscription",
+    "commits_url": "https://api.github.com/repos/fastify/fastify/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/fastify/fastify/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/fastify/fastify/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/fastify/fastify/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/fastify/fastify/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/fastify/fastify/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/fastify/fastify/merges",
+    "archive_url": "https://api.github.com/repos/fastify/fastify/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/fastify/fastify/downloads",
+    "issues_url": "https://api.github.com/repos/fastify/fastify/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/fastify/fastify/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/fastify/fastify/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/fastify/fastify/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/fastify/fastify/labels{/name}",
+    "releases_url": "https://api.github.com/repos/fastify/fastify/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/fastify/fastify/deployments",
+    "created_at": "2016-09-28T19:10:14Z",
+    "updated_at": "2025-01-25T14:05:24Z",
+    "pushed_at": "2025-01-25T10:21:26Z",
+    "git_url": "git://github.com/fastify/fastify.git",
+    "ssh_url": "git@github.com:fastify/fastify.git",
+    "clone_url": "https://github.com/fastify/fastify.git",
+    "svn_url": "https://github.com/fastify/fastify",
+    "homepage": "https://www.fastify.dev",
+    "size": 8809,
+    "stargazers_count": 32874,
+    "watchers_count": 32874,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2337,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 90,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "nodejs",
+        "performance",
+        "speed",
+        "webframework"
+    ],
+    "visibility": "public",
+    "forks": 2337,
+    "open_issues": 90,
+    "watchers": 32874,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.2.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.2.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.2.1",
+            "commit": {
+                "sha": "eafe0aa25ced21033310ae708b33e645ffb0d532",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/eafe0aa25ced21033310ae708b33e645ffb0d532"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjIuMQ=="
+        },
+        {
+            "name": "v5.2.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.2.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.2.0",
+            "commit": {
+                "sha": "9177df07b091f440ddec9f76ee7625b466b37e8d",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/9177df07b091f440ddec9f76ee7625b466b37e8d"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjIuMA=="
+        },
+        {
+            "name": "v5.1.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.1.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.1.0",
+            "commit": {
+                "sha": "3eddee4a2ce5ba4632298769ba405171121948a6",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/3eddee4a2ce5ba4632298769ba405171121948a6"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjEuMA=="
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "6bde7d7b0a51010d56df901cab9be5d9351b0d91",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/6bde7d7b0a51010d56df901cab9be5d9351b0d91"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjAuMA=="
+        },
+        {
+            "name": "v5.0.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.0.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.0.0-alpha.4",
+            "commit": {
+                "sha": "985b3c32c9dcd416282b31c1af2d8f7d4e310cff",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/985b3c32c9dcd416282b31c1af2d8f7d4e310cff"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS40"
+        },
+        {
+            "name": "v5.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.0.0-alpha.2",
+            "commit": {
+                "sha": "61a8419d97a1808cb8ef9c7e5f1d35e42bc2afe7",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/61a8419d97a1808cb8ef9c7e5f1d35e42bc2afe7"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS4y"
+        },
+        {
+            "name": "v5.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v5.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v5.0.0-alpha.1",
+            "commit": {
+                "sha": "7f26c0ecd224f77b1f7c0069b2fc2c13dd943b84",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/7f26c0ecd224f77b1f7c0069b2fc2c13dd943b84"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS4x"
+        },
+        {
+            "name": "v4.29.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.29.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.29.0",
+            "commit": {
+                "sha": "3a6d4aeb241706fc9b71858281800a0cf193a308",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/3a6d4aeb241706fc9b71858281800a0cf193a308"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI5LjA="
+        },
+        {
+            "name": "v4.28.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.28.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.28.1",
+            "commit": {
+                "sha": "94068edf593534d9c1b6b4edf71ecd55ff4b3124",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/94068edf593534d9c1b6b4edf71ecd55ff4b3124"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI4LjE="
+        },
+        {
+            "name": "v4.28.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.28.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.28.0",
+            "commit": {
+                "sha": "4212551b3b34ca9554e4168a6a395e0d0fdd2c5f",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/4212551b3b34ca9554e4168a6a395e0d0fdd2c5f"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI4LjA="
+        },
+        {
+            "name": "v4.27.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.27.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.27.0",
+            "commit": {
+                "sha": "fe25981df1cd9d4fa686ae8227e4c1b3ce804cfd",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/fe25981df1cd9d4fa686ae8227e4c1b3ce804cfd"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI3LjA="
+        },
+        {
+            "name": "v4.26.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.26.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.26.2",
+            "commit": {
+                "sha": "5c263b4dc2cb6d5eda2df7b3602238ae24957c55",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/5c263b4dc2cb6d5eda2df7b3602238ae24957c55"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI2LjI="
+        },
+        {
+            "name": "v4.26.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.26.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.26.1",
+            "commit": {
+                "sha": "ffbc92c78a588e5ec6f16d20492f23b08654345f",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/ffbc92c78a588e5ec6f16d20492f23b08654345f"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI2LjE="
+        },
+        {
+            "name": "v4.26.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.26.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.26.0",
+            "commit": {
+                "sha": "e10ae402f5736b03dc7e9c6c2541bf87c01df2c9",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/e10ae402f5736b03dc7e9c6c2541bf87c01df2c9"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI2LjA="
+        },
+        {
+            "name": "v4.25.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.25.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.25.2",
+            "commit": {
+                "sha": "04a4c9751e3b2501aa0a0866c512e9feb1641fb6",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/04a4c9751e3b2501aa0a0866c512e9feb1641fb6"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI1LjI="
+        },
+        {
+            "name": "v4.25.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.25.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.25.1",
+            "commit": {
+                "sha": "e3a07eaa444d0e769802195816d4e1718c2fc9ea",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/e3a07eaa444d0e769802195816d4e1718c2fc9ea"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI1LjE="
+        },
+        {
+            "name": "v4.25.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.25.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.25.0",
+            "commit": {
+                "sha": "635acc8ae50ed9a5a0ca03720a5d1bab70f64b51",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/635acc8ae50ed9a5a0ca03720a5d1bab70f64b51"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI1LjA="
+        },
+        {
+            "name": "v4.24.3",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.24.3",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.24.3",
+            "commit": {
+                "sha": "fc6bf5cb9f000ad4cda5e197f4fd22166a15dab9",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/fc6bf5cb9f000ad4cda5e197f4fd22166a15dab9"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI0LjM="
+        },
+        {
+            "name": "v4.24.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.24.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.24.2",
+            "commit": {
+                "sha": "18088ba61b8b4950bf3dd5b1d99341c875c6f51d",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/18088ba61b8b4950bf3dd5b1d99341c875c6f51d"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI0LjI="
+        },
+        {
+            "name": "v4.24.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.24.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.24.1",
+            "commit": {
+                "sha": "a9eea1cdc94259da81eb7a828e2f6e6e260dc6f2",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/a9eea1cdc94259da81eb7a828e2f6e6e260dc6f2"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI0LjE="
+        },
+        {
+            "name": "v4.24.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.24.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.24.0",
+            "commit": {
+                "sha": "d3d8804ca4022674eb661b11943188eac79ae02c",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/d3d8804ca4022674eb661b11943188eac79ae02c"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjI0LjA="
+        },
+        {
+            "name": "v4.23.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.23.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.23.2",
+            "commit": {
+                "sha": "c08b67e0bfedc9935b51c787ae4cd6b250ad303c",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/c08b67e0bfedc9935b51c787ae4cd6b250ad303c"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIzLjI="
+        },
+        {
+            "name": "v4.23.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.23.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.23.1",
+            "commit": {
+                "sha": "5f09e059235ffa4c1a77bcd3187f22dd67b57eaa",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/5f09e059235ffa4c1a77bcd3187f22dd67b57eaa"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIzLjE="
+        },
+        {
+            "name": "v4.23.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.23.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.23.0",
+            "commit": {
+                "sha": "cea0536c49af460f7e6da0f76fb892576f12f2bb",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/cea0536c49af460f7e6da0f76fb892576f12f2bb"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIzLjA="
+        },
+        {
+            "name": "v4.22.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.22.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.22.2",
+            "commit": {
+                "sha": "3aee2e74de5c366f1e3b2e80e55441057f48c64b",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/3aee2e74de5c366f1e3b2e80e55441057f48c64b"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIyLjI="
+        },
+        {
+            "name": "v4.22.1",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.22.1",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.22.1",
+            "commit": {
+                "sha": "8162801b5f4a66106cbbb165bc5744959e9abcef",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/8162801b5f4a66106cbbb165bc5744959e9abcef"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIyLjE="
+        },
+        {
+            "name": "v4.22.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.22.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.22.0",
+            "commit": {
+                "sha": "5b5e1b8ec76d4ac8ba472cb6653c17b0f8af6da9",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/5b5e1b8ec76d4ac8ba472cb6653c17b0f8af6da9"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIyLjA="
+        },
+        {
+            "name": "v4.21.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.21.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.21.0",
+            "commit": {
+                "sha": "ef7408a3feb377838e2aa580a4c05e34e00fdf1a",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/ef7408a3feb377838e2aa580a4c05e34e00fdf1a"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIxLjA="
+        },
+        {
+            "name": "v4.20.0",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.20.0",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.20.0",
+            "commit": {
+                "sha": "f4a661295cf0685c0dd05497bafa05e23a012746",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/f4a661295cf0685c0dd05497bafa05e23a012746"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjIwLjA="
+        },
+        {
+            "name": "v4.19.2",
+            "zipball_url": "https://api.github.com/repos/fastify/fastify/zipball/refs/tags/v4.19.2",
+            "tarball_url": "https://api.github.com/repos/fastify/fastify/tarball/refs/tags/v4.19.2",
+            "commit": {
+                "sha": "4ca4c3e6a3b3dbd58d255dc5f612151e56a21f35",
+                "url": "https://api.github.com/repos/fastify/fastify/commits/4ca4c3e6a3b3dbd58d255dc5f612151e56a21f35"
+            },
+            "node_id": "MDM6UmVmNjk0OTUxNzA6cmVmcy90YWdzL3Y0LjE5LjI="
+        }
+    ]
+}

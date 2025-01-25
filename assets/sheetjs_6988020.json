@@ -1,0 +1,438 @@
+{
+    "id": 6988020,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2OTg4MDIw",
+    "name": "sheetjs",
+    "full_name": "SheetJS/sheetjs",
+    "private": false,
+    "owner": {
+        "login": "SheetJS",
+        "id": 5826089,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4MjYwODk=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5826089?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/SheetJS",
+        "html_url": "https://github.com/SheetJS",
+        "followers_url": "https://api.github.com/users/SheetJS/followers",
+        "following_url": "https://api.github.com/users/SheetJS/following{/other_user}",
+        "gists_url": "https://api.github.com/users/SheetJS/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/SheetJS/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/SheetJS/subscriptions",
+        "organizations_url": "https://api.github.com/users/SheetJS/orgs",
+        "repos_url": "https://api.github.com/users/SheetJS/repos",
+        "events_url": "https://api.github.com/users/SheetJS/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/SheetJS/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/SheetJS/sheetjs",
+    "description": "\ud83d\udcd7 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
+    "fork": false,
+    "url": "https://api.github.com/repos/SheetJS/sheetjs",
+    "forks_url": "https://api.github.com/repos/SheetJS/sheetjs/forks",
+    "keys_url": "https://api.github.com/repos/SheetJS/sheetjs/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/SheetJS/sheetjs/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/SheetJS/sheetjs/teams",
+    "hooks_url": "https://api.github.com/repos/SheetJS/sheetjs/hooks",
+    "issue_events_url": "https://api.github.com/repos/SheetJS/sheetjs/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/SheetJS/sheetjs/events",
+    "assignees_url": "https://api.github.com/repos/SheetJS/sheetjs/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/SheetJS/sheetjs/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/SheetJS/sheetjs/tags",
+    "blobs_url": "https://api.github.com/repos/SheetJS/sheetjs/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/SheetJS/sheetjs/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/SheetJS/sheetjs/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/SheetJS/sheetjs/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/SheetJS/sheetjs/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/SheetJS/sheetjs/languages",
+    "stargazers_url": "https://api.github.com/repos/SheetJS/sheetjs/stargazers",
+    "contributors_url": "https://api.github.com/repos/SheetJS/sheetjs/contributors",
+    "subscribers_url": "https://api.github.com/repos/SheetJS/sheetjs/subscribers",
+    "subscription_url": "https://api.github.com/repos/SheetJS/sheetjs/subscription",
+    "commits_url": "https://api.github.com/repos/SheetJS/sheetjs/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/SheetJS/sheetjs/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/SheetJS/sheetjs/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/SheetJS/sheetjs/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/SheetJS/sheetjs/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/SheetJS/sheetjs/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/SheetJS/sheetjs/merges",
+    "archive_url": "https://api.github.com/repos/SheetJS/sheetjs/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/SheetJS/sheetjs/downloads",
+    "issues_url": "https://api.github.com/repos/SheetJS/sheetjs/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/SheetJS/sheetjs/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/SheetJS/sheetjs/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/SheetJS/sheetjs/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/SheetJS/sheetjs/labels{/name}",
+    "releases_url": "https://api.github.com/repos/SheetJS/sheetjs/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/SheetJS/sheetjs/deployments",
+    "created_at": "2012-12-03T19:25:52Z",
+    "updated_at": "2025-01-25T16:58:42Z",
+    "pushed_at": "2024-04-18T08:06:46Z",
+    "git_url": "git://github.com/SheetJS/sheetjs.git",
+    "ssh_url": "git@github.com:SheetJS/sheetjs.git",
+    "clone_url": "https://github.com/SheetJS/sheetjs.git",
+    "svn_url": "https://github.com/SheetJS/sheetjs",
+    "homepage": "https://sheetjs.com/",
+    "size": 105796,
+    "stargazers_count": 35340,
+    "watchers_count": 35340,
+    "language": null,
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 7997,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 129,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "angular",
+        "bun",
+        "csv",
+        "data",
+        "database",
+        "deno",
+        "excel",
+        "grid",
+        "html",
+        "html5",
+        "ios",
+        "javascript",
+        "json",
+        "nodejs",
+        "react",
+        "spreadsheet",
+        "table",
+        "vue",
+        "xlsx",
+        "xml"
+    ],
+    "visibility": "public",
+    "forks": 7997,
+    "open_issues": 129,
+    "watchers": 35340,
+    "default_branch": "github",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.18.5",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.18.5",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.18.5",
+            "commit": {
+                "sha": "0400a87e622887ec83f6bcde9d0ad3ce99ee13f8",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/0400a87e622887ec83f6bcde9d0ad3ce99ee13f8"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTguNQ=="
+        },
+        {
+            "name": "v0.18.4",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.18.4",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.18.4",
+            "commit": {
+                "sha": "61b17a8bc857dc7d20dd3ec1248024a5c45c6e38",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/61b17a8bc857dc7d20dd3ec1248024a5c45c6e38"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTguNA=="
+        },
+        {
+            "name": "v0.18.3",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.18.3",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.18.3",
+            "commit": {
+                "sha": "e14aee3e512a838a9d2a125568c8ae8070695957",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/e14aee3e512a838a9d2a125568c8ae8070695957"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTguMw=="
+        },
+        {
+            "name": "v0.18.2",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.18.2",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.18.2",
+            "commit": {
+                "sha": "fbf43d4b73fe6de2fa5a078cbeb120d8ae362893",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/fbf43d4b73fe6de2fa5a078cbeb120d8ae362893"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTguMg=="
+        },
+        {
+            "name": "v0.18.1",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.18.1",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.18.1",
+            "commit": {
+                "sha": "8e6c0411d91edbb0ad0205a5e1231c75e728ccb5",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/8e6c0411d91edbb0ad0205a5e1231c75e728ccb5"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTguMQ=="
+        },
+        {
+            "name": "v0.17.5",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.17.5",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.17.5",
+            "commit": {
+                "sha": "0ddeba4fc358394438e3651910bce3b3ef29578a",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/0ddeba4fc358394438e3651910bce3b3ef29578a"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTcuNQ=="
+        },
+        {
+            "name": "v0.17.0",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.17.0",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.17.0",
+            "commit": {
+                "sha": "3542d62fffc155dd505a23230ba182c4402a0e2c",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/3542d62fffc155dd505a23230ba182c4402a0e2c"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTcuMA=="
+        },
+        {
+            "name": "v0.16.8",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.8",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.8",
+            "commit": {
+                "sha": "9f1ba60c8dedd4bfb53c9faf40d9b94b80a5886d",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/9f1ba60c8dedd4bfb53c9faf40d9b94b80a5886d"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuOA=="
+        },
+        {
+            "name": "v0.16.7",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.7",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.7",
+            "commit": {
+                "sha": "82b7ada6c7819cdf53f55bf956468c456574d6cd",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/82b7ada6c7819cdf53f55bf956468c456574d6cd"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuNw=="
+        },
+        {
+            "name": "v0.16.6",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.6",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.6",
+            "commit": {
+                "sha": "2e32611dbb0d759fdda587ac483a5a7814dc03fb",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/2e32611dbb0d759fdda587ac483a5a7814dc03fb"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuNg=="
+        },
+        {
+            "name": "v0.16.5",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.5",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.5",
+            "commit": {
+                "sha": "227f970ca1231bc9e4191e4737b24414fff4c985",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/227f970ca1231bc9e4191e4737b24414fff4c985"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuNQ=="
+        },
+        {
+            "name": "v0.16.3",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.3",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.3",
+            "commit": {
+                "sha": "768e1bdcf8d1820bdb69b62252c4b53ab22b10f8",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/768e1bdcf8d1820bdb69b62252c4b53ab22b10f8"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuMw=="
+        },
+        {
+            "name": "v0.16.2",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.2",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.2",
+            "commit": {
+                "sha": "5c1296a46d584a47059e6fbc758201f32ef55ed7",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/5c1296a46d584a47059e6fbc758201f32ef55ed7"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuMg=="
+        },
+        {
+            "name": "v0.16.1",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.1",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.1",
+            "commit": {
+                "sha": "baea1798cf825a2cc8b1365cb7818605a8d4f464",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/baea1798cf825a2cc8b1365cb7818605a8d4f464"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuMQ=="
+        },
+        {
+            "name": "v0.16.0",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.16.0",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.16.0",
+            "commit": {
+                "sha": "257d4e6db2444ce1a0be814c1c352423f4aba7b5",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/257d4e6db2444ce1a0be814c1c352423f4aba7b5"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTYuMA=="
+        },
+        {
+            "name": "v0.15.6",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.15.6",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.15.6",
+            "commit": {
+                "sha": "466c3bca50fe777325358e5cc1d3969030e287c6",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/466c3bca50fe777325358e5cc1d3969030e287c6"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTUuNg=="
+        },
+        {
+            "name": "v0.15.5",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.15.5",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.15.5",
+            "commit": {
+                "sha": "a81bb78f18960053a03bb3350f31ea54d28245be",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/a81bb78f18960053a03bb3350f31ea54d28245be"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTUuNQ=="
+        },
+        {
+            "name": "v0.15.2",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.15.2",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.15.2",
+            "commit": {
+                "sha": "1a5bba267b6544b0015e3afd3c37483641ff053b",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/1a5bba267b6544b0015e3afd3c37483641ff053b"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTUuMg=="
+        },
+        {
+            "name": "v0.14.0",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.14.0",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.14.0",
+            "commit": {
+                "sha": "078e5b7ebac1d8138b118292668a4dddaf0a9455",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/078e5b7ebac1d8138b118292668a4dddaf0a9455"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTQuMA=="
+        },
+        {
+            "name": "v0.13.5",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.13.5",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.13.5",
+            "commit": {
+                "sha": "eca6b457be1193815174b2a716366ac2d8402d4b",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/eca6b457be1193815174b2a716366ac2d8402d4b"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTMuNQ=="
+        },
+        {
+            "name": "v0.13.4",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.13.4",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.13.4",
+            "commit": {
+                "sha": "d3d5bfc9883a544122e83bc645162110ca6524da",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/d3d5bfc9883a544122e83bc645162110ca6524da"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTMuNA=="
+        },
+        {
+            "name": "v0.13.3",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.13.3",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.13.3",
+            "commit": {
+                "sha": "10439f787958942fd27c7483ad83cc045e6aad50",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/10439f787958942fd27c7483ad83cc045e6aad50"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTMuMw=="
+        },
+        {
+            "name": "v0.13.1",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.13.1",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.13.1",
+            "commit": {
+                "sha": "9866dfc010338394e4cfcd33a9fbc15dae017ee5",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/9866dfc010338394e4cfcd33a9fbc15dae017ee5"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTMuMQ=="
+        },
+        {
+            "name": "v0.13.0",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.13.0",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.13.0",
+            "commit": {
+                "sha": "64798fd1f9cbdf1483a70c6e232422b71ffdbea4",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/64798fd1f9cbdf1483a70c6e232422b71ffdbea4"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTMuMA=="
+        },
+        {
+            "name": "v0.12.13",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.12.13",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.12.13",
+            "commit": {
+                "sha": "233102d172a8a9b75535e1989d2e7727d05ea591",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/233102d172a8a9b75535e1989d2e7727d05ea591"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTIuMTM="
+        },
+        {
+            "name": "v0.12.12",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.12.12",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.12.12",
+            "commit": {
+                "sha": "c0b48958813950d9653ea2784abd440a0ad93420",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/c0b48958813950d9653ea2784abd440a0ad93420"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTIuMTI="
+        },
+        {
+            "name": "v0.12.11",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.12.11",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.12.11",
+            "commit": {
+                "sha": "eb5fc87be4c78491c2cad0c298a11637f133fb07",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/eb5fc87be4c78491c2cad0c298a11637f133fb07"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTIuMTE="
+        },
+        {
+            "name": "v0.12.10",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.12.10",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.12.10",
+            "commit": {
+                "sha": "f032f34c6e236001a091a0850d457214bdc23a74",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/f032f34c6e236001a091a0850d457214bdc23a74"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTIuMTA="
+        },
+        {
+            "name": "v0.12.9",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.12.9",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.12.9",
+            "commit": {
+                "sha": "04d5e49e951d2417d77b2a32b07cea51ed6bb04f",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/04d5e49e951d2417d77b2a32b07cea51ed6bb04f"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTIuOQ=="
+        },
+        {
+            "name": "v0.12.8",
+            "zipball_url": "https://api.github.com/repos/SheetJS/sheetjs/zipball/refs/tags/v0.12.8",
+            "tarball_url": "https://api.github.com/repos/SheetJS/sheetjs/tarball/refs/tags/v0.12.8",
+            "commit": {
+                "sha": "93f7749bec413aaeda683cc09569dcb38a09899f",
+                "url": "https://api.github.com/repos/SheetJS/sheetjs/commits/93f7749bec413aaeda683cc09569dcb38a09899f"
+            },
+            "node_id": "MDM6UmVmNjk4ODAyMDpyZWZzL3RhZ3MvdjAuMTIuOA=="
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "id": 510607652,
+    "node_id": "R_kgDOHm9BJA",
+    "name": "pocketbase",
+    "full_name": "pocketbase/pocketbase",
+    "private": false,
+    "owner": {
+        "login": "pocketbase",
+        "id": 101000011,
+        "node_id": "O_kgDOBgUjSw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101000011?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/pocketbase",
+        "html_url": "https://github.com/pocketbase",
+        "followers_url": "https://api.github.com/users/pocketbase/followers",
+        "following_url": "https://api.github.com/users/pocketbase/following{/other_user}",
+        "gists_url": "https://api.github.com/users/pocketbase/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/pocketbase/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/pocketbase/subscriptions",
+        "organizations_url": "https://api.github.com/users/pocketbase/orgs",
+        "repos_url": "https://api.github.com/users/pocketbase/repos",
+        "events_url": "https://api.github.com/users/pocketbase/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/pocketbase/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "fork": false,
+    "url": "https://api.github.com/repos/pocketbase/pocketbase",
+    "forks_url": "https://api.github.com/repos/pocketbase/pocketbase/forks",
+    "keys_url": "https://api.github.com/repos/pocketbase/pocketbase/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/pocketbase/pocketbase/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/pocketbase/pocketbase/teams",
+    "hooks_url": "https://api.github.com/repos/pocketbase/pocketbase/hooks",
+    "issue_events_url": "https://api.github.com/repos/pocketbase/pocketbase/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/pocketbase/pocketbase/events",
+    "assignees_url": "https://api.github.com/repos/pocketbase/pocketbase/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/pocketbase/pocketbase/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/pocketbase/pocketbase/tags",
+    "blobs_url": "https://api.github.com/repos/pocketbase/pocketbase/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/pocketbase/pocketbase/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/pocketbase/pocketbase/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/pocketbase/pocketbase/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/pocketbase/pocketbase/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/pocketbase/pocketbase/languages",
+    "stargazers_url": "https://api.github.com/repos/pocketbase/pocketbase/stargazers",
+    "contributors_url": "https://api.github.com/repos/pocketbase/pocketbase/contributors",
+    "subscribers_url": "https://api.github.com/repos/pocketbase/pocketbase/subscribers",
+    "subscription_url": "https://api.github.com/repos/pocketbase/pocketbase/subscription",
+    "commits_url": "https://api.github.com/repos/pocketbase/pocketbase/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/pocketbase/pocketbase/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/pocketbase/pocketbase/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/pocketbase/pocketbase/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/pocketbase/pocketbase/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/pocketbase/pocketbase/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/pocketbase/pocketbase/merges",
+    "archive_url": "https://api.github.com/repos/pocketbase/pocketbase/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/pocketbase/pocketbase/downloads",
+    "issues_url": "https://api.github.com/repos/pocketbase/pocketbase/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/pocketbase/pocketbase/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/pocketbase/pocketbase/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/pocketbase/pocketbase/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/pocketbase/pocketbase/labels{/name}",
+    "releases_url": "https://api.github.com/repos/pocketbase/pocketbase/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/pocketbase/pocketbase/deployments",
+    "created_at": "2022-07-05T06:06:21Z",
+    "updated_at": "2025-01-25T16:27:52Z",
+    "pushed_at": "2025-01-24T12:49:34Z",
+    "git_url": "git://github.com/pocketbase/pocketbase.git",
+    "ssh_url": "git@github.com:pocketbase/pocketbase.git",
+    "clone_url": "https://github.com/pocketbase/pocketbase.git",
+    "svn_url": "https://github.com/pocketbase/pocketbase",
+    "homepage": "https://pocketbase.io",
+    "size": 91057,
+    "stargazers_count": 43179,
+    "watchers_count": 43179,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2056,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 19,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "authentication",
+        "backend",
+        "golang",
+        "realtime"
+    ],
+    "visibility": "public",
+    "forks": 2056,
+    "open_issues": 19,
+    "watchers": 43179,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.24.4",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.24.4",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.24.4",
+            "commit": {
+                "sha": "37ff943f6704b8d55390847114a9cc23badc0632",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/37ff943f6704b8d55390847114a9cc23badc0632"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjQuNA"
+        },
+        {
+            "name": "v0.24.3",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.24.3",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.24.3",
+            "commit": {
+                "sha": "231769501177e5e76b37bb2d0ace0ef35c8096dc",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/231769501177e5e76b37bb2d0ace0ef35c8096dc"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjQuMw"
+        },
+        {
+            "name": "v0.24.2",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.24.2",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.24.2",
+            "commit": {
+                "sha": "c1c499fc1ff5364c1fb0faeba6ce5a4565fdab84",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/c1c499fc1ff5364c1fb0faeba6ce5a4565fdab84"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjQuMg"
+        },
+        {
+            "name": "v0.24.1",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.24.1",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.24.1",
+            "commit": {
+                "sha": "9414986ca0259da2e31120d0e47c408146439a73",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/9414986ca0259da2e31120d0e47c408146439a73"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjQuMQ"
+        },
+        {
+            "name": "v0.24.0",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.24.0",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.24.0",
+            "commit": {
+                "sha": "a8b9aee24e08160ff5162f06f80dd5f8dc937086",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/a8b9aee24e08160ff5162f06f80dd5f8dc937086"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjQuMA"
+        },
+        {
+            "name": "v0.23.12",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.12",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.12",
+            "commit": {
+                "sha": "a8dbca64b2240cf5c6ba1c6b6b5e1495834c2963",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/a8dbca64b2240cf5c6ba1c6b6b5e1495834c2963"
+            },
+            "node_id": "REF_kwDOHm9BJLJyZWZzL3RhZ3MvdjAuMjMuMTI"
+        },
+        {
+            "name": "v0.23.11",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.11",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.11",
+            "commit": {
+                "sha": "7147633f96ae5284cd07bf4b0f5bc540852b2100",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/7147633f96ae5284cd07bf4b0f5bc540852b2100"
+            },
+            "node_id": "REF_kwDOHm9BJLJyZWZzL3RhZ3MvdjAuMjMuMTE"
+        },
+        {
+            "name": "v0.23.10",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.10",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.10",
+            "commit": {
+                "sha": "78a35a339f525817b727cb1b698c330724657688",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/78a35a339f525817b727cb1b698c330724657688"
+            },
+            "node_id": "REF_kwDOHm9BJLJyZWZzL3RhZ3MvdjAuMjMuMTA"
+        },
+        {
+            "name": "v0.23.9",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.9",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.9",
+            "commit": {
+                "sha": "ef0170cf0bcf4480b390ce460f5df6474f167890",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/ef0170cf0bcf4480b390ce460f5df6474f167890"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuOQ"
+        },
+        {
+            "name": "v0.23.8",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.8",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.8",
+            "commit": {
+                "sha": "9b4200a65cff7ac7fc41f257b2eb66dfabe0faba",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/9b4200a65cff7ac7fc41f257b2eb66dfabe0faba"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuOA"
+        },
+        {
+            "name": "v0.23.7",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.7",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.7",
+            "commit": {
+                "sha": "3098c2dcd8be14dc654eac0c610d405c1871e64c",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/3098c2dcd8be14dc654eac0c610d405c1871e64c"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuNw"
+        },
+        {
+            "name": "v0.23.6",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.6",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.6",
+            "commit": {
+                "sha": "4f35fb74c8d06d46e6c5189b5983b4039f317515",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/4f35fb74c8d06d46e6c5189b5983b4039f317515"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuNg"
+        },
+        {
+            "name": "v0.23.5",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.5",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.5",
+            "commit": {
+                "sha": "545a4eb47cbb8e7898d363d030e1b1122f0162ac",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/545a4eb47cbb8e7898d363d030e1b1122f0162ac"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuNQ"
+        },
+        {
+            "name": "v0.23.4",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.4",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.4",
+            "commit": {
+                "sha": "0661de0604730db744dda032dd05e99092bb79b9",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/0661de0604730db744dda032dd05e99092bb79b9"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuNA"
+        },
+        {
+            "name": "v0.23.3",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.3",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.3",
+            "commit": {
+                "sha": "3c2d43d37b0da8c4e4ea582eeeab349c76328a41",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/3c2d43d37b0da8c4e4ea582eeeab349c76328a41"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuMw"
+        },
+        {
+            "name": "v0.23.2",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.2",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.2",
+            "commit": {
+                "sha": "d92016af817b7f045bdf7bdad17b1598381a9e55",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/d92016af817b7f045bdf7bdad17b1598381a9e55"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuMg"
+        },
+        {
+            "name": "v0.23.1",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.1",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.1",
+            "commit": {
+                "sha": "aff8abccc778f530aabe54770a8639dceb2cf52e",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/aff8abccc778f530aabe54770a8639dceb2cf52e"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuMQ"
+        },
+        {
+            "name": "v0.23.0",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0",
+            "commit": {
+                "sha": "d5dddf3eadaffadc73503c464f6ff8ac6450a874",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/d5dddf3eadaffadc73503c464f6ff8ac6450a874"
+            },
+            "node_id": "REF_kwDOHm9BJLFyZWZzL3RhZ3MvdjAuMjMuMA"
+        },
+        {
+            "name": "v0.23.0-rc14",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc14",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc14",
+            "commit": {
+                "sha": "957ba6266dc53184dc0c1be7e7a9d313b41b7d31",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/957ba6266dc53184dc0c1be7e7a9d313b41b7d31"
+            },
+            "node_id": "REF_kwDOHm9BJLZyZWZzL3RhZ3MvdjAuMjMuMC1yYzE0"
+        },
+        {
+            "name": "v0.23.0-rc13",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc13",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc13",
+            "commit": {
+                "sha": "4adc4b28d2aedf7e7e474c0128c4acb899758563",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/4adc4b28d2aedf7e7e474c0128c4acb899758563"
+            },
+            "node_id": "REF_kwDOHm9BJLZyZWZzL3RhZ3MvdjAuMjMuMC1yYzEz"
+        },
+        {
+            "name": "v0.23.0-rc12",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc12",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc12",
+            "commit": {
+                "sha": "0e56521e8a5216f5c72595fcefe62c5e707347ce",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/0e56521e8a5216f5c72595fcefe62c5e707347ce"
+            },
+            "node_id": "REF_kwDOHm9BJLZyZWZzL3RhZ3MvdjAuMjMuMC1yYzEy"
+        },
+        {
+            "name": "v0.23.0-rc11",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc11",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc11",
+            "commit": {
+                "sha": "4f8f320280ca28ba374fffc8be2d91b828355f6f",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/4f8f320280ca28ba374fffc8be2d91b828355f6f"
+            },
+            "node_id": "REF_kwDOHm9BJLZyZWZzL3RhZ3MvdjAuMjMuMC1yYzEx"
+        },
+        {
+            "name": "v0.23.0-rc10",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc10",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc10",
+            "commit": {
+                "sha": "755149c915395921681edfc4048bdeba2e71dd60",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/755149c915395921681edfc4048bdeba2e71dd60"
+            },
+            "node_id": "REF_kwDOHm9BJLZyZWZzL3RhZ3MvdjAuMjMuMC1yYzEw"
+        },
+        {
+            "name": "v0.23.0-rc9",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc9",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc9",
+            "commit": {
+                "sha": "83d91b3dd5b31f2bcdea421ae62138d6ff1cc763",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/83d91b3dd5b31f2bcdea421ae62138d6ff1cc763"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzk"
+        },
+        {
+            "name": "v0.23.0-rc8",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc8",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc8",
+            "commit": {
+                "sha": "747c490b0a84f4e8d14b44e69d6ee0a7fa6c84ed",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/747c490b0a84f4e8d14b44e69d6ee0a7fa6c84ed"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzg"
+        },
+        {
+            "name": "v0.23.0-rc7",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc7",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc7",
+            "commit": {
+                "sha": "321351e0bbfffeae522117aec415fa3f8b23ab8d",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/321351e0bbfffeae522117aec415fa3f8b23ab8d"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzc"
+        },
+        {
+            "name": "v0.23.0-rc6",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc6",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc6",
+            "commit": {
+                "sha": "4209583a884db690f563256794348c183c3f99f4",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/4209583a884db690f563256794348c183c3f99f4"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzY"
+        },
+        {
+            "name": "v0.23.0-rc5",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc5",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc5",
+            "commit": {
+                "sha": "11d241392ad439bab792bd92908b3dba8a061bb6",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/11d241392ad439bab792bd92908b3dba8a061bb6"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzU"
+        },
+        {
+            "name": "v0.23.0-rc4",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc4",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc4",
+            "commit": {
+                "sha": "2b0c48c265e65aaf2ce388d1d68a02b2338e6e2f",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/2b0c48c265e65aaf2ce388d1d68a02b2338e6e2f"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzQ"
+        },
+        {
+            "name": "v0.23.0-rc3",
+            "zipball_url": "https://api.github.com/repos/pocketbase/pocketbase/zipball/refs/tags/v0.23.0-rc3",
+            "tarball_url": "https://api.github.com/repos/pocketbase/pocketbase/tarball/refs/tags/v0.23.0-rc3",
+            "commit": {
+                "sha": "2c2246ecb979932c19f0a324a8068628d2dc29aa",
+                "url": "https://api.github.com/repos/pocketbase/pocketbase/commits/2c2246ecb979932c19f0a324a8068628d2dc29aa"
+            },
+            "node_id": "REF_kwDOHm9BJLVyZWZzL3RhZ3MvdjAuMjMuMC1yYzM"
+        }
+    ]
+}

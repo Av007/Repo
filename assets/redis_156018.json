@@ -1,0 +1,424 @@
+{
+    "id": 156018,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNTYwMTg=",
+    "name": "redis",
+    "full_name": "redis/redis",
+    "private": false,
+    "owner": {
+        "login": "redis",
+        "id": 1529926,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Mjk5MjY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1529926?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/redis",
+        "html_url": "https://github.com/redis",
+        "followers_url": "https://api.github.com/users/redis/followers",
+        "following_url": "https://api.github.com/users/redis/following{/other_user}",
+        "gists_url": "https://api.github.com/users/redis/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/redis/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/redis/subscriptions",
+        "organizations_url": "https://api.github.com/users/redis/orgs",
+        "repos_url": "https://api.github.com/users/redis/repos",
+        "events_url": "https://api.github.com/users/redis/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/redis/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/redis/redis",
+    "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "fork": false,
+    "url": "https://api.github.com/repos/redis/redis",
+    "forks_url": "https://api.github.com/repos/redis/redis/forks",
+    "keys_url": "https://api.github.com/repos/redis/redis/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/redis/redis/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/redis/redis/teams",
+    "hooks_url": "https://api.github.com/repos/redis/redis/hooks",
+    "issue_events_url": "https://api.github.com/repos/redis/redis/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/redis/redis/events",
+    "assignees_url": "https://api.github.com/repos/redis/redis/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/redis/redis/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/redis/redis/tags",
+    "blobs_url": "https://api.github.com/repos/redis/redis/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/redis/redis/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/redis/redis/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/redis/redis/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/redis/redis/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/redis/redis/languages",
+    "stargazers_url": "https://api.github.com/repos/redis/redis/stargazers",
+    "contributors_url": "https://api.github.com/repos/redis/redis/contributors",
+    "subscribers_url": "https://api.github.com/repos/redis/redis/subscribers",
+    "subscription_url": "https://api.github.com/repos/redis/redis/subscription",
+    "commits_url": "https://api.github.com/repos/redis/redis/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/redis/redis/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/redis/redis/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/redis/redis/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/redis/redis/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/redis/redis/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/redis/redis/merges",
+    "archive_url": "https://api.github.com/repos/redis/redis/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/redis/redis/downloads",
+    "issues_url": "https://api.github.com/repos/redis/redis/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/redis/redis/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/redis/redis/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/redis/redis/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/redis/redis/labels{/name}",
+    "releases_url": "https://api.github.com/repos/redis/redis/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/redis/redis/deployments",
+    "created_at": "2009-03-21T22:32:25Z",
+    "updated_at": "2025-01-25T16:42:47Z",
+    "pushed_at": "2025-01-24T07:21:24Z",
+    "git_url": "git://github.com/redis/redis.git",
+    "ssh_url": "git@github.com:redis/redis.git",
+    "clone_url": "https://github.com/redis/redis.git",
+    "svn_url": "https://github.com/redis/redis",
+    "homepage": "http://redis.io",
+    "size": 142760,
+    "stargazers_count": 67802,
+    "watchers_count": 67802,
+    "language": "C",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 23880,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2543,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cache",
+        "database",
+        "key-value",
+        "message-broker",
+        "nosql",
+        "redis"
+    ],
+    "visibility": "public",
+    "forks": 23880,
+    "open_issues": 2543,
+    "watchers": 67802,
+    "default_branch": "unstable",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "with-deprecated-diskstore",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/with-deprecated-diskstore",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/with-deprecated-diskstore",
+            "commit": {
+                "sha": "a004de0f1509c0ff499e6fc28da2f7e308e14e40",
+                "url": "https://api.github.com/repos/redis/redis/commits/a004de0f1509c0ff499e6fc28da2f7e308e14e40"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy93aXRoLWRlcHJlY2F0ZWQtZGlza3N0b3Jl"
+        },
+        {
+            "name": "vm-playpen",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/vm-playpen",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/vm-playpen",
+            "commit": {
+                "sha": "b72f6a4b70ef642a085f700243ebf885ca7b09f4",
+                "url": "https://api.github.com/repos/redis/redis/commits/b72f6a4b70ef642a085f700243ebf885ca7b09f4"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92bS1wbGF5cGVu"
+        },
+        {
+            "name": "v2.1.1-watch",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.1.1-watch",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.1.1-watch",
+            "commit": {
+                "sha": "9005896c0a5bfc7164b7a439cb7c56b5dab8923a",
+                "url": "https://api.github.com/repos/redis/redis/commits/9005896c0a5bfc7164b7a439cb7c56b5dab8923a"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4xLjEtd2F0Y2g="
+        },
+        {
+            "name": "v2.0.4-stable",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.4-stable",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.4-stable",
+            "commit": {
+                "sha": "1c14507366d0026eecc50530664b4dd58cd3eaa5",
+                "url": "https://api.github.com/repos/redis/redis/commits/1c14507366d0026eecc50530664b4dd58cd3eaa5"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjQtc3RhYmxl"
+        },
+        {
+            "name": "v2.0.3-stable",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.3-stable",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.3-stable",
+            "commit": {
+                "sha": "b766149d5fa4cdb76c117f4246d83948babf0ad8",
+                "url": "https://api.github.com/repos/redis/redis/commits/b766149d5fa4cdb76c117f4246d83948babf0ad8"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjMtc3RhYmxl"
+        },
+        {
+            "name": "v2.0.2-stable",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.2-stable",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.2-stable",
+            "commit": {
+                "sha": "d7554adadedd91eb4a2f4477e6d052f86cf72bef",
+                "url": "https://api.github.com/repos/redis/redis/commits/d7554adadedd91eb4a2f4477e6d052f86cf72bef"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjItc3RhYmxl"
+        },
+        {
+            "name": "v2.0.1-stable",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.1-stable",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.1-stable",
+            "commit": {
+                "sha": "068eb3bf44db191418199f1b9fe89c2b93d20104",
+                "url": "https://api.github.com/repos/redis/redis/commits/068eb3bf44db191418199f1b9fe89c2b93d20104"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjEtc3RhYmxl"
+        },
+        {
+            "name": "v2.0.0-stable",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.0-stable",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.0-stable",
+            "commit": {
+                "sha": "aaed0894cc7c04dc215ba82083fc4cc359e66701",
+                "url": "https://api.github.com/repos/redis/redis/commits/aaed0894cc7c04dc215ba82083fc4cc359e66701"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjAtc3RhYmxl"
+        },
+        {
+            "name": "v2.0.0-rc4",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.0-rc4",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.0-rc4",
+            "commit": {
+                "sha": "655f79a9330549eb1ec23ebf23c3a78d398bfb67",
+                "url": "https://api.github.com/repos/redis/redis/commits/655f79a9330549eb1ec23ebf23c3a78d398bfb67"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjAtcmM0"
+        },
+        {
+            "name": "v2.0.0-rc3",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.0-rc3",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.0-rc3",
+            "commit": {
+                "sha": "fe2173ae530b27b8e039be4aa00817f7672c5b10",
+                "url": "https://api.github.com/repos/redis/redis/commits/fe2173ae530b27b8e039be4aa00817f7672c5b10"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjAtcmMz"
+        },
+        {
+            "name": "v2.0.0-rc2",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.0-rc2",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.0-rc2",
+            "commit": {
+                "sha": "e4a3d7fffcebd1f5fec49c8447b0778bf58a7f1a",
+                "url": "https://api.github.com/repos/redis/redis/commits/e4a3d7fffcebd1f5fec49c8447b0778bf58a7f1a"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjAtcmMy"
+        },
+        {
+            "name": "v2.0.0-rc1",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.0-rc1",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.0-rc1",
+            "commit": {
+                "sha": "329cdba00afd2f97ca828134cb5c24316d516fce",
+                "url": "https://api.github.com/repos/redis/redis/commits/329cdba00afd2f97ca828134cb5c24316d516fce"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjAtcmMx"
+        },
+        {
+            "name": "v2.0.0-rc1b",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v2.0.0-rc1b",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v2.0.0-rc1b",
+            "commit": {
+                "sha": "903b7484af1532aa93c15d5d84125756b51b518a",
+                "url": "https://api.github.com/repos/redis/redis/commits/903b7484af1532aa93c15d5d84125756b51b518a"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92Mi4wLjAtcmMxYg=="
+        },
+        {
+            "name": "v1.3.12",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v1.3.12",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v1.3.12",
+            "commit": {
+                "sha": "26ef09a83526e5099bcea5f035401532a61b24ab",
+                "url": "https://api.github.com/repos/redis/redis/commits/26ef09a83526e5099bcea5f035401532a61b24ab"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92MS4zLjEy"
+        },
+        {
+            "name": "v1.3.11",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v1.3.11",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v1.3.11",
+            "commit": {
+                "sha": "2cf5e5136b20bff5775c3824185e7462a97bc110",
+                "url": "https://api.github.com/repos/redis/redis/commits/2cf5e5136b20bff5775c3824185e7462a97bc110"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92MS4zLjEx"
+        },
+        {
+            "name": "v1.3.10",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v1.3.10",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v1.3.10",
+            "commit": {
+                "sha": "24df76987e85f7ba5314495e50dc5cc9ff623823",
+                "url": "https://api.github.com/repos/redis/redis/commits/24df76987e85f7ba5314495e50dc5cc9ff623823"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92MS4zLjEw"
+        },
+        {
+            "name": "v1.3.9",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v1.3.9",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v1.3.9",
+            "commit": {
+                "sha": "d4dd6556c3925ae26b1fce142158b3243eda39a7",
+                "url": "https://api.github.com/repos/redis/redis/commits/d4dd6556c3925ae26b1fce142158b3243eda39a7"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92MS4zLjk="
+        },
+        {
+            "name": "v1.3.8",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v1.3.8",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v1.3.8",
+            "commit": {
+                "sha": "cac154c58036e59be816aed3d2e54492131c4a85",
+                "url": "https://api.github.com/repos/redis/redis/commits/cac154c58036e59be816aed3d2e54492131c4a85"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92MS4zLjg="
+        },
+        {
+            "name": "v1.3.7",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/v1.3.7",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/v1.3.7",
+            "commit": {
+                "sha": "a9c723ea1e2213f98eb46a4322d4e31af3d051c2",
+                "url": "https://api.github.com/repos/redis/redis/commits/a9c723ea1e2213f98eb46a4322d4e31af3d051c2"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy92MS4zLjc="
+        },
+        {
+            "name": "twitter-20100825",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/twitter-20100825",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/twitter-20100825",
+            "commit": {
+                "sha": "7f8305df0fe80f346ec9e6f5c47a34747e7b93a6",
+                "url": "https://api.github.com/repos/redis/redis/commits/7f8305df0fe80f346ec9e6f5c47a34747e7b93a6"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy90d2l0dGVyLTIwMTAwODI1"
+        },
+        {
+            "name": "twitter-20100804",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/twitter-20100804",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/twitter-20100804",
+            "commit": {
+                "sha": "0b6677608d54ba31d338ed23fb50754890b97e4d",
+                "url": "https://api.github.com/repos/redis/redis/commits/0b6677608d54ba31d338ed23fb50754890b97e4d"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy90d2l0dGVyLTIwMTAwODA0"
+        },
+        {
+            "name": "8.0-m04-int",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/8.0-m04-int",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/8.0-m04-int",
+            "commit": {
+                "sha": "c2d3e28540f47353a756151fa8fc4fa51825f3d5",
+                "url": "https://api.github.com/repos/redis/redis/commits/c2d3e28540f47353a756151fa8fc4fa51825f3d5"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy84LjAtbTA0LWludA=="
+        },
+        {
+            "name": "8.0-m03",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/8.0-m03",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/8.0-m03",
+            "commit": {
+                "sha": "d88611d36f55299e83511b7fd41e27ab5811a237",
+                "url": "https://api.github.com/repos/redis/redis/commits/d88611d36f55299e83511b7fd41e27ab5811a237"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy84LjAtbTAz"
+        },
+        {
+            "name": "8.0-m02",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/8.0-m02",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/8.0-m02",
+            "commit": {
+                "sha": "0a24bfec138acfbb4a216da5373778c16e6b1f36",
+                "url": "https://api.github.com/repos/redis/redis/commits/0a24bfec138acfbb4a216da5373778c16e6b1f36"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy84LjAtbTAy"
+        },
+        {
+            "name": "8.0-m01",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/8.0-m01",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/8.0-m01",
+            "commit": {
+                "sha": "5fe3e74a383141aa851185c5264639d70e186f14",
+                "url": "https://api.github.com/repos/redis/redis/commits/5fe3e74a383141aa851185c5264639d70e186f14"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy84LjAtbTAx"
+        },
+        {
+            "name": "7.4.2",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/7.4.2",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/7.4.2",
+            "commit": {
+                "sha": "a0a6f23d997b024689ba157916837f493a593a34",
+                "url": "https://api.github.com/repos/redis/redis/commits/a0a6f23d997b024689ba157916837f493a593a34"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy83LjQuMg=="
+        },
+        {
+            "name": "7.4.1",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/7.4.1",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/7.4.1",
+            "commit": {
+                "sha": "74b289a0e12f9f65a6daeec6a66cadc76792f644",
+                "url": "https://api.github.com/repos/redis/redis/commits/74b289a0e12f9f65a6daeec6a66cadc76792f644"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy83LjQuMQ=="
+        },
+        {
+            "name": "7.4.0",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/7.4.0",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/7.4.0",
+            "commit": {
+                "sha": "c9d29f6a918c335bc1778d9f68e521c1bbb36a0f",
+                "url": "https://api.github.com/repos/redis/redis/commits/c9d29f6a918c335bc1778d9f68e521c1bbb36a0f"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy83LjQuMA=="
+        },
+        {
+            "name": "7.4-rc2",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/7.4-rc2",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/7.4-rc2",
+            "commit": {
+                "sha": "0637b4ea455e6838dec832fc453d18496a0dc501",
+                "url": "https://api.github.com/repos/redis/redis/commits/0637b4ea455e6838dec832fc453d18496a0dc501"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy83LjQtcmMy"
+        },
+        {
+            "name": "7.4-rc1",
+            "zipball_url": "https://api.github.com/repos/redis/redis/zipball/refs/tags/7.4-rc1",
+            "tarball_url": "https://api.github.com/repos/redis/redis/tarball/refs/tags/7.4-rc1",
+            "commit": {
+                "sha": "4606f91d5e31f69e8dadcf4125f386da6f942673",
+                "url": "https://api.github.com/repos/redis/redis/commits/4606f91d5e31f69e8dadcf4125f386da6f942673"
+            },
+            "node_id": "MDM6UmVmMTU2MDE4OnJlZnMvdGFncy83LjQtcmMx"
+        }
+    ]
+}

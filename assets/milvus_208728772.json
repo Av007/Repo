@@ -1,0 +1,436 @@
+{
+    "id": 208728772,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMDg3Mjg3NzI=",
+    "name": "milvus",
+    "full_name": "milvus-io/milvus",
+    "private": false,
+    "owner": {
+        "login": "milvus-io",
+        "id": 51735404,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxNzM1NDA0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51735404?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/milvus-io",
+        "html_url": "https://github.com/milvus-io",
+        "followers_url": "https://api.github.com/users/milvus-io/followers",
+        "following_url": "https://api.github.com/users/milvus-io/following{/other_user}",
+        "gists_url": "https://api.github.com/users/milvus-io/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/milvus-io/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/milvus-io/subscriptions",
+        "organizations_url": "https://api.github.com/users/milvus-io/orgs",
+        "repos_url": "https://api.github.com/users/milvus-io/repos",
+        "events_url": "https://api.github.com/users/milvus-io/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/milvus-io/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/milvus-io/milvus",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "fork": false,
+    "url": "https://api.github.com/repos/milvus-io/milvus",
+    "forks_url": "https://api.github.com/repos/milvus-io/milvus/forks",
+    "keys_url": "https://api.github.com/repos/milvus-io/milvus/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/milvus-io/milvus/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/milvus-io/milvus/teams",
+    "hooks_url": "https://api.github.com/repos/milvus-io/milvus/hooks",
+    "issue_events_url": "https://api.github.com/repos/milvus-io/milvus/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/milvus-io/milvus/events",
+    "assignees_url": "https://api.github.com/repos/milvus-io/milvus/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/milvus-io/milvus/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/milvus-io/milvus/tags",
+    "blobs_url": "https://api.github.com/repos/milvus-io/milvus/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/milvus-io/milvus/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/milvus-io/milvus/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/milvus-io/milvus/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/milvus-io/milvus/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/milvus-io/milvus/languages",
+    "stargazers_url": "https://api.github.com/repos/milvus-io/milvus/stargazers",
+    "contributors_url": "https://api.github.com/repos/milvus-io/milvus/contributors",
+    "subscribers_url": "https://api.github.com/repos/milvus-io/milvus/subscribers",
+    "subscription_url": "https://api.github.com/repos/milvus-io/milvus/subscription",
+    "commits_url": "https://api.github.com/repos/milvus-io/milvus/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/milvus-io/milvus/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/milvus-io/milvus/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/milvus-io/milvus/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/milvus-io/milvus/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/milvus-io/milvus/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/milvus-io/milvus/merges",
+    "archive_url": "https://api.github.com/repos/milvus-io/milvus/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/milvus-io/milvus/downloads",
+    "issues_url": "https://api.github.com/repos/milvus-io/milvus/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/milvus-io/milvus/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/milvus-io/milvus/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/milvus-io/milvus/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/milvus-io/milvus/labels{/name}",
+    "releases_url": "https://api.github.com/repos/milvus-io/milvus/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/milvus-io/milvus/deployments",
+    "created_at": "2019-09-16T06:43:43Z",
+    "updated_at": "2025-01-25T15:59:58Z",
+    "pushed_at": "2025-01-24T15:07:13Z",
+    "git_url": "git://github.com/milvus-io/milvus.git",
+    "ssh_url": "git@github.com:milvus-io/milvus.git",
+    "clone_url": "https://github.com/milvus-io/milvus.git",
+    "svn_url": "https://github.com/milvus-io/milvus",
+    "homepage": "https://milvus.io",
+    "size": 214286,
+    "stargazers_count": 32020,
+    "watchers_count": 32020,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 3008,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 757,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "anns",
+        "cloud-native",
+        "diskann",
+        "distributed",
+        "embedding-database",
+        "embedding-similarity",
+        "embedding-store",
+        "faiss",
+        "golang",
+        "hnsw",
+        "image-search",
+        "llm",
+        "nearest-neighbor-search",
+        "rag",
+        "vector-database",
+        "vector-search",
+        "vector-similarity",
+        "vector-store"
+    ],
+    "visibility": "public",
+    "forks": 3008,
+    "open_issues": 757,
+    "watchers": 32020,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.5.4",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.5.4",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.5.4",
+            "commit": {
+                "sha": "6cdabd9002fe64941140110c26f6487246a485cb",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/6cdabd9002fe64941140110c26f6487246a485cb"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi41LjQ="
+        },
+        {
+            "name": "v2.5.3",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.5.3",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.5.3",
+            "commit": {
+                "sha": "ac730be5aa96b3a7b04567aa233f174c693f3cc1",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/ac730be5aa96b3a7b04567aa233f174c693f3cc1"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi41LjM="
+        },
+        {
+            "name": "v2.5.2",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.5.2",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.5.2",
+            "commit": {
+                "sha": "4533fc8f9cfe97b6d9b00ac366be99208a8003fb",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/4533fc8f9cfe97b6d9b00ac366be99208a8003fb"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi41LjI="
+        },
+        {
+            "name": "v2.5.1",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.5.1",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.5.1",
+            "commit": {
+                "sha": "a67b57275c1e8c534d996cb2036d42459a1f9bed",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/a67b57275c1e8c534d996cb2036d42459a1f9bed"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi41LjE="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "7fe2cd05183f067be51bc7fe04493e1009a5e64c",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/7fe2cd05183f067be51bc7fe04493e1009a5e64c"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi41LjA="
+        },
+        {
+            "name": "v2.5.0-beta",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.5.0-beta",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.5.0-beta",
+            "commit": {
+                "sha": "8fe6c1ce3fa913bada3a60811b2e4579f6d059b1",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/8fe6c1ce3fa913bada3a60811b2e4579f6d059b1"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi41LjAtYmV0YQ=="
+        },
+        {
+            "name": "v2.4.21",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.21",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.21",
+            "commit": {
+                "sha": "86ae07d705d32b508d556b9b6e59f06b44f3536f",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/86ae07d705d32b508d556b9b6e59f06b44f3536f"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjIx"
+        },
+        {
+            "name": "v2.4.20",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.20",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.20",
+            "commit": {
+                "sha": "ccbe6fc6460a1100e62ca35325a38788998c5b65",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/ccbe6fc6460a1100e62ca35325a38788998c5b65"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjIw"
+        },
+        {
+            "name": "v2.4.19",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.19",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.19",
+            "commit": {
+                "sha": "fec92e9fa61ca57bd25944df8ad37237866b886a",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/fec92e9fa61ca57bd25944df8ad37237866b886a"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE5"
+        },
+        {
+            "name": "v2.4.18",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.18",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.18",
+            "commit": {
+                "sha": "e82af487069a79fb53aae9144b5baf1203acfd63",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/e82af487069a79fb53aae9144b5baf1203acfd63"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE4"
+        },
+        {
+            "name": "v2.4.17",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.17",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.17",
+            "commit": {
+                "sha": "fc961333746e14a21c1aa963fd97f685f363cc58",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/fc961333746e14a21c1aa963fd97f685f363cc58"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE3"
+        },
+        {
+            "name": "v2.4.16",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.16",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.16",
+            "commit": {
+                "sha": "cffde80e68a323bda7f615d3c02beb0fea731878",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/cffde80e68a323bda7f615d3c02beb0fea731878"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE2"
+        },
+        {
+            "name": "v2.4.15",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.15",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.15",
+            "commit": {
+                "sha": "b7c80f9b83e98455162af208558bfb48a23228bc",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/b7c80f9b83e98455162af208558bfb48a23228bc"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE1"
+        },
+        {
+            "name": "v2.4.14",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.14",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.14",
+            "commit": {
+                "sha": "8370caa4a677d7d851fa92d73293249ab6c9f595",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/8370caa4a677d7d851fa92d73293249ab6c9f595"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE0"
+        },
+        {
+            "name": "v2.4.14-hotfix",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.14-hotfix",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.14-hotfix",
+            "commit": {
+                "sha": "399ae752771e0c60a42b0f7f5d12f53c8f29f6f3",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/399ae752771e0c60a42b0f7f5d12f53c8f29f6f3"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE0LWhvdGZpeA=="
+        },
+        {
+            "name": "v2.4.13",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.13",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.13",
+            "commit": {
+                "sha": "1d9c7462baf07b6f2c491d675fcdc9a9e12bdcfb",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/1d9c7462baf07b6f2c491d675fcdc9a9e12bdcfb"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjEz"
+        },
+        {
+            "name": "v2.4.13-hotfix",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.13-hotfix",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.13-hotfix",
+            "commit": {
+                "sha": "dde79796da31811e234a2de1c1898562e844a2d3",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/dde79796da31811e234a2de1c1898562e844a2d3"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjEzLWhvdGZpeA=="
+        },
+        {
+            "name": "v2.4.12",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.12",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.12",
+            "commit": {
+                "sha": "a00523f0fd5520c77f4ccb87a29ab8442ecb82ff",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/a00523f0fd5520c77f4ccb87a29ab8442ecb82ff"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjEy"
+        },
+        {
+            "name": "v2.4.11",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.11",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.11",
+            "commit": {
+                "sha": "c166253540d81fcd02ce485573ee3562c5ca1ffc",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/c166253540d81fcd02ce485573ee3562c5ca1ffc"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjEx"
+        },
+        {
+            "name": "v2.4.10",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.10",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.10",
+            "commit": {
+                "sha": "a1d39326b86b16b6906a9948ab3c02ae1dd63280",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/a1d39326b86b16b6906a9948ab3c02ae1dd63280"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjEw"
+        },
+        {
+            "name": "v2.4.9",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.9",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.9",
+            "commit": {
+                "sha": "4e098f1b23db9639d1e1948eacc052dba92f5163",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/4e098f1b23db9639d1e1948eacc052dba92f5163"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40Ljk="
+        },
+        {
+            "name": "v2.4.8",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.8",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.8",
+            "commit": {
+                "sha": "e44c63883b32ed62a8300829e9495060ce9eea51",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/e44c63883b32ed62a8300829e9495060ce9eea51"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40Ljg="
+        },
+        {
+            "name": "v2.4.7",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.7",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.7",
+            "commit": {
+                "sha": "db9e4b898a37570fbff88fd5ffa7199fc1cf8f8d",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/db9e4b898a37570fbff88fd5ffa7199fc1cf8f8d"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40Ljc="
+        },
+        {
+            "name": "v2.4.6",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.6",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.6",
+            "commit": {
+                "sha": "ce9ab52855abf7617dad41409444bc236ce1e562",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/ce9ab52855abf7617dad41409444bc236ce1e562"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjY="
+        },
+        {
+            "name": "v2.4.5",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.5",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.5",
+            "commit": {
+                "sha": "60695bdb448174661d82c80fd2db7acca49b48b3",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/60695bdb448174661d82c80fd2db7acca49b48b3"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjU="
+        },
+        {
+            "name": "v2.4.4",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.4",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.4",
+            "commit": {
+                "sha": "8e7f36d9283328046c6d6814dc55b22bc3aee592",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/8e7f36d9283328046c6d6814dc55b22bc3aee592"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjQ="
+        },
+        {
+            "name": "v2.4.3",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.3",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.3",
+            "commit": {
+                "sha": "7384bfe3f80b1cdd306af99b847593d4223de650",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/7384bfe3f80b1cdd306af99b847593d4223de650"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjM="
+        },
+        {
+            "name": "v2.4.2",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.2",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.2",
+            "commit": {
+                "sha": "b2d83d3354599cb3c56edc566ba0a923f9b02c85",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/b2d83d3354599cb3c56edc566ba0a923f9b02c85"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjI="
+        },
+        {
+            "name": "v2.4.1",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.1",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.1",
+            "commit": {
+                "sha": "15b78749a6fdc5258bf3d3824ea13477bc7c1f76",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/15b78749a6fdc5258bf3d3824ea13477bc7c1f76"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjE="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/milvus-io/milvus/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/milvus-io/milvus/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "ffb6edd433856ba1dc0c4466582c8829711296ac",
+                "url": "https://api.github.com/repos/milvus-io/milvus/commits/ffb6edd433856ba1dc0c4466582c8829711296ac"
+            },
+            "node_id": "MDM6UmVmMjA4NzI4NzcyOnJlZnMvdGFncy92Mi40LjA="
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "id": 233130089,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMzMxMzAwODk=",
+    "name": "bubbletea",
+    "full_name": "charmbracelet/bubbletea",
+    "private": false,
+    "owner": {
+        "login": "charmbracelet",
+        "id": 57376114,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3Mzc2MTE0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57376114?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/charmbracelet",
+        "html_url": "https://github.com/charmbracelet",
+        "followers_url": "https://api.github.com/users/charmbracelet/followers",
+        "following_url": "https://api.github.com/users/charmbracelet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/charmbracelet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/charmbracelet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/charmbracelet/subscriptions",
+        "organizations_url": "https://api.github.com/users/charmbracelet/orgs",
+        "repos_url": "https://api.github.com/users/charmbracelet/repos",
+        "events_url": "https://api.github.com/users/charmbracelet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/charmbracelet/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/charmbracelet/bubbletea",
+    "description": "A powerful little TUI framework \ud83c\udfd7",
+    "fork": false,
+    "url": "https://api.github.com/repos/charmbracelet/bubbletea",
+    "forks_url": "https://api.github.com/repos/charmbracelet/bubbletea/forks",
+    "keys_url": "https://api.github.com/repos/charmbracelet/bubbletea/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/charmbracelet/bubbletea/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/charmbracelet/bubbletea/teams",
+    "hooks_url": "https://api.github.com/repos/charmbracelet/bubbletea/hooks",
+    "issue_events_url": "https://api.github.com/repos/charmbracelet/bubbletea/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/charmbracelet/bubbletea/events",
+    "assignees_url": "https://api.github.com/repos/charmbracelet/bubbletea/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/charmbracelet/bubbletea/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/charmbracelet/bubbletea/tags",
+    "blobs_url": "https://api.github.com/repos/charmbracelet/bubbletea/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/charmbracelet/bubbletea/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/charmbracelet/bubbletea/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/charmbracelet/bubbletea/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/charmbracelet/bubbletea/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/charmbracelet/bubbletea/languages",
+    "stargazers_url": "https://api.github.com/repos/charmbracelet/bubbletea/stargazers",
+    "contributors_url": "https://api.github.com/repos/charmbracelet/bubbletea/contributors",
+    "subscribers_url": "https://api.github.com/repos/charmbracelet/bubbletea/subscribers",
+    "subscription_url": "https://api.github.com/repos/charmbracelet/bubbletea/subscription",
+    "commits_url": "https://api.github.com/repos/charmbracelet/bubbletea/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/charmbracelet/bubbletea/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/charmbracelet/bubbletea/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/charmbracelet/bubbletea/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/charmbracelet/bubbletea/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/charmbracelet/bubbletea/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/charmbracelet/bubbletea/merges",
+    "archive_url": "https://api.github.com/repos/charmbracelet/bubbletea/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/charmbracelet/bubbletea/downloads",
+    "issues_url": "https://api.github.com/repos/charmbracelet/bubbletea/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/charmbracelet/bubbletea/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/charmbracelet/bubbletea/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/charmbracelet/bubbletea/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/charmbracelet/bubbletea/labels{/name}",
+    "releases_url": "https://api.github.com/repos/charmbracelet/bubbletea/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/charmbracelet/bubbletea/deployments",
+    "created_at": "2020-01-10T21:04:03Z",
+    "updated_at": "2025-01-25T16:31:26Z",
+    "pushed_at": "2025-01-23T22:15:06Z",
+    "git_url": "git://github.com/charmbracelet/bubbletea.git",
+    "ssh_url": "git@github.com:charmbracelet/bubbletea.git",
+    "clone_url": "https://github.com/charmbracelet/bubbletea.git",
+    "svn_url": "https://github.com/charmbracelet/bubbletea",
+    "homepage": "",
+    "size": 5294,
+    "stargazers_count": 29220,
+    "watchers_count": 29220,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 844,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 119,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cli",
+        "elm-architecture",
+        "framework",
+        "functional",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "tui"
+    ],
+    "visibility": "public",
+    "forks": 844,
+    "open_issues": 119,
+    "watchers": 29220,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v2.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v2.0.0-alpha.2",
+            "commit": {
+                "sha": "206067c135480ee8c636818397afd277284b0c2f",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/206067c135480ee8c636818397afd277284b0c2f"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92Mi4wLjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v2.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v2.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v2.0.0-alpha.1",
+            "commit": {
+                "sha": "3274e41ecb94a7a3ad620e1accff35ca2a0b41f0",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/3274e41ecb94a7a3ad620e1accff35ca2a0b41f0"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92Mi4wLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v1.2.4",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.2.4",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.2.4",
+            "commit": {
+                "sha": "2ea49ddc4f36b8c47231ab0be31e40ca8676b050",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/2ea49ddc4f36b8c47231ab0be31e40ca8676b050"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4yLjQ="
+        },
+        {
+            "name": "v1.2.3",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.2.3",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.2.3",
+            "commit": {
+                "sha": "f8f840c38a36140fe890a02c6b35589f15a85ff5",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/f8f840c38a36140fe890a02c6b35589f15a85ff5"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4yLjM="
+        },
+        {
+            "name": "v1.2.2",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.2.2",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.2.2",
+            "commit": {
+                "sha": "97fc4fada84eba82ccfce0ffcc1b9d6216fca05c",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/97fc4fada84eba82ccfce0ffcc1b9d6216fca05c"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4yLjI="
+        },
+        {
+            "name": "v1.2.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.2.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.2.1",
+            "commit": {
+                "sha": "5b65f9afee63a23935373397c858891ddf0e868d",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/5b65f9afee63a23935373397c858891ddf0e868d"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4yLjE="
+        },
+        {
+            "name": "v1.2.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.2.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.2.0",
+            "commit": {
+                "sha": "f4d1e0ead8047cc5557e638ed424e66e18a36c11",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/f4d1e0ead8047cc5557e638ed424e66e18a36c11"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4yLjA="
+        },
+        {
+            "name": "v1.1.2",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.1.2",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.1.2",
+            "commit": {
+                "sha": "c07fa72e4f475b7fc5897dafc1efe68b2519ecf5",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/c07fa72e4f475b7fc5897dafc1efe68b2519ecf5"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4xLjI="
+        },
+        {
+            "name": "v1.1.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.1.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.1.1",
+            "commit": {
+                "sha": "6e71f52a8add0fdeba202d4e1bdd289182b156ac",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/6e71f52a8add0fdeba202d4e1bdd289182b156ac"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4xLjE="
+        },
+        {
+            "name": "v1.1.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.1.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.1.0",
+            "commit": {
+                "sha": "e58efab3713e8f924e90a416e66326b23253f7ab",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/e58efab3713e8f924e90a416e66326b23253f7ab"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4xLjA="
+        },
+        {
+            "name": "v1.0.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.0.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.0.1",
+            "commit": {
+                "sha": "c69bd971e65f6774aaa0347df035c8f1f3f36275",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/c69bd971e65f6774aaa0347df035c8f1f3f36275"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4wLjE="
+        },
+        {
+            "name": "v1.0.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v1.0.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v1.0.0",
+            "commit": {
+                "sha": "105d88a7282a810529c37f08fa7c03392860a80e",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/105d88a7282a810529c37f08fa7c03392860a80e"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MS4wLjA="
+        },
+        {
+            "name": "v0.27.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.27.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.27.1",
+            "commit": {
+                "sha": "17443d8d127f3497aea3fdf2ed9cc99a978dc7a3",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/17443d8d127f3497aea3fdf2ed9cc99a978dc7a3"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNy4x"
+        },
+        {
+            "name": "v0.27.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.27.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.27.0",
+            "commit": {
+                "sha": "d6a19f0eb5a983610bd65a1647f5955abe3ee69e",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/d6a19f0eb5a983610bd65a1647f5955abe3ee69e"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNy4w"
+        },
+        {
+            "name": "v0.26.6",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.6",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.6",
+            "commit": {
+                "sha": "60a57eaf1f7f71e6678af1607581fad369cd6e88",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/60a57eaf1f7f71e6678af1607581fad369cd6e88"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi42"
+        },
+        {
+            "name": "v0.26.5",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.5",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.5",
+            "commit": {
+                "sha": "42a7dd8f898f2e9cd180c8475ca6cb6ab21943f4",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/42a7dd8f898f2e9cd180c8475ca6cb6ab21943f4"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi41"
+        },
+        {
+            "name": "v0.26.4",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.4",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.4",
+            "commit": {
+                "sha": "eb78a8cf6ad6ad335fa5d1d15a74187a26adfda3",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/eb78a8cf6ad6ad335fa5d1d15a74187a26adfda3"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi40"
+        },
+        {
+            "name": "v0.26.3",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.3",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.3",
+            "commit": {
+                "sha": "2ac3642f644d1c4ea67642910e77f7f56c58d2e9",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/2ac3642f644d1c4ea67642910e77f7f56c58d2e9"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi4z"
+        },
+        {
+            "name": "v0.26.2",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.2",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.2",
+            "commit": {
+                "sha": "ea792a871f6c804ed30c3a68e57f913313c2262b",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/ea792a871f6c804ed30c3a68e57f913313c2262b"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi4y"
+        },
+        {
+            "name": "v0.26.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.1",
+            "commit": {
+                "sha": "f946f1abb2bd7720e6f83b48e051783d84059542",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/f946f1abb2bd7720e6f83b48e051783d84059542"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi4x"
+        },
+        {
+            "name": "v0.26.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.26.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.26.0",
+            "commit": {
+                "sha": "21881ab109f9259b567eb52ff0a0769efd8317a8",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/21881ab109f9259b567eb52ff0a0769efd8317a8"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNi4w"
+        },
+        {
+            "name": "v0.25.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.25.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.25.0",
+            "commit": {
+                "sha": "e671b840f205aa9fbc2fba9903290a1205390760",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/e671b840f205aa9fbc2fba9903290a1205390760"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNS4w"
+        },
+        {
+            "name": "v0.24.2",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.24.2",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.24.2",
+            "commit": {
+                "sha": "44f17fa1c0d9bf4a20d5bc89640d2ebe7a7f3a8b",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/44f17fa1c0d9bf4a20d5bc89640d2ebe7a7f3a8b"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNC4y"
+        },
+        {
+            "name": "v0.24.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.24.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.24.1",
+            "commit": {
+                "sha": "c267762438a3b24e9138e4ec02dd43c3b99c71fd",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/c267762438a3b24e9138e4ec02dd43c3b99c71fd"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNC4x"
+        },
+        {
+            "name": "v0.24.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.24.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.24.0",
+            "commit": {
+                "sha": "fcc805f3da68f535f7c3c78b94b4b14cd22a047a",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/fcc805f3da68f535f7c3c78b94b4b14cd22a047a"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yNC4w"
+        },
+        {
+            "name": "v0.23.2",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.23.2",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.23.2",
+            "commit": {
+                "sha": "1ad9f9c15ce7cba8b0d9025b3510b12be02bbea5",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/1ad9f9c15ce7cba8b0d9025b3510b12be02bbea5"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yMy4y"
+        },
+        {
+            "name": "v0.23.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.23.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.23.1",
+            "commit": {
+                "sha": "94d6f5079e07301046e38f6c59cb286dd6856155",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/94d6f5079e07301046e38f6c59cb286dd6856155"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yMy4x"
+        },
+        {
+            "name": "v0.23.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.23.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.23.0",
+            "commit": {
+                "sha": "2d10416631fa15f6e60fd07d5549eb31370fa072",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/2d10416631fa15f6e60fd07d5549eb31370fa072"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yMy4w"
+        },
+        {
+            "name": "v0.22.1",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.22.1",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.22.1",
+            "commit": {
+                "sha": "31800cd0a70872537f00946b5af98fcff390f07a",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/31800cd0a70872537f00946b5af98fcff390f07a"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yMi4x"
+        },
+        {
+            "name": "v0.22.0",
+            "zipball_url": "https://api.github.com/repos/charmbracelet/bubbletea/zipball/refs/tags/v0.22.0",
+            "tarball_url": "https://api.github.com/repos/charmbracelet/bubbletea/tarball/refs/tags/v0.22.0",
+            "commit": {
+                "sha": "ca32c4c62873b15ca0035542c1e7ac89fe0e69ec",
+                "url": "https://api.github.com/repos/charmbracelet/bubbletea/commits/ca32c4c62873b15ca0035542c1e7ac89fe0e69ec"
+            },
+            "node_id": "MDM6UmVmMjMzMTMwMDg5OnJlZnMvdGFncy92MC4yMi4w"
+        }
+    ]
+}

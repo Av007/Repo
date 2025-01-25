@@ -1,0 +1,426 @@
+{
+    "id": 65600975,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
+    "name": "pytorch",
+    "full_name": "pytorch/pytorch",
+    "private": false,
+    "owner": {
+        "login": "pytorch",
+        "id": 21003710,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxMDAzNzEw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/21003710?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/pytorch",
+        "html_url": "https://github.com/pytorch",
+        "followers_url": "https://api.github.com/users/pytorch/followers",
+        "following_url": "https://api.github.com/users/pytorch/following{/other_user}",
+        "gists_url": "https://api.github.com/users/pytorch/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/pytorch/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/pytorch/subscriptions",
+        "organizations_url": "https://api.github.com/users/pytorch/orgs",
+        "repos_url": "https://api.github.com/users/pytorch/repos",
+        "events_url": "https://api.github.com/users/pytorch/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/pytorch/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "fork": false,
+    "url": "https://api.github.com/repos/pytorch/pytorch",
+    "forks_url": "https://api.github.com/repos/pytorch/pytorch/forks",
+    "keys_url": "https://api.github.com/repos/pytorch/pytorch/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/pytorch/pytorch/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/pytorch/pytorch/teams",
+    "hooks_url": "https://api.github.com/repos/pytorch/pytorch/hooks",
+    "issue_events_url": "https://api.github.com/repos/pytorch/pytorch/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/pytorch/pytorch/events",
+    "assignees_url": "https://api.github.com/repos/pytorch/pytorch/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/pytorch/pytorch/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/pytorch/pytorch/tags",
+    "blobs_url": "https://api.github.com/repos/pytorch/pytorch/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/pytorch/pytorch/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/pytorch/pytorch/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/pytorch/pytorch/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/pytorch/pytorch/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/pytorch/pytorch/languages",
+    "stargazers_url": "https://api.github.com/repos/pytorch/pytorch/stargazers",
+    "contributors_url": "https://api.github.com/repos/pytorch/pytorch/contributors",
+    "subscribers_url": "https://api.github.com/repos/pytorch/pytorch/subscribers",
+    "subscription_url": "https://api.github.com/repos/pytorch/pytorch/subscription",
+    "commits_url": "https://api.github.com/repos/pytorch/pytorch/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/pytorch/pytorch/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/pytorch/pytorch/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/pytorch/pytorch/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/pytorch/pytorch/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/pytorch/pytorch/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/pytorch/pytorch/merges",
+    "archive_url": "https://api.github.com/repos/pytorch/pytorch/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/pytorch/pytorch/downloads",
+    "issues_url": "https://api.github.com/repos/pytorch/pytorch/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/pytorch/pytorch/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/pytorch/pytorch/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/pytorch/pytorch/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/pytorch/pytorch/labels{/name}",
+    "releases_url": "https://api.github.com/repos/pytorch/pytorch/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/pytorch/pytorch/deployments",
+    "created_at": "2016-08-13T05:26:41Z",
+    "updated_at": "2025-01-25T16:13:04Z",
+    "pushed_at": "2025-01-25T16:46:17Z",
+    "git_url": "git://github.com/pytorch/pytorch.git",
+    "ssh_url": "git@github.com:pytorch/pytorch.git",
+    "clone_url": "https://github.com/pytorch/pytorch.git",
+    "svn_url": "https://github.com/pytorch/pytorch",
+    "homepage": "https://pytorch.org",
+    "size": 1021174,
+    "stargazers_count": 86180,
+    "watchers_count": 86180,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 23192,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 15567,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+    ],
+    "visibility": "public",
+    "forks": 23192,
+    "open_issues": 15567,
+    "watchers": 86180,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "whc_flight_4",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/whc_flight_4",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/whc_flight_4",
+            "commit": {
+                "sha": "3e7683ae18823e21e7c0376e2736fd457c68c2cc",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/3e7683ae18823e21e7c0376e2736fd457c68c2cc"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3doY19mbGlnaHRfNA=="
+        },
+        {
+            "name": "whc_flight_2",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/whc_flight_2",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/whc_flight_2",
+            "commit": {
+                "sha": "c54ce9313be9675518a7d65131b256786cf2cdf3",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/c54ce9313be9675518a7d65131b256786cf2cdf3"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3doY19mbGlnaHRfMg=="
+        },
+        {
+            "name": "whc_flight_1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/whc_flight_1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/whc_flight_1",
+            "commit": {
+                "sha": "7c507b78c4a53ad9988b8a37c96bbb3e17dfa359",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/7c507b78c4a53ad9988b8a37c96bbb3e17dfa359"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3doY19mbGlnaHRfMQ=="
+        },
+        {
+            "name": "v2.6.0-rc9",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc9",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc9",
+            "commit": {
+                "sha": "2236df1770800ffea5697b11b0bb0d910b2e59e1",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/2236df1770800ffea5697b11b0bb0d910b2e59e1"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzk="
+        },
+        {
+            "name": "v2.6.0-rc8",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc8",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc8",
+            "commit": {
+                "sha": "32070409668513144e48390380a3911fc5cd03e0",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/32070409668513144e48390380a3911fc5cd03e0"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzg="
+        },
+        {
+            "name": "v2.6.0-rc7",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc7",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc7",
+            "commit": {
+                "sha": "8d4b8a920a2172523deb95bf20e8e52d50649c04",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/8d4b8a920a2172523deb95bf20e8e52d50649c04"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzc="
+        },
+        {
+            "name": "v2.6.0-rc6",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc6",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc6",
+            "commit": {
+                "sha": "a2639bc255cd9eb93250c3bd1aea01f74538ad76",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/a2639bc255cd9eb93250c3bd1aea01f74538ad76"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzY="
+        },
+        {
+            "name": "v2.6.0-rc5",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc5",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc5",
+            "commit": {
+                "sha": "4d9de27d5601a687ae9bddb5627359a81db58663",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/4d9de27d5601a687ae9bddb5627359a81db58663"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzU="
+        },
+        {
+            "name": "v2.6.0-rc4",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc4",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc4",
+            "commit": {
+                "sha": "273e2ab5022caec154a0be4382a1dbf37a71f567",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/273e2ab5022caec154a0be4382a1dbf37a71f567"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzQ="
+        },
+        {
+            "name": "v2.6.0-rc3",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc3",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc3",
+            "commit": {
+                "sha": "46f5510d20ccbf285ebab3aefbb7ab351e9e5bf6",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/46f5510d20ccbf285ebab3aefbb7ab351e9e5bf6"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzM="
+        },
+        {
+            "name": "v2.6.0-rc2",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc2",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc2",
+            "commit": {
+                "sha": "5363f7d9fd52cf4dd90e0ede92dc0611f0845724",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/5363f7d9fd52cf4dd90e0ede92dc0611f0845724"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzI="
+        },
+        {
+            "name": "v2.6.0-rc1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.6.0-rc1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.6.0-rc1",
+            "commit": {
+                "sha": "aad1c160a7d1fc57d934d8fa36fe1a42b10ccc32",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/aad1c160a7d1fc57d934d8fa36fe1a42b10ccc32"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjYuMC1yYzE="
+        },
+        {
+            "name": "v2.5.1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.1",
+            "commit": {
+                "sha": "a8d6afb511a69687bbb2b7e88a3cf67917e1697e",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/a8d6afb511a69687bbb2b7e88a3cf67917e1697e"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMQ=="
+        },
+        {
+            "name": "v2.5.1-rc1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.1-rc1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.1-rc1",
+            "commit": {
+                "sha": "a8d6afb511a69687bbb2b7e88a3cf67917e1697e",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/a8d6afb511a69687bbb2b7e88a3cf67917e1697e"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMS1yYzE="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "32f585d9346e316e554c8d9bf7548af9f62141fc",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/32f585d9346e316e554c8d9bf7548af9f62141fc"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMA=="
+        },
+        {
+            "name": "v2.5.0-rc10",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc10",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc10",
+            "commit": {
+                "sha": "32f585d9346e316e554c8d9bf7548af9f62141fc",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/32f585d9346e316e554c8d9bf7548af9f62141fc"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzEw"
+        },
+        {
+            "name": "v2.5.0-rc9",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc9",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc9",
+            "commit": {
+                "sha": "417a0763a7d69f6ce80719ac89c1d2deeee78163",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/417a0763a7d69f6ce80719ac89c1d2deeee78163"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzk="
+        },
+        {
+            "name": "v2.5.0-rc8",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc8",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc8",
+            "commit": {
+                "sha": "119e7344d905f69d9b37734becba2ada12641d0c",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/119e7344d905f69d9b37734becba2ada12641d0c"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzg="
+        },
+        {
+            "name": "v2.5.0-rc7",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc7",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc7",
+            "commit": {
+                "sha": "8af31b2e49d7544c378d2974807cfcfd234f32da",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/8af31b2e49d7544c378d2974807cfcfd234f32da"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzc="
+        },
+        {
+            "name": "v2.5.0-rc6",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc6",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc6",
+            "commit": {
+                "sha": "69ed7c709302c9de99884c47bc140cd6e17f0e05",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/69ed7c709302c9de99884c47bc140cd6e17f0e05"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzY="
+        },
+        {
+            "name": "v2.5.0-rc5",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc5",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc5",
+            "commit": {
+                "sha": "24bd87d5dd2dfb427150af0c3068b66496566b03",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/24bd87d5dd2dfb427150af0c3068b66496566b03"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzU="
+        },
+        {
+            "name": "v2.5.0-rc4",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc4",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc4",
+            "commit": {
+                "sha": "7c550fea95aa7523272a90f7f575708b1c44a508",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/7c550fea95aa7523272a90f7f575708b1c44a508"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzQ="
+        },
+        {
+            "name": "v2.5.0-rc3",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc3",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc3",
+            "commit": {
+                "sha": "6b14e6cfddc62f71a65f250c58d2482fdf2126b4",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/6b14e6cfddc62f71a65f250c58d2482fdf2126b4"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzM="
+        },
+        {
+            "name": "v2.5.0-rc2",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc2",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc2",
+            "commit": {
+                "sha": "828d686e1ccb09f1273f2c924680cf3d8b65082c",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/828d686e1ccb09f1273f2c924680cf3d8b65082c"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzI="
+        },
+        {
+            "name": "v2.5.0-rc1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.5.0-rc1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.5.0-rc1",
+            "commit": {
+                "sha": "4a3dabd67f8ce63f2fc45f278421cca3cc532cfe",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/4a3dabd67f8ce63f2fc45f278421cca3cc532cfe"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjUuMC1yYzE="
+        },
+        {
+            "name": "v2.4.1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.4.1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.4.1",
+            "commit": {
+                "sha": "ee1b6804381c57161c477caa380a840a84167676",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/ee1b6804381c57161c477caa380a840a84167676"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjQuMQ=="
+        },
+        {
+            "name": "v2.4.1-rc3",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.4.1-rc3",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.4.1-rc3",
+            "commit": {
+                "sha": "38b96d3399a695e704ed39b60dac733c3fbf20e2",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/38b96d3399a695e704ed39b60dac733c3fbf20e2"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjQuMS1yYzM="
+        },
+        {
+            "name": "v2.4.1-rc2",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.4.1-rc2",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.4.1-rc2",
+            "commit": {
+                "sha": "c469d14a1468daa5c9bda19ab20b39764e680e33",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/c469d14a1468daa5c9bda19ab20b39764e680e33"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjQuMS1yYzI="
+        },
+        {
+            "name": "v2.4.1-rc1",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.4.1-rc1",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.4.1-rc1",
+            "commit": {
+                "sha": "f6fb80b0f906ebc89e4bfcfe4e322585cbbcecb8",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/f6fb80b0f906ebc89e4bfcfe4e322585cbbcecb8"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjQuMS1yYzE="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/pytorch/pytorch/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/pytorch/pytorch/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "d990dada86a8ad94882b5c23e859b88c0c255bda",
+                "url": "https://api.github.com/repos/pytorch/pytorch/commits/d990dada86a8ad94882b5c23e859b88c0c255bda"
+            },
+            "node_id": "MDM6UmVmNjU2MDA5NzU6cmVmcy90YWdzL3YyLjQuMA=="
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "id": 436658287,
+    "node_id": "R_kgDOGgbgbw",
+    "name": "surrealdb",
+    "full_name": "surrealdb/surrealdb",
+    "private": false,
+    "owner": {
+        "login": "surrealdb",
+        "id": 10982346,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwOTgyMzQ2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10982346?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/surrealdb",
+        "html_url": "https://github.com/surrealdb",
+        "followers_url": "https://api.github.com/users/surrealdb/followers",
+        "following_url": "https://api.github.com/users/surrealdb/following{/other_user}",
+        "gists_url": "https://api.github.com/users/surrealdb/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/surrealdb/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/surrealdb/subscriptions",
+        "organizations_url": "https://api.github.com/users/surrealdb/orgs",
+        "repos_url": "https://api.github.com/users/surrealdb/repos",
+        "events_url": "https://api.github.com/users/surrealdb/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/surrealdb/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "fork": false,
+    "url": "https://api.github.com/repos/surrealdb/surrealdb",
+    "forks_url": "https://api.github.com/repos/surrealdb/surrealdb/forks",
+    "keys_url": "https://api.github.com/repos/surrealdb/surrealdb/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/surrealdb/surrealdb/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/surrealdb/surrealdb/teams",
+    "hooks_url": "https://api.github.com/repos/surrealdb/surrealdb/hooks",
+    "issue_events_url": "https://api.github.com/repos/surrealdb/surrealdb/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/surrealdb/surrealdb/events",
+    "assignees_url": "https://api.github.com/repos/surrealdb/surrealdb/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/surrealdb/surrealdb/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/surrealdb/surrealdb/tags",
+    "blobs_url": "https://api.github.com/repos/surrealdb/surrealdb/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/surrealdb/surrealdb/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/surrealdb/surrealdb/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/surrealdb/surrealdb/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/surrealdb/surrealdb/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/surrealdb/surrealdb/languages",
+    "stargazers_url": "https://api.github.com/repos/surrealdb/surrealdb/stargazers",
+    "contributors_url": "https://api.github.com/repos/surrealdb/surrealdb/contributors",
+    "subscribers_url": "https://api.github.com/repos/surrealdb/surrealdb/subscribers",
+    "subscription_url": "https://api.github.com/repos/surrealdb/surrealdb/subscription",
+    "commits_url": "https://api.github.com/repos/surrealdb/surrealdb/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/surrealdb/surrealdb/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/surrealdb/surrealdb/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/surrealdb/surrealdb/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/surrealdb/surrealdb/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/surrealdb/surrealdb/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/surrealdb/surrealdb/merges",
+    "archive_url": "https://api.github.com/repos/surrealdb/surrealdb/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/surrealdb/surrealdb/downloads",
+    "issues_url": "https://api.github.com/repos/surrealdb/surrealdb/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/surrealdb/surrealdb/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/surrealdb/surrealdb/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/surrealdb/surrealdb/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/surrealdb/surrealdb/labels{/name}",
+    "releases_url": "https://api.github.com/repos/surrealdb/surrealdb/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/surrealdb/surrealdb/deployments",
+    "created_at": "2021-12-09T15:03:29Z",
+    "updated_at": "2025-01-25T15:59:46Z",
+    "pushed_at": "2025-01-25T00:08:08Z",
+    "git_url": "git://github.com/surrealdb/surrealdb.git",
+    "ssh_url": "git@github.com:surrealdb/surrealdb.git",
+    "clone_url": "https://github.com/surrealdb/surrealdb.git",
+    "svn_url": "https://github.com/surrealdb/surrealdb",
+    "homepage": "https://surrealdb.com",
+    "size": 30626,
+    "stargazers_count": 28579,
+    "watchers_count": 28579,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 944,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 719,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "backend-as-a-service",
+        "cloud-database",
+        "database",
+        "database-as-a-service",
+        "developer-tools",
+        "devtools",
+        "distributed",
+        "distributed-database",
+        "document-database",
+        "graph-database",
+        "iot-database",
+        "nosql",
+        "realtime-database",
+        "serverless",
+        "sql",
+        "surreal",
+        "surrealdb",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 944,
+    "open_issues": 719,
+    "watchers": 28579,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.1.4",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.1.4",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.1.4",
+            "commit": {
+                "sha": "bf0bb36950415a7dcee300063839a3c6a22241c1",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/bf0bb36950415a7dcee300063839a3c6a22241c1"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMS40"
+        },
+        {
+            "name": "v2.1.3",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.1.3",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.1.3",
+            "commit": {
+                "sha": "6df7ead40c5edf90e466b338ba664a35f80782c9",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/6df7ead40c5edf90e466b338ba664a35f80782c9"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMS4z"
+        },
+        {
+            "name": "v2.1.2",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.1.2",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.1.2",
+            "commit": {
+                "sha": "a97aed99b0f1689bbf2a5daefc09374973233129",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/a97aed99b0f1689bbf2a5daefc09374973233129"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMS4y"
+        },
+        {
+            "name": "v2.1.1",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.1.1",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.1.1",
+            "commit": {
+                "sha": "871001c3450a7090bf28bcf0e35253387929bfc4",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/871001c3450a7090bf28bcf0e35253387929bfc4"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMS4x"
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "3fe28f57517a5d3255cdbb479c815d8021abf92a",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/3fe28f57517a5d3255cdbb479c815d8021abf92a"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMS4w"
+        },
+        {
+            "name": "v2.0.4",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.4",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.4",
+            "commit": {
+                "sha": "f43a062c1ad7d346f1e2454ebd23d0ea6094db98",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/f43a062c1ad7d346f1e2454ebd23d0ea6094db98"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMC40"
+        },
+        {
+            "name": "v2.0.3",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.3",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.3",
+            "commit": {
+                "sha": "56672077ac3ba7b88cad776c81d39fcd68a94157",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/56672077ac3ba7b88cad776c81d39fcd68a94157"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMC4z"
+        },
+        {
+            "name": "v2.0.2",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.2",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.2",
+            "commit": {
+                "sha": "a4aeef9513eecd9f0f52bf7a8400fa5db4a5299c",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/a4aeef9513eecd9f0f52bf7a8400fa5db4a5299c"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMC4y"
+        },
+        {
+            "name": "v2.0.1",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.1",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.1",
+            "commit": {
+                "sha": "2269692fb3bed5598ff87dfd82959eda784604db",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/2269692fb3bed5598ff87dfd82959eda784604db"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMC4x"
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "c382fa158dc84b329328606f663efe574f102a7d",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/c382fa158dc84b329328606f663efe574f102a7d"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjIuMC4w"
+        },
+        {
+            "name": "v2.0.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-beta.3",
+            "commit": {
+                "sha": "d32110b46ddb9af09af19aadb8601c7df623b2b7",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/d32110b46ddb9af09af19aadb8601c7df623b2b7"
+            },
+            "node_id": "REF_kwDOGgbgb7dyZWZzL3RhZ3MvdjIuMC4wLWJldGEuMw"
+        },
+        {
+            "name": "v2.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-beta.2",
+            "commit": {
+                "sha": "0a1a99dc687c03858297f0171a77ea065c92da38",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/0a1a99dc687c03858297f0171a77ea065c92da38"
+            },
+            "node_id": "REF_kwDOGgbgb7dyZWZzL3RhZ3MvdjIuMC4wLWJldGEuMg"
+        },
+        {
+            "name": "v2.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-beta.1",
+            "commit": {
+                "sha": "bf788c2987a60c46911f15eb67ed99e69dd6cd9c",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/bf788c2987a60c46911f15eb67ed99e69dd6cd9c"
+            },
+            "node_id": "REF_kwDOGgbgb7dyZWZzL3RhZ3MvdjIuMC4wLWJldGEuMQ"
+        },
+        {
+            "name": "v2.0.0-alpha.10",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.10",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.10",
+            "commit": {
+                "sha": "f45374a9a7dce81fde0afaaabe0dac3ea123c3cb",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/f45374a9a7dce81fde0afaaabe0dac3ea123c3cb"
+            },
+            "node_id": "REF_kwDOGgbgb7lyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjEw"
+        },
+        {
+            "name": "v2.0.0-alpha.9",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.9",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.9",
+            "commit": {
+                "sha": "ebc140e8ad3078b4c9cbbb35a5ae6e88088a4cbb",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/ebc140e8ad3078b4c9cbbb35a5ae6e88088a4cbb"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjk"
+        },
+        {
+            "name": "v2.0.0-alpha.8",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.8",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.8",
+            "commit": {
+                "sha": "8f7392983fee90cebcc47d48e0fb5be96e68144a",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/8f7392983fee90cebcc47d48e0fb5be96e68144a"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjg"
+        },
+        {
+            "name": "v2.0.0-alpha.7",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.7",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.7",
+            "commit": {
+                "sha": "2b1e6a32ea3a2e55826e3d2cf2529c43a384cc58",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/2b1e6a32ea3a2e55826e3d2cf2529c43a384cc58"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjc"
+        },
+        {
+            "name": "v2.0.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.6",
+            "commit": {
+                "sha": "29b0df60602c09d240beb84f5bf80b05eab6cbd9",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/29b0df60602c09d240beb84f5bf80b05eab6cbd9"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjY"
+        },
+        {
+            "name": "v2.0.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.5",
+            "commit": {
+                "sha": "339975b030a6cd2610af0d6edcde700bc3a9d041",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/339975b030a6cd2610af0d6edcde700bc3a9d041"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjU"
+        },
+        {
+            "name": "v2.0.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.4",
+            "commit": {
+                "sha": "8fdc930098077302f778b9dc6d76793da16d7ad5",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/8fdc930098077302f778b9dc6d76793da16d7ad5"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjQ"
+        },
+        {
+            "name": "v2.0.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.3",
+            "commit": {
+                "sha": "af80c1ccce062df76c008e219a399ff9f86e138a",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/af80c1ccce062df76c008e219a399ff9f86e138a"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjM"
+        },
+        {
+            "name": "v2.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.2",
+            "commit": {
+                "sha": "24c8b06c935d52c5e38e327bc7bd1733d05c03d8",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/24c8b06c935d52c5e38e327bc7bd1733d05c03d8"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjI"
+        },
+        {
+            "name": "v2.0.0-alpha.2-surrealdb-core",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.2-surrealdb-core",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.2-surrealdb-core",
+            "commit": {
+                "sha": "c3e28f8a55aba01a6da2ae959f3f0d262b7f145a",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/c3e28f8a55aba01a6da2ae959f3f0d262b7f145a"
+            },
+            "node_id": "REF_kwDOGgbgb9oAJ3JlZnMvdGFncy92Mi4wLjAtYWxwaGEuMi1zdXJyZWFsZGItY29yZQ"
+        },
+        {
+            "name": "v2.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.1",
+            "commit": {
+                "sha": "2184e80f452fd56a51f058bdbde9c112565ce3e2",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/2184e80f452fd56a51f058bdbde9c112565ce3e2"
+            },
+            "node_id": "REF_kwDOGgbgb7hyZWZzL3RhZ3MvdjIuMC4wLWFscGhhLjE"
+        },
+        {
+            "name": "v2.0.0-alpha.1-surrealdb-core",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v2.0.0-alpha.1-surrealdb-core",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v2.0.0-alpha.1-surrealdb-core",
+            "commit": {
+                "sha": "01ba99be7d174017bc9c6957116ce6793082e240",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/01ba99be7d174017bc9c6957116ce6793082e240"
+            },
+            "node_id": "REF_kwDOGgbgb9oAJ3JlZnMvdGFncy92Mi4wLjAtYWxwaGEuMS1zdXJyZWFsZGItY29yZQ"
+        },
+        {
+            "name": "v1.5.6",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v1.5.6",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v1.5.6",
+            "commit": {
+                "sha": "2c6e0963577e0f24595fb54feca6e1817ce0f462",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/2c6e0963577e0f24595fb54feca6e1817ce0f462"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjEuNS42"
+        },
+        {
+            "name": "v1.5.5",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v1.5.5",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v1.5.5",
+            "commit": {
+                "sha": "bd0b6a2b882a2a28aae88865c1278311f015a574",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/bd0b6a2b882a2a28aae88865c1278311f015a574"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjEuNS41"
+        },
+        {
+            "name": "v1.5.4",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v1.5.4",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v1.5.4",
+            "commit": {
+                "sha": "c9861d8aa9390397c62e325ecc00e66e6358acda",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/c9861d8aa9390397c62e325ecc00e66e6358acda"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjEuNS40"
+        },
+        {
+            "name": "v1.5.3",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v1.5.3",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v1.5.3",
+            "commit": {
+                "sha": "fbd0a24a6761fc5ba50a822b6fc9c0b6170bed37",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/fbd0a24a6761fc5ba50a822b6fc9c0b6170bed37"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjEuNS4z"
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/surrealdb/surrealdb/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/surrealdb/surrealdb/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "590446c8aa5335917341f343170f81bfe29e3b0b",
+                "url": "https://api.github.com/repos/surrealdb/surrealdb/commits/590446c8aa5335917341f343170f81bfe29e3b0b"
+            },
+            "node_id": "REF_kwDOGgbgb7ByZWZzL3RhZ3MvdjEuNS4y"
+        }
+    ]
+}

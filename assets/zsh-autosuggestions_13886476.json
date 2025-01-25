@@ -1,0 +1,424 @@
+{
+    "id": 13886476,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMzg4NjQ3Ng==",
+    "name": "zsh-autosuggestions",
+    "full_name": "zsh-users/zsh-autosuggestions",
+    "private": false,
+    "owner": {
+        "login": "zsh-users",
+        "id": 567410,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2NzQxMA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/567410?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/zsh-users",
+        "html_url": "https://github.com/zsh-users",
+        "followers_url": "https://api.github.com/users/zsh-users/followers",
+        "following_url": "https://api.github.com/users/zsh-users/following{/other_user}",
+        "gists_url": "https://api.github.com/users/zsh-users/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/zsh-users/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/zsh-users/subscriptions",
+        "organizations_url": "https://api.github.com/users/zsh-users/orgs",
+        "repos_url": "https://api.github.com/users/zsh-users/repos",
+        "events_url": "https://api.github.com/users/zsh-users/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/zsh-users/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/zsh-users/zsh-autosuggestions",
+    "description": "Fish-like autosuggestions for zsh",
+    "fork": false,
+    "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions",
+    "forks_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/forks",
+    "keys_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/teams",
+    "hooks_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/hooks",
+    "issue_events_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/events",
+    "assignees_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tags",
+    "blobs_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/languages",
+    "stargazers_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/stargazers",
+    "contributors_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/contributors",
+    "subscribers_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/subscribers",
+    "subscription_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/subscription",
+    "commits_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/merges",
+    "archive_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/downloads",
+    "issues_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/deployments",
+    "created_at": "2013-10-26T16:09:37Z",
+    "updated_at": "2025-01-25T13:22:05Z",
+    "pushed_at": "2024-11-26T03:07:39Z",
+    "git_url": "git://github.com/zsh-users/zsh-autosuggestions.git",
+    "ssh_url": "git@github.com:zsh-users/zsh-autosuggestions.git",
+    "clone_url": "https://github.com/zsh-users/zsh-autosuggestions.git",
+    "svn_url": "https://github.com/zsh-users/zsh-autosuggestions",
+    "homepage": null,
+    "size": 579,
+    "stargazers_count": 32047,
+    "watchers_count": 32047,
+    "language": "Shell",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1879,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 180,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "autocomplete",
+        "autosuggest",
+        "fish",
+        "shell",
+        "zsh",
+        "zsh-autosuggestions"
+    ],
+    "visibility": "public",
+    "forks": 1879,
+    "open_issues": 180,
+    "watchers": 32047,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.7.1",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.7.1",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.7.1",
+            "commit": {
+                "sha": "e52ee8ca55bcc56a17c828767a3f98f22a68d4eb",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/e52ee8ca55bcc56a17c828767a3f98f22a68d4eb"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjcuMQ=="
+        },
+        {
+            "name": "v0.7.0",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.7.0",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.7.0",
+            "commit": {
+                "sha": "a411ef3e0992d4839f0732ebeb9823024afaaaa8",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/a411ef3e0992d4839f0732ebeb9823024afaaaa8"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjcuMA=="
+        },
+        {
+            "name": "v0.6.4",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.6.4",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.6.4",
+            "commit": {
+                "sha": "ae315ded4dba10685dbbafbfa2ff3c1aefeb490d",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/ae315ded4dba10685dbbafbfa2ff3c1aefeb490d"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjYuNA=="
+        },
+        {
+            "name": "v0.6.3",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.6.3",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.6.3",
+            "commit": {
+                "sha": "146020d9b28c70a5edd93d19bbef9c5cb05d4b62",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/146020d9b28c70a5edd93d19bbef9c5cb05d4b62"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjYuMw=="
+        },
+        {
+            "name": "v0.6.2",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.6.2",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.6.2",
+            "commit": {
+                "sha": "c80605595c209e4ee60c3d121ab159ebc6d66547",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/c80605595c209e4ee60c3d121ab159ebc6d66547"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjYuMg=="
+        },
+        {
+            "name": "v0.6.1",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.6.1",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.6.1",
+            "commit": {
+                "sha": "112dd3e3c7d1e038c46a2af92d38f4b9aa2ffb17",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/112dd3e3c7d1e038c46a2af92d38f4b9aa2ffb17"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjYuMQ=="
+        },
+        {
+            "name": "v0.6.0",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.6.0",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.6.0",
+            "commit": {
+                "sha": "b3b34eab49b8e44f2df93d746640329a45722c0b",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/b3b34eab49b8e44f2df93d746640329a45722c0b"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjYuMA=="
+        },
+        {
+            "name": "v0.5.2",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.5.2",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.5.2",
+            "commit": {
+                "sha": "733abd4af0f23f217caa2a303fbef66382d19d6f",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/733abd4af0f23f217caa2a303fbef66382d19d6f"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjUuMg=="
+        },
+        {
+            "name": "v0.5.1",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.5.1",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.5.1",
+            "commit": {
+                "sha": "cbf0e24b1863c44606bbdd1edcb1c1b40efbcb55",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/cbf0e24b1863c44606bbdd1edcb1c1b40efbcb55"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjUuMQ=="
+        },
+        {
+            "name": "v0.5.0",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.5.0",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.5.0",
+            "commit": {
+                "sha": "a7f0106b31c2538a36cab30428e6ca65d9a2ae60",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/a7f0106b31c2538a36cab30428e6ca65d9a2ae60"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjUuMA=="
+        },
+        {
+            "name": "v0.4.3",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.4.3",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.4.3",
+            "commit": {
+                "sha": "d7c796719e6352666f7a9c94da9ddaed10f3217d",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/d7c796719e6352666f7a9c94da9ddaed10f3217d"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjQuMw=="
+        },
+        {
+            "name": "v0.4.2",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.4.2",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.4.2",
+            "commit": {
+                "sha": "15931f04ffac91a2f9a1a044b6b3ee4050751064",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/15931f04ffac91a2f9a1a044b6b3ee4050751064"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjQuMg=="
+        },
+        {
+            "name": "v0.4.1",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.4.1",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.4.1",
+            "commit": {
+                "sha": "9f9237ab8a530eeff389161202bbc7283ad6af3e",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/9f9237ab8a530eeff389161202bbc7283ad6af3e"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjQuMQ=="
+        },
+        {
+            "name": "v0.4.0",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.4.0",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.4.0",
+            "commit": {
+                "sha": "2cb6eb6e29852e64a146b0284275ecdc0661b082",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/2cb6eb6e29852e64a146b0284275ecdc0661b082"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjQuMA=="
+        },
+        {
+            "name": "v0.3.3",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.3.3",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.3.3",
+            "commit": {
+                "sha": "9cfaf5d3424ceb5fedd2c7e3253f823faae74383",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/9cfaf5d3424ceb5fedd2c7e3253f823faae74383"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjMuMw=="
+        },
+        {
+            "name": "v0.3.2",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.3.2",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.3.2",
+            "commit": {
+                "sha": "cce68de46d37697f561a23c51db629ee2bbd18db",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/cce68de46d37697f561a23c51db629ee2bbd18db"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjMuMg=="
+        },
+        {
+            "name": "v0.3.1",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.3.1",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.3.1",
+            "commit": {
+                "sha": "87facd9b85630f288433aa0a20a963cffc612ee5",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/87facd9b85630f288433aa0a20a963cffc612ee5"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjMuMQ=="
+        },
+        {
+            "name": "v0.3.0",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.3.0",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.3.0",
+            "commit": {
+                "sha": "1ed9155f89956310eb0cfce59f95e6f3e2ecbcd2",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/1ed9155f89956310eb0cfce59f95e6f3e2ecbcd2"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjMuMA=="
+        },
+        {
+            "name": "v0.2.17",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.17",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.17",
+            "commit": {
+                "sha": "f0a745576ff69fa608421ee7214d4cd77b43e62f",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/f0a745576ff69fa608421ee7214d4cd77b43e62f"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTc="
+        },
+        {
+            "name": "v0.2.16",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.16",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.16",
+            "commit": {
+                "sha": "0a42f872b84ecdd17b2d4d4e4422f3af8bf8959b",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/0a42f872b84ecdd17b2d4d4e4422f3af8bf8959b"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTY="
+        },
+        {
+            "name": "v0.2.15",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.15",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.15",
+            "commit": {
+                "sha": "c761dc81509b137748190d254e8beb6845dedf21",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/c761dc81509b137748190d254e8beb6845dedf21"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTU="
+        },
+        {
+            "name": "v0.2.14",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.14",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.14",
+            "commit": {
+                "sha": "9d100f4f321000b80b73638a6406e8486c35ce16",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/9d100f4f321000b80b73638a6406e8486c35ce16"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTQ="
+        },
+        {
+            "name": "v0.2.13",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.13",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.13",
+            "commit": {
+                "sha": "2a5791710a9038ad21b9f528e6923f33fe3b8edd",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/2a5791710a9038ad21b9f528e6923f33fe3b8edd"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTM="
+        },
+        {
+            "name": "v0.2.12",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.12",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.12",
+            "commit": {
+                "sha": "aa859a282dddf97cadce45255fad95930fc3f503",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/aa859a282dddf97cadce45255fad95930fc3f503"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTI="
+        },
+        {
+            "name": "v0.2.11",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.11",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.11",
+            "commit": {
+                "sha": "ba029e83d0aa2d859d7ac46299462fa5b5a43a68",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/ba029e83d0aa2d859d7ac46299462fa5b5a43a68"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTE="
+        },
+        {
+            "name": "v0.2.10",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.10",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.10",
+            "commit": {
+                "sha": "2b449a62f8b6fc69e44db3eaf46c5c36c1853bfa",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/2b449a62f8b6fc69e44db3eaf46c5c36c1853bfa"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuMTA="
+        },
+        {
+            "name": "v0.2.9",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.9",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.9",
+            "commit": {
+                "sha": "0faa2b6584928a17fef8904e8439d1268729f37a",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/0faa2b6584928a17fef8904e8439d1268729f37a"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuOQ=="
+        },
+        {
+            "name": "v0.2.8",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.8",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.8",
+            "commit": {
+                "sha": "dd9a8789a758966eed6943adad5338b2213df4a2",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/dd9a8789a758966eed6943adad5338b2213df4a2"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuOA=="
+        },
+        {
+            "name": "v0.2.7",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.7",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.7",
+            "commit": {
+                "sha": "45ab49d1f2024f9422ab9eb41178e4d9edf2e91c",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/45ab49d1f2024f9422ab9eb41178e4d9edf2e91c"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuNw=="
+        },
+        {
+            "name": "v0.2.6",
+            "zipball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/zipball/refs/tags/v0.2.6",
+            "tarball_url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/tarball/refs/tags/v0.2.6",
+            "commit": {
+                "sha": "3ce1adb55dfb558c7f9b60056356fdb7d3567403",
+                "url": "https://api.github.com/repos/zsh-users/zsh-autosuggestions/commits/3ce1adb55dfb558c7f9b60056356fdb7d3567403"
+            },
+            "node_id": "MDM6UmVmMTM4ODY0NzY6cmVmcy90YWdzL3YwLjIuNg=="
+        }
+    ]
+}

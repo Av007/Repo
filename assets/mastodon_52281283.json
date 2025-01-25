@@ -1,0 +1,427 @@
+{
+    "id": 52281283,
+    "node_id": "MDEwOlJlcG9zaXRvcnk1MjI4MTI4Mw==",
+    "name": "mastodon",
+    "full_name": "mastodon/mastodon",
+    "private": false,
+    "owner": {
+        "login": "mastodon",
+        "id": 24979032,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0OTc5MDMy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24979032?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mastodon",
+        "html_url": "https://github.com/mastodon",
+        "followers_url": "https://api.github.com/users/mastodon/followers",
+        "following_url": "https://api.github.com/users/mastodon/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mastodon/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mastodon/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mastodon/subscriptions",
+        "organizations_url": "https://api.github.com/users/mastodon/orgs",
+        "repos_url": "https://api.github.com/users/mastodon/repos",
+        "events_url": "https://api.github.com/users/mastodon/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mastodon/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "fork": false,
+    "url": "https://api.github.com/repos/mastodon/mastodon",
+    "forks_url": "https://api.github.com/repos/mastodon/mastodon/forks",
+    "keys_url": "https://api.github.com/repos/mastodon/mastodon/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/mastodon/mastodon/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/mastodon/mastodon/teams",
+    "hooks_url": "https://api.github.com/repos/mastodon/mastodon/hooks",
+    "issue_events_url": "https://api.github.com/repos/mastodon/mastodon/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/mastodon/mastodon/events",
+    "assignees_url": "https://api.github.com/repos/mastodon/mastodon/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/mastodon/mastodon/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/mastodon/mastodon/tags",
+    "blobs_url": "https://api.github.com/repos/mastodon/mastodon/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/mastodon/mastodon/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/mastodon/mastodon/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/mastodon/mastodon/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/mastodon/mastodon/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/mastodon/mastodon/languages",
+    "stargazers_url": "https://api.github.com/repos/mastodon/mastodon/stargazers",
+    "contributors_url": "https://api.github.com/repos/mastodon/mastodon/contributors",
+    "subscribers_url": "https://api.github.com/repos/mastodon/mastodon/subscribers",
+    "subscription_url": "https://api.github.com/repos/mastodon/mastodon/subscription",
+    "commits_url": "https://api.github.com/repos/mastodon/mastodon/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/mastodon/mastodon/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/mastodon/mastodon/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/mastodon/mastodon/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/mastodon/mastodon/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/mastodon/mastodon/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/mastodon/mastodon/merges",
+    "archive_url": "https://api.github.com/repos/mastodon/mastodon/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/mastodon/mastodon/downloads",
+    "issues_url": "https://api.github.com/repos/mastodon/mastodon/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/mastodon/mastodon/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/mastodon/mastodon/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/mastodon/mastodon/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/mastodon/mastodon/labels{/name}",
+    "releases_url": "https://api.github.com/repos/mastodon/mastodon/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/mastodon/mastodon/deployments",
+    "created_at": "2016-02-22T15:01:25Z",
+    "updated_at": "2025-01-25T17:05:24Z",
+    "pushed_at": "2025-01-25T14:31:36Z",
+    "git_url": "git://github.com/mastodon/mastodon.git",
+    "ssh_url": "git@github.com:mastodon/mastodon.git",
+    "clone_url": "https://github.com/mastodon/mastodon.git",
+    "svn_url": "https://github.com/mastodon/mastodon",
+    "homepage": "https://joinmastodon.org",
+    "size": 278101,
+    "stargazers_count": 47596,
+    "watchers_count": 47596,
+    "language": "Ruby",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 7072,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 4023,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "activity-stream",
+        "activitypub",
+        "docker",
+        "fediverse",
+        "mastodon",
+        "microblog",
+        "social-network",
+        "social-web",
+        "webfinger"
+    ],
+    "visibility": "public",
+    "forks": 7072,
+    "open_issues": 4023,
+    "watchers": 47596,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.3.3",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.3",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.3",
+            "commit": {
+                "sha": "faed9bf9f14f077443374f5eb3075b9878e24214",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/faed9bf9f14f077443374f5eb3075b9878e24214"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMw=="
+        },
+        {
+            "name": "v4.3.2",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.2",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.2",
+            "commit": {
+                "sha": "13ab4b54e2b9cb9ddfcbe9dd3d820a7ba9164412",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/13ab4b54e2b9cb9ddfcbe9dd3d820a7ba9164412"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMg=="
+        },
+        {
+            "name": "v4.3.1",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.1",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.1",
+            "commit": {
+                "sha": "9adb96f3a1e6fdc8d921898c682384c8508d0e3a",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/9adb96f3a1e6fdc8d921898c682384c8508d0e3a"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMQ=="
+        },
+        {
+            "name": "v4.3.0",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.0",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.0",
+            "commit": {
+                "sha": "ab36c152f9e5f9054798504354365dcaef4e5c43",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/ab36c152f9e5f9054798504354365dcaef4e5c43"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMA=="
+        },
+        {
+            "name": "v4.3.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.0-rc.1",
+            "commit": {
+                "sha": "03210085b7481568cc507f088144aaf1dae73c88",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/03210085b7481568cc507f088144aaf1dae73c88"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMC1yYy4x"
+        },
+        {
+            "name": "v4.3.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.0-beta.2",
+            "commit": {
+                "sha": "3e91c101b3c4b5166dab778837e38bed424b4333",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/3e91c101b3c4b5166dab778837e38bed424b4333"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMC1iZXRhLjI="
+        },
+        {
+            "name": "v4.3.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.3.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.3.0-beta.1",
+            "commit": {
+                "sha": "97f6baf977212e84125ac325176ad305ad5b068a",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/97f6baf977212e84125ac325176ad305ad5b068a"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjMuMC1iZXRhLjE="
+        },
+        {
+            "name": "v4.2.15",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.15",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.15",
+            "commit": {
+                "sha": "bf4d0f0dcad88d63fc747520a5a1f47255130bf8",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/bf4d0f0dcad88d63fc747520a5a1f47255130bf8"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMTU="
+        },
+        {
+            "name": "v4.2.14",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.14",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.14",
+            "commit": {
+                "sha": "d94c7346b49409a420c2bcc0d1f0b0f819cac627",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/d94c7346b49409a420c2bcc0d1f0b0f819cac627"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMTQ="
+        },
+        {
+            "name": "v4.2.13",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.13",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.13",
+            "commit": {
+                "sha": "7e47439787f8afe5930c9d7ddafc3c94e605d091",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/7e47439787f8afe5930c9d7ddafc3c94e605d091"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMTM="
+        },
+        {
+            "name": "v4.2.12",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.12",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.12",
+            "commit": {
+                "sha": "f9a929ed5c71e0aaf42c124e96d499d81507c2ac",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/f9a929ed5c71e0aaf42c124e96d499d81507c2ac"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMTI="
+        },
+        {
+            "name": "v4.2.11",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.11",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.11",
+            "commit": {
+                "sha": "a02ff33f0ef2026d776b40dcdbb81ce9785e7443",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/a02ff33f0ef2026d776b40dcdbb81ce9785e7443"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMTE="
+        },
+        {
+            "name": "v4.2.10",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.10",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.10",
+            "commit": {
+                "sha": "a5b4a2b7e71aedd2f04bc7a90f79dfe234fa7f89",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/a5b4a2b7e71aedd2f04bc7a90f79dfe234fa7f89"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMTA="
+        },
+        {
+            "name": "v4.2.9",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.9",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.9",
+            "commit": {
+                "sha": "c93aacafdea188cac791b62a32e3117a7dc3e9cc",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/c93aacafdea188cac791b62a32e3117a7dc3e9cc"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuOQ=="
+        },
+        {
+            "name": "v4.2.8",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.8",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.8",
+            "commit": {
+                "sha": "bdb6650ebc73566a09482521a43b457270b3c44a",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/bdb6650ebc73566a09482521a43b457270b3c44a"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuOA=="
+        },
+        {
+            "name": "v4.2.7",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.7",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.7",
+            "commit": {
+                "sha": "0e4e98fad1e21e4f356b3a71eef3fca79890105c",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/0e4e98fad1e21e4f356b3a71eef3fca79890105c"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuNw=="
+        },
+        {
+            "name": "v4.2.6",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.6",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.6",
+            "commit": {
+                "sha": "7c8ca0c6d612329523fc4e468e82fc3e51634c1c",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/7c8ca0c6d612329523fc4e468e82fc3e51634c1c"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuNg=="
+        },
+        {
+            "name": "v4.2.5",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.5",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.5",
+            "commit": {
+                "sha": "a6641f828b9e6f5806be01754318279c2532ae82",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/a6641f828b9e6f5806be01754318279c2532ae82"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuNQ=="
+        },
+        {
+            "name": "v4.2.4",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.4",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.4",
+            "commit": {
+                "sha": "4633bb8ce09f216170c3f8370a8e48f3a41872cb",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/4633bb8ce09f216170c3f8370a8e48f3a41872cb"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuNA=="
+        },
+        {
+            "name": "v4.2.3",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.3",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.3",
+            "commit": {
+                "sha": "90371a4fc4da90c692e632b3231d804e310de916",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/90371a4fc4da90c692e632b3231d804e310de916"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMw=="
+        },
+        {
+            "name": "v4.2.2",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.2",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.2",
+            "commit": {
+                "sha": "4b8fe9df73cf27db68f3c92178e37eff9deb3bd3",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/4b8fe9df73cf27db68f3c92178e37eff9deb3bd3"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMg=="
+        },
+        {
+            "name": "v4.2.1",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.1",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.1",
+            "commit": {
+                "sha": "74dd325112ddccdad6be2d3191ffb991bdafd1be",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/74dd325112ddccdad6be2d3191ffb991bdafd1be"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMQ=="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "4fcc026f0f1b12a9de21a3af33375a9c8867dd55",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/4fcc026f0f1b12a9de21a3af33375a9c8867dd55"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMA=="
+        },
+        {
+            "name": "v4.2.0-rc2",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.0-rc2",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.0-rc2",
+            "commit": {
+                "sha": "f4b780ba22d0256770766185cee5f8fcc5585c95",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/f4b780ba22d0256770766185cee5f8fcc5585c95"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMC1yYzI="
+        },
+        {
+            "name": "v4.2.0-rc1",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.0-rc1",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.0-rc1",
+            "commit": {
+                "sha": "b90383d07388fe8513e59a6deb1a2391146c6561",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/b90383d07388fe8513e59a6deb1a2391146c6561"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMC1yYzE="
+        },
+        {
+            "name": "v4.2.0-beta3",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.0-beta3",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.0-beta3",
+            "commit": {
+                "sha": "f80f426c57d5a5e1d289372ef7c323741d27c768",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/f80f426c57d5a5e1d289372ef7c323741d27c768"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMC1iZXRhMw=="
+        },
+        {
+            "name": "v4.2.0-beta2",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.0-beta2",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.0-beta2",
+            "commit": {
+                "sha": "facfec1ba36cee27f232ebff90b990933719235a",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/facfec1ba36cee27f232ebff90b990933719235a"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMC1iZXRhMg=="
+        },
+        {
+            "name": "v4.2.0-beta1",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.2.0-beta1",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.2.0-beta1",
+            "commit": {
+                "sha": "dab54ccbba3721382241725bb1c1159d24b5aab2",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/dab54ccbba3721382241725bb1c1159d24b5aab2"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjIuMC1iZXRhMQ=="
+        },
+        {
+            "name": "v4.1.22",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.1.22",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.1.22",
+            "commit": {
+                "sha": "b225edac36584d9a12e19691bebe99b57905d0c0",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/b225edac36584d9a12e19691bebe99b57905d0c0"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjEuMjI="
+        },
+        {
+            "name": "v4.1.21",
+            "zipball_url": "https://api.github.com/repos/mastodon/mastodon/zipball/refs/tags/v4.1.21",
+            "tarball_url": "https://api.github.com/repos/mastodon/mastodon/tarball/refs/tags/v4.1.21",
+            "commit": {
+                "sha": "a222e7ac670a293c6343799b6e66c6d29ee95d39",
+                "url": "https://api.github.com/repos/mastodon/mastodon/commits/a222e7ac670a293c6343799b6e66c6d29ee95d39"
+            },
+            "node_id": "MDM6UmVmNTIyODEyODM6cmVmcy90YWdzL3Y0LjEuMjE="
+        }
+    ]
+}

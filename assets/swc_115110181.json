@@ -1,0 +1,429 @@
+{
+    "id": 115110181,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTUxMTAxODE=",
+    "name": "swc",
+    "full_name": "swc-project/swc",
+    "private": false,
+    "owner": {
+        "login": "swc-project",
+        "id": 26715726,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2NzE1NzI2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26715726?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/swc-project",
+        "html_url": "https://github.com/swc-project",
+        "followers_url": "https://api.github.com/users/swc-project/followers",
+        "following_url": "https://api.github.com/users/swc-project/following{/other_user}",
+        "gists_url": "https://api.github.com/users/swc-project/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/swc-project/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/swc-project/subscriptions",
+        "organizations_url": "https://api.github.com/users/swc-project/orgs",
+        "repos_url": "https://api.github.com/users/swc-project/repos",
+        "events_url": "https://api.github.com/users/swc-project/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/swc-project/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "fork": false,
+    "url": "https://api.github.com/repos/swc-project/swc",
+    "forks_url": "https://api.github.com/repos/swc-project/swc/forks",
+    "keys_url": "https://api.github.com/repos/swc-project/swc/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/swc-project/swc/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/swc-project/swc/teams",
+    "hooks_url": "https://api.github.com/repos/swc-project/swc/hooks",
+    "issue_events_url": "https://api.github.com/repos/swc-project/swc/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/swc-project/swc/events",
+    "assignees_url": "https://api.github.com/repos/swc-project/swc/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/swc-project/swc/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/swc-project/swc/tags",
+    "blobs_url": "https://api.github.com/repos/swc-project/swc/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/swc-project/swc/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/swc-project/swc/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/swc-project/swc/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/swc-project/swc/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/swc-project/swc/languages",
+    "stargazers_url": "https://api.github.com/repos/swc-project/swc/stargazers",
+    "contributors_url": "https://api.github.com/repos/swc-project/swc/contributors",
+    "subscribers_url": "https://api.github.com/repos/swc-project/swc/subscribers",
+    "subscription_url": "https://api.github.com/repos/swc-project/swc/subscription",
+    "commits_url": "https://api.github.com/repos/swc-project/swc/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/swc-project/swc/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/swc-project/swc/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/swc-project/swc/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/swc-project/swc/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/swc-project/swc/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/swc-project/swc/merges",
+    "archive_url": "https://api.github.com/repos/swc-project/swc/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/swc-project/swc/downloads",
+    "issues_url": "https://api.github.com/repos/swc-project/swc/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/swc-project/swc/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/swc-project/swc/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/swc-project/swc/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/swc-project/swc/labels{/name}",
+    "releases_url": "https://api.github.com/repos/swc-project/swc/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/swc-project/swc/deployments",
+    "created_at": "2017-12-22T11:40:14Z",
+    "updated_at": "2025-01-25T09:42:39Z",
+    "pushed_at": "2025-01-25T03:57:33Z",
+    "git_url": "git://github.com/swc-project/swc.git",
+    "ssh_url": "git@github.com:swc-project/swc.git",
+    "clone_url": "https://github.com/swc-project/swc.git",
+    "svn_url": "https://github.com/swc-project/swc",
+    "homepage": "https://swc.rs",
+    "size": 364954,
+    "stargazers_count": 31556,
+    "watchers_count": 31556,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1254,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 421,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "babel",
+        "compiler",
+        "ecmascript",
+        "ecmascript-parser",
+        "javascript",
+        "parser",
+        "rust",
+        "swc",
+        "typescript",
+        "typescript-compiler",
+        "typescript-parser"
+    ],
+    "visibility": "public",
+    "forks": 1254,
+    "open_issues": 421,
+    "watchers": 31556,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.10.9",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.9",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.9",
+            "commit": {
+                "sha": "fa59f9d52cf592f0ef38f0082a10db1298b46cc0",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/fa59f9d52cf592f0ef38f0082a10db1298b46cc0"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC45"
+        },
+        {
+            "name": "v1.10.9-nightly-20250121.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.9-nightly-20250121.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.9-nightly-20250121.1",
+            "commit": {
+                "sha": "584ead0518ed1141588ed8578cbbef9738e618a4",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/584ead0518ed1141588ed8578cbbef9738e618a4"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC45LW5pZ2h0bHktMjAyNTAxMjEuMQ=="
+        },
+        {
+            "name": "v1.10.8",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.8",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.8",
+            "commit": {
+                "sha": "d7cf444f4430eb439bdcf17a0cd186f8e4fb0da9",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/d7cf444f4430eb439bdcf17a0cd186f8e4fb0da9"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC44"
+        },
+        {
+            "name": "v1.10.8-nightly-20250119.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.8-nightly-20250119.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.8-nightly-20250119.1",
+            "commit": {
+                "sha": "27ebe2749395d7c1e5f63447792be1570ec2fb96",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/27ebe2749395d7c1e5f63447792be1570ec2fb96"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC44LW5pZ2h0bHktMjAyNTAxMTkuMQ=="
+        },
+        {
+            "name": "v1.10.7",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.7",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.7",
+            "commit": {
+                "sha": "1a9aec4d041295521b9ae1a00f6dfe3e6f20ae4f",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/1a9aec4d041295521b9ae1a00f6dfe3e6f20ae4f"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC43"
+        },
+        {
+            "name": "v1.10.7-nightly-20250110.2",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.7-nightly-20250110.2",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.7-nightly-20250110.2",
+            "commit": {
+                "sha": "ff6fa128034652a6f849643d427ce15bb92bf9e0",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/ff6fa128034652a6f849643d427ce15bb92bf9e0"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC43LW5pZ2h0bHktMjAyNTAxMTAuMg=="
+        },
+        {
+            "name": "v1.10.7-nightly-20250110.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.7-nightly-20250110.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.7-nightly-20250110.1",
+            "commit": {
+                "sha": "475c19e50c2485d8044de37393580172f86988e6",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/475c19e50c2485d8044de37393580172f86988e6"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC43LW5pZ2h0bHktMjAyNTAxMTAuMQ=="
+        },
+        {
+            "name": "v1.10.6",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.6",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.6",
+            "commit": {
+                "sha": "33c508cc1a7b312c05d8639c68d4d36e263e76b6",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/33c508cc1a7b312c05d8639c68d4d36e263e76b6"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC42"
+        },
+        {
+            "name": "v1.10.6-nightly-20250107.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.6-nightly-20250107.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.6-nightly-20250107.1",
+            "commit": {
+                "sha": "2566e357957038d3e0f3a67d5c7059062e3a8ead",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/2566e357957038d3e0f3a67d5c7059062e3a8ead"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC42LW5pZ2h0bHktMjAyNTAxMDcuMQ=="
+        },
+        {
+            "name": "v1.10.5",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.5",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.5",
+            "commit": {
+                "sha": "7b40954ca49e0eb1c01f78fa7f8aa75ac02b0ea2",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/7b40954ca49e0eb1c01f78fa7f8aa75ac02b0ea2"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC41"
+        },
+        {
+            "name": "v1.10.5-nightly-20250107.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.5-nightly-20250107.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.5-nightly-20250107.1",
+            "commit": {
+                "sha": "507b45850699e4eb8febda6b9115f1c7ecd39114",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/507b45850699e4eb8febda6b9115f1c7ecd39114"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC41LW5pZ2h0bHktMjAyNTAxMDcuMQ=="
+        },
+        {
+            "name": "v1.10.4",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.4",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.4",
+            "commit": {
+                "sha": "9ebe252f5b60fe08860ac03e826e364606d13c56",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/9ebe252f5b60fe08860ac03e826e364606d13c56"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC40"
+        },
+        {
+            "name": "v1.10.4-nightly-20241230.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.4-nightly-20241230.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.4-nightly-20241230.1",
+            "commit": {
+                "sha": "9cfe38a36cabc2266b1556011d4a0caee0c1a8fd",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/9cfe38a36cabc2266b1556011d4a0caee0c1a8fd"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC40LW5pZ2h0bHktMjAyNDEyMzAuMQ=="
+        },
+        {
+            "name": "v1.10.3",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.3",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.3",
+            "commit": {
+                "sha": "b91fb0862a183e6cb2c0be5a8068c83697d8cfc7",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/b91fb0862a183e6cb2c0be5a8068c83697d8cfc7"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4z"
+        },
+        {
+            "name": "v1.10.3-nightly-20241227.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.3-nightly-20241227.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.3-nightly-20241227.1",
+            "commit": {
+                "sha": "c05ffe007041faaf8651cdb26f1d773cba618bb7",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/c05ffe007041faaf8651cdb26f1d773cba618bb7"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4zLW5pZ2h0bHktMjAyNDEyMjcuMQ=="
+        },
+        {
+            "name": "v1.10.2",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.2",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.2",
+            "commit": {
+                "sha": "3eeda098c1ccf022490f0029acc01d572fc300bd",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/3eeda098c1ccf022490f0029acc01d572fc300bd"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4y"
+        },
+        {
+            "name": "v1.10.2-nightly-20241226.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.2-nightly-20241226.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.2-nightly-20241226.1",
+            "commit": {
+                "sha": "0b22425c5a1f906ba0b00d53e3356b08606e99ee",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/0b22425c5a1f906ba0b00d53e3356b08606e99ee"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4yLW5pZ2h0bHktMjAyNDEyMjYuMQ=="
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "69c126f0e5d73552e5829d0ebae4d0cd0fe46606",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/69c126f0e5d73552e5829d0ebae4d0cd0fe46606"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4x"
+        },
+        {
+            "name": "v1.10.1-nightly-20241209.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.1-nightly-20241209.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.1-nightly-20241209.1",
+            "commit": {
+                "sha": "1272212ac2be09b36fb5479f96425bf1b1142e80",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/1272212ac2be09b36fb5479f96425bf1b1142e80"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4xLW5pZ2h0bHktMjAyNDEyMDkuMQ=="
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "c8949861e0529a3bc96673bea01d1e1a93f57171",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/c8949861e0529a3bc96673bea01d1e1a93f57171"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4w"
+        },
+        {
+            "name": "v1.10.0-nightly-20241204.2",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.0-nightly-20241204.2",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.0-nightly-20241204.2",
+            "commit": {
+                "sha": "dd1c0af49a6057bdd06ef635a289fb45a3b81344",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/dd1c0af49a6057bdd06ef635a289fb45a3b81344"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4wLW5pZ2h0bHktMjAyNDEyMDQuMg=="
+        },
+        {
+            "name": "v1.10.0-nightly-20241204.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.0-nightly-20241204.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.0-nightly-20241204.1",
+            "commit": {
+                "sha": "0b1c51ec203310e28e7eaa2c2c62bc05fef02ab2",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/0b1c51ec203310e28e7eaa2c2c62bc05fef02ab2"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4wLW5pZ2h0bHktMjAyNDEyMDQuMQ=="
+        },
+        {
+            "name": "v1.10.0-nightly-20241202.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.10.0-nightly-20241202.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.10.0-nightly-20241202.1",
+            "commit": {
+                "sha": "70fcbc4a76aac06ae90a1ebbf2daa6c7f6659e6e",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/70fcbc4a76aac06ae90a1ebbf2daa6c7f6659e6e"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS4xMC4wLW5pZ2h0bHktMjAyNDEyMDIuMQ=="
+        },
+        {
+            "name": "v1.9.3",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.3",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.3",
+            "commit": {
+                "sha": "12b9c7c32afa2a19f70f4aeacd2a6e01573a074e",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/12b9c7c32afa2a19f70f4aeacd2a6e01573a074e"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjM="
+        },
+        {
+            "name": "v1.9.3-nightly-20241122.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.3-nightly-20241122.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.3-nightly-20241122.1",
+            "commit": {
+                "sha": "6fa8ca8586e5b5e97c8abf850b88e3662dff53eb",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/6fa8ca8586e5b5e97c8abf850b88e3662dff53eb"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjMtbmlnaHRseS0yMDI0MTEyMi4x"
+        },
+        {
+            "name": "v1.9.2",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.2",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.2",
+            "commit": {
+                "sha": "669d2753a1506865b66285cb27a9665c86dcda1a",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/669d2753a1506865b66285cb27a9665c86dcda1a"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjI="
+        },
+        {
+            "name": "v1.9.2-nightly-20241111.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.2-nightly-20241111.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.2-nightly-20241111.1",
+            "commit": {
+                "sha": "f2be61fb79b905915ce3bdf159014b1402aa7cd6",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/f2be61fb79b905915ce3bdf159014b1402aa7cd6"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjItbmlnaHRseS0yMDI0MTExMS4x"
+        },
+        {
+            "name": "v1.9.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.1",
+            "commit": {
+                "sha": "3d87fe04c8768db5215b670884a3b3cb5308fd94",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/3d87fe04c8768db5215b670884a3b3cb5308fd94"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjE="
+        },
+        {
+            "name": "v1.9.1-nightly-20241106.1",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.1-nightly-20241106.1",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.1-nightly-20241106.1",
+            "commit": {
+                "sha": "bc360b2901681caddd35e6165393cbd0a0c01a23",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/bc360b2901681caddd35e6165393cbd0a0c01a23"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjEtbmlnaHRseS0yMDI0MTEwNi4x"
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/swc-project/swc/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/swc-project/swc/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "0d80301c4b6e9e334a455516d3438e7c8a621492",
+                "url": "https://api.github.com/repos/swc-project/swc/commits/0d80301c4b6e9e334a455516d3438e7c8a621492"
+            },
+            "node_id": "MDM6UmVmMTE1MTEwMTgxOnJlZnMvdGFncy92MS45LjA="
+        }
+    ]
+}

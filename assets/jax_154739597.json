@@ -1,0 +1,419 @@
+{
+    "id": 154739597,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNTQ3Mzk1OTc=",
+    "name": "jax",
+    "full_name": "jax-ml/jax",
+    "private": false,
+    "owner": {
+        "login": "jax-ml",
+        "id": 58486408,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4NDg2NDA4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58486408?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jax-ml",
+        "html_url": "https://github.com/jax-ml",
+        "followers_url": "https://api.github.com/users/jax-ml/followers",
+        "following_url": "https://api.github.com/users/jax-ml/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jax-ml/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jax-ml/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jax-ml/subscriptions",
+        "organizations_url": "https://api.github.com/users/jax-ml/orgs",
+        "repos_url": "https://api.github.com/users/jax-ml/repos",
+        "events_url": "https://api.github.com/users/jax-ml/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jax-ml/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/jax-ml/jax",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "fork": false,
+    "url": "https://api.github.com/repos/jax-ml/jax",
+    "forks_url": "https://api.github.com/repos/jax-ml/jax/forks",
+    "keys_url": "https://api.github.com/repos/jax-ml/jax/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/jax-ml/jax/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/jax-ml/jax/teams",
+    "hooks_url": "https://api.github.com/repos/jax-ml/jax/hooks",
+    "issue_events_url": "https://api.github.com/repos/jax-ml/jax/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/jax-ml/jax/events",
+    "assignees_url": "https://api.github.com/repos/jax-ml/jax/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/jax-ml/jax/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/jax-ml/jax/tags",
+    "blobs_url": "https://api.github.com/repos/jax-ml/jax/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/jax-ml/jax/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/jax-ml/jax/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/jax-ml/jax/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/jax-ml/jax/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/jax-ml/jax/languages",
+    "stargazers_url": "https://api.github.com/repos/jax-ml/jax/stargazers",
+    "contributors_url": "https://api.github.com/repos/jax-ml/jax/contributors",
+    "subscribers_url": "https://api.github.com/repos/jax-ml/jax/subscribers",
+    "subscription_url": "https://api.github.com/repos/jax-ml/jax/subscription",
+    "commits_url": "https://api.github.com/repos/jax-ml/jax/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/jax-ml/jax/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/jax-ml/jax/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/jax-ml/jax/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/jax-ml/jax/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/jax-ml/jax/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/jax-ml/jax/merges",
+    "archive_url": "https://api.github.com/repos/jax-ml/jax/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/jax-ml/jax/downloads",
+    "issues_url": "https://api.github.com/repos/jax-ml/jax/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/jax-ml/jax/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/jax-ml/jax/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/jax-ml/jax/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/jax-ml/jax/labels{/name}",
+    "releases_url": "https://api.github.com/repos/jax-ml/jax/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/jax-ml/jax/deployments",
+    "created_at": "2018-10-25T21:25:02Z",
+    "updated_at": "2025-01-25T15:40:30Z",
+    "pushed_at": "2025-01-25T13:40:51Z",
+    "git_url": "git://github.com/jax-ml/jax.git",
+    "ssh_url": "git@github.com:jax-ml/jax.git",
+    "clone_url": "https://github.com/jax-ml/jax.git",
+    "svn_url": "https://github.com/jax-ml/jax",
+    "homepage": "http://jax.readthedocs.io/",
+    "size": 104802,
+    "stargazers_count": 31057,
+    "watchers_count": 31057,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2870,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1899,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "jax"
+    ],
+    "visibility": "public",
+    "forks": 2870,
+    "open_issues": 1899,
+    "watchers": 31057,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "workflow_test",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/workflow_test",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/workflow_test",
+            "commit": {
+                "sha": "2308d0f29f9d4f5d7c15de5a7dec628ba90333ad",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/2308d0f29f9d4f5d7c15de5a7dec628ba90333ad"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy93b3JrZmxvd190ZXN0"
+        },
+        {
+            "name": "test-jaxlib",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/test-jaxlib",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/test-jaxlib",
+            "commit": {
+                "sha": "45d96c490e05b598704cd2246f4cc4173dd10d19",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/45d96c490e05b598704cd2246f4cc4173dd10d19"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy90ZXN0LWpheGxpYg=="
+        },
+        {
+            "name": "test-docs",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/test-docs",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/test-docs",
+            "commit": {
+                "sha": "909fee6a2d4b0cdb70bb3c85d5cb9a317996c596",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/909fee6a2d4b0cdb70bb3c85d5cb9a317996c596"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy90ZXN0LWRvY3M="
+        },
+        {
+            "name": "jaxlib-v0.4.32",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.32",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.32",
+            "commit": {
+                "sha": "1594d2f30fdbfebf693aba4a2b264e4a3e52acc6",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/1594d2f30fdbfebf693aba4a2b264e4a3e52acc6"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4zMg=="
+        },
+        {
+            "name": "jaxlib-v0.4.31",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.31",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.31",
+            "commit": {
+                "sha": "7fd93027854e902263dda0e06cab5177af8ec484",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/7fd93027854e902263dda0e06cab5177af8ec484"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4zMQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.30",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.30",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.30",
+            "commit": {
+                "sha": "f4158ace933482844c145a6b919bf5dc86e084ba",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/f4158ace933482844c145a6b919bf5dc86e084ba"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4zMA=="
+        },
+        {
+            "name": "jaxlib-v0.4.29",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.29",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.29",
+            "commit": {
+                "sha": "991797a8a987f241074ccd2a94ad2aaec684537c",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/991797a8a987f241074ccd2a94ad2aaec684537c"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yOQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.28",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.28",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.28",
+            "commit": {
+                "sha": "9e62994bce7c7fcbb2f6a50c9ef89526cd2c2be6",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/9e62994bce7c7fcbb2f6a50c9ef89526cd2c2be6"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yOA=="
+        },
+        {
+            "name": "jaxlib-v0.4.27",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.27",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.27",
+            "commit": {
+                "sha": "500da57e91eb4b9094eb2b5cfa0826691862417f",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/500da57e91eb4b9094eb2b5cfa0826691862417f"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yNw=="
+        },
+        {
+            "name": "jaxlib-v0.4.26",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.26",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.26",
+            "commit": {
+                "sha": "fed7efd73003988282744b2f649df493b808c781",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/fed7efd73003988282744b2f649df493b808c781"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yNg=="
+        },
+        {
+            "name": "jaxlib-v0.4.25",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.25",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.25",
+            "commit": {
+                "sha": "f9e20d58754283de87b2ed35cc9df58bcdff2073",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/f9e20d58754283de87b2ed35cc9df58bcdff2073"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yNQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.24",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.24",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.24",
+            "commit": {
+                "sha": "9e94e6ef71eb1c51658e389b8ce0c38fbab2bb67",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/9e94e6ef71eb1c51658e389b8ce0c38fbab2bb67"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yNA=="
+        },
+        {
+            "name": "jaxlib-v0.4.23",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.23",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.23",
+            "commit": {
+                "sha": "1c68577dcdf70b4c0b42805d279b6a5c04d144fe",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/1c68577dcdf70b4c0b42805d279b6a5c04d144fe"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yMw=="
+        },
+        {
+            "name": "jaxlib-v0.4.22",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.22",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.22",
+            "commit": {
+                "sha": "b52bcc1639368069075284eefc763f824ca155f1",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/b52bcc1639368069075284eefc763f824ca155f1"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yMg=="
+        },
+        {
+            "name": "jaxlib-v0.4.21",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.21",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.21",
+            "commit": {
+                "sha": "5942e1580e1a2f974492cc6024ce06448ee4b01c",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/5942e1580e1a2f974492cc6024ce06448ee4b01c"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yMQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.20",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.20",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.20",
+            "commit": {
+                "sha": "e22b8bbc0ae3dffd538d2751a8dd0bbb6a00f240",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/e22b8bbc0ae3dffd538d2751a8dd0bbb6a00f240"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4yMA=="
+        },
+        {
+            "name": "jaxlib-v0.4.19",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.19",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.19",
+            "commit": {
+                "sha": "604dc24dacf9d8576f86fd369ecaf89de90212b9",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/604dc24dacf9d8576f86fd369ecaf89de90212b9"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xOQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.18",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.18",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.18",
+            "commit": {
+                "sha": "e27af48510b57e5d9f1ae17f256bd67fa9db7941",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/e27af48510b57e5d9f1ae17f256bd67fa9db7941"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xOA=="
+        },
+        {
+            "name": "jaxlib-v0.4.17",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.17",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.17",
+            "commit": {
+                "sha": "4cb5eeee537d044911228870bf7b1d38ea478e2c",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/4cb5eeee537d044911228870bf7b1d38ea478e2c"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xNw=="
+        },
+        {
+            "name": "jaxlib-v0.4.16",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.16",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.16",
+            "commit": {
+                "sha": "d477b921215d5030d09020a70df7f5cd46bb62dd",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/d477b921215d5030d09020a70df7f5cd46bb62dd"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xNg=="
+        },
+        {
+            "name": "jaxlib-v0.4.15",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.15",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.15",
+            "commit": {
+                "sha": "4268ed745517ad2e857fdffe5a424d0b7ae223e3",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/4268ed745517ad2e857fdffe5a424d0b7ae223e3"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xNQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.14",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.14",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.14",
+            "commit": {
+                "sha": "88a60b808c1f91260cc9e75b9aa2508aae5bc9f9",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/88a60b808c1f91260cc9e75b9aa2508aae5bc9f9"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xNA=="
+        },
+        {
+            "name": "jaxlib-v0.4.13",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.13",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.13",
+            "commit": {
+                "sha": "c3e242700872c2f7e098a07f3911ee6d2de8132c",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/c3e242700872c2f7e098a07f3911ee6d2de8132c"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xMw=="
+        },
+        {
+            "name": "jaxlib-v0.4.12",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.12",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.12",
+            "commit": {
+                "sha": "4c02f2c748a498a8c18e084e6c418afc5f6ec991",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/4c02f2c748a498a8c18e084e6c418afc5f6ec991"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xMg=="
+        },
+        {
+            "name": "jaxlib-v0.4.11",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.11",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.11",
+            "commit": {
+                "sha": "48ad9a6f3e72f19f5b86f3bb014587e6bc6c0c4c",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/48ad9a6f3e72f19f5b86f3bb014587e6bc6c0c4c"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xMQ=="
+        },
+        {
+            "name": "jaxlib-v0.4.10",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.10",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.10",
+            "commit": {
+                "sha": "21fc6e0229e0f5f1cb5f1f69d2c3daa2e5c2ca11",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/21fc6e0229e0f5f1cb5f1f69d2c3daa2e5c2ca11"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC4xMA=="
+        },
+        {
+            "name": "jaxlib-v0.4.9",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.9",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.9",
+            "commit": {
+                "sha": "1b9180167b1799848166635246f1f33a5fb21c1b",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/1b9180167b1799848166635246f1f33a5fb21c1b"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC45"
+        },
+        {
+            "name": "jaxlib-v0.4.7",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.7",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.7",
+            "commit": {
+                "sha": "ae4f1fcb66d13d6606525c0810bd9a0aba087f0c",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/ae4f1fcb66d13d6606525c0810bd9a0aba087f0c"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC43"
+        },
+        {
+            "name": "jaxlib-v0.4.6",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.6",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.6",
+            "commit": {
+                "sha": "f1f4840a0d7af7b206c50874d877627cdeddb004",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/f1f4840a0d7af7b206c50874d877627cdeddb004"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC42"
+        },
+        {
+            "name": "jaxlib-v0.4.4",
+            "zipball_url": "https://api.github.com/repos/jax-ml/jax/zipball/refs/tags/jaxlib-v0.4.4",
+            "tarball_url": "https://api.github.com/repos/jax-ml/jax/tarball/refs/tags/jaxlib-v0.4.4",
+            "commit": {
+                "sha": "58e46b48e6641d72f8a236485b4af6d39a497351",
+                "url": "https://api.github.com/repos/jax-ml/jax/commits/58e46b48e6641d72f8a236485b4af6d39a497351"
+            },
+            "node_id": "MDM6UmVmMTU0NzM5NTk3OnJlZnMvdGFncy9qYXhsaWItdjAuNC40"
+        }
+    ]
+}

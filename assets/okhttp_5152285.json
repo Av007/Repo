@@ -1,0 +1,422 @@
+{
+    "id": 5152285,
+    "node_id": "MDEwOlJlcG9zaXRvcnk1MTUyMjg1",
+    "name": "okhttp",
+    "full_name": "square/okhttp",
+    "private": false,
+    "owner": {
+        "login": "square",
+        "id": 82592,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyNTky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/square",
+        "html_url": "https://github.com/square",
+        "followers_url": "https://api.github.com/users/square/followers",
+        "following_url": "https://api.github.com/users/square/following{/other_user}",
+        "gists_url": "https://api.github.com/users/square/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/square/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/square/subscriptions",
+        "organizations_url": "https://api.github.com/users/square/orgs",
+        "repos_url": "https://api.github.com/users/square/repos",
+        "events_url": "https://api.github.com/users/square/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/square/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/square/okhttp",
+    "description": "Square\u2019s meticulous HTTP client for the JVM, Android, and GraalVM.",
+    "fork": false,
+    "url": "https://api.github.com/repos/square/okhttp",
+    "forks_url": "https://api.github.com/repos/square/okhttp/forks",
+    "keys_url": "https://api.github.com/repos/square/okhttp/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/square/okhttp/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/square/okhttp/teams",
+    "hooks_url": "https://api.github.com/repos/square/okhttp/hooks",
+    "issue_events_url": "https://api.github.com/repos/square/okhttp/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/square/okhttp/events",
+    "assignees_url": "https://api.github.com/repos/square/okhttp/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/square/okhttp/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/square/okhttp/tags",
+    "blobs_url": "https://api.github.com/repos/square/okhttp/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/square/okhttp/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/square/okhttp/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/square/okhttp/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/square/okhttp/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/square/okhttp/languages",
+    "stargazers_url": "https://api.github.com/repos/square/okhttp/stargazers",
+    "contributors_url": "https://api.github.com/repos/square/okhttp/contributors",
+    "subscribers_url": "https://api.github.com/repos/square/okhttp/subscribers",
+    "subscription_url": "https://api.github.com/repos/square/okhttp/subscription",
+    "commits_url": "https://api.github.com/repos/square/okhttp/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/square/okhttp/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/square/okhttp/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/square/okhttp/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/square/okhttp/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/square/okhttp/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/square/okhttp/merges",
+    "archive_url": "https://api.github.com/repos/square/okhttp/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/square/okhttp/downloads",
+    "issues_url": "https://api.github.com/repos/square/okhttp/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/square/okhttp/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/square/okhttp/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/square/okhttp/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/square/okhttp/labels{/name}",
+    "releases_url": "https://api.github.com/repos/square/okhttp/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/square/okhttp/deployments",
+    "created_at": "2012-07-23T13:42:55Z",
+    "updated_at": "2025-01-25T16:15:27Z",
+    "pushed_at": "2025-01-20T09:24:05Z",
+    "git_url": "git://github.com/square/okhttp.git",
+    "ssh_url": "git@github.com:square/okhttp.git",
+    "clone_url": "https://github.com/square/okhttp.git",
+    "svn_url": "https://github.com/square/okhttp",
+    "homepage": "https://square.github.io/okhttp/",
+    "size": 55200,
+    "stargazers_count": 46090,
+    "watchers_count": 46090,
+    "language": "Kotlin",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 9182,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 160,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "android",
+        "graalvm",
+        "java",
+        "kotlin"
+    ],
+    "visibility": "public",
+    "forks": 9182,
+    "open_issues": 160,
+    "watchers": 46090,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "parent-5.0.0-alpha.14",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.14",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.14",
+            "commit": {
+                "sha": "35f490393f5233680e978354452b51c809ec3d26",
+                "url": "https://api.github.com/repos/square/okhttp/commits/35f490393f5233680e978354452b51c809ec3d26"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjE0"
+        },
+        {
+            "name": "parent-5.0.0-alpha.13",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.13",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.13",
+            "commit": {
+                "sha": "e274b91f87c113f459826bc0f89853e394b466a8",
+                "url": "https://api.github.com/repos/square/okhttp/commits/e274b91f87c113f459826bc0f89853e394b466a8"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjEz"
+        },
+        {
+            "name": "parent-5.0.0-alpha.12",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.12",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.12",
+            "commit": {
+                "sha": "4c82a6fb6a37c921b49dcfc4b9760a618a216372",
+                "url": "https://api.github.com/repos/square/okhttp/commits/4c82a6fb6a37c921b49dcfc4b9760a618a216372"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjEy"
+        },
+        {
+            "name": "parent-5.0.0-alpha.11",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.11",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.11",
+            "commit": {
+                "sha": "a74bfcacf543a9620b7b4bd53320e86d39b6a680",
+                "url": "https://api.github.com/repos/square/okhttp/commits/a74bfcacf543a9620b7b4bd53320e86d39b6a680"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjEx"
+        },
+        {
+            "name": "parent-5.0.0-alpha.10",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.10",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.10",
+            "commit": {
+                "sha": "956664f11dea088e7209504aa4eafb4309a808cd",
+                "url": "https://api.github.com/repos/square/okhttp/commits/956664f11dea088e7209504aa4eafb4309a808cd"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjEw"
+        },
+        {
+            "name": "parent-5.0.0-alpha.9",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.9",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.9",
+            "commit": {
+                "sha": "5e3f0f0deb05b3a267be77c1d074599093a568fb",
+                "url": "https://api.github.com/repos/square/okhttp/commits/5e3f0f0deb05b3a267be77c1d074599093a568fb"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjk="
+        },
+        {
+            "name": "parent-5.0.0-alpha.8",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.8",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.8",
+            "commit": {
+                "sha": "b2071d51ba8bcbccbd2f9e3eec76c286512160e3",
+                "url": "https://api.github.com/repos/square/okhttp/commits/b2071d51ba8bcbccbd2f9e3eec76c286512160e3"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjg="
+        },
+        {
+            "name": "parent-5.0.0-alpha.7",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.7",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.7",
+            "commit": {
+                "sha": "fe7f75e014ac29ee2a56eb0e45b6553f1cf6f9a1",
+                "url": "https://api.github.com/repos/square/okhttp/commits/fe7f75e014ac29ee2a56eb0e45b6553f1cf6f9a1"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjc="
+        },
+        {
+            "name": "parent-5.0.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.6",
+            "commit": {
+                "sha": "fe46bbc882fa536a8a5b391142e99e8c44fb1bc0",
+                "url": "https://api.github.com/repos/square/okhttp/commits/fe46bbc882fa536a8a5b391142e99e8c44fb1bc0"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjY="
+        },
+        {
+            "name": "parent-5.0.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.5",
+            "commit": {
+                "sha": "c16008043094b7fdc5cec8249941a38e8a8b8775",
+                "url": "https://api.github.com/repos/square/okhttp/commits/c16008043094b7fdc5cec8249941a38e8a8b8775"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjU="
+        },
+        {
+            "name": "parent-5.0.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.4",
+            "commit": {
+                "sha": "77a1460e7313deed60638298b8be0785d2a2a706",
+                "url": "https://api.github.com/repos/square/okhttp/commits/77a1460e7313deed60638298b8be0785d2a2a706"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjQ="
+        },
+        {
+            "name": "parent-5.0.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.3",
+            "commit": {
+                "sha": "4b20f5596010ce8f5afbd7c24dea8f9305807e27",
+                "url": "https://api.github.com/repos/square/okhttp/commits/4b20f5596010ce8f5afbd7c24dea8f9305807e27"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjM="
+        },
+        {
+            "name": "parent-5.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.2",
+            "commit": {
+                "sha": "b84627ef4bc43f2096c1b764720f9ff2387dca32",
+                "url": "https://api.github.com/repos/square/okhttp/commits/b84627ef4bc43f2096c1b764720f9ff2387dca32"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjI="
+        },
+        {
+            "name": "parent-5.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-5.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-5.0.0-alpha.1",
+            "commit": {
+                "sha": "79d2a8d192d007b8acb2423d3ab6bba3a4f999e1",
+                "url": "https://api.github.com/repos/square/okhttp/commits/79d2a8d192d007b8acb2423d3ab6bba3a4f999e1"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTUuMC4wLWFscGhhLjE="
+        },
+        {
+            "name": "parent-4.12.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.12.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.12.0",
+            "commit": {
+                "sha": "4984568367caaf359b82c452bd28b5e192824d1c",
+                "url": "https://api.github.com/repos/square/okhttp/commits/4984568367caaf359b82c452bd28b5e192824d1c"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuMTIuMA=="
+        },
+        {
+            "name": "parent-4.11.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.11.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.11.0",
+            "commit": {
+                "sha": "68a106d3269b0ad02136a1bfa81c07a6c006fffe",
+                "url": "https://api.github.com/repos/square/okhttp/commits/68a106d3269b0ad02136a1bfa81c07a6c006fffe"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuMTEuMA=="
+        },
+        {
+            "name": "parent-4.10.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.10.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.10.0",
+            "commit": {
+                "sha": "6b07f6227416506a44bb97012551929cd6a1dd79",
+                "url": "https://api.github.com/repos/square/okhttp/commits/6b07f6227416506a44bb97012551929cd6a1dd79"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuMTAuMA=="
+        },
+        {
+            "name": "parent-4.10.0-RC1",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.10.0-RC1",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.10.0-RC1",
+            "commit": {
+                "sha": "4fd1e8f99833eebdd2e99f3456322aa197f5e652",
+                "url": "https://api.github.com/repos/square/okhttp/commits/4fd1e8f99833eebdd2e99f3456322aa197f5e652"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuMTAuMC1SQzE="
+        },
+        {
+            "name": "parent-4.9.3",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.9.3",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.9.3",
+            "commit": {
+                "sha": "0a27e9ff30c6129f4fdeb1f99c07c9b009bcc537",
+                "url": "https://api.github.com/repos/square/okhttp/commits/0a27e9ff30c6129f4fdeb1f99c07c9b009bcc537"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuOS4z"
+        },
+        {
+            "name": "parent-4.9.2",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.9.2",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.9.2",
+            "commit": {
+                "sha": "3edf17ca8a5048912d19e84d0fc2a7941a97c07d",
+                "url": "https://api.github.com/repos/square/okhttp/commits/3edf17ca8a5048912d19e84d0fc2a7941a97c07d"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuOS4y"
+        },
+        {
+            "name": "parent-4.9.1",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.9.1",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.9.1",
+            "commit": {
+                "sha": "63dcd95bfa2345bb3f3d4abc6b6dbf36cfb08aaf",
+                "url": "https://api.github.com/repos/square/okhttp/commits/63dcd95bfa2345bb3f3d4abc6b6dbf36cfb08aaf"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuOS4x"
+        },
+        {
+            "name": "parent-4.9.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.9.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.9.0",
+            "commit": {
+                "sha": "cbeaf8f955fff9caa5652ccc6c1393ec8b993799",
+                "url": "https://api.github.com/repos/square/okhttp/commits/cbeaf8f955fff9caa5652ccc6c1393ec8b993799"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuOS4w"
+        },
+        {
+            "name": "parent-4.8.1",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.8.1",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.8.1",
+            "commit": {
+                "sha": "fc6c29c4f93a7604fb0fee88be4bbc91dde6551d",
+                "url": "https://api.github.com/repos/square/okhttp/commits/fc6c29c4f93a7604fb0fee88be4bbc91dde6551d"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuOC4x"
+        },
+        {
+            "name": "parent-4.8.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.8.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.8.0",
+            "commit": {
+                "sha": "a70e992c3f7d9adea544c40cc2a4640d28f45cc3",
+                "url": "https://api.github.com/repos/square/okhttp/commits/a70e992c3f7d9adea544c40cc2a4640d28f45cc3"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuOC4w"
+        },
+        {
+            "name": "parent-4.7.2",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.7.2",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.7.2",
+            "commit": {
+                "sha": "4c595553fbcbfc316d24a74197aa753dbc05da9f",
+                "url": "https://api.github.com/repos/square/okhttp/commits/4c595553fbcbfc316d24a74197aa753dbc05da9f"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuNy4y"
+        },
+        {
+            "name": "parent-4.7.1",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.7.1",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.7.1",
+            "commit": {
+                "sha": "186ec88aff706f31724210f0b73f88e942e7fb11",
+                "url": "https://api.github.com/repos/square/okhttp/commits/186ec88aff706f31724210f0b73f88e942e7fb11"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuNy4x"
+        },
+        {
+            "name": "parent-4.7.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.7.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.7.0",
+            "commit": {
+                "sha": "ef7c5f358e2ac8dad806952c70c7af9061a6f7af",
+                "url": "https://api.github.com/repos/square/okhttp/commits/ef7c5f358e2ac8dad806952c70c7af9061a6f7af"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuNy4w"
+        },
+        {
+            "name": "parent-4.6.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.6.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.6.0",
+            "commit": {
+                "sha": "0deadd5611c4bc793a776aaaa68710012e456b9f",
+                "url": "https://api.github.com/repos/square/okhttp/commits/0deadd5611c4bc793a776aaaa68710012e456b9f"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuNi4w"
+        },
+        {
+            "name": "parent-4.5.0",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.5.0",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.5.0",
+            "commit": {
+                "sha": "ca0c8d6a1a9c24ebef74554527dd13d9d6234381",
+                "url": "https://api.github.com/repos/square/okhttp/commits/ca0c8d6a1a9c24ebef74554527dd13d9d6234381"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuNS4w"
+        },
+        {
+            "name": "parent-4.5.0-RC1",
+            "zipball_url": "https://api.github.com/repos/square/okhttp/zipball/refs/tags/parent-4.5.0-RC1",
+            "tarball_url": "https://api.github.com/repos/square/okhttp/tarball/refs/tags/parent-4.5.0-RC1",
+            "commit": {
+                "sha": "7334150d1da63f4fe7e256de173bdc5837022ff9",
+                "url": "https://api.github.com/repos/square/okhttp/commits/7334150d1da63f4fe7e256de173bdc5837022ff9"
+            },
+            "node_id": "MDM6UmVmNTE1MjI4NTpyZWZzL3RhZ3MvcGFyZW50LTQuNS4wLVJDMQ=="
+        }
+    ]
+}

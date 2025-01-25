@@ -1,0 +1,417 @@
+{
+    "id": 51117837,
+    "node_id": "MDEwOlJlcG9zaXRvcnk1MTExNzgzNw==",
+    "name": "models",
+    "full_name": "tensorflow/models",
+    "private": false,
+    "owner": {
+        "login": "tensorflow",
+        "id": 15658638,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1NjU4NjM4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15658638?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tensorflow",
+        "html_url": "https://github.com/tensorflow",
+        "followers_url": "https://api.github.com/users/tensorflow/followers",
+        "following_url": "https://api.github.com/users/tensorflow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tensorflow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tensorflow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tensorflow/subscriptions",
+        "organizations_url": "https://api.github.com/users/tensorflow/orgs",
+        "repos_url": "https://api.github.com/users/tensorflow/repos",
+        "events_url": "https://api.github.com/users/tensorflow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tensorflow/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/tensorflow/models",
+    "description": "Models and examples built with TensorFlow",
+    "fork": false,
+    "url": "https://api.github.com/repos/tensorflow/models",
+    "forks_url": "https://api.github.com/repos/tensorflow/models/forks",
+    "keys_url": "https://api.github.com/repos/tensorflow/models/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/tensorflow/models/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/tensorflow/models/teams",
+    "hooks_url": "https://api.github.com/repos/tensorflow/models/hooks",
+    "issue_events_url": "https://api.github.com/repos/tensorflow/models/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/tensorflow/models/events",
+    "assignees_url": "https://api.github.com/repos/tensorflow/models/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/tensorflow/models/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/tensorflow/models/tags",
+    "blobs_url": "https://api.github.com/repos/tensorflow/models/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/tensorflow/models/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/tensorflow/models/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/tensorflow/models/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/tensorflow/models/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/tensorflow/models/languages",
+    "stargazers_url": "https://api.github.com/repos/tensorflow/models/stargazers",
+    "contributors_url": "https://api.github.com/repos/tensorflow/models/contributors",
+    "subscribers_url": "https://api.github.com/repos/tensorflow/models/subscribers",
+    "subscription_url": "https://api.github.com/repos/tensorflow/models/subscription",
+    "commits_url": "https://api.github.com/repos/tensorflow/models/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/tensorflow/models/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/tensorflow/models/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/tensorflow/models/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/tensorflow/models/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/tensorflow/models/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/tensorflow/models/merges",
+    "archive_url": "https://api.github.com/repos/tensorflow/models/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/tensorflow/models/downloads",
+    "issues_url": "https://api.github.com/repos/tensorflow/models/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/tensorflow/models/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/tensorflow/models/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/tensorflow/models/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/tensorflow/models/labels{/name}",
+    "releases_url": "https://api.github.com/repos/tensorflow/models/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/tensorflow/models/deployments",
+    "created_at": "2016-02-05T01:15:20Z",
+    "updated_at": "2025-01-25T14:57:37Z",
+    "pushed_at": "2025-01-23T21:28:25Z",
+    "git_url": "git://github.com/tensorflow/models.git",
+    "ssh_url": "git@github.com:tensorflow/models.git",
+    "clone_url": "https://github.com/tensorflow/models.git",
+    "svn_url": "https://github.com/tensorflow/models",
+    "homepage": "",
+    "size": 637750,
+    "stargazers_count": 77322,
+    "watchers_count": 77322,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 45705,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1246,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 45705,
+    "open_issues": 1246,
+    "watchers": 77322,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.18.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.18.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.18.0",
+            "commit": {
+                "sha": "8c2f036b26c70ffa102b00d370e8c62fbcf14ba0",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/8c2f036b26c70ffa102b00d370e8c62fbcf14ba0"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE4LjA="
+        },
+        {
+            "name": "v2.18.0_no_deps",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.18.0_no_deps",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.18.0_no_deps",
+            "commit": {
+                "sha": "b9d00fc0037304b4886487afbd1348971edf02ed",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/b9d00fc0037304b4886487afbd1348971edf02ed"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE4LjBfbm9fZGVwcw=="
+        },
+        {
+            "name": "v2.17.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.17.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.17.0",
+            "commit": {
+                "sha": "5b780e439e555a989b38d41c6c64e51014d71023",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/5b780e439e555a989b38d41c6c64e51014d71023"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE3LjA="
+        },
+        {
+            "name": "v2.17.0_no_deps",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.17.0_no_deps",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.17.0_no_deps",
+            "commit": {
+                "sha": "c5a18558b662b89781aa158ec79db8c2017c015a",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/c5a18558b662b89781aa158ec79db8c2017c015a"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE3LjBfbm9fZGVwcw=="
+        },
+        {
+            "name": "v2.17.0-no-deps-rc0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.17.0-no-deps-rc0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.17.0-no-deps-rc0",
+            "commit": {
+                "sha": "267e679536a74290e8e33ea30e0021b483aa2496",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/267e679536a74290e8e33ea30e0021b483aa2496"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE3LjAtbm8tZGVwcy1yYzA="
+        },
+        {
+            "name": "v2.16.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.16.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.16.0",
+            "commit": {
+                "sha": "47177eb11128d7f75f165530ab472fc36904e07a",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/47177eb11128d7f75f165530ab472fc36904e07a"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE2LjA="
+        },
+        {
+            "name": "v2.16.0-no-deps",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.16.0-no-deps",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.16.0-no-deps",
+            "commit": {
+                "sha": "58739814cab66f9dd17f36401868558f29013677",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/58739814cab66f9dd17f36401868558f29013677"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE2LjAtbm8tZGVwcw=="
+        },
+        {
+            "name": "v2.15.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.15.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.15.0",
+            "commit": {
+                "sha": "2a00ddbb0bfc857da946c1780bbd65eb662c2119",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/2a00ddbb0bfc857da946c1780bbd65eb662c2119"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE1LjA="
+        },
+        {
+            "name": "v2.14.2",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.14.2",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.14.2",
+            "commit": {
+                "sha": "55618e2ec190adf409916d61c5092836670c710e",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/55618e2ec190adf409916d61c5092836670c710e"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE0LjI="
+        },
+        {
+            "name": "v2.14.1",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.14.1",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.14.1",
+            "commit": {
+                "sha": "36a57d2782e8441ef778104be2d1b7fd803ba7ca",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/36a57d2782e8441ef778104be2d1b7fd803ba7ca"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE0LjE="
+        },
+        {
+            "name": "v2.14.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.14.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.14.0",
+            "commit": {
+                "sha": "7c9166c750328643a9b0840c15250ae3b22dda1c",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/7c9166c750328643a9b0840c15250ae3b22dda1c"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjE0LjA="
+        },
+        {
+            "name": "v2.13.2",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.13.2",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.13.2",
+            "commit": {
+                "sha": "70487b52b34119d0ad0d94be113cd56124ab7dc0",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/70487b52b34119d0ad0d94be113cd56124ab7dc0"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEzLjI="
+        },
+        {
+            "name": "v2.13.1",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.13.1",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.13.1",
+            "commit": {
+                "sha": "7b59565a397115680e89bf2fa5d0c80b565c3f85",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/7b59565a397115680e89bf2fa5d0c80b565c3f85"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEzLjE="
+        },
+        {
+            "name": "v2.13.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.13.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.13.0",
+            "commit": {
+                "sha": "6db73770b90aca5e8110478aed79b0fc5d06355c",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/6db73770b90aca5e8110478aed79b0fc5d06355c"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEzLjA="
+        },
+        {
+            "name": "v2.12.1",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.12.1",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.12.1",
+            "commit": {
+                "sha": "0ff8e35ebde18b15f4d8ddcf12e9803bc6eb2ca0",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/0ff8e35ebde18b15f4d8ddcf12e9803bc6eb2ca0"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEyLjE="
+        },
+        {
+            "name": "v2.12.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.12.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.12.0",
+            "commit": {
+                "sha": "9fb4a4fbcd888616586ceffa1b8806ffe1126f54",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/9fb4a4fbcd888616586ceffa1b8806ffe1126f54"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEyLjA="
+        },
+        {
+            "name": "v2.11.6",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11.6",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11.6",
+            "commit": {
+                "sha": "32853cc60f698110032d62d57bd3c6983a49265b",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/32853cc60f698110032d62d57bd3c6983a49265b"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjExLjY="
+        },
+        {
+            "name": "v2.11.5",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11.5",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11.5",
+            "commit": {
+                "sha": "c978d1871fd344d47b0229027d49c3ad8f8311f2",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/c978d1871fd344d47b0229027d49c3ad8f8311f2"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjExLjU="
+        },
+        {
+            "name": "v2.11.4",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11.4",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11.4",
+            "commit": {
+                "sha": "a3fc65689fc4fb91075075b68c1fc7bbb4a9bd8c",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/a3fc65689fc4fb91075075b68c1fc7bbb4a9bd8c"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjExLjQ="
+        },
+        {
+            "name": "v2.11.3",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11.3",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11.3",
+            "commit": {
+                "sha": "fc0a5072212ba9b4b3b44a31b0f0845bbe153b0c",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/fc0a5072212ba9b4b3b44a31b0f0845bbe153b0c"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjExLjM="
+        },
+        {
+            "name": "v2.11.2",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11.2",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11.2",
+            "commit": {
+                "sha": "1a6bc1714758604151aa635b0030d7ee56cd64db",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/1a6bc1714758604151aa635b0030d7ee56cd64db"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjExLjI="
+        },
+        {
+            "name": "v2.11.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11.0",
+            "commit": {
+                "sha": "71060f676698a10ac9233c83b5caa2249e4ae93e",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/71060f676698a10ac9233c83b5caa2249e4ae93e"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjExLjA="
+        },
+        {
+            "name": "v2.11",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.11",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.11",
+            "commit": {
+                "sha": "71060f676698a10ac9233c83b5caa2249e4ae93e",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/71060f676698a10ac9233c83b5caa2249e4ae93e"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEx"
+        },
+        {
+            "name": "v2.10.1",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.10.1",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.10.1",
+            "commit": {
+                "sha": "1d2b3ca8a2e337ecd2a83095a698bcb128b5740b",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/1d2b3ca8a2e337ecd2a83095a698bcb128b5740b"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEwLjE="
+        },
+        {
+            "name": "v2.10.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.10.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.10.0",
+            "commit": {
+                "sha": "dc3c6706f09fef813978ec5efe608aa3af00022c",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/dc3c6706f09fef813978ec5efe608aa3af00022c"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjEwLjA="
+        },
+        {
+            "name": "v2.9.2",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.9.2",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.9.2",
+            "commit": {
+                "sha": "675d264692f74b8ba1c9cedee1e5f8828f812206",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/675d264692f74b8ba1c9cedee1e5f8828f812206"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjkuMg=="
+        },
+        {
+            "name": "v2.9.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.9.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.9.0",
+            "commit": {
+                "sha": "9537373ae58231dc2c5402913ede97c9dd0c4786",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/9537373ae58231dc2c5402913ede97c9dd0c4786"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjkuMA=="
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "f5fc733a4e49c398ed22732b064abd33099a742f",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/f5fc733a4e49c398ed22732b064abd33099a742f"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjguMA=="
+        },
+        {
+            "name": "v2.7.2",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.7.2",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.7.2",
+            "commit": {
+                "sha": "aa0191f6aed34c0e5d5dcd5ecff0fdcfefe73422",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/aa0191f6aed34c0e5d5dcd5ecff0fdcfefe73422"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjcuMg=="
+        },
+        {
+            "name": "v2.7.1",
+            "zipball_url": "https://api.github.com/repos/tensorflow/models/zipball/refs/tags/v2.7.1",
+            "tarball_url": "https://api.github.com/repos/tensorflow/models/tarball/refs/tags/v2.7.1",
+            "commit": {
+                "sha": "6845172441c6e09775d4ba904b467b811c04b897",
+                "url": "https://api.github.com/repos/tensorflow/models/commits/6845172441c6e09775d4ba904b467b811c04b897"
+            },
+            "node_id": "MDM6UmVmNTExMTc4Mzc6cmVmcy90YWdzL3YyLjcuMQ=="
+        }
+    ]
+}

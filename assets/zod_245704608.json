@@ -1,0 +1,423 @@
+{
+    "id": 245704608,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNDU3MDQ2MDg=",
+    "name": "zod",
+    "full_name": "colinhacks/zod",
+    "private": false,
+    "owner": {
+        "login": "colinhacks",
+        "id": 3084745,
+        "node_id": "MDQ6VXNlcjMwODQ3NDU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3084745?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/colinhacks",
+        "html_url": "https://github.com/colinhacks",
+        "followers_url": "https://api.github.com/users/colinhacks/followers",
+        "following_url": "https://api.github.com/users/colinhacks/following{/other_user}",
+        "gists_url": "https://api.github.com/users/colinhacks/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/colinhacks/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/colinhacks/subscriptions",
+        "organizations_url": "https://api.github.com/users/colinhacks/orgs",
+        "repos_url": "https://api.github.com/users/colinhacks/repos",
+        "events_url": "https://api.github.com/users/colinhacks/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/colinhacks/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "fork": false,
+    "url": "https://api.github.com/repos/colinhacks/zod",
+    "forks_url": "https://api.github.com/repos/colinhacks/zod/forks",
+    "keys_url": "https://api.github.com/repos/colinhacks/zod/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/colinhacks/zod/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/colinhacks/zod/teams",
+    "hooks_url": "https://api.github.com/repos/colinhacks/zod/hooks",
+    "issue_events_url": "https://api.github.com/repos/colinhacks/zod/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/colinhacks/zod/events",
+    "assignees_url": "https://api.github.com/repos/colinhacks/zod/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/colinhacks/zod/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/colinhacks/zod/tags",
+    "blobs_url": "https://api.github.com/repos/colinhacks/zod/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/colinhacks/zod/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/colinhacks/zod/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/colinhacks/zod/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/colinhacks/zod/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/colinhacks/zod/languages",
+    "stargazers_url": "https://api.github.com/repos/colinhacks/zod/stargazers",
+    "contributors_url": "https://api.github.com/repos/colinhacks/zod/contributors",
+    "subscribers_url": "https://api.github.com/repos/colinhacks/zod/subscribers",
+    "subscription_url": "https://api.github.com/repos/colinhacks/zod/subscription",
+    "commits_url": "https://api.github.com/repos/colinhacks/zod/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/colinhacks/zod/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/colinhacks/zod/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/colinhacks/zod/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/colinhacks/zod/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/colinhacks/zod/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/colinhacks/zod/merges",
+    "archive_url": "https://api.github.com/repos/colinhacks/zod/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/colinhacks/zod/downloads",
+    "issues_url": "https://api.github.com/repos/colinhacks/zod/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/colinhacks/zod/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/colinhacks/zod/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/colinhacks/zod/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/colinhacks/zod/labels{/name}",
+    "releases_url": "https://api.github.com/repos/colinhacks/zod/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/colinhacks/zod/deployments",
+    "created_at": "2020-03-07T20:59:08Z",
+    "updated_at": "2025-01-25T16:41:37Z",
+    "pushed_at": "2025-01-24T22:25:27Z",
+    "git_url": "git://github.com/colinhacks/zod.git",
+    "ssh_url": "git@github.com:colinhacks/zod.git",
+    "clone_url": "https://github.com/colinhacks/zod.git",
+    "svn_url": "https://github.com/colinhacks/zod",
+    "homepage": "https://zod.dev",
+    "size": 11091,
+    "stargazers_count": 35194,
+    "watchers_count": 35194,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1237,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 535,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "runtime-validation",
+        "schema-validation",
+        "static-types",
+        "type-inference",
+        "typescript"
+    ],
+    "visibility": "public",
+    "forks": 1237,
+    "open_issues": 535,
+    "watchers": 35194,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.24.1",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.24.1",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.24.1",
+            "commit": {
+                "sha": "65adeeacef0274abbda5438470a3d2bfd376256d",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/65adeeacef0274abbda5438470a3d2bfd376256d"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yNC4x"
+        },
+        {
+            "name": "v3.24.0",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.24.0",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.24.0",
+            "commit": {
+                "sha": "b333f96886d01d1f7959aba8a7e4876508b79d79",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/b333f96886d01d1f7959aba8a7e4876508b79d79"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yNC4w"
+        },
+        {
+            "name": "v3.23.8",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.8",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.8",
+            "commit": {
+                "sha": "ca42965df46b2f7e2747db29c40a26bcb32a51d5",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/ca42965df46b2f7e2747db29c40a26bcb32a51d5"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy44"
+        },
+        {
+            "name": "v3.23.7",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.7",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.7",
+            "commit": {
+                "sha": "f985b5b922cb357dbf4b25bb43814d19f838e046",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/f985b5b922cb357dbf4b25bb43814d19f838e046"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy43"
+        },
+        {
+            "name": "v3.23.6",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.6",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.6",
+            "commit": {
+                "sha": "93b480b12ec3466cbd3b4182f7ce292e5c61528c",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/93b480b12ec3466cbd3b4182f7ce292e5c61528c"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy42"
+        },
+        {
+            "name": "v3.23.5",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.5",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.5",
+            "commit": {
+                "sha": "541a862e978f96eb391849a6bf16be84231aa1b3",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/541a862e978f96eb391849a6bf16be84231aa1b3"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy41"
+        },
+        {
+            "name": "v3.23.4",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.4",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.4",
+            "commit": {
+                "sha": "45107f7a7230fe48ee24dc37e621422c9dc64ec4",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/45107f7a7230fe48ee24dc37e621422c9dc64ec4"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy40"
+        },
+        {
+            "name": "v3.23.3",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.3",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.3",
+            "commit": {
+                "sha": "103d2436f85872ca0e0e6247652989cc93d46a39",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/103d2436f85872ca0e0e6247652989cc93d46a39"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy4z"
+        },
+        {
+            "name": "v3.23.2",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.2",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.2",
+            "commit": {
+                "sha": "9df70dd71195df951c43f180fbe5e64ea1f835df",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/9df70dd71195df951c43f180fbe5e64ea1f835df"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy4y"
+        },
+        {
+            "name": "v3.23.1",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.1",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.1",
+            "commit": {
+                "sha": "2ff5ceb428634de0ea4501495039c05a8e95b60a",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/2ff5ceb428634de0ea4501495039c05a8e95b60a"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy4x"
+        },
+        {
+            "name": "v3.23.0",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.0",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.0",
+            "commit": {
+                "sha": "39a588a35fd4a636b94f56bf7e45b0e1e35c4c8d",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/39a588a35fd4a636b94f56bf7e45b0e1e35c4c8d"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy4w"
+        },
+        {
+            "name": "v3.23.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.23.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.23.0-beta.0",
+            "commit": {
+                "sha": "579ecb2ef1581853373cf5cddc3d82a24fca9975",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/579ecb2ef1581853373cf5cddc3d82a24fca9975"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMy4wLWJldGEuMA=="
+        },
+        {
+            "name": "v3.22.4",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.22.4",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.22.4",
+            "commit": {
+                "sha": "e7a9b9b3033991be6b4225f1be21da39c250bbb0",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/e7a9b9b3033991be6b4225f1be21da39c250bbb0"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMi40"
+        },
+        {
+            "name": "v3.22.3",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.22.3",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.22.3",
+            "commit": {
+                "sha": "1e61d76cdec05de9271fc0df58798ddf9ce94923",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/1e61d76cdec05de9271fc0df58798ddf9ce94923"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMi4z"
+        },
+        {
+            "name": "v3.22.2",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.22.2",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.22.2",
+            "commit": {
+                "sha": "792b3ef0d41c144cd10641c6966b98dae1222d82",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/792b3ef0d41c144cd10641c6966b98dae1222d82"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMi4y"
+        },
+        {
+            "name": "v3.22.1",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.22.1",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.22.1",
+            "commit": {
+                "sha": "0a055e726ac210ef6efc69aa70cd2491767f6060",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/0a055e726ac210ef6efc69aa70cd2491767f6060"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMi4x"
+        },
+        {
+            "name": "v3.22.0",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.22.0",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.22.0",
+            "commit": {
+                "sha": "fba438cddea800b081a15aefc8b1efea2eccf7af",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/fba438cddea800b081a15aefc8b1efea2eccf7af"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMi4w"
+        },
+        {
+            "name": "v3.21.4",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.21.4",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.21.4",
+            "commit": {
+                "sha": "22f3cc6ed52a28c984a0319a1a03e1af244cee02",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/22f3cc6ed52a28c984a0319a1a03e1af244cee02"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMS40"
+        },
+        {
+            "name": "v3.21.3",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.21.3",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.21.3",
+            "commit": {
+                "sha": "2db0dcadc961fd57f7f10f9d9f55d67e6d040342",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/2db0dcadc961fd57f7f10f9d9f55d67e6d040342"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMS4z"
+        },
+        {
+            "name": "v3.21.2",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.21.2",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.21.2",
+            "commit": {
+                "sha": "ac0135e00df75abd57a93a4816fe0fdaa31e94e8",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/ac0135e00df75abd57a93a4816fe0fdaa31e94e8"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMS4y"
+        },
+        {
+            "name": "v3.21.1",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.21.1",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.21.1",
+            "commit": {
+                "sha": "942e2db8e51d580f4e3cd8c4c4af8bc6aecf4130",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/942e2db8e51d580f4e3cd8c4c4af8bc6aecf4130"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMS4x"
+        },
+        {
+            "name": "v3.21.0",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.21.0",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.21.0",
+            "commit": {
+                "sha": "0aa6021ef3628bb39715bdda416be2c6a4951141",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/0aa6021ef3628bb39715bdda416be2c6a4951141"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMS4w"
+        },
+        {
+            "name": "v3.20.6",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.6",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.6",
+            "commit": {
+                "sha": "e6939195fbb5191402ba3d6f5b7aade463de6e51",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/e6939195fbb5191402ba3d6f5b7aade463de6e51"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC42"
+        },
+        {
+            "name": "v3.20.5",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.5",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.5",
+            "commit": {
+                "sha": "e71c7be15e393e0932aa3c939d061f8444f6ae29",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/e71c7be15e393e0932aa3c939d061f8444f6ae29"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC41"
+        },
+        {
+            "name": "v3.20.4",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.4",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.4",
+            "commit": {
+                "sha": "c8ce27e8c0378856964cf8892c6102bde63fa0cb",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/c8ce27e8c0378856964cf8892c6102bde63fa0cb"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC40"
+        },
+        {
+            "name": "v3.20.3",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.3",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.3",
+            "commit": {
+                "sha": "fee81caea0227502b3b2477ec6a7fd662122ded2",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/fee81caea0227502b3b2477ec6a7fd662122ded2"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC4z"
+        },
+        {
+            "name": "v3.20.2",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.2",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.2",
+            "commit": {
+                "sha": "c9e4ed4095d77f5b43a5ba11d8f76b56ea48e5c6",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/c9e4ed4095d77f5b43a5ba11d8f76b56ea48e5c6"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC4y"
+        },
+        {
+            "name": "v3.20.1",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.1",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.1",
+            "commit": {
+                "sha": "1161b8f77e8ef120f9a0fca6e1ca223538d8ffc4",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/1161b8f77e8ef120f9a0fca6e1ca223538d8ffc4"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC4x"
+        },
+        {
+            "name": "v3.20.0",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20.0",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20.0",
+            "commit": {
+                "sha": "0ffeb4db4ef6b3692317a8ce7264cfce02287d0a",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/0ffeb4db4ef6b3692317a8ce7264cfce02287d0a"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMC4w"
+        },
+        {
+            "name": "v3.20",
+            "zipball_url": "https://api.github.com/repos/colinhacks/zod/zipball/refs/tags/v3.20",
+            "tarball_url": "https://api.github.com/repos/colinhacks/zod/tarball/refs/tags/v3.20",
+            "commit": {
+                "sha": "f19c0f2cba109d0eeadfbe1f85ebc71b5b697abe",
+                "url": "https://api.github.com/repos/colinhacks/zod/commits/f19c0f2cba109d0eeadfbe1f85ebc71b5b697abe"
+            },
+            "node_id": "MDM6UmVmMjQ1NzA0NjA4OnJlZnMvdGFncy92My4yMA=="
+        }
+    ]
+}

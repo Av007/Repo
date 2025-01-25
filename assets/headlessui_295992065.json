@@ -1,0 +1,426 @@
+{
+    "id": 295992065,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyOTU5OTIwNjU=",
+    "name": "headlessui",
+    "full_name": "tailwindlabs/headlessui",
+    "private": false,
+    "owner": {
+        "login": "tailwindlabs",
+        "id": 67109815,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3MTA5ODE1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/67109815?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tailwindlabs",
+        "html_url": "https://github.com/tailwindlabs",
+        "followers_url": "https://api.github.com/users/tailwindlabs/followers",
+        "following_url": "https://api.github.com/users/tailwindlabs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tailwindlabs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tailwindlabs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tailwindlabs/subscriptions",
+        "organizations_url": "https://api.github.com/users/tailwindlabs/orgs",
+        "repos_url": "https://api.github.com/users/tailwindlabs/repos",
+        "events_url": "https://api.github.com/users/tailwindlabs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tailwindlabs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "fork": false,
+    "url": "https://api.github.com/repos/tailwindlabs/headlessui",
+    "forks_url": "https://api.github.com/repos/tailwindlabs/headlessui/forks",
+    "keys_url": "https://api.github.com/repos/tailwindlabs/headlessui/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/tailwindlabs/headlessui/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/tailwindlabs/headlessui/teams",
+    "hooks_url": "https://api.github.com/repos/tailwindlabs/headlessui/hooks",
+    "issue_events_url": "https://api.github.com/repos/tailwindlabs/headlessui/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/tailwindlabs/headlessui/events",
+    "assignees_url": "https://api.github.com/repos/tailwindlabs/headlessui/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/tailwindlabs/headlessui/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/tailwindlabs/headlessui/tags",
+    "blobs_url": "https://api.github.com/repos/tailwindlabs/headlessui/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/tailwindlabs/headlessui/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/tailwindlabs/headlessui/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/tailwindlabs/headlessui/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/tailwindlabs/headlessui/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/tailwindlabs/headlessui/languages",
+    "stargazers_url": "https://api.github.com/repos/tailwindlabs/headlessui/stargazers",
+    "contributors_url": "https://api.github.com/repos/tailwindlabs/headlessui/contributors",
+    "subscribers_url": "https://api.github.com/repos/tailwindlabs/headlessui/subscribers",
+    "subscription_url": "https://api.github.com/repos/tailwindlabs/headlessui/subscription",
+    "commits_url": "https://api.github.com/repos/tailwindlabs/headlessui/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/tailwindlabs/headlessui/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/tailwindlabs/headlessui/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/tailwindlabs/headlessui/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/tailwindlabs/headlessui/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/tailwindlabs/headlessui/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/tailwindlabs/headlessui/merges",
+    "archive_url": "https://api.github.com/repos/tailwindlabs/headlessui/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/tailwindlabs/headlessui/downloads",
+    "issues_url": "https://api.github.com/repos/tailwindlabs/headlessui/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/tailwindlabs/headlessui/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/tailwindlabs/headlessui/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/tailwindlabs/headlessui/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/tailwindlabs/headlessui/labels{/name}",
+    "releases_url": "https://api.github.com/repos/tailwindlabs/headlessui/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/tailwindlabs/headlessui/deployments",
+    "created_at": "2020-09-16T09:53:09Z",
+    "updated_at": "2025-01-25T16:07:26Z",
+    "pushed_at": "2024-12-12T16:41:03Z",
+    "git_url": "git://github.com/tailwindlabs/headlessui.git",
+    "ssh_url": "git@github.com:tailwindlabs/headlessui.git",
+    "clone_url": "https://github.com/tailwindlabs/headlessui.git",
+    "svn_url": "https://github.com/tailwindlabs/headlessui",
+    "homepage": "https://headlessui.com",
+    "size": 6491,
+    "stargazers_count": 26643,
+    "watchers_count": 26643,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1098,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 106,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "a11y",
+        "accessibility",
+        "components",
+        "headless-ui",
+        "headlessui",
+        "react",
+        "tailwindcss",
+        "vue"
+    ],
+    "visibility": "public",
+    "forks": 1098,
+    "open_issues": 106,
+    "watchers": 26643,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.0.2",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/v0.0.2",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/v0.0.2",
+            "commit": {
+                "sha": "533a81a11520a620b54e45d4d04aff8b268edd00",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/533a81a11520a620b54e45d4d04aff8b268edd00"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy92MC4wLjI="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.23",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.23",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.23",
+            "commit": {
+                "sha": "2a46945675c4b52d7b73e1ed612cf70605e2b576",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/2a46945675c4b52d7b73e1ed612cf70605e2b576"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4yMw=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.22",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.22",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.22",
+            "commit": {
+                "sha": "7004a25753cb4ba36756245d52b1da11f4eddb28",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/7004a25753cb4ba36756245d52b1da11f4eddb28"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4yMg=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.21",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.21",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.21",
+            "commit": {
+                "sha": "7ebeaab3ffedbbd253109a4dbc5db2ac6fe776f5",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/7ebeaab3ffedbbd253109a4dbc5db2ac6fe776f5"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4yMQ=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.20",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.20",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.20",
+            "commit": {
+                "sha": "be9522777bfdec5810111ae7443c548b7340724c",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/be9522777bfdec5810111ae7443c548b7340724c"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4yMA=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.19",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.19",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.19",
+            "commit": {
+                "sha": "b2300caba3ac5f6c03a33cad87fa1f69b3699c3c",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/b2300caba3ac5f6c03a33cad87fa1f69b3699c3c"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xOQ=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.18",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.18",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.18",
+            "commit": {
+                "sha": "9cd8f7bb7efe957d2d139e3ffbc29717f04ed3b2",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/9cd8f7bb7efe957d2d139e3ffbc29717f04ed3b2"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xOA=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.17",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.17",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.17",
+            "commit": {
+                "sha": "d5c2c0a85f84b4f597089e814d5315509b52090f",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/d5c2c0a85f84b4f597089e814d5315509b52090f"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xNw=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.16",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.16",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.16",
+            "commit": {
+                "sha": "8505d7a944684dc17679e131949122d4656ef9c2",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/8505d7a944684dc17679e131949122d4656ef9c2"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xNg=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.15",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.15",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.15",
+            "commit": {
+                "sha": "e4fc1b0836f361d7173145e9d68a0ce74881129c",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/e4fc1b0836f361d7173145e9d68a0ce74881129c"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xNQ=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.14",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.14",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.14",
+            "commit": {
+                "sha": "14b8c5622661b985903371532dd0d116d6517aba",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/14b8c5622661b985903371532dd0d116d6517aba"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xNA=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.13",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.13",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.13",
+            "commit": {
+                "sha": "095ec18f6cedf19a1db66e13e110cb65c61bdd82",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/095ec18f6cedf19a1db66e13e110cb65c61bdd82"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xMw=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.12",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.12",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.12",
+            "commit": {
+                "sha": "9a7dcfc76d9d3c748dc75f83e398d0ab5d36e0fc",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/9a7dcfc76d9d3c748dc75f83e398d0ab5d36e0fc"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xMg=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.11",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.11",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.11",
+            "commit": {
+                "sha": "7794d563e181787e995db1f877cd26c460e385ee",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/7794d563e181787e995db1f877cd26c460e385ee"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xMQ=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.10",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.10",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.10",
+            "commit": {
+                "sha": "d6d6c20432c1e9fe5485559c5c4fe390e50b2c64",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/d6d6c20432c1e9fe5485559c5c4fe390e50b2c64"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4xMA=="
+        },
+        {
+            "name": "@headlessui/vue@v1.7.9",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.9",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.9",
+            "commit": {
+                "sha": "fc908a1034fdda4a6d6a7746e76d7bd9d53d7414",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/fc908a1034fdda4a6d6a7746e76d7bd9d53d7414"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy45"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.8",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.8",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.8",
+            "commit": {
+                "sha": "63fb14d28f98d145c703619e58eb0b5d1c8c07ea",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/63fb14d28f98d145c703619e58eb0b5d1c8c07ea"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy44"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.7",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.7",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.7",
+            "commit": {
+                "sha": "404c5093e86096feb928b91113987b485b0b9826",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/404c5093e86096feb928b91113987b485b0b9826"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy43"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.6",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.6",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.6",
+            "commit": {
+                "sha": "79818fc75ae6389124a7780fd9bb572b9c26a2e9",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/79818fc75ae6389124a7780fd9bb572b9c26a2e9"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy42"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.5",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.5",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.5",
+            "commit": {
+                "sha": "426cbf34c50252932f4e26a954226539316ca8bc",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/426cbf34c50252932f4e26a954226539316ca8bc"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy41"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.4",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.4",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.4",
+            "commit": {
+                "sha": "74e7b43781770c393b6d088c0c8ac835338dd7af",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/74e7b43781770c393b6d088c0c8ac835338dd7af"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy40"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.3",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.3",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.3",
+            "commit": {
+                "sha": "fdccf0767a6ef54beafef0acadb5439ba35fe2a5",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/fdccf0767a6ef54beafef0acadb5439ba35fe2a5"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4z"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.2",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.2",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.2",
+            "commit": {
+                "sha": "dd2feefb9ec5ae6148fb471e56dc639a100b01c9",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/dd2feefb9ec5ae6148fb471e56dc639a100b01c9"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4y"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.1",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.1",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.1",
+            "commit": {
+                "sha": "e926d693c5611759af074385636213a5f886821a",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/e926d693c5611759af074385636213a5f886821a"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4x"
+        },
+        {
+            "name": "@headlessui/vue@v1.7.0",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.7.0",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.7.0",
+            "commit": {
+                "sha": "b93b7463bc403b1be7cbda4f0c9b5e1ded4b967c",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/b93b7463bc403b1be7cbda4f0c9b5e1ded4b967c"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNy4w"
+        },
+        {
+            "name": "@headlessui/vue@v1.6.7",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.6.7",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.6.7",
+            "commit": {
+                "sha": "0bdd4b472e6b8f2af092f0a839d00b9077bfb923",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/0bdd4b472e6b8f2af092f0a839d00b9077bfb923"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNi43"
+        },
+        {
+            "name": "@headlessui/vue@v1.6.6",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.6.6",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.6.6",
+            "commit": {
+                "sha": "3799d6f438b6c0fac17b1e803f9cc5bc4c4c8e0d",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/3799d6f438b6c0fac17b1e803f9cc5bc4c4c8e0d"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNi42"
+        },
+        {
+            "name": "@headlessui/vue@v1.6.5",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.6.5",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.6.5",
+            "commit": {
+                "sha": "f4d1acb5d7ddd352b48634a7806b8e591d9be88f",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/f4d1acb5d7ddd352b48634a7806b8e591d9be88f"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNi41"
+        },
+        {
+            "name": "@headlessui/vue@v1.6.4",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.6.4",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.6.4",
+            "commit": {
+                "sha": "655107962f01af2758668dbebc62cb03fe88d243",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/655107962f01af2758668dbebc62cb03fe88d243"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNi40"
+        },
+        {
+            "name": "@headlessui/vue@v1.6.3",
+            "zipball_url": "https://api.github.com/repos/tailwindlabs/headlessui/zipball/refs/tags/@headlessui/vue@v1.6.3",
+            "tarball_url": "https://api.github.com/repos/tailwindlabs/headlessui/tarball/refs/tags/@headlessui/vue@v1.6.3",
+            "commit": {
+                "sha": "3c3236985134060bc945c3508c96bfa70bbe06c2",
+                "url": "https://api.github.com/repos/tailwindlabs/headlessui/commits/3c3236985134060bc945c3508c96bfa70bbe06c2"
+            },
+            "node_id": "MDM6UmVmMjk1OTkyMDY1OnJlZnMvdGFncy9AaGVhZGxlc3N1aS92dWVAdjEuNi4z"
+        }
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "id": 523043277,
+    "node_id": "R_kgDOHy0BzQ",
+    "name": "ruff",
+    "full_name": "astral-sh/ruff",
+    "private": false,
+    "owner": {
+        "login": "astral-sh",
+        "id": 115962839,
+        "node_id": "O_kgDOBulz1w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/115962839?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/astral-sh",
+        "html_url": "https://github.com/astral-sh",
+        "followers_url": "https://api.github.com/users/astral-sh/followers",
+        "following_url": "https://api.github.com/users/astral-sh/following{/other_user}",
+        "gists_url": "https://api.github.com/users/astral-sh/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/astral-sh/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/astral-sh/subscriptions",
+        "organizations_url": "https://api.github.com/users/astral-sh/orgs",
+        "repos_url": "https://api.github.com/users/astral-sh/repos",
+        "events_url": "https://api.github.com/users/astral-sh/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/astral-sh/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "fork": false,
+    "url": "https://api.github.com/repos/astral-sh/ruff",
+    "forks_url": "https://api.github.com/repos/astral-sh/ruff/forks",
+    "keys_url": "https://api.github.com/repos/astral-sh/ruff/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/astral-sh/ruff/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/astral-sh/ruff/teams",
+    "hooks_url": "https://api.github.com/repos/astral-sh/ruff/hooks",
+    "issue_events_url": "https://api.github.com/repos/astral-sh/ruff/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/astral-sh/ruff/events",
+    "assignees_url": "https://api.github.com/repos/astral-sh/ruff/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/astral-sh/ruff/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/astral-sh/ruff/tags",
+    "blobs_url": "https://api.github.com/repos/astral-sh/ruff/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/astral-sh/ruff/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/astral-sh/ruff/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/astral-sh/ruff/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/astral-sh/ruff/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/astral-sh/ruff/languages",
+    "stargazers_url": "https://api.github.com/repos/astral-sh/ruff/stargazers",
+    "contributors_url": "https://api.github.com/repos/astral-sh/ruff/contributors",
+    "subscribers_url": "https://api.github.com/repos/astral-sh/ruff/subscribers",
+    "subscription_url": "https://api.github.com/repos/astral-sh/ruff/subscription",
+    "commits_url": "https://api.github.com/repos/astral-sh/ruff/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/astral-sh/ruff/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/astral-sh/ruff/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/astral-sh/ruff/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/astral-sh/ruff/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/astral-sh/ruff/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/astral-sh/ruff/merges",
+    "archive_url": "https://api.github.com/repos/astral-sh/ruff/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/astral-sh/ruff/downloads",
+    "issues_url": "https://api.github.com/repos/astral-sh/ruff/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/astral-sh/ruff/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/astral-sh/ruff/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/astral-sh/ruff/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/astral-sh/ruff/labels{/name}",
+    "releases_url": "https://api.github.com/repos/astral-sh/ruff/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/astral-sh/ruff/deployments",
+    "created_at": "2022-08-09T17:17:44Z",
+    "updated_at": "2025-01-25T16:55:06Z",
+    "pushed_at": "2025-01-25T16:50:56Z",
+    "git_url": "git://github.com/astral-sh/ruff.git",
+    "ssh_url": "git@github.com:astral-sh/ruff.git",
+    "clone_url": "https://github.com/astral-sh/ruff.git",
+    "svn_url": "https://github.com/astral-sh/ruff",
+    "homepage": "https://docs.astral.sh/ruff",
+    "size": 64197,
+    "stargazers_count": 34889,
+    "watchers_count": 34889,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1177,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1272,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "linter",
+        "pep8",
+        "python",
+        "python3",
+        "ruff",
+        "rust",
+        "rustpython",
+        "static-analysis",
+        "static-code-analysis",
+        "style-guide",
+        "styleguide"
+    ],
+    "visibility": "public",
+    "forks": 1177,
+    "open_issues": 1272,
+    "watchers": 34889,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.4.10",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.10",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.10",
+            "commit": {
+                "sha": "b54922fd7394c36cdc390fd21aaee99206ebc361",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/b54922fd7394c36cdc390fd21aaee99206ebc361"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuNC4xMA"
+        },
+        {
+            "name": "v0.4.9",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.9",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.9",
+            "commit": {
+                "sha": "4f49e918a9154de16145d77217a4af2b8ce38297",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/4f49e918a9154de16145d77217a4af2b8ce38297"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC45"
+        },
+        {
+            "name": "v0.4.8",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.8",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.8",
+            "commit": {
+                "sha": "a8cf7096ff1acbccf3af3aa37cd6e2170f1b1bc5",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/a8cf7096ff1acbccf3af3aa37cd6e2170f1b1bc5"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC44"
+        },
+        {
+            "name": "v0.4.7",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.7",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.7",
+            "commit": {
+                "sha": "1ad5f9c0382f5fa8ed4f38c972a3799be89a7172",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/1ad5f9c0382f5fa8ed4f38c972a3799be89a7172"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC43"
+        },
+        {
+            "name": "v0.4.6",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.6",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.6",
+            "commit": {
+                "sha": "49a5a9ccc2b6b8f69bb64f87d3a915aff47eb02a",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/49a5a9ccc2b6b8f69bb64f87d3a915aff47eb02a"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC42"
+        },
+        {
+            "name": "v0.4.5",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.5",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.5",
+            "commit": {
+                "sha": "550aa871d32b53a2f042fb0e7fea1080eadfa11d",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/550aa871d32b53a2f042fb0e7fea1080eadfa11d"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC41"
+        },
+        {
+            "name": "v0.4.4",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.4",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.4",
+            "commit": {
+                "sha": "3e8878a1c852399dffedb0236097afcfb4780b81",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/3e8878a1c852399dffedb0236097afcfb4780b81"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC40"
+        },
+        {
+            "name": "v0.4.3",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.3",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.3",
+            "commit": {
+                "sha": "1e91a0991828382f24e9306894ca23a186ed9635",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/1e91a0991828382f24e9306894ca23a186ed9635"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC4z"
+        },
+        {
+            "name": "v0.4.2",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.2",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.2",
+            "commit": {
+                "sha": "77c93fd63c1c072501d297082aa59c741b2d5466",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/77c93fd63c1c072501d297082aa59c741b2d5466"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC4y"
+        },
+        {
+            "name": "v0.4.1",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.1",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.1",
+            "commit": {
+                "sha": "0ff25a540c550d8d2f562844354f84eb292b9c4b",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/0ff25a540c550d8d2f562844354f84eb292b9c4b"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC4x"
+        },
+        {
+            "name": "v0.4.0",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.4.0",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.4.0",
+            "commit": {
+                "sha": "e751b4ea8260ff83723345d1c7d39d5c776cc8ff",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/e751b4ea8260ff83723345d1c7d39d5c776cc8ff"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuNC4w"
+        },
+        {
+            "name": "v0.3.7",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.7",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.7",
+            "commit": {
+                "sha": "2e37cf6b3b4b873ad9ffe9728bccdf134862b768",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/2e37cf6b3b4b873ad9ffe9728bccdf134862b768"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy43"
+        },
+        {
+            "name": "v0.3.6",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.6",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.6",
+            "commit": {
+                "sha": "4e8a84617c4f78b3ed86c3a09da4523ce44469d7",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/4e8a84617c4f78b3ed86c3a09da4523ce44469d7"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy42"
+        },
+        {
+            "name": "v0.3.5",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.5",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.5",
+            "commit": {
+                "sha": "200ebeebdc8ab8ee14f56922e21b218f41a5a7e4",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/200ebeebdc8ab8ee14f56922e21b218f41a5a7e4"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy41"
+        },
+        {
+            "name": "v0.3.4",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.4",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.4",
+            "commit": {
+                "sha": "5062572aca9413670aafd018cb65037bcb4d6acb",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/5062572aca9413670aafd018cb65037bcb4d6acb"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy40"
+        },
+        {
+            "name": "v0.3.3",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.3",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.3",
+            "commit": {
+                "sha": "608df9a1bc0e6025049add877d1d833f1739e966",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/608df9a1bc0e6025049add877d1d833f1739e966"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy4z"
+        },
+        {
+            "name": "v0.3.2",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.2",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.2",
+            "commit": {
+                "sha": "a892fc755d6d4342c2f5a768aa50a401d704ae2c",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/a892fc755d6d4342c2f5a768aa50a401d704ae2c"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy4y"
+        },
+        {
+            "name": "v0.3.1",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.1",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.1",
+            "commit": {
+                "sha": "b9264a5a11508642954dab6d4f2672b4acbbeaa4",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/b9264a5a11508642954dab6d4f2672b4acbbeaa4"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy4x"
+        },
+        {
+            "name": "v0.3.0",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.3.0",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.3.0",
+            "commit": {
+                "sha": "b53118ed0016ac37233d3dadbcea9ed3ac1f538e",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/b53118ed0016ac37233d3dadbcea9ed3ac1f538e"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMy4w"
+        },
+        {
+            "name": "v0.2.2",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.2.2",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.2.2",
+            "commit": {
+                "sha": "235cfb79769da2c435b9c88d8bae4a79f1234857",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/235cfb79769da2c435b9c88d8bae4a79f1234857"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMi4y"
+        },
+        {
+            "name": "v0.2.1",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.2.1",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.2.1",
+            "commit": {
+                "sha": "0ccca4083a533d28cb9f181974d787db22a8d315",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/0ccca4083a533d28cb9f181974d787db22a8d315"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMi4x"
+        },
+        {
+            "name": "v0.2.0",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.2.0",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.2.0",
+            "commit": {
+                "sha": "1fadefa67b26508cc59cf38e6130bde2243c929d",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/1fadefa67b26508cc59cf38e6130bde2243c929d"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMi4w"
+        },
+        {
+            "name": "v0.1.15",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.15",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.15",
+            "commit": {
+                "sha": "a7755d7a8df9a4fdcf3ef1a819be374ecb2fd384",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/a7755d7a8df9a4fdcf3ef1a819be374ecb2fd384"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuMS4xNQ"
+        },
+        {
+            "name": "v0.1.14",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.14",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.14",
+            "commit": {
+                "sha": "866bea60a5de3c59d2537b0f3a634ae0ac9afd94",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/866bea60a5de3c59d2537b0f3a634ae0ac9afd94"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuMS4xNA"
+        },
+        {
+            "name": "v0.1.13",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.13",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.13",
+            "commit": {
+                "sha": "d16c4a2d25a27dad1ef26c0e496471139adb4522",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/d16c4a2d25a27dad1ef26c0e496471139adb4522"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuMS4xMw"
+        },
+        {
+            "name": "v0.1.12",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.12",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.12",
+            "commit": {
+                "sha": "55f8f3b2cc64188393e978af8e80a7309714eda4",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/55f8f3b2cc64188393e978af8e80a7309714eda4"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuMS4xMg"
+        },
+        {
+            "name": "v0.1.11",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.11",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.11",
+            "commit": {
+                "sha": "fefc7e81999fb504f4024f9f108c8c9e02e743b7",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/fefc7e81999fb504f4024f9f108c8c9e02e743b7"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuMS4xMQ"
+        },
+        {
+            "name": "v0.1.10",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.10",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.10",
+            "commit": {
+                "sha": "2743387910d40bc107f2042527143a82d3b592a5",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/2743387910d40bc107f2042527143a82d3b592a5"
+            },
+            "node_id": "REF_kwDOHy0BzbFyZWZzL3RhZ3MvdjAuMS4xMA"
+        },
+        {
+            "name": "v0.1.9",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.9",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.9",
+            "commit": {
+                "sha": "0263f2715eba81aee471e3dd5a50ea5f9426cbb1",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/0263f2715eba81aee471e3dd5a50ea5f9426cbb1"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMS45"
+        },
+        {
+            "name": "v0.1.8",
+            "zipball_url": "https://api.github.com/repos/astral-sh/ruff/zipball/refs/tags/v0.1.8",
+            "tarball_url": "https://api.github.com/repos/astral-sh/ruff/tarball/refs/tags/v0.1.8",
+            "commit": {
+                "sha": "c014622003e9b348310d7b7be862f6ccffae7137",
+                "url": "https://api.github.com/repos/astral-sh/ruff/commits/c014622003e9b348310d7b7be862f6ccffae7137"
+            },
+            "node_id": "REF_kwDOHy0BzbByZWZzL3RhZ3MvdjAuMS44"
+        }
+    ]
+}

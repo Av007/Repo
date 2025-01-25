@@ -1,0 +1,417 @@
+{
+    "id": 14747598,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNDc0NzU5OA==",
+    "name": "json-server",
+    "full_name": "typicode/json-server",
+    "private": false,
+    "owner": {
+        "login": "typicode",
+        "id": 5502029,
+        "node_id": "MDQ6VXNlcjU1MDIwMjk=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5502029?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/typicode",
+        "html_url": "https://github.com/typicode",
+        "followers_url": "https://api.github.com/users/typicode/followers",
+        "following_url": "https://api.github.com/users/typicode/following{/other_user}",
+        "gists_url": "https://api.github.com/users/typicode/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/typicode/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/typicode/subscriptions",
+        "organizations_url": "https://api.github.com/users/typicode/orgs",
+        "repos_url": "https://api.github.com/users/typicode/repos",
+        "events_url": "https://api.github.com/users/typicode/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/typicode/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/typicode/json-server",
+    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+    "fork": false,
+    "url": "https://api.github.com/repos/typicode/json-server",
+    "forks_url": "https://api.github.com/repos/typicode/json-server/forks",
+    "keys_url": "https://api.github.com/repos/typicode/json-server/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/typicode/json-server/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/typicode/json-server/teams",
+    "hooks_url": "https://api.github.com/repos/typicode/json-server/hooks",
+    "issue_events_url": "https://api.github.com/repos/typicode/json-server/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/typicode/json-server/events",
+    "assignees_url": "https://api.github.com/repos/typicode/json-server/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/typicode/json-server/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/typicode/json-server/tags",
+    "blobs_url": "https://api.github.com/repos/typicode/json-server/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/typicode/json-server/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/typicode/json-server/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/typicode/json-server/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/typicode/json-server/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/typicode/json-server/languages",
+    "stargazers_url": "https://api.github.com/repos/typicode/json-server/stargazers",
+    "contributors_url": "https://api.github.com/repos/typicode/json-server/contributors",
+    "subscribers_url": "https://api.github.com/repos/typicode/json-server/subscribers",
+    "subscription_url": "https://api.github.com/repos/typicode/json-server/subscription",
+    "commits_url": "https://api.github.com/repos/typicode/json-server/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/typicode/json-server/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/typicode/json-server/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/typicode/json-server/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/typicode/json-server/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/typicode/json-server/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/typicode/json-server/merges",
+    "archive_url": "https://api.github.com/repos/typicode/json-server/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/typicode/json-server/downloads",
+    "issues_url": "https://api.github.com/repos/typicode/json-server/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/typicode/json-server/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/typicode/json-server/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/typicode/json-server/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/typicode/json-server/labels{/name}",
+    "releases_url": "https://api.github.com/repos/typicode/json-server/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/typicode/json-server/deployments",
+    "created_at": "2013-11-27T13:21:13Z",
+    "updated_at": "2025-01-25T16:27:52Z",
+    "pushed_at": "2024-09-24T10:33:10Z",
+    "git_url": "git://github.com/typicode/json-server.git",
+    "ssh_url": "git@github.com:typicode/json-server.git",
+    "clone_url": "https://github.com/typicode/json-server.git",
+    "svn_url": "https://github.com/typicode/json-server",
+    "homepage": "",
+    "size": 4536,
+    "stargazers_count": 73513,
+    "watchers_count": 73513,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 7078,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 703,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 7078,
+    "open_issues": 703,
+    "watchers": 73513,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.0.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-beta.3",
+            "commit": {
+                "sha": "6aa56d9581488d9bcd1baf42c4c97b293cd9ee99",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/6aa56d9581488d9bcd1baf42c4c97b293cd9ee99"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1iZXRhLjM="
+        },
+        {
+            "name": "v1.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-beta.2",
+            "commit": {
+                "sha": "475977025e9aade550faa2d029b4fc44ec92c838",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/475977025e9aade550faa2d029b4fc44ec92c838"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1iZXRhLjI="
+        },
+        {
+            "name": "v1.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-beta.1",
+            "commit": {
+                "sha": "59d6aa901044636b5bce68e3f62dfa8cb77d348a",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/59d6aa901044636b5bce68e3f62dfa8cb77d348a"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1iZXRhLjE="
+        },
+        {
+            "name": "v1.0.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-beta.0",
+            "commit": {
+                "sha": "9a20083fdba0c9a11da04ab5c88113ea74bd961e",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/9a20083fdba0c9a11da04ab5c88113ea74bd961e"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1iZXRhLjA="
+        },
+        {
+            "name": "v1.0.0-alpha.23",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.23",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.23",
+            "commit": {
+                "sha": "14af8bef8434d6c25a004427a06ebb7fd7b376cd",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/14af8bef8434d6c25a004427a06ebb7fd7b376cd"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4yMw=="
+        },
+        {
+            "name": "v1.0.0-alpha.22",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.22",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.22",
+            "commit": {
+                "sha": "4e9b04215a5ad756bd0dd7ad203d8c55e7cee01c",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/4e9b04215a5ad756bd0dd7ad203d8c55e7cee01c"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4yMg=="
+        },
+        {
+            "name": "v1.0.0-alpha.21",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.21",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.21",
+            "commit": {
+                "sha": "9a255847e075b69aa75ccfcba6984afb6fa168ad",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/9a255847e075b69aa75ccfcba6984afb6fa168ad"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4yMQ=="
+        },
+        {
+            "name": "v1.0.0-alpha.20",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.20",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.20",
+            "commit": {
+                "sha": "0ce6a87eec7a49b6c0adaa859c62449662b5d5cf",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/0ce6a87eec7a49b6c0adaa859c62449662b5d5cf"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4yMA=="
+        },
+        {
+            "name": "v1.0.0-alpha.19",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.19",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.19",
+            "commit": {
+                "sha": "a321b653e3414de9f35908e1822e0d45ed914738",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/a321b653e3414de9f35908e1822e0d45ed914738"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xOQ=="
+        },
+        {
+            "name": "v1.0.0-alpha.18",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.18",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.18",
+            "commit": {
+                "sha": "a4d829ab52811447449947c841cd7e6ad6714e87",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/a4d829ab52811447449947c841cd7e6ad6714e87"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xOA=="
+        },
+        {
+            "name": "v1.0.0-alpha.17",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.17",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.17",
+            "commit": {
+                "sha": "3776e3ecf80215e03906e7275fc72f0cfa626506",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/3776e3ecf80215e03906e7275fc72f0cfa626506"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xNw=="
+        },
+        {
+            "name": "v1.0.0-alpha.16",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.16",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.16",
+            "commit": {
+                "sha": "e3ce04a04a2777b133a8efa27c59e29121bf24a4",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/e3ce04a04a2777b133a8efa27c59e29121bf24a4"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xNg=="
+        },
+        {
+            "name": "v1.0.0-alpha.15",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.15",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.15",
+            "commit": {
+                "sha": "b3399b83439257d68a53886d2bbca19d03cc8eec",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/b3399b83439257d68a53886d2bbca19d03cc8eec"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xNQ=="
+        },
+        {
+            "name": "v1.0.0-alpha.14",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.14",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.14",
+            "commit": {
+                "sha": "509388f607d06bbc65038d829624f3602dd347c0",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/509388f607d06bbc65038d829624f3602dd347c0"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xNA=="
+        },
+        {
+            "name": "v1.0.0-alpha.13",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.13",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.13",
+            "commit": {
+                "sha": "5de5f6ba4f058fe4f3b0c877337f18b70e3ab51a",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/5de5f6ba4f058fe4f3b0c877337f18b70e3ab51a"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xMw=="
+        },
+        {
+            "name": "v1.0.0-alpha.12",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.12",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.12",
+            "commit": {
+                "sha": "5a39eff7b38534418810d3bf40334feec5fe1338",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/5a39eff7b38534418810d3bf40334feec5fe1338"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xMg=="
+        },
+        {
+            "name": "v1.0.0-alpha.11",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.11",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.11",
+            "commit": {
+                "sha": "59417fb240f42441ac84cac923a0b42c767aa27d",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/59417fb240f42441ac84cac923a0b42c767aa27d"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xMQ=="
+        },
+        {
+            "name": "v1.0.0-alpha.10",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.10",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.10",
+            "commit": {
+                "sha": "01d4b9fad88a6df204c8794144c330a08f1d87fa",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/01d4b9fad88a6df204c8794144c330a08f1d87fa"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4xMA=="
+        },
+        {
+            "name": "v1.0.0-alpha.9",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.9",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.9",
+            "commit": {
+                "sha": "c1ec2d0d1c45c3217361fae67c5ae4e1432099bb",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/c1ec2d0d1c45c3217361fae67c5ae4e1432099bb"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS45"
+        },
+        {
+            "name": "v1.0.0-alpha.8",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.8",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.8",
+            "commit": {
+                "sha": "dcd8ee2f350c64c374fd97086a05f57f85cd52d1",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/dcd8ee2f350c64c374fd97086a05f57f85cd52d1"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS44"
+        },
+        {
+            "name": "v1.0.0-alpha.7",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.7",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.7",
+            "commit": {
+                "sha": "cddf62adaacc4051d088d4309f0d58c5df3d8404",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/cddf62adaacc4051d088d4309f0d58c5df3d8404"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS43"
+        },
+        {
+            "name": "v1.0.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.6",
+            "commit": {
+                "sha": "8f73d981ca22f5bfd43dc601c1659d54ed7d80a6",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/8f73d981ca22f5bfd43dc601c1659d54ed7d80a6"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS42"
+        },
+        {
+            "name": "v1.0.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.5",
+            "commit": {
+                "sha": "cfc0b33a87463e0bef09290cd2a3abbf00004614",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/cfc0b33a87463e0bef09290cd2a3abbf00004614"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS41"
+        },
+        {
+            "name": "v1.0.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.4",
+            "commit": {
+                "sha": "a5f0832564e83e6b006d40e987187975298f0d3c",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/a5f0832564e83e6b006d40e987187975298f0d3c"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS40"
+        },
+        {
+            "name": "v1.0.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.3",
+            "commit": {
+                "sha": "45f75f169b164fb4a3d42c5b75f0ca50f716daa6",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/45f75f169b164fb4a3d42c5b75f0ca50f716daa6"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4z"
+        },
+        {
+            "name": "v1.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.2",
+            "commit": {
+                "sha": "9d5f74696147bb0a7d02eafe5b88615421c3af1d",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/9d5f74696147bb0a7d02eafe5b88615421c3af1d"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4y"
+        },
+        {
+            "name": "v1.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v1.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v1.0.0-alpha.1",
+            "commit": {
+                "sha": "b151db990cd8bbde91698e5fb10a55356600c240",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/b151db990cd8bbde91698e5fb10a55356600c240"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YxLjAuMC1hbHBoYS4x"
+        },
+        {
+            "name": "v0.17.4",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v0.17.4",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v0.17.4",
+            "commit": {
+                "sha": "78ea71375666d49145734689c097654c54f90686",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/78ea71375666d49145734689c097654c54f90686"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YwLjE3LjQ="
+        },
+        {
+            "name": "v0.17.3",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v0.17.3",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v0.17.3",
+            "commit": {
+                "sha": "26b52b97b13d2f0dccd6f92dc3772fabbfc2f5c8",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/26b52b97b13d2f0dccd6f92dc3772fabbfc2f5c8"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YwLjE3LjM="
+        },
+        {
+            "name": "v0.17.2",
+            "zipball_url": "https://api.github.com/repos/typicode/json-server/zipball/refs/tags/v0.17.2",
+            "tarball_url": "https://api.github.com/repos/typicode/json-server/tarball/refs/tags/v0.17.2",
+            "commit": {
+                "sha": "6fb1db178270d3fd8845600df773c35abf2a5030",
+                "url": "https://api.github.com/repos/typicode/json-server/commits/6fb1db178270d3fd8845600df773c35abf2a5030"
+            },
+            "node_id": "MDM6UmVmMTQ3NDc1OTg6cmVmcy90YWdzL3YwLjE3LjI="
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "id": 382496361,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzODI0OTYzNjE=",
+    "name": "uptime-kuma",
+    "full_name": "louislam/uptime-kuma",
+    "private": false,
+    "owner": {
+        "login": "louislam",
+        "id": 1336778,
+        "node_id": "MDQ6VXNlcjEzMzY3Nzg=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1336778?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/louislam",
+        "html_url": "https://github.com/louislam",
+        "followers_url": "https://api.github.com/users/louislam/followers",
+        "following_url": "https://api.github.com/users/louislam/following{/other_user}",
+        "gists_url": "https://api.github.com/users/louislam/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/louislam/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/louislam/subscriptions",
+        "organizations_url": "https://api.github.com/users/louislam/orgs",
+        "repos_url": "https://api.github.com/users/louislam/repos",
+        "events_url": "https://api.github.com/users/louislam/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/louislam/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "fork": false,
+    "url": "https://api.github.com/repos/louislam/uptime-kuma",
+    "forks_url": "https://api.github.com/repos/louislam/uptime-kuma/forks",
+    "keys_url": "https://api.github.com/repos/louislam/uptime-kuma/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/louislam/uptime-kuma/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/louislam/uptime-kuma/teams",
+    "hooks_url": "https://api.github.com/repos/louislam/uptime-kuma/hooks",
+    "issue_events_url": "https://api.github.com/repos/louislam/uptime-kuma/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/louislam/uptime-kuma/events",
+    "assignees_url": "https://api.github.com/repos/louislam/uptime-kuma/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/louislam/uptime-kuma/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/louislam/uptime-kuma/tags",
+    "blobs_url": "https://api.github.com/repos/louislam/uptime-kuma/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/louislam/uptime-kuma/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/louislam/uptime-kuma/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/louislam/uptime-kuma/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/louislam/uptime-kuma/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/louislam/uptime-kuma/languages",
+    "stargazers_url": "https://api.github.com/repos/louislam/uptime-kuma/stargazers",
+    "contributors_url": "https://api.github.com/repos/louislam/uptime-kuma/contributors",
+    "subscribers_url": "https://api.github.com/repos/louislam/uptime-kuma/subscribers",
+    "subscription_url": "https://api.github.com/repos/louislam/uptime-kuma/subscription",
+    "commits_url": "https://api.github.com/repos/louislam/uptime-kuma/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/louislam/uptime-kuma/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/louislam/uptime-kuma/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/louislam/uptime-kuma/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/louislam/uptime-kuma/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/louislam/uptime-kuma/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/louislam/uptime-kuma/merges",
+    "archive_url": "https://api.github.com/repos/louislam/uptime-kuma/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/louislam/uptime-kuma/downloads",
+    "issues_url": "https://api.github.com/repos/louislam/uptime-kuma/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/louislam/uptime-kuma/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/louislam/uptime-kuma/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/louislam/uptime-kuma/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/louislam/uptime-kuma/labels{/name}",
+    "releases_url": "https://api.github.com/repos/louislam/uptime-kuma/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/louislam/uptime-kuma/deployments",
+    "created_at": "2021-07-03T01:02:42Z",
+    "updated_at": "2025-01-25T17:21:09Z",
+    "pushed_at": "2025-01-24T17:49:29Z",
+    "git_url": "git://github.com/louislam/uptime-kuma.git",
+    "ssh_url": "git@github.com:louislam/uptime-kuma.git",
+    "clone_url": "https://github.com/louislam/uptime-kuma.git",
+    "svn_url": "https://github.com/louislam/uptime-kuma",
+    "homepage": "https://uptime.kuma.pet",
+    "size": 27221,
+    "stargazers_count": 63123,
+    "watchers_count": 63123,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 5603,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 786,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "docker",
+        "monitor",
+        "monitoring",
+        "responsive",
+        "self-hosted",
+        "selfhosted",
+        "single-page-app",
+        "socket-io",
+        "uptime",
+        "uptime-monitoring",
+        "webapp",
+        "websocket"
+    ],
+    "visibility": "public",
+    "forks": 5603,
+    "open_issues": 786,
+    "watchers": 63123,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "2.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/2.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/2.0.0-beta.1",
+            "commit": {
+                "sha": "20da4d29ab9c7325050f158f8af6ad1eed353002",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/20da4d29ab9c7325050f158f8af6ad1eed353002"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8yLjAuMC1iZXRhLjE="
+        },
+        {
+            "name": "2.0.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/2.0.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/2.0.0-beta.0",
+            "commit": {
+                "sha": "4e144ec71ceb917fd08a1842a5f50538af8e5472",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/4e144ec71ceb917fd08a1842a5f50538af8e5472"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8yLjAuMC1iZXRhLjA="
+        },
+        {
+            "name": "1.23.16",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.16",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.16",
+            "commit": {
+                "sha": "5bb329fa0e8af9395911f33d5a6d6bb9b128c0f7",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/5bb329fa0e8af9395911f33d5a6d6bb9b128c0f7"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjE2"
+        },
+        {
+            "name": "1.23.15",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.15",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.15",
+            "commit": {
+                "sha": "32dc76a08515c3730ddaa11153004225f8d7e53b",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/32dc76a08515c3730ddaa11153004225f8d7e53b"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjE1"
+        },
+        {
+            "name": "1.23.14",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.14",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.14",
+            "commit": {
+                "sha": "243726b03c82e3b3e4f18baf7af9a0730b37616c",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/243726b03c82e3b3e4f18baf7af9a0730b37616c"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjE0"
+        },
+        {
+            "name": "1.23.13",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.13",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.13",
+            "commit": {
+                "sha": "2778929f7457b76d2e72f09f1dd3d28a0c157698",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/2778929f7457b76d2e72f09f1dd3d28a0c157698"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjEz"
+        },
+        {
+            "name": "1.23.12",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.12",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.12",
+            "commit": {
+                "sha": "e797abd10836e4724881d345e04a1306cab4fe07",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/e797abd10836e4724881d345e04a1306cab4fe07"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjEy"
+        },
+        {
+            "name": "1.23.11",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.11",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.11",
+            "commit": {
+                "sha": "f1e2ee74eae73225271b5d4936e86619309909df",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/f1e2ee74eae73225271b5d4936e86619309909df"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjEx"
+        },
+        {
+            "name": "1.23.10",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.10",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.10",
+            "commit": {
+                "sha": "4245ea86e7aa09842bedd69e6a5772b34826261d",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/4245ea86e7aa09842bedd69e6a5772b34826261d"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjEw"
+        },
+        {
+            "name": "1.23.9",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.9",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.9",
+            "commit": {
+                "sha": "621419e4341995bd4dc35111bc4342d534adf455",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/621419e4341995bd4dc35111bc4342d534adf455"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjk="
+        },
+        {
+            "name": "1.23.8",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.8",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.8",
+            "commit": {
+                "sha": "37666bf35f4896db8631611fd7e8fd6fad0f1650",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/37666bf35f4896db8631611fd7e8fd6fad0f1650"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjg="
+        },
+        {
+            "name": "1.23.7",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.7",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.7",
+            "commit": {
+                "sha": "73239d441d830db3e6ab8c9558434c1295bafae0",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/73239d441d830db3e6ab8c9558434c1295bafae0"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjc="
+        },
+        {
+            "name": "1.23.6",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.6",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.6",
+            "commit": {
+                "sha": "c1aaad0d8554253fcc3ba15a1c41c7469dc7424f",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/c1aaad0d8554253fcc3ba15a1c41c7469dc7424f"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjY="
+        },
+        {
+            "name": "1.23.5",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.5",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.5",
+            "commit": {
+                "sha": "6d4a45f18c9a7372408a7d132e570f7ab4640123",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/6d4a45f18c9a7372408a7d132e570f7ab4640123"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjU="
+        },
+        {
+            "name": "1.23.5-beta.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.5-beta.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.5-beta.0",
+            "commit": {
+                "sha": "b7daebbd5759edecf29d87c9173d3566e7ca888d",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/b7daebbd5759edecf29d87c9173d3566e7ca888d"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjUtYmV0YS4w"
+        },
+        {
+            "name": "1.23.4",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.4",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.4",
+            "commit": {
+                "sha": "d56bf08cd747e389b9ceeaded300c4ce40ba19a1",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/d56bf08cd747e389b9ceeaded300c4ce40ba19a1"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjQ="
+        },
+        {
+            "name": "1.23.3",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.3",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.3",
+            "commit": {
+                "sha": "c3e3f27457c52cf5056d0eed1c7fd5f9c12f4d91",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/c3e3f27457c52cf5056d0eed1c7fd5f9c12f4d91"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjM="
+        },
+        {
+            "name": "1.23.2",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.2",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.2",
+            "commit": {
+                "sha": "b3b8e9f3a07825ff8ea0d4bd3771f6345c773d54",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/b3b8e9f3a07825ff8ea0d4bd3771f6345c773d54"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjI="
+        },
+        {
+            "name": "1.23.1",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.1",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.1",
+            "commit": {
+                "sha": "f2a1c26ef8e7aab51021a314382f8622b90978df",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/f2a1c26ef8e7aab51021a314382f8622b90978df"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjE="
+        },
+        {
+            "name": "1.23.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.0",
+            "commit": {
+                "sha": "9564550d5fd01daade5b9d0935ca2ac065ea1068",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/9564550d5fd01daade5b9d0935ca2ac065ea1068"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjA="
+        },
+        {
+            "name": "1.23.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.0-beta.1",
+            "commit": {
+                "sha": "de8386362710973d00b8bbc41374753d3500219c",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/de8386362710973d00b8bbc41374753d3500219c"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjAtYmV0YS4x"
+        },
+        {
+            "name": "1.23.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.23.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.23.0-beta.0",
+            "commit": {
+                "sha": "18a2a8eb1efb796e785d82a340b2bdfe097202aa",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/18a2a8eb1efb796e785d82a340b2bdfe097202aa"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIzLjAtYmV0YS4w"
+        },
+        {
+            "name": "1.22.1",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.22.1",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.22.1",
+            "commit": {
+                "sha": "8223121cd8772aca3b52146ac4b5460c9b1daedb",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/8223121cd8772aca3b52146ac4b5460c9b1daedb"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIyLjE="
+        },
+        {
+            "name": "1.22.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.22.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.22.0",
+            "commit": {
+                "sha": "4b913c8b4c2e0eb38cf07fbdf11b37275930fea3",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/4b913c8b4c2e0eb38cf07fbdf11b37275930fea3"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIyLjA="
+        },
+        {
+            "name": "1.22.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.22.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.22.0-beta.0",
+            "commit": {
+                "sha": "71c34694b78f14b2780afd2367575aaee286ec5c",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/71c34694b78f14b2780afd2367575aaee286ec5c"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIyLjAtYmV0YS4w"
+        },
+        {
+            "name": "1.21.3",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.21.3",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.21.3",
+            "commit": {
+                "sha": "1a344c137106f393609d319cf720399ee176732c",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/1a344c137106f393609d319cf720399ee176732c"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIxLjM="
+        },
+        {
+            "name": "1.21.2",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.21.2",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.21.2",
+            "commit": {
+                "sha": "03aa685d3f7654c2b0823e1f9b0f23741e8fa985",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/03aa685d3f7654c2b0823e1f9b0f23741e8fa985"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIxLjI="
+        },
+        {
+            "name": "1.21.2-beta.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.21.2-beta.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.21.2-beta.0",
+            "commit": {
+                "sha": "8f449ab738c19631e70e4c71709c4064ef088e3e",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/8f449ab738c19631e70e4c71709c4064ef088e3e"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIxLjItYmV0YS4w"
+        },
+        {
+            "name": "1.21.1",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.21.1",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.21.1",
+            "commit": {
+                "sha": "4ae437dd61f60d8d7268f9e82b032a47f6de524a",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/4ae437dd61f60d8d7268f9e82b032a47f6de524a"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIxLjE="
+        },
+        {
+            "name": "1.21.0",
+            "zipball_url": "https://api.github.com/repos/louislam/uptime-kuma/zipball/refs/tags/1.21.0",
+            "tarball_url": "https://api.github.com/repos/louislam/uptime-kuma/tarball/refs/tags/1.21.0",
+            "commit": {
+                "sha": "72317633d982a111f74c23c6b675bdba93e8f6aa",
+                "url": "https://api.github.com/repos/louislam/uptime-kuma/commits/72317633d982a111f74c23c6b675bdba93e8f6aa"
+            },
+            "node_id": "MDM6UmVmMzgyNDk2MzYxOnJlZnMvdGFncy8xLjIxLjA="
+        }
+    ]
+}

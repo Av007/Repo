@@ -1,0 +1,436 @@
+{
+    "id": 599547518,
+    "node_id": "R_kgDOI7xefg",
+    "name": "vllm",
+    "full_name": "vllm-project/vllm",
+    "private": false,
+    "owner": {
+        "login": "vllm-project",
+        "id": 136984999,
+        "node_id": "O_kgDOCCo5pw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/136984999?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vllm-project",
+        "html_url": "https://github.com/vllm-project",
+        "followers_url": "https://api.github.com/users/vllm-project/followers",
+        "following_url": "https://api.github.com/users/vllm-project/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vllm-project/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vllm-project/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vllm-project/subscriptions",
+        "organizations_url": "https://api.github.com/users/vllm-project/orgs",
+        "repos_url": "https://api.github.com/users/vllm-project/repos",
+        "events_url": "https://api.github.com/users/vllm-project/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vllm-project/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "fork": false,
+    "url": "https://api.github.com/repos/vllm-project/vllm",
+    "forks_url": "https://api.github.com/repos/vllm-project/vllm/forks",
+    "keys_url": "https://api.github.com/repos/vllm-project/vllm/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/vllm-project/vllm/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/vllm-project/vllm/teams",
+    "hooks_url": "https://api.github.com/repos/vllm-project/vllm/hooks",
+    "issue_events_url": "https://api.github.com/repos/vllm-project/vllm/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/vllm-project/vllm/events",
+    "assignees_url": "https://api.github.com/repos/vllm-project/vllm/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/vllm-project/vllm/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/vllm-project/vllm/tags",
+    "blobs_url": "https://api.github.com/repos/vllm-project/vllm/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/vllm-project/vllm/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/vllm-project/vllm/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/vllm-project/vllm/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/vllm-project/vllm/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/vllm-project/vllm/languages",
+    "stargazers_url": "https://api.github.com/repos/vllm-project/vllm/stargazers",
+    "contributors_url": "https://api.github.com/repos/vllm-project/vllm/contributors",
+    "subscribers_url": "https://api.github.com/repos/vllm-project/vllm/subscribers",
+    "subscription_url": "https://api.github.com/repos/vllm-project/vllm/subscription",
+    "commits_url": "https://api.github.com/repos/vllm-project/vllm/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/vllm-project/vllm/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/vllm-project/vllm/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/vllm-project/vllm/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/vllm-project/vllm/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/vllm-project/vllm/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/vllm-project/vllm/merges",
+    "archive_url": "https://api.github.com/repos/vllm-project/vllm/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/vllm-project/vllm/downloads",
+    "issues_url": "https://api.github.com/repos/vllm-project/vllm/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/vllm-project/vllm/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/vllm-project/vllm/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/vllm-project/vllm/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/vllm-project/vllm/labels{/name}",
+    "releases_url": "https://api.github.com/repos/vllm-project/vllm/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/vllm-project/vllm/deployments",
+    "created_at": "2023-02-09T11:23:20Z",
+    "updated_at": "2025-01-25T17:18:59Z",
+    "pushed_at": "2025-01-25T07:23:03Z",
+    "git_url": "git://github.com/vllm-project/vllm.git",
+    "ssh_url": "git@github.com:vllm-project/vllm.git",
+    "clone_url": "https://github.com/vllm-project/vllm.git",
+    "svn_url": "https://github.com/vllm-project/vllm",
+    "homepage": "https://docs.vllm.ai",
+    "size": 30165,
+    "stargazers_count": 34730,
+    "watchers_count": 34730,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5310,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1638,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "amd",
+        "cuda",
+        "gpt",
+        "hpu",
+        "inference",
+        "inferentia",
+        "llama",
+        "llm",
+        "llm-serving",
+        "llmops",
+        "mlops",
+        "model-serving",
+        "pytorch",
+        "rocm",
+        "tpu",
+        "trainium",
+        "transformer",
+        "xpu"
+    ],
+    "visibility": "public",
+    "forks": 5310,
+    "open_issues": 1638,
+    "watchers": 34730,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.6.6",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.6",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.6",
+            "commit": {
+                "sha": "f49777ba62b4926d0f8c100ab06edb03c5c10098",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/f49777ba62b4926d0f8c100ab06edb03c5c10098"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi42"
+        },
+        {
+            "name": "v0.6.6.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.6.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.6.post1",
+            "commit": {
+                "sha": "2339d59f9260499599d60599f83978fad1827999",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/2339d59f9260499599d60599f83978fad1827999"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNi42LnBvc3Qx"
+        },
+        {
+            "name": "v0.6.5",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.5",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.5",
+            "commit": {
+                "sha": "2d1b9baa8f57fc59912c7bcd07fd630fb9d72c9d",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/2d1b9baa8f57fc59912c7bcd07fd630fb9d72c9d"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi41"
+        },
+        {
+            "name": "v0.6.4",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.4",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.4",
+            "commit": {
+                "sha": "02dbf30e9a4389b41d95dd595bfe1224592dd404",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/02dbf30e9a4389b41d95dd595bfe1224592dd404"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi40"
+        },
+        {
+            "name": "v0.6.4.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.4.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.4.post1",
+            "commit": {
+                "sha": "a6221a144af772fd1a68fe7e627935dc53e81738",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/a6221a144af772fd1a68fe7e627935dc53e81738"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNi40LnBvc3Qx"
+        },
+        {
+            "name": "v0.6.3",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.3",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.3",
+            "commit": {
+                "sha": "fd47e57f4b0d5f7920903490bce13bc9e49d8dba",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/fd47e57f4b0d5f7920903490bce13bc9e49d8dba"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi4z"
+        },
+        {
+            "name": "v0.6.3.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.3.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.3.post1",
+            "commit": {
+                "sha": "a2c71c5405fdd8822956bcd785e72149c1cfb655",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/a2c71c5405fdd8822956bcd785e72149c1cfb655"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNi4zLnBvc3Qx"
+        },
+        {
+            "name": "v0.6.2",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.2",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.2",
+            "commit": {
+                "sha": "7193774b1ff8603ad5bf4598e5efba0d9a39b436",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/7193774b1ff8603ad5bf4598e5efba0d9a39b436"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi4y"
+        },
+        {
+            "name": "v0.6.1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.1",
+            "commit": {
+                "sha": "3fd2b0d21cd9ec78de410fdf8aa1de840e9ad77a",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/3fd2b0d21cd9ec78de410fdf8aa1de840e9ad77a"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi4x"
+        },
+        {
+            "name": "v0.6.1.post2",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.1.post2",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.1.post2",
+            "commit": {
+                "sha": "9ba0817ff1eb514f51cc6de9cb8e16c98d6ee44f",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/9ba0817ff1eb514f51cc6de9cb8e16c98d6ee44f"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNi4xLnBvc3Qy"
+        },
+        {
+            "name": "v0.6.1.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.1.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.1.post1",
+            "commit": {
+                "sha": "acda0b35d00e733982aa4c1198f2bd381d368cb5",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/acda0b35d00e733982aa4c1198f2bd381d368cb5"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNi4xLnBvc3Qx"
+        },
+        {
+            "name": "v0.6.0",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.6.0",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.6.0",
+            "commit": {
+                "sha": "32e7db25365415841ebc7c4215851743fbb1bad1",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/32e7db25365415841ebc7c4215851743fbb1bad1"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNi4w"
+        },
+        {
+            "name": "v0.5.5",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.5",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.5",
+            "commit": {
+                "sha": "09c7792610ada9f88bbf87d32b472dd44bf23cc2",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/09c7792610ada9f88bbf87d32b472dd44bf23cc2"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNS41"
+        },
+        {
+            "name": "v0.5.4",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.4",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.4",
+            "commit": {
+                "sha": "4db5176d9758b720b05460c50ace3c01026eb158",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/4db5176d9758b720b05460c50ace3c01026eb158"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNS40"
+        },
+        {
+            "name": "v0.5.3",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.3",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.3",
+            "commit": {
+                "sha": "bb2fc08072db2d96e547407b4301fb6ba141d9d6",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/bb2fc08072db2d96e547407b4301fb6ba141d9d6"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNS4z"
+        },
+        {
+            "name": "v0.5.3.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.3.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.3.post1",
+            "commit": {
+                "sha": "38c4b7e863570a045308af814c72f4504297222e",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/38c4b7e863570a045308af814c72f4504297222e"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNS4zLnBvc3Qx"
+        },
+        {
+            "name": "v0.5.2",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.2",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.2",
+            "commit": {
+                "sha": "4cf256ae7f8b0be8f06f6b85821e55d4f5bdaa13",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/4cf256ae7f8b0be8f06f6b85821e55d4f5bdaa13"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNS4y"
+        },
+        {
+            "name": "v0.5.1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.1",
+            "commit": {
+                "sha": "79d406e9183aa12cdef6f1876eb9a15385662587",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/79d406e9183aa12cdef6f1876eb9a15385662587"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNS4x"
+        },
+        {
+            "name": "v0.5.0",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.0",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.0",
+            "commit": {
+                "sha": "8f89d72090da70895d77d32248ea8504f7daba50",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/8f89d72090da70895d77d32248ea8504f7daba50"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNS4w"
+        },
+        {
+            "name": "v0.5.0.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.5.0.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.5.0.post1",
+            "commit": {
+                "sha": "50eed24d252965a81ce50b64fd387d60fb1f4f6e",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/50eed24d252965a81ce50b64fd387d60fb1f4f6e"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNS4wLnBvc3Qx"
+        },
+        {
+            "name": "v0.4.3",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.4.3",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.4.3",
+            "commit": {
+                "sha": "1197e02141df1a7442f21ff6922c98ec0bba153e",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/1197e02141df1a7442f21ff6922c98ec0bba153e"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNC4z"
+        },
+        {
+            "name": "v0.4.2",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.4.2",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.4.2",
+            "commit": {
+                "sha": "c7f2cf2b7f67bce5842fedfdba508440fe257375",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/c7f2cf2b7f67bce5842fedfdba508440fe257375"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNC4y"
+        },
+        {
+            "name": "v0.4.1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.4.1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.4.1",
+            "commit": {
+                "sha": "468d761b32e3b3c5d64eeaa797e54ab809b7e50c",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/468d761b32e3b3c5d64eeaa797e54ab809b7e50c"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNC4x"
+        },
+        {
+            "name": "v0.4.0",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.4.0",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.4.0",
+            "commit": {
+                "sha": "51c31bc10ca7c48b580cd58fcd741ba4d6db4447",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/51c31bc10ca7c48b580cd58fcd741ba4d6db4447"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuNC4w"
+        },
+        {
+            "name": "v0.4.0.post1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.4.0.post1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.4.0.post1",
+            "commit": {
+                "sha": "a3c226e7eb19b976a937e745f3867eb05f809278",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/a3c226e7eb19b976a937e745f3867eb05f809278"
+            },
+            "node_id": "REF_kwDOI7xefrZyZWZzL3RhZ3MvdjAuNC4wLnBvc3Qx"
+        },
+        {
+            "name": "v0.3.3",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.3.3",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.3.3",
+            "commit": {
+                "sha": "82091b864af105dbe373353655dc9d8c0a6ba66f",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/82091b864af105dbe373353655dc9d8c0a6ba66f"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuMy4z"
+        },
+        {
+            "name": "v0.3.2",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.3.2",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.3.2",
+            "commit": {
+                "sha": "8fbd84bf7839d53e6dd26a1dd4473dd1a99aab6e",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/8fbd84bf7839d53e6dd26a1dd4473dd1a99aab6e"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuMy4y"
+        },
+        {
+            "name": "v0.3.1",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.3.1",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.3.1",
+            "commit": {
+                "sha": "5f08050d8d0bfcdaced0fe706cdfc9e311e0f263",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/5f08050d8d0bfcdaced0fe706cdfc9e311e0f263"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuMy4x"
+        },
+        {
+            "name": "v0.3.0",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.3.0",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.3.0",
+            "commit": {
+                "sha": "1af090b57d0e23d268e79941f8084bf0a8ad8621",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/1af090b57d0e23d268e79941f8084bf0a8ad8621"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuMy4w"
+        },
+        {
+            "name": "v0.2.7",
+            "zipball_url": "https://api.github.com/repos/vllm-project/vllm/zipball/refs/tags/v0.2.7",
+            "tarball_url": "https://api.github.com/repos/vllm-project/vllm/tarball/refs/tags/v0.2.7",
+            "commit": {
+                "sha": "2e0b6e775756345aa1d39f772c186e00f8c29e92",
+                "url": "https://api.github.com/repos/vllm-project/vllm/commits/2e0b6e775756345aa1d39f772c186e00f8c29e92"
+            },
+            "node_id": "REF_kwDOI7xefrByZWZzL3RhZ3MvdjAuMi43"
+        }
+    ]
+}

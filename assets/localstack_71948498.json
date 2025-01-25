@@ -1,0 +1,425 @@
+{
+    "id": 71948498,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3MTk0ODQ5OA==",
+    "name": "localstack",
+    "full_name": "localstack/localstack",
+    "private": false,
+    "owner": {
+        "login": "localstack",
+        "id": 28732122,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4NzMyMTIy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28732122?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/localstack",
+        "html_url": "https://github.com/localstack",
+        "followers_url": "https://api.github.com/users/localstack/followers",
+        "following_url": "https://api.github.com/users/localstack/following{/other_user}",
+        "gists_url": "https://api.github.com/users/localstack/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/localstack/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/localstack/subscriptions",
+        "organizations_url": "https://api.github.com/users/localstack/orgs",
+        "repos_url": "https://api.github.com/users/localstack/repos",
+        "events_url": "https://api.github.com/users/localstack/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/localstack/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/localstack/localstack",
+    "description": "\ud83d\udcbb A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+    "fork": false,
+    "url": "https://api.github.com/repos/localstack/localstack",
+    "forks_url": "https://api.github.com/repos/localstack/localstack/forks",
+    "keys_url": "https://api.github.com/repos/localstack/localstack/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/localstack/localstack/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/localstack/localstack/teams",
+    "hooks_url": "https://api.github.com/repos/localstack/localstack/hooks",
+    "issue_events_url": "https://api.github.com/repos/localstack/localstack/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/localstack/localstack/events",
+    "assignees_url": "https://api.github.com/repos/localstack/localstack/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/localstack/localstack/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/localstack/localstack/tags",
+    "blobs_url": "https://api.github.com/repos/localstack/localstack/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/localstack/localstack/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/localstack/localstack/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/localstack/localstack/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/localstack/localstack/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/localstack/localstack/languages",
+    "stargazers_url": "https://api.github.com/repos/localstack/localstack/stargazers",
+    "contributors_url": "https://api.github.com/repos/localstack/localstack/contributors",
+    "subscribers_url": "https://api.github.com/repos/localstack/localstack/subscribers",
+    "subscription_url": "https://api.github.com/repos/localstack/localstack/subscription",
+    "commits_url": "https://api.github.com/repos/localstack/localstack/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/localstack/localstack/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/localstack/localstack/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/localstack/localstack/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/localstack/localstack/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/localstack/localstack/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/localstack/localstack/merges",
+    "archive_url": "https://api.github.com/repos/localstack/localstack/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/localstack/localstack/downloads",
+    "issues_url": "https://api.github.com/repos/localstack/localstack/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/localstack/localstack/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/localstack/localstack/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/localstack/localstack/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/localstack/localstack/labels{/name}",
+    "releases_url": "https://api.github.com/repos/localstack/localstack/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/localstack/localstack/deployments",
+    "created_at": "2016-10-25T23:48:03Z",
+    "updated_at": "2025-01-25T17:21:25Z",
+    "pushed_at": "2025-01-25T04:36:45Z",
+    "git_url": "git://github.com/localstack/localstack.git",
+    "ssh_url": "git@github.com:localstack/localstack.git",
+    "clone_url": "https://github.com/localstack/localstack.git",
+    "svn_url": "https://github.com/localstack/localstack",
+    "homepage": "https://localstack.cloud",
+    "size": 47438,
+    "stargazers_count": 57215,
+    "watchers_count": 57215,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 4055,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 327,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "aws",
+        "cloud",
+        "continuous-integration",
+        "developer-tools",
+        "localstack",
+        "python",
+        "testing"
+    ],
+    "visibility": "public",
+    "forks": 4055,
+    "open_issues": 327,
+    "watchers": 57215,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.0.3",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v4.0.3",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v4.0.3",
+            "commit": {
+                "sha": "aa795ed1c04a8285c01c96aa7ab79c17489f5766",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/aa795ed1c04a8285c01c96aa7ab79c17489f5766"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3Y0LjAuMw=="
+        },
+        {
+            "name": "v4.0.2",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v4.0.2",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v4.0.2",
+            "commit": {
+                "sha": "5f457e592779e4fb21f401ca0b95e98c54baab61",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/5f457e592779e4fb21f401ca0b95e98c54baab61"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3Y0LjAuMg=="
+        },
+        {
+            "name": "v4.0.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v4.0.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v4.0.1",
+            "commit": {
+                "sha": "e548a466df23fb63ffb5e0b8ed21c1777ded0390",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/e548a466df23fb63ffb5e0b8ed21c1777ded0390"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3Y0LjAuMQ=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "2daa733b9c6d09f65b952e1ccd5f3fa56ff5e616",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/2daa733b9c6d09f65b952e1ccd5f3fa56ff5e616"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v3.8.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.8.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.8.1",
+            "commit": {
+                "sha": "529aba7d8372e9199f42a31a6500071363ad8c18",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/529aba7d8372e9199f42a31a6500071363ad8c18"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjguMQ=="
+        },
+        {
+            "name": "v3.8.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.8.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.8.0",
+            "commit": {
+                "sha": "80b630c24f1a57a8bccac741a2e13b54f83e4c18",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/80b630c24f1a57a8bccac741a2e13b54f83e4c18"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjguMA=="
+        },
+        {
+            "name": "v3.7.2",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.7.2",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.7.2",
+            "commit": {
+                "sha": "a607fed9132d6e09b58bd84717c4da83b2b4e505",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/a607fed9132d6e09b58bd84717c4da83b2b4e505"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjcuMg=="
+        },
+        {
+            "name": "v3.7.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.7.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.7.1",
+            "commit": {
+                "sha": "d4f2409a7490902650aa3818048bd3b2d681d567",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/d4f2409a7490902650aa3818048bd3b2d681d567"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjcuMQ=="
+        },
+        {
+            "name": "v3.7.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.7.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.7.0",
+            "commit": {
+                "sha": "6aa75057026f6f5c7c8dce8948812a8f52c71144",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/6aa75057026f6f5c7c8dce8948812a8f52c71144"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjcuMA=="
+        },
+        {
+            "name": "v3.6.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.6.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.6.0",
+            "commit": {
+                "sha": "5c077c7952ce9a5996e46c07e6de9db5d3d0f795",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/5c077c7952ce9a5996e46c07e6de9db5d3d0f795"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjYuMA=="
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "54edb407df341515a6348e751fa20f4c41732b7d",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/54edb407df341515a6348e751fa20f4c41732b7d"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjUuMA=="
+        },
+        {
+            "name": "v3.4.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.4.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.4.0",
+            "commit": {
+                "sha": "6f971ac81f8bc7d9a7f1d62dfc7c63cd71f714e2",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/6f971ac81f8bc7d9a7f1d62dfc7c63cd71f714e2"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjQuMA=="
+        },
+        {
+            "name": "v3.3.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.3.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.3.0",
+            "commit": {
+                "sha": "5567b0b3c78ec9f219ad8f756544f8bd5c7c265e",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/5567b0b3c78ec9f219ad8f756544f8bd5c7c265e"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjMuMA=="
+        },
+        {
+            "name": "v3.2.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.2.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.2.0",
+            "commit": {
+                "sha": "4a4692dd5e08abc7f5de0c815ceeff2d59cb648e",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/4a4692dd5e08abc7f5de0c815ceeff2d59cb648e"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjIuMA=="
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "d48ada8aee5d5bd8b9a3e490fe4351803b4f6dc5",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/d48ada8aee5d5bd8b9a3e490fe4351803b4f6dc5"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjEuMA=="
+        },
+        {
+            "name": "v3.0.2",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.0.2",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.0.2",
+            "commit": {
+                "sha": "60518e118d72fef36c4e2a24681a9c3a376c997b",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/60518e118d72fef36c4e2a24681a9c3a376c997b"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjAuMg=="
+        },
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "e5636f4cdd34874d5cc77381a9cc59c6e79b9345",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/e5636f4cdd34874d5cc77381a9cc59c6e79b9345"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjAuMQ=="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "3cd32364b56a50307a2547d50d3b903adba28102",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/3cd32364b56a50307a2547d50d3b903adba28102"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YzLjAuMA=="
+        },
+        {
+            "name": "v2.3.2",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.3.2",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.3.2",
+            "commit": {
+                "sha": "1bccf790d451a8472e45bd1ba181c4f15893cd53",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/1bccf790d451a8472e45bd1ba181c4f15893cd53"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjMuMg=="
+        },
+        {
+            "name": "v2.3.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.3.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.3.1",
+            "commit": {
+                "sha": "8deebd54dd6d2095fdb306e24ca7af56b3757a6e",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/8deebd54dd6d2095fdb306e24ca7af56b3757a6e"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjMuMQ=="
+        },
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "d53f3a49e6affec733009b9bcd017bf296da8ca6",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/d53f3a49e6affec733009b9bcd017bf296da8ca6"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjMuMA=="
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "2d70f76869a64ad482d28a12afb47cd07b7f90eb",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/2d70f76869a64ad482d28a12afb47cd07b7f90eb"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjIuMA=="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "67b55096077fd26d517335d9a9a771c3aa389230",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/67b55096077fd26d517335d9a9a771c3aa389230"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjEuMA=="
+        },
+        {
+            "name": "v2.0.2",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.0.2",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.0.2",
+            "commit": {
+                "sha": "6b436786dea34f7405e9960368bad40209d7cd61",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/6b436786dea34f7405e9960368bad40209d7cd61"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjAuMg=="
+        },
+        {
+            "name": "v2.0.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.0.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.0.1",
+            "commit": {
+                "sha": "5b94a1babab8a615f410d7f515ba97ca85de5187",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/5b94a1babab8a615f410d7f515ba97ca85de5187"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjAuMQ=="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "7d80ee7f2519e41350a93ede06ab9103629f25ce",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/7d80ee7f2519e41350a93ede06ab9103629f25ce"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YyLjAuMA=="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "dde691c875249512735750661ab294b26be9f5ad",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/dde691c875249512735750661ab294b26be9f5ad"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YxLjQuMA=="
+        },
+        {
+            "name": "v1.3.1",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v1.3.1",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v1.3.1",
+            "commit": {
+                "sha": "0c095708b15d8a03fcade0a00ed4b330bd6d393f",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/0c095708b15d8a03fcade0a00ed4b330bd6d393f"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YxLjMuMQ=="
+        },
+        {
+            "name": "v1.3.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v1.3.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v1.3.0",
+            "commit": {
+                "sha": "841b130b289578edc8585d866e9cfd4337bb58be",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/841b130b289578edc8585d866e9cfd4337bb58be"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YxLjMuMA=="
+        },
+        {
+            "name": "v1.2.0",
+            "zipball_url": "https://api.github.com/repos/localstack/localstack/zipball/refs/tags/v1.2.0",
+            "tarball_url": "https://api.github.com/repos/localstack/localstack/tarball/refs/tags/v1.2.0",
+            "commit": {
+                "sha": "9be2a7aa255852cf9c3400da1dea0a6c6ee4ea05",
+                "url": "https://api.github.com/repos/localstack/localstack/commits/9be2a7aa255852cf9c3400da1dea0a6c6ee4ea05"
+            },
+            "node_id": "MDM6UmVmNzE5NDg0OTg6cmVmcy90YWdzL3YxLjIuMA=="
+        }
+    ]
+}

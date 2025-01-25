@@ -1,0 +1,419 @@
+{
+    "id": 36535156,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNjUzNTE1Ng==",
+    "name": "redux",
+    "full_name": "reduxjs/redux",
+    "private": false,
+    "owner": {
+        "login": "reduxjs",
+        "id": 13142323,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMTQyMzIz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13142323?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/reduxjs",
+        "html_url": "https://github.com/reduxjs",
+        "followers_url": "https://api.github.com/users/reduxjs/followers",
+        "following_url": "https://api.github.com/users/reduxjs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/reduxjs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/reduxjs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/reduxjs/subscriptions",
+        "organizations_url": "https://api.github.com/users/reduxjs/orgs",
+        "repos_url": "https://api.github.com/users/reduxjs/repos",
+        "events_url": "https://api.github.com/users/reduxjs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/reduxjs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/reduxjs/redux",
+    "description": "A JS library for predictable global state management",
+    "fork": false,
+    "url": "https://api.github.com/repos/reduxjs/redux",
+    "forks_url": "https://api.github.com/repos/reduxjs/redux/forks",
+    "keys_url": "https://api.github.com/repos/reduxjs/redux/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/reduxjs/redux/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/reduxjs/redux/teams",
+    "hooks_url": "https://api.github.com/repos/reduxjs/redux/hooks",
+    "issue_events_url": "https://api.github.com/repos/reduxjs/redux/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/reduxjs/redux/events",
+    "assignees_url": "https://api.github.com/repos/reduxjs/redux/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/reduxjs/redux/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/reduxjs/redux/tags",
+    "blobs_url": "https://api.github.com/repos/reduxjs/redux/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/reduxjs/redux/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/reduxjs/redux/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/reduxjs/redux/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/reduxjs/redux/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/reduxjs/redux/languages",
+    "stargazers_url": "https://api.github.com/repos/reduxjs/redux/stargazers",
+    "contributors_url": "https://api.github.com/repos/reduxjs/redux/contributors",
+    "subscribers_url": "https://api.github.com/repos/reduxjs/redux/subscribers",
+    "subscription_url": "https://api.github.com/repos/reduxjs/redux/subscription",
+    "commits_url": "https://api.github.com/repos/reduxjs/redux/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/reduxjs/redux/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/reduxjs/redux/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/reduxjs/redux/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/reduxjs/redux/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/reduxjs/redux/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/reduxjs/redux/merges",
+    "archive_url": "https://api.github.com/repos/reduxjs/redux/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/reduxjs/redux/downloads",
+    "issues_url": "https://api.github.com/repos/reduxjs/redux/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/reduxjs/redux/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/reduxjs/redux/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/reduxjs/redux/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/reduxjs/redux/labels{/name}",
+    "releases_url": "https://api.github.com/repos/reduxjs/redux/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/reduxjs/redux/deployments",
+    "created_at": "2015-05-29T23:53:15Z",
+    "updated_at": "2025-01-25T07:52:43Z",
+    "pushed_at": "2025-01-23T02:09:02Z",
+    "git_url": "git://github.com/reduxjs/redux.git",
+    "ssh_url": "git@github.com:reduxjs/redux.git",
+    "clone_url": "https://github.com/reduxjs/redux.git",
+    "svn_url": "https://github.com/reduxjs/redux",
+    "homepage": "https://redux.js.org",
+    "size": 33500,
+    "stargazers_count": 60994,
+    "watchers_count": 60994,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 15247,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 39,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "redux"
+    ],
+    "visibility": "public",
+    "forks": 15247,
+    "open_issues": 39,
+    "watchers": 60994,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.0.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.1",
+            "commit": {
+                "sha": "50b010210df25c470386f7e39a9389a4a77b3842",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/50b010210df25c470386f7e39a9389a4a77b3842"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMQ=="
+        },
+        {
+            "name": "v5.0.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0",
+            "commit": {
+                "sha": "549589e25fb98006226fe83a597bb3a03fe96362",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/549589e25fb98006226fe83a597bb3a03fe96362"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMA=="
+        },
+        {
+            "name": "v5.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-rc.1",
+            "commit": {
+                "sha": "0d7ef2c14453f6940644759970e450093c11b19f",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/0d7ef2c14453f6940644759970e450093c11b19f"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1yYy4x"
+        },
+        {
+            "name": "v5.0.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-rc.0",
+            "commit": {
+                "sha": "6804e81454aaa77e7d0dfcf3902055a88733aaf6",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/6804e81454aaa77e7d0dfcf3902055a88733aaf6"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1yYy4w"
+        },
+        {
+            "name": "v5.0.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-beta.0",
+            "commit": {
+                "sha": "4a6d2fb227ba119d3498a43fab8f53fe008be64c",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/4a6d2fb227ba119d3498a43fab8f53fe008be64c"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1iZXRhLjA="
+        },
+        {
+            "name": "v5.0.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.6",
+            "commit": {
+                "sha": "5076b4f87a3a7dd9200a64f5c6d278f50572bfc0",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/5076b4f87a3a7dd9200a64f5c6d278f50572bfc0"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS42"
+        },
+        {
+            "name": "v5.0.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.5",
+            "commit": {
+                "sha": "b05e43256ec2bed86e1180be978b41313cf6529d",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/b05e43256ec2bed86e1180be978b41313cf6529d"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS41"
+        },
+        {
+            "name": "v5.0.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.4",
+            "commit": {
+                "sha": "ecdc7ef3695f27deb7657f3804d9f7d190a80a82",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/ecdc7ef3695f27deb7657f3804d9f7d190a80a82"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS40"
+        },
+        {
+            "name": "v5.0.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.3",
+            "commit": {
+                "sha": "cdc32026a97d38e1a9ec68d4f42ae84af1abb7e0",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/cdc32026a97d38e1a9ec68d4f42ae84af1abb7e0"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS4z"
+        },
+        {
+            "name": "v5.0.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.2",
+            "commit": {
+                "sha": "44e479847a1f4634491849171be63c81a13973b1",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/44e479847a1f4634491849171be63c81a13973b1"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS4y"
+        },
+        {
+            "name": "v5.0.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.1",
+            "commit": {
+                "sha": "3dd80828b8d128967b20b3d3d212e62f6af522a2",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/3dd80828b8d128967b20b3d3d212e62f6af522a2"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS4x"
+        },
+        {
+            "name": "v5.0.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v5.0.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v5.0.0-alpha.0",
+            "commit": {
+                "sha": "8fa4bd444d1563cb32aa11384a317f25777fb940",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/8fa4bd444d1563cb32aa11384a317f25777fb940"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y1LjAuMC1hbHBoYS4w"
+        },
+        {
+            "name": "v4.2.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.2.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.2.1",
+            "commit": {
+                "sha": "f4b3ab9ac5370c5520d08383c5fc88e1e1c64587",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/f4b3ab9ac5370c5520d08383c5fc88e1e1c64587"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjIuMQ=="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "93d188673fbcc18d19d645d6ae785a18f534e1d6",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/93d188673fbcc18d19d645d6ae785a18f534e1d6"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjIuMA=="
+        },
+        {
+            "name": "v4.2.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.2.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.2.0-alpha.0",
+            "commit": {
+                "sha": "1d92031be5cec9b36b931da2055f61ac006d31a3",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/1d92031be5cec9b36b931da2055f61ac006d31a3"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjIuMC1hbHBoYS4w"
+        },
+        {
+            "name": "v4.1.2",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.1.2",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.1.2",
+            "commit": {
+                "sha": "795a11c8233963bbfc37c13fde1b44d50159a8b8",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/795a11c8233963bbfc37c13fde1b44d50159a8b8"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjEuMg=="
+        },
+        {
+            "name": "v4.1.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.1.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.1.1",
+            "commit": {
+                "sha": "4d0730e9df2b23e88a588ba7f82f45ee7a642817",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/4d0730e9df2b23e88a588ba7f82f45ee7a642817"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjEuMQ=="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "97a7798e8379aec0d682ae99b49ef65062a56ecf",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/97a7798e8379aec0d682ae99b49ef65062a56ecf"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.1.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.1.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.1.0-alpha.0",
+            "commit": {
+                "sha": "32f368a2f16d93585703ea46067e2f52d7672d07",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/32f368a2f16d93585703ea46067e2f52d7672d07"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjEuMC1hbHBoYS4w"
+        },
+        {
+            "name": "v4.0.5",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.5",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.5",
+            "commit": {
+                "sha": "45281b6b3f6bfe69ceb2450c2c48961e2891d2c9",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/45281b6b3f6bfe69ceb2450c2c48961e2891d2c9"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuNQ=="
+        },
+        {
+            "name": "v4.0.4",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.4",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.4",
+            "commit": {
+                "sha": "8aca937f695997e979bf8c0e03dbf22a2bf284dc",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/8aca937f695997e979bf8c0e03dbf22a2bf284dc"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuNA=="
+        },
+        {
+            "name": "v4.0.3",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.3",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.3",
+            "commit": {
+                "sha": "d4ceb7eea8640a1fd5f139c7ee1da95d500e594e",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/d4ceb7eea8640a1fd5f139c7ee1da95d500e594e"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMw=="
+        },
+        {
+            "name": "v4.0.2",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.2",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.2",
+            "commit": {
+                "sha": "589347325775a6b011c9ed12285978401d97fa4d",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/589347325775a6b011c9ed12285978401d97fa4d"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMg=="
+        },
+        {
+            "name": "v4.0.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.1",
+            "commit": {
+                "sha": "c5d87d95f3b9b0ebdb57791f69b53d8507cebbed",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/c5d87d95f3b9b0ebdb57791f69b53d8507cebbed"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMQ=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "e95eaf2dc2024fe99dc0f7334a8bd049b4949ed0",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/e95eaf2dc2024fe99dc0f7334a8bd049b4949ed0"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v4.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.0-rc.1",
+            "commit": {
+                "sha": "ac897a3182550c9f044ece4e7a38a47a5a9ce12b",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/ac897a3182550c9f044ece4e7a38a47a5a9ce12b"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMC1yYy4x"
+        },
+        {
+            "name": "v4.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.0-beta.2",
+            "commit": {
+                "sha": "2112d4591809b3dba351389627f36e32694f3407",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/2112d4591809b3dba351389627f36e32694f3407"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMC1iZXRhLjI="
+        },
+        {
+            "name": "v4.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v4.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v4.0.0-beta.1",
+            "commit": {
+                "sha": "61ac6a59f16fd25c6358f46042def6cb56fbe0ff",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/61ac6a59f16fd25c6358f46042def6cb56fbe0ff"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3Y0LjAuMC1iZXRhLjE="
+        },
+        {
+            "name": "v3.7.2",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v3.7.2",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v3.7.2",
+            "commit": {
+                "sha": "8f60ba321e8ba5fa71d60fa35573c2cdf9c0d852",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/8f60ba321e8ba5fa71d60fa35573c2cdf9c0d852"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3YzLjcuMg=="
+        },
+        {
+            "name": "v3.7.1",
+            "zipball_url": "https://api.github.com/repos/reduxjs/redux/zipball/refs/tags/v3.7.1",
+            "tarball_url": "https://api.github.com/repos/reduxjs/redux/tarball/refs/tags/v3.7.1",
+            "commit": {
+                "sha": "7fbddd6949ea7195353a64252738f448d9314a77",
+                "url": "https://api.github.com/repos/reduxjs/redux/commits/7fbddd6949ea7195353a64252738f448d9314a77"
+            },
+            "node_id": "MDM6UmVmMzY1MzUxNTY6cmVmcy90YWdzL3YzLjcuMQ=="
+        }
+    ]
+}

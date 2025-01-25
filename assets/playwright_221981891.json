@@ -1,0 +1,433 @@
+{
+    "id": 221981891,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMjE5ODE4OTE=",
+    "name": "playwright",
+    "full_name": "microsoft/playwright",
+    "private": false,
+    "owner": {
+        "login": "microsoft",
+        "id": 6154722,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/microsoft",
+        "html_url": "https://github.com/microsoft",
+        "followers_url": "https://api.github.com/users/microsoft/followers",
+        "following_url": "https://api.github.com/users/microsoft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/microsoft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/microsoft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/microsoft/subscriptions",
+        "organizations_url": "https://api.github.com/users/microsoft/orgs",
+        "repos_url": "https://api.github.com/users/microsoft/repos",
+        "events_url": "https://api.github.com/users/microsoft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/microsoft/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/microsoft/playwright",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+    "fork": false,
+    "url": "https://api.github.com/repos/microsoft/playwright",
+    "forks_url": "https://api.github.com/repos/microsoft/playwright/forks",
+    "keys_url": "https://api.github.com/repos/microsoft/playwright/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/microsoft/playwright/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/microsoft/playwright/teams",
+    "hooks_url": "https://api.github.com/repos/microsoft/playwright/hooks",
+    "issue_events_url": "https://api.github.com/repos/microsoft/playwright/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/microsoft/playwright/events",
+    "assignees_url": "https://api.github.com/repos/microsoft/playwright/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/microsoft/playwright/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/microsoft/playwright/tags",
+    "blobs_url": "https://api.github.com/repos/microsoft/playwright/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/microsoft/playwright/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/microsoft/playwright/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/microsoft/playwright/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/microsoft/playwright/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/microsoft/playwright/languages",
+    "stargazers_url": "https://api.github.com/repos/microsoft/playwright/stargazers",
+    "contributors_url": "https://api.github.com/repos/microsoft/playwright/contributors",
+    "subscribers_url": "https://api.github.com/repos/microsoft/playwright/subscribers",
+    "subscription_url": "https://api.github.com/repos/microsoft/playwright/subscription",
+    "commits_url": "https://api.github.com/repos/microsoft/playwright/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/microsoft/playwright/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/microsoft/playwright/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/microsoft/playwright/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/microsoft/playwright/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/microsoft/playwright/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/microsoft/playwright/merges",
+    "archive_url": "https://api.github.com/repos/microsoft/playwright/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/microsoft/playwright/downloads",
+    "issues_url": "https://api.github.com/repos/microsoft/playwright/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/microsoft/playwright/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/microsoft/playwright/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/microsoft/playwright/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/microsoft/playwright/labels{/name}",
+    "releases_url": "https://api.github.com/repos/microsoft/playwright/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/microsoft/playwright/deployments",
+    "created_at": "2019-11-15T18:32:42Z",
+    "updated_at": "2025-01-25T16:32:47Z",
+    "pushed_at": "2025-01-24T23:44:05Z",
+    "git_url": "git://github.com/microsoft/playwright.git",
+    "ssh_url": "git@github.com:microsoft/playwright.git",
+    "clone_url": "https://github.com/microsoft/playwright.git",
+    "svn_url": "https://github.com/microsoft/playwright",
+    "homepage": "https://playwright.dev",
+    "size": 166122,
+    "stargazers_count": 68777,
+    "watchers_count": 68777,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 3801,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 716,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "automation",
+        "chrome",
+        "chromium",
+        "e2e-testing",
+        "electron",
+        "end-to-end-testing",
+        "firefox",
+        "javascript",
+        "playwright",
+        "test",
+        "test-automation",
+        "testing",
+        "testing-tools",
+        "web",
+        "webkit"
+    ],
+    "visibility": "public",
+    "forks": 3801,
+    "open_issues": 716,
+    "watchers": 68777,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.50.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.50.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.50.0",
+            "commit": {
+                "sha": "9d221785334d22b0606b746bffe8a89b8f652e1c",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/9d221785334d22b0606b746bffe8a89b8f652e1c"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS41MC4w"
+        },
+        {
+            "name": "v1.49.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.49.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.49.1",
+            "commit": {
+                "sha": "88bc8afc78ea6ff13d2bbb312b99eb924962766c",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/88bc8afc78ea6ff13d2bbb312b99eb924962766c"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40OS4x"
+        },
+        {
+            "name": "v1.49.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.49.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.49.0",
+            "commit": {
+                "sha": "a70a96ab2565918360cd0f0208b5d12cae318793",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/a70a96ab2565918360cd0f0208b5d12cae318793"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40OS4w"
+        },
+        {
+            "name": "v1.48.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.48.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.48.2",
+            "commit": {
+                "sha": "dc80964a3f84dc120b5fed8837ff492a38ddb26e",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/dc80964a3f84dc120b5fed8837ff492a38ddb26e"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40OC4y"
+        },
+        {
+            "name": "v1.48.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.48.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.48.1",
+            "commit": {
+                "sha": "ceb756dad3a3089d470890fd5c75aa585a47cb7c",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/ceb756dad3a3089d470890fd5c75aa585a47cb7c"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40OC4x"
+        },
+        {
+            "name": "v1.48.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.48.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.48.0",
+            "commit": {
+                "sha": "0cdbb11068f86671c05d57391ac3701610f853df",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/0cdbb11068f86671c05d57391ac3701610f853df"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40OC4w"
+        },
+        {
+            "name": "v1.47.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.47.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.47.2",
+            "commit": {
+                "sha": "d93029f32f9d0e2e2b30830ce3fde37f62273293",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/d93029f32f9d0e2e2b30830ce3fde37f62273293"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Ny4y"
+        },
+        {
+            "name": "v1.47.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.47.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.47.1",
+            "commit": {
+                "sha": "3d2ffd0fe97f23f480092054da5928539a3c5beb",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/3d2ffd0fe97f23f480092054da5928539a3c5beb"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Ny4x"
+        },
+        {
+            "name": "v1.47.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.47.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.47.0",
+            "commit": {
+                "sha": "d5943def35edadc6f9bd8daeed382559d2a55fbe",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/d5943def35edadc6f9bd8daeed382559d2a55fbe"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Ny4w"
+        },
+        {
+            "name": "v1.46.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.46.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.46.1",
+            "commit": {
+                "sha": "e1c861cfa7a6caf3c5b798786b1e6298c4f3cf31",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/e1c861cfa7a6caf3c5b798786b1e6298c4f3cf31"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Ni4x"
+        },
+        {
+            "name": "v1.46.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.46.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.46.0",
+            "commit": {
+                "sha": "99a36310570617222290c09b96a2026beb8b00f9",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/99a36310570617222290c09b96a2026beb8b00f9"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Ni4w"
+        },
+        {
+            "name": "v1.45.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.45.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.45.3",
+            "commit": {
+                "sha": "0e130fa8edaf85765c4a5a86bded0e6d33bfd7c2",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/0e130fa8edaf85765c4a5a86bded0e6d33bfd7c2"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40NS4z"
+        },
+        {
+            "name": "v1.45.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.45.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.45.2",
+            "commit": {
+                "sha": "d8a5f3b33193e413b404ff4aa1f71e859d8f1b6b",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/d8a5f3b33193e413b404ff4aa1f71e859d8f1b6b"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40NS4y"
+        },
+        {
+            "name": "v1.45.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.45.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.45.1",
+            "commit": {
+                "sha": "e8989f83d9801cdaadc3803b5341c601c9593947",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/e8989f83d9801cdaadc3803b5341c601c9593947"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40NS4x"
+        },
+        {
+            "name": "v1.45.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.45.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.45.0",
+            "commit": {
+                "sha": "4f3f6eecae490af444dd9298c9eaeb0c596915b7",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/4f3f6eecae490af444dd9298c9eaeb0c596915b7"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40NS4w"
+        },
+        {
+            "name": "v1.44.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.44.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.44.1",
+            "commit": {
+                "sha": "afacb84a52cb1428becd071252243fc5c264caca",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/afacb84a52cb1428becd071252243fc5c264caca"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40NC4x"
+        },
+        {
+            "name": "v1.44.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.44.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.44.0",
+            "commit": {
+                "sha": "a6aa50b0c79c375eeb43a10086b249bc725ca81e",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/a6aa50b0c79c375eeb43a10086b249bc725ca81e"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40NC4w"
+        },
+        {
+            "name": "v1.43.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.43.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.43.1",
+            "commit": {
+                "sha": "a051ceb8e1302293ec42d4ad01d7f6325cbbfcf9",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/a051ceb8e1302293ec42d4ad01d7f6325cbbfcf9"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40My4x"
+        },
+        {
+            "name": "v1.43.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.43.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.43.0",
+            "commit": {
+                "sha": "7c7f8ac9fa866b627c4b04e02b3990a8d49e6dd3",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/7c7f8ac9fa866b627c4b04e02b3990a8d49e6dd3"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40My4w"
+        },
+        {
+            "name": "v1.42.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.42.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.42.1",
+            "commit": {
+                "sha": "9749f7542676bce2d77f738b5fffcd7b0f46d67c",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/9749f7542676bce2d77f738b5fffcd7b0f46d67c"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Mi4x"
+        },
+        {
+            "name": "v1.42.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.42.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.42.0",
+            "commit": {
+                "sha": "e7f0635c17ac5c178b0960cb35f849edd3cf69ef",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/e7f0635c17ac5c178b0960cb35f849edd3cf69ef"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40Mi4w"
+        },
+        {
+            "name": "v1.41.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.41.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.41.2",
+            "commit": {
+                "sha": "a4096676abe3f00b4924267449bb52086569e302",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/a4096676abe3f00b4924267449bb52086569e302"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40MS4y"
+        },
+        {
+            "name": "v1.41.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.41.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.41.1",
+            "commit": {
+                "sha": "8f0163f3f4cf573037b6697e15ab55a0dc910f57",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/8f0163f3f4cf573037b6697e15ab55a0dc910f57"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40MS4x"
+        },
+        {
+            "name": "v1.41.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.41.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.41.0",
+            "commit": {
+                "sha": "38d699f64f841481750eb8035f467babba868943",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/38d699f64f841481750eb8035f467babba868943"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40MS4w"
+        },
+        {
+            "name": "v1.40.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.40.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.40.1",
+            "commit": {
+                "sha": "268942037a054f7259ecee178645c9067a8ee2e1",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/268942037a054f7259ecee178645c9067a8ee2e1"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40MC4x"
+        },
+        {
+            "name": "v1.40.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.40.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.40.0",
+            "commit": {
+                "sha": "b8949166dc08e0ae499d08bec004a3f1a4e26ec8",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/b8949166dc08e0ae499d08bec004a3f1a4e26ec8"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS40MC4w"
+        },
+        {
+            "name": "v1.39.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.39.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.39.0",
+            "commit": {
+                "sha": "3049d99bc8c76799817585a359502368bd6ba366",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/3049d99bc8c76799817585a359502368bd6ba366"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS4zOS4w"
+        },
+        {
+            "name": "v1.38.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.38.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.38.1",
+            "commit": {
+                "sha": "47434209996cfd19d7c913caa7ddf8e1377e1d99",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/47434209996cfd19d7c913caa7ddf8e1377e1d99"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS4zOC4x"
+        },
+        {
+            "name": "v1.38.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.38.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.38.0",
+            "commit": {
+                "sha": "da997ee8c07176b13d0c388c54320ea7ace3a9bd",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/da997ee8c07176b13d0c388c54320ea7ace3a9bd"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS4zOC4w"
+        },
+        {
+            "name": "v1.37.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/playwright/zipball/refs/tags/v1.37.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/playwright/tarball/refs/tags/v1.37.1",
+            "commit": {
+                "sha": "60696ef493fe5e35de00efcded77d60b81548599",
+                "url": "https://api.github.com/repos/microsoft/playwright/commits/60696ef493fe5e35de00efcded77d60b81548599"
+            },
+            "node_id": "MDM6UmVmMjIxOTgxODkxOnJlZnMvdGFncy92MS4zNy4x"
+        }
+    ]
+}

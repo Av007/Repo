@@ -1,0 +1,429 @@
+{
+    "id": 99598595,
+    "node_id": "MDEwOlJlcG9zaXRvcnk5OTU5ODU5NQ==",
+    "name": "parcel",
+    "full_name": "parcel-bundler/parcel",
+    "private": false,
+    "owner": {
+        "login": "parcel-bundler",
+        "id": 32607881,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNjA3ODgx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32607881?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/parcel-bundler",
+        "html_url": "https://github.com/parcel-bundler",
+        "followers_url": "https://api.github.com/users/parcel-bundler/followers",
+        "following_url": "https://api.github.com/users/parcel-bundler/following{/other_user}",
+        "gists_url": "https://api.github.com/users/parcel-bundler/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/parcel-bundler/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/parcel-bundler/subscriptions",
+        "organizations_url": "https://api.github.com/users/parcel-bundler/orgs",
+        "repos_url": "https://api.github.com/users/parcel-bundler/repos",
+        "events_url": "https://api.github.com/users/parcel-bundler/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/parcel-bundler/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/parcel-bundler/parcel",
+    "description": "The zero configuration build tool for the web. \ud83d\udce6\ud83d\ude80",
+    "fork": false,
+    "url": "https://api.github.com/repos/parcel-bundler/parcel",
+    "forks_url": "https://api.github.com/repos/parcel-bundler/parcel/forks",
+    "keys_url": "https://api.github.com/repos/parcel-bundler/parcel/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/parcel-bundler/parcel/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/parcel-bundler/parcel/teams",
+    "hooks_url": "https://api.github.com/repos/parcel-bundler/parcel/hooks",
+    "issue_events_url": "https://api.github.com/repos/parcel-bundler/parcel/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/parcel-bundler/parcel/events",
+    "assignees_url": "https://api.github.com/repos/parcel-bundler/parcel/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/parcel-bundler/parcel/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/parcel-bundler/parcel/tags",
+    "blobs_url": "https://api.github.com/repos/parcel-bundler/parcel/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/parcel-bundler/parcel/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/parcel-bundler/parcel/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/parcel-bundler/parcel/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/parcel-bundler/parcel/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/parcel-bundler/parcel/languages",
+    "stargazers_url": "https://api.github.com/repos/parcel-bundler/parcel/stargazers",
+    "contributors_url": "https://api.github.com/repos/parcel-bundler/parcel/contributors",
+    "subscribers_url": "https://api.github.com/repos/parcel-bundler/parcel/subscribers",
+    "subscription_url": "https://api.github.com/repos/parcel-bundler/parcel/subscription",
+    "commits_url": "https://api.github.com/repos/parcel-bundler/parcel/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/parcel-bundler/parcel/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/parcel-bundler/parcel/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/parcel-bundler/parcel/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/parcel-bundler/parcel/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/parcel-bundler/parcel/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/parcel-bundler/parcel/merges",
+    "archive_url": "https://api.github.com/repos/parcel-bundler/parcel/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/parcel-bundler/parcel/downloads",
+    "issues_url": "https://api.github.com/repos/parcel-bundler/parcel/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/parcel-bundler/parcel/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/parcel-bundler/parcel/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/parcel-bundler/parcel/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/parcel-bundler/parcel/labels{/name}",
+    "releases_url": "https://api.github.com/repos/parcel-bundler/parcel/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/parcel-bundler/parcel/deployments",
+    "created_at": "2017-08-07T16:36:47Z",
+    "updated_at": "2025-01-25T03:36:24Z",
+    "pushed_at": "2025-01-21T22:30:35Z",
+    "git_url": "git://github.com/parcel-bundler/parcel.git",
+    "ssh_url": "git@github.com:parcel-bundler/parcel.git",
+    "clone_url": "https://github.com/parcel-bundler/parcel.git",
+    "svn_url": "https://github.com/parcel-bundler/parcel",
+    "homepage": "https://parceljs.org",
+    "size": 54161,
+    "stargazers_count": 43606,
+    "watchers_count": 43606,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2266,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 628,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "assets",
+        "build-tool",
+        "commonjs",
+        "compiler",
+        "css",
+        "es6",
+        "html",
+        "javascript",
+        "module-bundler",
+        "modules",
+        "web"
+    ],
+    "visibility": "public",
+    "forks": 2266,
+    "open_issues": 628,
+    "watchers": 43606,
+    "default_branch": "v2",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.13.3",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.13.3",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.13.3",
+            "commit": {
+                "sha": "d19b1f6bdb05eb5a3085f44daae15c0fe2709ab9",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/d19b1f6bdb05eb5a3085f44daae15c0fe2709ab9"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEzLjM="
+        },
+        {
+            "name": "v2.13.2",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.13.2",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.13.2",
+            "commit": {
+                "sha": "4d27ec8b8bd1792f536811fef86e74a31fa0e704",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/4d27ec8b8bd1792f536811fef86e74a31fa0e704"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEzLjI="
+        },
+        {
+            "name": "v2.13.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.13.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.13.1",
+            "commit": {
+                "sha": "4a297f79db3eec74437f4c5133127c98bf303703",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/4a297f79db3eec74437f4c5133127c98bf303703"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEzLjE="
+        },
+        {
+            "name": "v2.13.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.13.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.13.0",
+            "commit": {
+                "sha": "a53f8f3ba1025c7ea8653e9719e0a61ef9717079",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/a53f8f3ba1025c7ea8653e9719e0a61ef9717079"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEzLjA="
+        },
+        {
+            "name": "v2.12.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.12.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.12.0",
+            "commit": {
+                "sha": "face1c2879234665f6dc7ba6e3842e4b3abfdde6",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/face1c2879234665f6dc7ba6e3842e4b3abfdde6"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEyLjA="
+        },
+        {
+            "name": "v2.11.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.11.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.11.0",
+            "commit": {
+                "sha": "8ba55233b25c5ab58c874834c5d6dfba311130cd",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/8ba55233b25c5ab58c874834c5d6dfba311130cd"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjExLjA="
+        },
+        {
+            "name": "v2.10.3",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.10.3",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.10.3",
+            "commit": {
+                "sha": "65d42a955db665a04817fa9be55df16f588593d4",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/65d42a955db665a04817fa9be55df16f588593d4"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEwLjM="
+        },
+        {
+            "name": "v2.10.2",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.10.2",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.10.2",
+            "commit": {
+                "sha": "a1391ed8a719fc2f976dbadb528ca2dcffa7da12",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/a1391ed8a719fc2f976dbadb528ca2dcffa7da12"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEwLjI="
+        },
+        {
+            "name": "v2.10.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.10.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.10.1",
+            "commit": {
+                "sha": "bba0417f68159b1f71c747cfd06fa3fe2dd374b5",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/bba0417f68159b1f71c747cfd06fa3fe2dd374b5"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEwLjE="
+        },
+        {
+            "name": "v2.10.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.10.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.10.0",
+            "commit": {
+                "sha": "0e235842b5b93301379bdfa626e7a4e2ee42ea98",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/0e235842b5b93301379bdfa626e7a4e2ee42ea98"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjEwLjA="
+        },
+        {
+            "name": "v2.9.3",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.9.3",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.9.3",
+            "commit": {
+                "sha": "db3bcae10497fa6a712fd9a135f93f26c5745454",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/db3bcae10497fa6a712fd9a135f93f26c5745454"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjkuMw=="
+        },
+        {
+            "name": "v2.9.2",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.9.2",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.9.2",
+            "commit": {
+                "sha": "76aa20fc2f752fae9c7347f071ea457b112a5dad",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/76aa20fc2f752fae9c7347f071ea457b112a5dad"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjkuMg=="
+        },
+        {
+            "name": "v2.9.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.9.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.9.1",
+            "commit": {
+                "sha": "5c5dc302b559f0b0d8c57b4d638aac521c879b70",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/5c5dc302b559f0b0d8c57b4d638aac521c879b70"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjkuMQ=="
+        },
+        {
+            "name": "v2.9.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.9.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.9.0",
+            "commit": {
+                "sha": "d529d8acdb0f4538a0eadc276992d93cbc38ff29",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/d529d8acdb0f4538a0eadc276992d93cbc38ff29"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjkuMA=="
+        },
+        {
+            "name": "v2.8.3",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.8.3",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.8.3",
+            "commit": {
+                "sha": "349a6caf40ec8abb6a49fcae0765f8f8deb2073d",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/349a6caf40ec8abb6a49fcae0765f8f8deb2073d"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjguMw=="
+        },
+        {
+            "name": "v2.8.2",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.8.2",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.8.2",
+            "commit": {
+                "sha": "3437f64e4c6f57d911614c480b742e229149f200",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/3437f64e4c6f57d911614c480b742e229149f200"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjguMg=="
+        },
+        {
+            "name": "v2.8.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.8.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.8.1",
+            "commit": {
+                "sha": "02efd28ec78cee88c67a22c792e0a5abacc277ea",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/02efd28ec78cee88c67a22c792e0a5abacc277ea"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjguMQ=="
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "c3bbe0a6160186f496ca2f9e9bead9376c0522f1",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/c3bbe0a6160186f496ca2f9e9bead9376c0522f1"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjguMA=="
+        },
+        {
+            "name": "v2.7.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.7.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.7.0",
+            "commit": {
+                "sha": "5f095fd71c9290f0314646d9b0a46606f8b89b6e",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/5f095fd71c9290f0314646d9b0a46606f8b89b6e"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjcuMA=="
+        },
+        {
+            "name": "v2.6.2",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.6.2",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.6.2",
+            "commit": {
+                "sha": "e10fcfc1e8b71222da90978fb87f1b68e207473e",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/e10fcfc1e8b71222da90978fb87f1b68e207473e"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjYuMg=="
+        },
+        {
+            "name": "v2.6.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.6.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.6.1",
+            "commit": {
+                "sha": "b8b203da8302dfde6d875422c8c557a00b7d3c02",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/b8b203da8302dfde6d875422c8c557a00b7d3c02"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjYuMQ=="
+        },
+        {
+            "name": "v2.6.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.6.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.6.0",
+            "commit": {
+                "sha": "f2d0a3a27d6e493b23ddc2edbc8a4c0053ff34ab",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/f2d0a3a27d6e493b23ddc2edbc8a4c0053ff34ab"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjYuMA=="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "df75f595b388ea74a3ef4ac7282f0628a19a590c",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/df75f595b388ea74a3ef4ac7282f0628a19a590c"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjUuMA=="
+        },
+        {
+            "name": "v2.4.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.4.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.4.1",
+            "commit": {
+                "sha": "80c728ceffdc0829eca568a6ec66c07e07a0b87b",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/80c728ceffdc0829eca568a6ec66c07e07a0b87b"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjQuMQ=="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "b1bbfdab2e902d33c0b6ff75bfba2d22283a8de6",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/b1bbfdab2e902d33c0b6ff75bfba2d22283a8de6"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjQuMA=="
+        },
+        {
+            "name": "v2.3.2",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.3.2",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.3.2",
+            "commit": {
+                "sha": "47379bf8fabeb2cfe03ade8802d942388b153e5b",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/47379bf8fabeb2cfe03ade8802d942388b153e5b"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjMuMg=="
+        },
+        {
+            "name": "v2.3.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.3.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.3.1",
+            "commit": {
+                "sha": "699f0b24c38eabcdad0960c62c03bd2f2902b19e",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/699f0b24c38eabcdad0960c62c03bd2f2902b19e"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjMuMQ=="
+        },
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "65ffb58e88024258c31e1f480241f293e29b25c5",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/65ffb58e88024258c31e1f480241f293e29b25c5"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjMuMA=="
+        },
+        {
+            "name": "v2.2.1",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.2.1",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.2.1",
+            "commit": {
+                "sha": "74fcc3fbe80cea993bff10e158df3d0f701973c7",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/74fcc3fbe80cea993bff10e158df3d0f701973c7"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjIuMQ=="
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/parcel-bundler/parcel/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/parcel-bundler/parcel/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "4745cd3023f8d5a5adcf9e565d5b82d1418dc262",
+                "url": "https://api.github.com/repos/parcel-bundler/parcel/commits/4745cd3023f8d5a5adcf9e565d5b82d1418dc262"
+            },
+            "node_id": "MDM6UmVmOTk1OTg1OTU6cmVmcy90YWdzL3YyLjIuMA=="
+        }
+    ]
+}

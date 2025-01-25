@@ -1,0 +1,433 @@
+{
+    "id": 22458259,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMjQ1ODI1OQ==",
+    "name": "Alamofire",
+    "full_name": "Alamofire/Alamofire",
+    "private": false,
+    "owner": {
+        "login": "Alamofire",
+        "id": 7774181,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3NzQxODE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7774181?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Alamofire",
+        "html_url": "https://github.com/Alamofire",
+        "followers_url": "https://api.github.com/users/Alamofire/followers",
+        "following_url": "https://api.github.com/users/Alamofire/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Alamofire/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Alamofire/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Alamofire/subscriptions",
+        "organizations_url": "https://api.github.com/users/Alamofire/orgs",
+        "repos_url": "https://api.github.com/users/Alamofire/repos",
+        "events_url": "https://api.github.com/users/Alamofire/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Alamofire/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "fork": false,
+    "url": "https://api.github.com/repos/Alamofire/Alamofire",
+    "forks_url": "https://api.github.com/repos/Alamofire/Alamofire/forks",
+    "keys_url": "https://api.github.com/repos/Alamofire/Alamofire/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/Alamofire/Alamofire/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/Alamofire/Alamofire/teams",
+    "hooks_url": "https://api.github.com/repos/Alamofire/Alamofire/hooks",
+    "issue_events_url": "https://api.github.com/repos/Alamofire/Alamofire/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/Alamofire/Alamofire/events",
+    "assignees_url": "https://api.github.com/repos/Alamofire/Alamofire/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/Alamofire/Alamofire/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/Alamofire/Alamofire/tags",
+    "blobs_url": "https://api.github.com/repos/Alamofire/Alamofire/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/Alamofire/Alamofire/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/Alamofire/Alamofire/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/Alamofire/Alamofire/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/Alamofire/Alamofire/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/Alamofire/Alamofire/languages",
+    "stargazers_url": "https://api.github.com/repos/Alamofire/Alamofire/stargazers",
+    "contributors_url": "https://api.github.com/repos/Alamofire/Alamofire/contributors",
+    "subscribers_url": "https://api.github.com/repos/Alamofire/Alamofire/subscribers",
+    "subscription_url": "https://api.github.com/repos/Alamofire/Alamofire/subscription",
+    "commits_url": "https://api.github.com/repos/Alamofire/Alamofire/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/Alamofire/Alamofire/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/Alamofire/Alamofire/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/Alamofire/Alamofire/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/Alamofire/Alamofire/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/Alamofire/Alamofire/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/Alamofire/Alamofire/merges",
+    "archive_url": "https://api.github.com/repos/Alamofire/Alamofire/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/Alamofire/Alamofire/downloads",
+    "issues_url": "https://api.github.com/repos/Alamofire/Alamofire/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/Alamofire/Alamofire/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/Alamofire/Alamofire/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/Alamofire/Alamofire/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/Alamofire/Alamofire/labels{/name}",
+    "releases_url": "https://api.github.com/repos/Alamofire/Alamofire/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/Alamofire/Alamofire/deployments",
+    "created_at": "2014-07-31T05:56:19Z",
+    "updated_at": "2025-01-25T13:09:32Z",
+    "pushed_at": "2025-01-07T12:29:07Z",
+    "git_url": "git://github.com/Alamofire/Alamofire.git",
+    "ssh_url": "git@github.com:Alamofire/Alamofire.git",
+    "clone_url": "https://github.com/Alamofire/Alamofire.git",
+    "svn_url": "https://github.com/Alamofire/Alamofire",
+    "homepage": "",
+    "size": 40201,
+    "stargazers_count": 41576,
+    "watchers_count": 41576,
+    "language": "Swift",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 7584,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 41,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "alamofire",
+        "carthage",
+        "certificate-pinning",
+        "cocoapods",
+        "httpurlresponse",
+        "networking",
+        "parameter-encoding",
+        "public-key-pinning",
+        "request",
+        "response",
+        "swift",
+        "swift-package-manager",
+        "urlrequest",
+        "urlsession",
+        "xcode"
+    ],
+    "visibility": "public",
+    "forks": 7584,
+    "open_issues": 41,
+    "watchers": 41576,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "5.10.2",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.10.2",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.10.2",
+            "commit": {
+                "sha": "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/513364f870f6bfc468f9d2ff0a95caccc10044c5"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMTAuMg=="
+        },
+        {
+            "name": "5.10.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.10.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.10.1",
+            "commit": {
+                "sha": "e16d3481f5ed35f0472cb93350085853d754913f",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/e16d3481f5ed35f0472cb93350085853d754913f"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMTAuMQ=="
+        },
+        {
+            "name": "5.10.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.10.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.10.0",
+            "commit": {
+                "sha": "ea6a94b7dddffd0ca4d0f29252d95310b84dec84",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/ea6a94b7dddffd0ca4d0f29252d95310b84dec84"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMTAuMA=="
+        },
+        {
+            "name": "5.9.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.9.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.9.1",
+            "commit": {
+                "sha": "f455c2975872ccd2d9c81594c658af65716e9b9a",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/f455c2975872ccd2d9c81594c658af65716e9b9a"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuOS4x"
+        },
+        {
+            "name": "5.9.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.9.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.9.0",
+            "commit": {
+                "sha": "723fa5a6c65812aec4a0d7cc432ee198883b6e00",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/723fa5a6c65812aec4a0d7cc432ee198883b6e00"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuOS4w"
+        },
+        {
+            "name": "5.8.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.8.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.8.1",
+            "commit": {
+                "sha": "3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuOC4x"
+        },
+        {
+            "name": "5.8.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.8.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.8.0",
+            "commit": {
+                "sha": "b2fa556e4e48cbf06cf8c63def138c98f4b811fa",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/b2fa556e4e48cbf06cf8c63def138c98f4b811fa"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuOC4w"
+        },
+        {
+            "name": "5.7.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.7.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.7.1",
+            "commit": {
+                "sha": "bc268c28fb170f494de9e9927c371b8342979ece",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/bc268c28fb170f494de9e9927c371b8342979ece"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNy4x"
+        },
+        {
+            "name": "5.7.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.7.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.7.0",
+            "commit": {
+                "sha": "134218330bdabe8fdca892a57123b2956d773af6",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/134218330bdabe8fdca892a57123b2956d773af6"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNy4w"
+        },
+        {
+            "name": "5.6.4",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.6.4",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.6.4",
+            "commit": {
+                "sha": "78424be314842833c04bc3bef5b72e85fff99204",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/78424be314842833c04bc3bef5b72e85fff99204"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNi40"
+        },
+        {
+            "name": "5.6.3",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.6.3",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.6.3",
+            "commit": {
+                "sha": "f512df48300140994b1ea56a2ff024a4734cef2b",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/f512df48300140994b1ea56a2ff024a4734cef2b"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNi4z"
+        },
+        {
+            "name": "5.6.2",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.6.2",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.6.2",
+            "commit": {
+                "sha": "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/8dd85aee02e39dd280c75eef88ffdb86eed4b07b"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNi4y"
+        },
+        {
+            "name": "5.6.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.6.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.6.1",
+            "commit": {
+                "sha": "354dda32d89fc8cd4f5c46487f64957d355f53d8",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/354dda32d89fc8cd4f5c46487f64957d355f53d8"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNi4x"
+        },
+        {
+            "name": "5.6.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.6.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.6.0",
+            "commit": {
+                "sha": "63dfa86548c4e5d5c6fd6ed42f638e388cbce529",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/63dfa86548c4e5d5c6fd6ed42f638e388cbce529"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNi4w"
+        },
+        {
+            "name": "5.5.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.5.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.5.0",
+            "commit": {
+                "sha": "f82c23a8a7ef8dc1a49a8bfc6a96883e79121864",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/f82c23a8a7ef8dc1a49a8bfc6a96883e79121864"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNS4w"
+        },
+        {
+            "name": "5.4.4",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.4.4",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.4.4",
+            "commit": {
+                "sha": "d120af1e8638c7da36c8481fd61a66c0c08dc4fc",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/d120af1e8638c7da36c8481fd61a66c0c08dc4fc"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNC40"
+        },
+        {
+            "name": "5.4.3",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.4.3",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.4.3",
+            "commit": {
+                "sha": "f96b619bcb2383b43d898402283924b80e2c4bae",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/f96b619bcb2383b43d898402283924b80e2c4bae"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNC4z"
+        },
+        {
+            "name": "5.4.2",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.4.2",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.4.2",
+            "commit": {
+                "sha": "4d19ad82f80cc71ff829b941ded114c56f4f604c",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/4d19ad82f80cc71ff829b941ded114c56f4f604c"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNC4y"
+        },
+        {
+            "name": "5.4.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.4.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.4.1",
+            "commit": {
+                "sha": "eaf6e622dd41b07b251d8f01752eab31bc811493",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/eaf6e622dd41b07b251d8f01752eab31bc811493"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNC4x"
+        },
+        {
+            "name": "5.4.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.4.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.4.0",
+            "commit": {
+                "sha": "9e0328127dfb801cefe8ac53a13c0c90a7770448",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/9e0328127dfb801cefe8ac53a13c0c90a7770448"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuNC4w"
+        },
+        {
+            "name": "5.3.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.3.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.3.0",
+            "commit": {
+                "sha": "097e1f03166d49b31f824507fb85ad843b14fc13",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/097e1f03166d49b31f824507fb85ad843b14fc13"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMy4w"
+        },
+        {
+            "name": "5.2.2",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.2.2",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.2.2",
+            "commit": {
+                "sha": "becd9a729a37bdbef5bc39dc3c702b99f9e3d046",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/becd9a729a37bdbef5bc39dc3c702b99f9e3d046"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMi4y"
+        },
+        {
+            "name": "5.2.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.2.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.2.1",
+            "commit": {
+                "sha": "2777659076fda38bd4e487739ee331c7a65b5924",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/2777659076fda38bd4e487739ee331c7a65b5924"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMi4x"
+        },
+        {
+            "name": "5.2.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.2.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.2.0",
+            "commit": {
+                "sha": "64dd16a5f2099dd5400f5e6d1442dc5ab0c1d917",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/64dd16a5f2099dd5400f5e6d1442dc5ab0c1d917"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMi4w"
+        },
+        {
+            "name": "5.1.0",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.1.0",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.1.0",
+            "commit": {
+                "sha": "fca036f7aeca07124067cb6e0c12b0ad6359e3d4",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/fca036f7aeca07124067cb6e0c12b0ad6359e3d4"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMS4w"
+        },
+        {
+            "name": "5.0.5",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.0.5",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.0.5",
+            "commit": {
+                "sha": "59037bfd28aa963a7916f1eb22a74107a3522f16",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/59037bfd28aa963a7916f1eb22a74107a3522f16"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMC41"
+        },
+        {
+            "name": "5.0.4",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.0.4",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.0.4",
+            "commit": {
+                "sha": "11928850d7273a8cd41bb766f2fc93b4d724b79b",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/11928850d7273a8cd41bb766f2fc93b4d724b79b"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMC40"
+        },
+        {
+            "name": "5.0.3",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.0.3",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.0.3",
+            "commit": {
+                "sha": "69a3338fa7eb429bd2845f74e76a78e24b425c6c",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/69a3338fa7eb429bd2845f74e76a78e24b425c6c"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMC4z"
+        },
+        {
+            "name": "5.0.2",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.0.2",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.0.2",
+            "commit": {
+                "sha": "b02c4ee7f1659090f7ac543c022f922beeb04bc6",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/b02c4ee7f1659090f7ac543c022f922beeb04bc6"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMC4y"
+        },
+        {
+            "name": "5.0.1",
+            "zipball_url": "https://api.github.com/repos/Alamofire/Alamofire/zipball/refs/tags/5.0.1",
+            "tarball_url": "https://api.github.com/repos/Alamofire/Alamofire/tarball/refs/tags/5.0.1",
+            "commit": {
+                "sha": "cdb2f4a574c3f7ae9ac0b0913058d64ff6fa09ac",
+                "url": "https://api.github.com/repos/Alamofire/Alamofire/commits/cdb2f4a574c3f7ae9ac0b0913058d64ff6fa09ac"
+            },
+            "node_id": "MDM6UmVmMjI0NTgyNTk6cmVmcy90YWdzLzUuMC4x"
+        }
+    ]
+}

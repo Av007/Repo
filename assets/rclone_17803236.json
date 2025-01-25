@@ -1,0 +1,438 @@
+{
+    "id": 17803236,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNzgwMzIzNg==",
+    "name": "rclone",
+    "full_name": "rclone/rclone",
+    "private": false,
+    "owner": {
+        "login": "rclone",
+        "id": 24937341,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0OTM3MzQx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24937341?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rclone",
+        "html_url": "https://github.com/rclone",
+        "followers_url": "https://api.github.com/users/rclone/followers",
+        "following_url": "https://api.github.com/users/rclone/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rclone/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rclone/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rclone/subscriptions",
+        "organizations_url": "https://api.github.com/users/rclone/orgs",
+        "repos_url": "https://api.github.com/users/rclone/repos",
+        "events_url": "https://api.github.com/users/rclone/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rclone/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/rclone/rclone",
+    "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "fork": false,
+    "url": "https://api.github.com/repos/rclone/rclone",
+    "forks_url": "https://api.github.com/repos/rclone/rclone/forks",
+    "keys_url": "https://api.github.com/repos/rclone/rclone/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/rclone/rclone/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/rclone/rclone/teams",
+    "hooks_url": "https://api.github.com/repos/rclone/rclone/hooks",
+    "issue_events_url": "https://api.github.com/repos/rclone/rclone/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/rclone/rclone/events",
+    "assignees_url": "https://api.github.com/repos/rclone/rclone/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/rclone/rclone/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/rclone/rclone/tags",
+    "blobs_url": "https://api.github.com/repos/rclone/rclone/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/rclone/rclone/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/rclone/rclone/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/rclone/rclone/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/rclone/rclone/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/rclone/rclone/languages",
+    "stargazers_url": "https://api.github.com/repos/rclone/rclone/stargazers",
+    "contributors_url": "https://api.github.com/repos/rclone/rclone/contributors",
+    "subscribers_url": "https://api.github.com/repos/rclone/rclone/subscribers",
+    "subscription_url": "https://api.github.com/repos/rclone/rclone/subscription",
+    "commits_url": "https://api.github.com/repos/rclone/rclone/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/rclone/rclone/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/rclone/rclone/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/rclone/rclone/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/rclone/rclone/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/rclone/rclone/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/rclone/rclone/merges",
+    "archive_url": "https://api.github.com/repos/rclone/rclone/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/rclone/rclone/downloads",
+    "issues_url": "https://api.github.com/repos/rclone/rclone/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/rclone/rclone/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/rclone/rclone/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/rclone/rclone/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/rclone/rclone/labels{/name}",
+    "releases_url": "https://api.github.com/repos/rclone/rclone/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/rclone/rclone/deployments",
+    "created_at": "2014-03-16T16:19:57Z",
+    "updated_at": "2025-01-25T16:20:21Z",
+    "pushed_at": "2025-01-24T17:22:58Z",
+    "git_url": "git://github.com/rclone/rclone.git",
+    "ssh_url": "git@github.com:rclone/rclone.git",
+    "clone_url": "https://github.com/rclone/rclone.git",
+    "svn_url": "https://github.com/rclone/rclone",
+    "homepage": "https://rclone.org",
+    "size": 197464,
+    "stargazers_count": 48408,
+    "watchers_count": 48408,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 4320,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1071,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "azure-blob",
+        "azure-blob-storage",
+        "azure-files",
+        "backblaze-b2",
+        "cloud-storage",
+        "dropbox",
+        "encryption",
+        "ftp",
+        "fuse-filesystem",
+        "go",
+        "golang",
+        "google-cloud-storage",
+        "google-drive",
+        "onedrive",
+        "openstack-swift",
+        "rclone",
+        "s3",
+        "sftp",
+        "sync",
+        "webdav"
+    ],
+    "visibility": "public",
+    "forks": 4320,
+    "open_issues": 1071,
+    "watchers": 48408,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.69.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.69.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.69.0",
+            "commit": {
+                "sha": "cd3b08d8cfbc910d9909b53c014bc87505ff4abe",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/cd3b08d8cfbc910d9909b53c014bc87505ff4abe"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY5LjA="
+        },
+        {
+            "name": "v1.68.2",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.68.2",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.68.2",
+            "commit": {
+                "sha": "f2d16ab4c5856098abe9e194c5f4dde6bfc56b66",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/f2d16ab4c5856098abe9e194c5f4dde6bfc56b66"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY4LjI="
+        },
+        {
+            "name": "v1.68.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.68.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.68.1",
+            "commit": {
+                "sha": "8d78768aaad75e8ff634981458990a66820093fd",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/8d78768aaad75e8ff634981458990a66820093fd"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY4LjE="
+        },
+        {
+            "name": "v1.68.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.68.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.68.0",
+            "commit": {
+                "sha": "49f69196c2aa8396734955d6ff2ad986b352e960",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/49f69196c2aa8396734955d6ff2ad986b352e960"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY4LjA="
+        },
+        {
+            "name": "v1.67.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.67.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.67.0",
+            "commit": {
+                "sha": "93e8a976ef686a4bd8e3afaf2016734c81881507",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/93e8a976ef686a4bd8e3afaf2016734c81881507"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY3LjA="
+        },
+        {
+            "name": "v1.66.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.66.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.66.0",
+            "commit": {
+                "sha": "b6013a5e689ff4ff8a869aa262c9d04d454f5a71",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/b6013a5e689ff4ff8a869aa262c9d04d454f5a71"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY2LjA="
+        },
+        {
+            "name": "v1.65.2",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.65.2",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.65.2",
+            "commit": {
+                "sha": "ffcaa6cd927929a871609a8d6ce0004324feb8d0",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/ffcaa6cd927929a871609a8d6ce0004324feb8d0"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY1LjI="
+        },
+        {
+            "name": "v1.65.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.65.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.65.1",
+            "commit": {
+                "sha": "863b4125c3ef994094b1821e87518a0619f4b484",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/863b4125c3ef994094b1821e87518a0619f4b484"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY1LjE="
+        },
+        {
+            "name": "v1.65.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.65.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.65.0",
+            "commit": {
+                "sha": "82b963e37239e4fb0779973667e7b873d5b5dadc",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/82b963e37239e4fb0779973667e7b873d5b5dadc"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY1LjA="
+        },
+        {
+            "name": "v1.64.2",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.64.2",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.64.2",
+            "commit": {
+                "sha": "0b2e17b3961e593b8ed2e84e15d1a1710a88286c",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/0b2e17b3961e593b8ed2e84e15d1a1710a88286c"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY0LjI="
+        },
+        {
+            "name": "v1.64.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.64.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.64.1",
+            "commit": {
+                "sha": "583eee635f3df77901188361210ee01cf6c71302",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/583eee635f3df77901188361210ee01cf6c71302"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY0LjE="
+        },
+        {
+            "name": "v1.64.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.64.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.64.0",
+            "commit": {
+                "sha": "77f7bb08afff911b669a5285c4106932acbe9af9",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/77f7bb08afff911b669a5285c4106932acbe9af9"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjY0LjA="
+        },
+        {
+            "name": "v1.63.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.63.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.63.1",
+            "commit": {
+                "sha": "bd1fbcae12f795f498c7ace6af9d9cc218102094",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/bd1fbcae12f795f498c7ace6af9d9cc218102094"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYzLjE="
+        },
+        {
+            "name": "v1.63.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.63.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.63.0",
+            "commit": {
+                "sha": "e90537b2e93d194848560b83e2c5164641a02595",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/e90537b2e93d194848560b83e2c5164641a02595"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYzLjA="
+        },
+        {
+            "name": "v1.62.2",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.62.2",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.62.2",
+            "commit": {
+                "sha": "78d0f48b98a27031c3478f1730af9255bed339a6",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/78d0f48b98a27031c3478f1730af9255bed339a6"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYyLjI="
+        },
+        {
+            "name": "v1.62.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.62.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.62.1",
+            "commit": {
+                "sha": "fa053a88eebb89d082d44ff8b5d2160467fd7cb8",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/fa053a88eebb89d082d44ff8b5d2160467fd7cb8"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYyLjE="
+        },
+        {
+            "name": "v1.62.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.62.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.62.0",
+            "commit": {
+                "sha": "77c70774585a767d9f4c508ab9a0f72373f70f5c",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/77c70774585a767d9f4c508ab9a0f72373f70f5c"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYyLjA="
+        },
+        {
+            "name": "v1.61.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.61.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.61.1",
+            "commit": {
+                "sha": "486e713337b3c57b871e5cf3fd880987fe2913c2",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/486e713337b3c57b871e5cf3fd880987fe2913c2"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYxLjE="
+        },
+        {
+            "name": "v1.61.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.61.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.61.0",
+            "commit": {
+                "sha": "2001cc08315f7f488c4a3f9950a57fbb81f26d96",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/2001cc08315f7f488c4a3f9950a57fbb81f26d96"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYxLjA="
+        },
+        {
+            "name": "v1.60.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.60.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.60.1",
+            "commit": {
+                "sha": "ab8be2663fca662398983a9372f5ee1c39cb2862",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/ab8be2663fca662398983a9372f5ee1c39cb2862"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYwLjE="
+        },
+        {
+            "name": "v1.60.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.60.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.60.0",
+            "commit": {
+                "sha": "01dbbff62e2470603d0c3abf4adf5c96e60cdbb5",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/01dbbff62e2470603d0c3abf4adf5c96e60cdbb5"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjYwLjA="
+        },
+        {
+            "name": "v1.59.2",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.59.2",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.59.2",
+            "commit": {
+                "sha": "ea73ac75ba76205d9234fd3fae3d88552049024f",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/ea73ac75ba76205d9234fd3fae3d88552049024f"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU5LjI="
+        },
+        {
+            "name": "v1.59.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.59.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.59.1",
+            "commit": {
+                "sha": "5f710a2d4811177743e3d3a9d1aa2c1d0780cefc",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/5f710a2d4811177743e3d3a9d1aa2c1d0780cefc"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU5LjE="
+        },
+        {
+            "name": "v1.59.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.59.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.59.0",
+            "commit": {
+                "sha": "00a684d877548b47990a96cef8eeb1462a590c2a",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/00a684d877548b47990a96cef8eeb1462a590c2a"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU5LjA="
+        },
+        {
+            "name": "v1.58.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.58.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.58.1",
+            "commit": {
+                "sha": "02f04b08bd26b50dfbfb07672c926e49bd070573",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/02f04b08bd26b50dfbfb07672c926e49bd070573"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU4LjE="
+        },
+        {
+            "name": "v1.58.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.58.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.58.0",
+            "commit": {
+                "sha": "f9354fff2fcd8e58a4b2581506c3f80702f148b9",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/f9354fff2fcd8e58a4b2581506c3f80702f148b9"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU4LjA="
+        },
+        {
+            "name": "v1.57.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.57.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.57.0",
+            "commit": {
+                "sha": "169990e270b2977c39bd6ecd8a2921cf30a6d2b7",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/169990e270b2977c39bd6ecd8a2921cf30a6d2b7"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU3LjA="
+        },
+        {
+            "name": "v1.56.2",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.56.2",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.56.2",
+            "commit": {
+                "sha": "4dfcf6899dbf5234cf65ff01b6c7df5362d2f841",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/4dfcf6899dbf5234cf65ff01b6c7df5362d2f841"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU2LjI="
+        },
+        {
+            "name": "v1.56.1",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.56.1",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.56.1",
+            "commit": {
+                "sha": "86f13fa46b94fb7bb8933922864f05a01dd7c65d",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/86f13fa46b94fb7bb8933922864f05a01dd7c65d"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU2LjE="
+        },
+        {
+            "name": "v1.56.0",
+            "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/refs/tags/v1.56.0",
+            "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/refs/tags/v1.56.0",
+            "commit": {
+                "sha": "37ff05a5fa9f14a2ef400b617b10bcc14847e25f",
+                "url": "https://api.github.com/repos/rclone/rclone/commits/37ff05a5fa9f14a2ef400b617b10bcc14847e25f"
+            },
+            "node_id": "MDM6UmVmMTc4MDMyMzY6cmVmcy90YWdzL3YxLjU2LjA="
+        }
+    ]
+}

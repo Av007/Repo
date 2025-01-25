@@ -1,0 +1,417 @@
+{
+    "id": 18049133,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODA0OTEzMw==",
+    "name": "slick",
+    "full_name": "kenwheeler/slick",
+    "private": false,
+    "owner": {
+        "login": "kenwheeler",
+        "id": 286616,
+        "node_id": "MDQ6VXNlcjI4NjYxNg==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/286616?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kenwheeler",
+        "html_url": "https://github.com/kenwheeler",
+        "followers_url": "https://api.github.com/users/kenwheeler/followers",
+        "following_url": "https://api.github.com/users/kenwheeler/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kenwheeler/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kenwheeler/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kenwheeler/subscriptions",
+        "organizations_url": "https://api.github.com/users/kenwheeler/orgs",
+        "repos_url": "https://api.github.com/users/kenwheeler/repos",
+        "events_url": "https://api.github.com/users/kenwheeler/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kenwheeler/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/kenwheeler/slick",
+    "description": "the last carousel you'll ever need",
+    "fork": false,
+    "url": "https://api.github.com/repos/kenwheeler/slick",
+    "forks_url": "https://api.github.com/repos/kenwheeler/slick/forks",
+    "keys_url": "https://api.github.com/repos/kenwheeler/slick/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/kenwheeler/slick/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/kenwheeler/slick/teams",
+    "hooks_url": "https://api.github.com/repos/kenwheeler/slick/hooks",
+    "issue_events_url": "https://api.github.com/repos/kenwheeler/slick/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/kenwheeler/slick/events",
+    "assignees_url": "https://api.github.com/repos/kenwheeler/slick/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/kenwheeler/slick/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/kenwheeler/slick/tags",
+    "blobs_url": "https://api.github.com/repos/kenwheeler/slick/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/kenwheeler/slick/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/kenwheeler/slick/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/kenwheeler/slick/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/kenwheeler/slick/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/kenwheeler/slick/languages",
+    "stargazers_url": "https://api.github.com/repos/kenwheeler/slick/stargazers",
+    "contributors_url": "https://api.github.com/repos/kenwheeler/slick/contributors",
+    "subscribers_url": "https://api.github.com/repos/kenwheeler/slick/subscribers",
+    "subscription_url": "https://api.github.com/repos/kenwheeler/slick/subscription",
+    "commits_url": "https://api.github.com/repos/kenwheeler/slick/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/kenwheeler/slick/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/kenwheeler/slick/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/kenwheeler/slick/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/kenwheeler/slick/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/kenwheeler/slick/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/kenwheeler/slick/merges",
+    "archive_url": "https://api.github.com/repos/kenwheeler/slick/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/kenwheeler/slick/downloads",
+    "issues_url": "https://api.github.com/repos/kenwheeler/slick/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/kenwheeler/slick/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/kenwheeler/slick/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/kenwheeler/slick/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/kenwheeler/slick/labels{/name}",
+    "releases_url": "https://api.github.com/repos/kenwheeler/slick/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/kenwheeler/slick/deployments",
+    "created_at": "2014-03-24T02:10:05Z",
+    "updated_at": "2025-01-25T02:36:52Z",
+    "pushed_at": "2024-08-30T19:41:50Z",
+    "git_url": "git://github.com/kenwheeler/slick.git",
+    "ssh_url": "git@github.com:kenwheeler/slick.git",
+    "clone_url": "https://github.com/kenwheeler/slick.git",
+    "svn_url": "https://github.com/kenwheeler/slick",
+    "homepage": "kenwheeler.github.io/slick",
+    "size": 3717,
+    "stargazers_count": 28582,
+    "watchers_count": 28582,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5873,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1396,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 5873,
+    "open_issues": 1396,
+    "watchers": 28582,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.8.1",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/v1.8.1",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/v1.8.1",
+            "commit": {
+                "sha": "0f40c9d6a02a5c08b5f4dd80fdada3a854a59bee",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/0f40c9d6a02a5c08b5f4dd80fdada3a854a59bee"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzL3YxLjguMQ=="
+        },
+        {
+            "name": "1.8.0",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.8.0",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.8.0",
+            "commit": {
+                "sha": "f9a8733207a558bcd0ace7c0746f596660f89dbf",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/f9a8733207a558bcd0ace7c0746f596660f89dbf"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuOC4w"
+        },
+        {
+            "name": "1.7.1",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.7.1",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.7.1",
+            "commit": {
+                "sha": "77101f1dc3e72cb44c253c81a74f9d4881b093a6",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/77101f1dc3e72cb44c253c81a74f9d4881b093a6"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNy4x"
+        },
+        {
+            "name": "1.6.0",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.6.0",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.6.0",
+            "commit": {
+                "sha": "0aee9fe00e440cc9d72c2dc11768ad9277880603",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/0aee9fe00e440cc9d72c2dc11768ad9277880603"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNi4w"
+        },
+        {
+            "name": "1.5.9",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.9",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.9",
+            "commit": {
+                "sha": "96ab6811b302a35f82b2128e350ee25c583df408",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/96ab6811b302a35f82b2128e350ee25c583df408"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS45"
+        },
+        {
+            "name": "1.5.8",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.8",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.8",
+            "commit": {
+                "sha": "66a9ee8f01a0d8e56f959b17ce70ed1a27ebfdee",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/66a9ee8f01a0d8e56f959b17ce70ed1a27ebfdee"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS44"
+        },
+        {
+            "name": "1.5.7",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.7",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.7",
+            "commit": {
+                "sha": "8e012082552456cc26b8d1234641d363ee21560a",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/8e012082552456cc26b8d1234641d363ee21560a"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS43"
+        },
+        {
+            "name": "1.5.6",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.6",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.6",
+            "commit": {
+                "sha": "bdcc639b0b5ffcfe7915bd03914182ce2a4c9d93",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/bdcc639b0b5ffcfe7915bd03914182ce2a4c9d93"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS42"
+        },
+        {
+            "name": "1.5.5",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.5",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.5",
+            "commit": {
+                "sha": "f73f1e4647c5c4d3fd7ed6c5efea64c10340d2e3",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/f73f1e4647c5c4d3fd7ed6c5efea64c10340d2e3"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS41"
+        },
+        {
+            "name": "1.5.4",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.4",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.4",
+            "commit": {
+                "sha": "e3ecec1a001f9265a0970e1b54cba2ba78d083dd",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/e3ecec1a001f9265a0970e1b54cba2ba78d083dd"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS40"
+        },
+        {
+            "name": "1.5.3",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.3",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.3",
+            "commit": {
+                "sha": "d353ebed53e49b2667ddfd2e25e1461786a1df90",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/d353ebed53e49b2667ddfd2e25e1461786a1df90"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS4z"
+        },
+        {
+            "name": "1.5.2",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.2",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.2",
+            "commit": {
+                "sha": "9f546a88f90fe671f96b743e9251f2fdc3370020",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/9f546a88f90fe671f96b743e9251f2fdc3370020"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS4y"
+        },
+        {
+            "name": "1.5.1",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.1",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.1",
+            "commit": {
+                "sha": "21dd2fc427d69622560aff462965403104fae09f",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/21dd2fc427d69622560aff462965403104fae09f"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS4x"
+        },
+        {
+            "name": "1.5.0",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.5.0",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.5.0",
+            "commit": {
+                "sha": "a3820746581f0f9073053f9a39c89e3d5aa55548",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/a3820746581f0f9073053f9a39c89e3d5aa55548"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNS4w"
+        },
+        {
+            "name": "1.4.1",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.4.1",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.4.1",
+            "commit": {
+                "sha": "e3fc23908d647bb2471c00c316ad57b15667975d",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/e3fc23908d647bb2471c00c316ad57b15667975d"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNC4x"
+        },
+        {
+            "name": "1.4.0",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.4.0",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.4.0",
+            "commit": {
+                "sha": "274eb9a5edeb42beaeac8a26128b4e7e1fe652d0",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/274eb9a5edeb42beaeac8a26128b4e7e1fe652d0"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuNC4w"
+        },
+        {
+            "name": "1.3.15",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.15",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.15",
+            "commit": {
+                "sha": "ef16dc13ebdd0d0a8776b24c5cf19b3178d0e879",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/ef16dc13ebdd0d0a8776b24c5cf19b3178d0e879"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4xNQ=="
+        },
+        {
+            "name": "1.3.14",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.14",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.14",
+            "commit": {
+                "sha": "9f8a4d2cdbf8ee4c8fe8cb4a1c069a80deaeeae9",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/9f8a4d2cdbf8ee4c8fe8cb4a1c069a80deaeeae9"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4xNA=="
+        },
+        {
+            "name": "1.3.13",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.13",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.13",
+            "commit": {
+                "sha": "b57de508ae9ec85206b0895a6dd3e43797ce9b22",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/b57de508ae9ec85206b0895a6dd3e43797ce9b22"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4xMw=="
+        },
+        {
+            "name": "1.3.12",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.12",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.12",
+            "commit": {
+                "sha": "f35489dab2aa8c4a4c85a905429cc89974d15599",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/f35489dab2aa8c4a4c85a905429cc89974d15599"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4xMg=="
+        },
+        {
+            "name": "1.3.11",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.11",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.11",
+            "commit": {
+                "sha": "31d6e5c4792bd0c2c75b4f2168888275b87eaf44",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/31d6e5c4792bd0c2c75b4f2168888275b87eaf44"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4xMQ=="
+        },
+        {
+            "name": "1.3.10",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.10",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.10",
+            "commit": {
+                "sha": "b7c551af91c37f158705f3682aaf97b2834834b4",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/b7c551af91c37f158705f3682aaf97b2834834b4"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4xMA=="
+        },
+        {
+            "name": "1.3.9",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.9",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.9",
+            "commit": {
+                "sha": "54b6e022ea40868a1ba3501f5b60103e47064814",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/54b6e022ea40868a1ba3501f5b60103e47064814"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy45"
+        },
+        {
+            "name": "1.3.8",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.8",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.8",
+            "commit": {
+                "sha": "9aaaf13cb6d7bb6162063fcfcd091bec6688fc0b",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/9aaaf13cb6d7bb6162063fcfcd091bec6688fc0b"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy44"
+        },
+        {
+            "name": "1.3.7.1",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.7.1",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.7.1",
+            "commit": {
+                "sha": "413575e9f32cfb6249cc776ee38ab9c621834807",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/413575e9f32cfb6249cc776ee38ab9c621834807"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy43LjE="
+        },
+        {
+            "name": "1.3.7",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.7",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.7",
+            "commit": {
+                "sha": "91dde985c01e7120835076a07475351be865bd5a",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/91dde985c01e7120835076a07475351be865bd5a"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy43"
+        },
+        {
+            "name": "1.3.6",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.6",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.6",
+            "commit": {
+                "sha": "3b505beac7defb27ab724c6d7759e58cacfbd5ac",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/3b505beac7defb27ab724c6d7759e58cacfbd5ac"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy42"
+        },
+        {
+            "name": "1.3.5",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.5",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.5",
+            "commit": {
+                "sha": "19c5c7d4e7ea4a45052890d33157d91ba95775f1",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/19c5c7d4e7ea4a45052890d33157d91ba95775f1"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy41"
+        },
+        {
+            "name": "1.3.4",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.4",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.4",
+            "commit": {
+                "sha": "f24dcb0ef495ae768953cb87d1ebf119a6fb2972",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/f24dcb0ef495ae768953cb87d1ebf119a6fb2972"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy40"
+        },
+        {
+            "name": "1.3.3",
+            "zipball_url": "https://api.github.com/repos/kenwheeler/slick/zipball/refs/tags/1.3.3",
+            "tarball_url": "https://api.github.com/repos/kenwheeler/slick/tarball/refs/tags/1.3.3",
+            "commit": {
+                "sha": "489f1eca062fc59455c29192767e9a98dbabae74",
+                "url": "https://api.github.com/repos/kenwheeler/slick/commits/489f1eca062fc59455c29192767e9a98dbabae74"
+            },
+            "node_id": "MDM6UmVmMTgwNDkxMzM6cmVmcy90YWdzLzEuMy4z"
+        }
+    ]
+}

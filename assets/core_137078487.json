@@ -1,0 +1,417 @@
+{
+    "id": 137078487,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMzcwNzg0ODc=",
+    "name": "core",
+    "full_name": "vuejs/core",
+    "private": false,
+    "owner": {
+        "login": "vuejs",
+        "id": 6128107,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMjgxMDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6128107?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vuejs",
+        "html_url": "https://github.com/vuejs",
+        "followers_url": "https://api.github.com/users/vuejs/followers",
+        "following_url": "https://api.github.com/users/vuejs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vuejs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vuejs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vuejs/subscriptions",
+        "organizations_url": "https://api.github.com/users/vuejs/orgs",
+        "repos_url": "https://api.github.com/users/vuejs/repos",
+        "events_url": "https://api.github.com/users/vuejs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vuejs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/vuejs/core",
+    "description": "\ud83d\udd96 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "fork": false,
+    "url": "https://api.github.com/repos/vuejs/core",
+    "forks_url": "https://api.github.com/repos/vuejs/core/forks",
+    "keys_url": "https://api.github.com/repos/vuejs/core/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/vuejs/core/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/vuejs/core/teams",
+    "hooks_url": "https://api.github.com/repos/vuejs/core/hooks",
+    "issue_events_url": "https://api.github.com/repos/vuejs/core/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/vuejs/core/events",
+    "assignees_url": "https://api.github.com/repos/vuejs/core/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/vuejs/core/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/vuejs/core/tags",
+    "blobs_url": "https://api.github.com/repos/vuejs/core/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/vuejs/core/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/vuejs/core/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/vuejs/core/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/vuejs/core/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/vuejs/core/languages",
+    "stargazers_url": "https://api.github.com/repos/vuejs/core/stargazers",
+    "contributors_url": "https://api.github.com/repos/vuejs/core/contributors",
+    "subscribers_url": "https://api.github.com/repos/vuejs/core/subscribers",
+    "subscription_url": "https://api.github.com/repos/vuejs/core/subscription",
+    "commits_url": "https://api.github.com/repos/vuejs/core/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/vuejs/core/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/vuejs/core/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/vuejs/core/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/vuejs/core/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/vuejs/core/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/vuejs/core/merges",
+    "archive_url": "https://api.github.com/repos/vuejs/core/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/vuejs/core/downloads",
+    "issues_url": "https://api.github.com/repos/vuejs/core/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/vuejs/core/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/vuejs/core/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/vuejs/core/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/vuejs/core/labels{/name}",
+    "releases_url": "https://api.github.com/repos/vuejs/core/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/vuejs/core/deployments",
+    "created_at": "2018-06-12T13:49:36Z",
+    "updated_at": "2025-01-25T15:27:18Z",
+    "pushed_at": "2025-01-24T14:15:57Z",
+    "git_url": "git://github.com/vuejs/core.git",
+    "ssh_url": "git@github.com:vuejs/core.git",
+    "clone_url": "https://github.com/vuejs/core.git",
+    "svn_url": "https://github.com/vuejs/core",
+    "homepage": "https://vuejs.org/",
+    "size": 33740,
+    "stargazers_count": 48559,
+    "watchers_count": 48559,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8465,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 961,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 8465,
+    "open_issues": 961,
+    "watchers": 48559,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.5.13",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.13",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.13",
+            "commit": {
+                "sha": "6eb29d345aa73746207f80c89ee8b37ff7b949c9",
+                "url": "https://api.github.com/repos/vuejs/core/commits/6eb29d345aa73746207f80c89ee8b37ff7b949c9"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjEz"
+        },
+        {
+            "name": "v3.5.12",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.12",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.12",
+            "commit": {
+                "sha": "770ea67a9cdbb9f01bd7098b8c63978037d0e3fd",
+                "url": "https://api.github.com/repos/vuejs/core/commits/770ea67a9cdbb9f01bd7098b8c63978037d0e3fd"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjEy"
+        },
+        {
+            "name": "v3.5.11",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.11",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.11",
+            "commit": {
+                "sha": "6e4de8d75e064a220c57c942c4239ca46fc7fe49",
+                "url": "https://api.github.com/repos/vuejs/core/commits/6e4de8d75e064a220c57c942c4239ca46fc7fe49"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjEx"
+        },
+        {
+            "name": "v3.5.10",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.10",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.10",
+            "commit": {
+                "sha": "4b09ab2074e7bafed5ded653bc81b700726bd1fb",
+                "url": "https://api.github.com/repos/vuejs/core/commits/4b09ab2074e7bafed5ded653bc81b700726bd1fb"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjEw"
+        },
+        {
+            "name": "v3.5.9",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.9",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.9",
+            "commit": {
+                "sha": "01f15beeb0ba0ffe434e113c2361c84e109f860f",
+                "url": "https://api.github.com/repos/vuejs/core/commits/01f15beeb0ba0ffe434e113c2361c84e109f860f"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41Ljk="
+        },
+        {
+            "name": "v3.5.8",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.8",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.8",
+            "commit": {
+                "sha": "5e8898572fa63438b57a4b2b1de01a85dc49655e",
+                "url": "https://api.github.com/repos/vuejs/core/commits/5e8898572fa63438b57a4b2b1de01a85dc49655e"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41Ljg="
+        },
+        {
+            "name": "v3.5.7",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.7",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.7",
+            "commit": {
+                "sha": "6fcb80172f2f612bb104f68ef840d377a7eac862",
+                "url": "https://api.github.com/repos/vuejs/core/commits/6fcb80172f2f612bb104f68ef840d377a7eac862"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41Ljc="
+        },
+        {
+            "name": "v3.5.6",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.6",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.6",
+            "commit": {
+                "sha": "9a36f2a0b8a01e19cb58b3b5870eb906ab84d001",
+                "url": "https://api.github.com/repos/vuejs/core/commits/9a36f2a0b8a01e19cb58b3b5870eb906ab84d001"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjY="
+        },
+        {
+            "name": "v3.5.5",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.5",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.5",
+            "commit": {
+                "sha": "7f2de3f53e785a28d475988aeb799aa7f8477ca8",
+                "url": "https://api.github.com/repos/vuejs/core/commits/7f2de3f53e785a28d475988aeb799aa7f8477ca8"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjU="
+        },
+        {
+            "name": "v3.5.4",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.4",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.4",
+            "commit": {
+                "sha": "91212fa408e168b1b2012c23c808f658ed37da63",
+                "url": "https://api.github.com/repos/vuejs/core/commits/91212fa408e168b1b2012c23c808f658ed37da63"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjQ="
+        },
+        {
+            "name": "v3.5.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.3",
+            "commit": {
+                "sha": "632e163a41810fbebe7a73156ea6bc5ae3f839ef",
+                "url": "https://api.github.com/repos/vuejs/core/commits/632e163a41810fbebe7a73156ea6bc5ae3f839ef"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjM="
+        },
+        {
+            "name": "v3.5.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.2",
+            "commit": {
+                "sha": "72263fa12eec5daf72ce12bb17fbdc878536d53e",
+                "url": "https://api.github.com/repos/vuejs/core/commits/72263fa12eec5daf72ce12bb17fbdc878536d53e"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjI="
+        },
+        {
+            "name": "v3.5.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.1",
+            "commit": {
+                "sha": "1b6bc2374d93e5f76d9266a0fcc5c10a8cafef5b",
+                "url": "https://api.github.com/repos/vuejs/core/commits/1b6bc2374d93e5f76d9266a0fcc5c10a8cafef5b"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjE="
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "6402b984087dd48f1a11f444a225d4ac6b2b7b9e",
+                "url": "https://api.github.com/repos/vuejs/core/commits/6402b984087dd48f1a11f444a225d4ac6b2b7b9e"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjA="
+        },
+        {
+            "name": "v3.5.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-rc.1",
+            "commit": {
+                "sha": "d298c431cc422b53cf4e9c69bf1daf926c33b6e0",
+                "url": "https://api.github.com/repos/vuejs/core/commits/d298c431cc422b53cf4e9c69bf1daf926c33b6e0"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtcmMuMQ=="
+        },
+        {
+            "name": "v3.5.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-beta.3",
+            "commit": {
+                "sha": "8c3fdd1a7d4060680f8379fac8848d9f5f6e5620",
+                "url": "https://api.github.com/repos/vuejs/core/commits/8c3fdd1a7d4060680f8379fac8848d9f5f6e5620"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYmV0YS4z"
+        },
+        {
+            "name": "v3.5.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-beta.2",
+            "commit": {
+                "sha": "7d700c215d6250c9acfc5e126770dade678bcebf",
+                "url": "https://api.github.com/repos/vuejs/core/commits/7d700c215d6250c9acfc5e126770dade678bcebf"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYmV0YS4y"
+        },
+        {
+            "name": "v3.5.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-beta.1",
+            "commit": {
+                "sha": "23e098807ba026946fd4706be569b3d170462616",
+                "url": "https://api.github.com/repos/vuejs/core/commits/23e098807ba026946fd4706be569b3d170462616"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYmV0YS4x"
+        },
+        {
+            "name": "v3.5.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-alpha.5",
+            "commit": {
+                "sha": "f6babf32363185ff3ab3512d952a8a9aa9603762",
+                "url": "https://api.github.com/repos/vuejs/core/commits/f6babf32363185ff3ab3512d952a8a9aa9603762"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYWxwaGEuNQ=="
+        },
+        {
+            "name": "v3.5.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-alpha.4",
+            "commit": {
+                "sha": "4ffd9db7036b1667c808c4df99178ce025aa1ac1",
+                "url": "https://api.github.com/repos/vuejs/core/commits/4ffd9db7036b1667c808c4df99178ce025aa1ac1"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYWxwaGEuNA=="
+        },
+        {
+            "name": "v3.5.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-alpha.3",
+            "commit": {
+                "sha": "ee11f4362392baa94b0735806191072250b565cc",
+                "url": "https://api.github.com/repos/vuejs/core/commits/ee11f4362392baa94b0735806191072250b565cc"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYWxwaGEuMw=="
+        },
+        {
+            "name": "v3.5.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-alpha.2",
+            "commit": {
+                "sha": "b295cdf4e9c79573a937c21c62fd02bc722087fc",
+                "url": "https://api.github.com/repos/vuejs/core/commits/b295cdf4e9c79573a937c21c62fd02bc722087fc"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v3.5.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.5.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.5.0-alpha.1",
+            "commit": {
+                "sha": "5590ca3694fc98858951bcfa027fc92f899b05ae",
+                "url": "https://api.github.com/repos/vuejs/core/commits/5590ca3694fc98858951bcfa027fc92f899b05ae"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My41LjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v3.4.38",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.38",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.38",
+            "commit": {
+                "sha": "56e658e7b738ab92d2a76c08443f4034970ede21",
+                "url": "https://api.github.com/repos/vuejs/core/commits/56e658e7b738ab92d2a76c08443f4034970ede21"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjM4"
+        },
+        {
+            "name": "v3.4.37",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.37",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.37",
+            "commit": {
+                "sha": "28db2e69f40e53df84f21ea9e98e9d5d45cd6a60",
+                "url": "https://api.github.com/repos/vuejs/core/commits/28db2e69f40e53df84f21ea9e98e9d5d45cd6a60"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjM3"
+        },
+        {
+            "name": "v3.4.36",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.36",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.36",
+            "commit": {
+                "sha": "1cbbb0400836ccb8c8cc7a1ca83a3e10f1bf4633",
+                "url": "https://api.github.com/repos/vuejs/core/commits/1cbbb0400836ccb8c8cc7a1ca83a3e10f1bf4633"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjM2"
+        },
+        {
+            "name": "v3.4.35",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.35",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.35",
+            "commit": {
+                "sha": "0b8ba6320eaf8b08e83d7c1e1309254dd0b021da",
+                "url": "https://api.github.com/repos/vuejs/core/commits/0b8ba6320eaf8b08e83d7c1e1309254dd0b021da"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjM1"
+        },
+        {
+            "name": "v3.4.34",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.34",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.34",
+            "commit": {
+                "sha": "91112520427ff55941a1c759d7d60a0811ff4a61",
+                "url": "https://api.github.com/repos/vuejs/core/commits/91112520427ff55941a1c759d7d60a0811ff4a61"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjM0"
+        },
+        {
+            "name": "v3.4.33",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.33",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.33",
+            "commit": {
+                "sha": "422ef34e487f801e1162bed80c0e88e868576e1d",
+                "url": "https://api.github.com/repos/vuejs/core/commits/422ef34e487f801e1162bed80c0e88e868576e1d"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjMz"
+        },
+        {
+            "name": "v3.4.32",
+            "zipball_url": "https://api.github.com/repos/vuejs/core/zipball/refs/tags/v3.4.32",
+            "tarball_url": "https://api.github.com/repos/vuejs/core/tarball/refs/tags/v3.4.32",
+            "commit": {
+                "sha": "fd5c001ec732197b1bbfc42b666a72ba65c4c4d7",
+                "url": "https://api.github.com/repos/vuejs/core/commits/fd5c001ec732197b1bbfc42b666a72ba65c4c4d7"
+            },
+            "node_id": "MDM6UmVmMTM3MDc4NDg3OnJlZnMvdGFncy92My40LjMy"
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "id": 39840932,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzOTg0MDkzMg==",
+    "name": "googletest",
+    "full_name": "google/googletest",
+    "private": false,
+    "owner": {
+        "login": "google",
+        "id": 1342004,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/google",
+        "html_url": "https://github.com/google",
+        "followers_url": "https://api.github.com/users/google/followers",
+        "following_url": "https://api.github.com/users/google/following{/other_user}",
+        "gists_url": "https://api.github.com/users/google/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/google/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/google/subscriptions",
+        "organizations_url": "https://api.github.com/users/google/orgs",
+        "repos_url": "https://api.github.com/users/google/repos",
+        "events_url": "https://api.github.com/users/google/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/google/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "fork": false,
+    "url": "https://api.github.com/repos/google/googletest",
+    "forks_url": "https://api.github.com/repos/google/googletest/forks",
+    "keys_url": "https://api.github.com/repos/google/googletest/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/google/googletest/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/google/googletest/teams",
+    "hooks_url": "https://api.github.com/repos/google/googletest/hooks",
+    "issue_events_url": "https://api.github.com/repos/google/googletest/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/google/googletest/events",
+    "assignees_url": "https://api.github.com/repos/google/googletest/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/google/googletest/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/google/googletest/tags",
+    "blobs_url": "https://api.github.com/repos/google/googletest/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/google/googletest/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/google/googletest/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/google/googletest/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/google/googletest/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/google/googletest/languages",
+    "stargazers_url": "https://api.github.com/repos/google/googletest/stargazers",
+    "contributors_url": "https://api.github.com/repos/google/googletest/contributors",
+    "subscribers_url": "https://api.github.com/repos/google/googletest/subscribers",
+    "subscription_url": "https://api.github.com/repos/google/googletest/subscription",
+    "commits_url": "https://api.github.com/repos/google/googletest/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/google/googletest/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/google/googletest/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/google/googletest/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/google/googletest/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/google/googletest/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/google/googletest/merges",
+    "archive_url": "https://api.github.com/repos/google/googletest/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/google/googletest/downloads",
+    "issues_url": "https://api.github.com/repos/google/googletest/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/google/googletest/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/google/googletest/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/google/googletest/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/google/googletest/labels{/name}",
+    "releases_url": "https://api.github.com/repos/google/googletest/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/google/googletest/deployments",
+    "created_at": "2015-07-28T15:07:53Z",
+    "updated_at": "2025-01-25T16:23:21Z",
+    "pushed_at": "2025-01-16T20:52:09Z",
+    "git_url": "git://github.com/google/googletest.git",
+    "ssh_url": "git@github.com:google/googletest.git",
+    "clone_url": "https://github.com/google/googletest.git",
+    "svn_url": "https://github.com/google/googletest",
+    "homepage": "https://google.github.io/googletest/",
+    "size": 13538,
+    "stargazers_count": 35354,
+    "watchers_count": 35354,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": false,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 10231,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 391,
+    "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 10231,
+    "open_issues": 391,
+    "watchers": 35354,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.15.2",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.15.2",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.15.2",
+            "commit": {
+                "sha": "b514bdc898e2951020cbdca1304b75f5950d1f59",
+                "url": "https://api.github.com/repos/google/googletest/commits/b514bdc898e2951020cbdca1304b75f5950d1f59"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjE1LjI="
+        },
+        {
+            "name": "v1.15.1",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.15.1",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.15.1",
+            "commit": {
+                "sha": "075196ca060107d44b4e3a1f44b25886ed5bd187",
+                "url": "https://api.github.com/repos/google/googletest/commits/075196ca060107d44b4e3a1f44b25886ed5bd187"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjE1LjE="
+        },
+        {
+            "name": "v1.15.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.15.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.15.0",
+            "commit": {
+                "sha": "e39786088138f2749d64e9e90e0f9902daa77c40",
+                "url": "https://api.github.com/repos/google/googletest/commits/e39786088138f2749d64e9e90e0f9902daa77c40"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjE1LjA="
+        },
+        {
+            "name": "v1.15.0-pre",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.15.0-pre",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.15.0-pre",
+            "commit": {
+                "sha": "e39786088138f2749d64e9e90e0f9902daa77c40",
+                "url": "https://api.github.com/repos/google/googletest/commits/e39786088138f2749d64e9e90e0f9902daa77c40"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjE1LjAtcHJl"
+        },
+        {
+            "name": "v1.14.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.14.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.14.0",
+            "commit": {
+                "sha": "f8d7d77c06936315286eb55f8de22cd23c188571",
+                "url": "https://api.github.com/repos/google/googletest/commits/f8d7d77c06936315286eb55f8de22cd23c188571"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjE0LjA="
+        },
+        {
+            "name": "v1.14.0-pre",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.14.0-pre",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.14.0-pre",
+            "commit": {
+                "sha": "f8d7d77c06936315286eb55f8de22cd23c188571",
+                "url": "https://api.github.com/repos/google/googletest/commits/f8d7d77c06936315286eb55f8de22cd23c188571"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjE0LjAtcHJl"
+        },
+        {
+            "name": "v1.13.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.13.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.13.0",
+            "commit": {
+                "sha": "b796f7d44681514f58a683a3a71ff17c94edb0c1",
+                "url": "https://api.github.com/repos/google/googletest/commits/b796f7d44681514f58a683a3a71ff17c94edb0c1"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjEzLjA="
+        },
+        {
+            "name": "v1.13.0-pre",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.13.0-pre",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.13.0-pre",
+            "commit": {
+                "sha": "b796f7d44681514f58a683a3a71ff17c94edb0c1",
+                "url": "https://api.github.com/repos/google/googletest/commits/b796f7d44681514f58a683a3a71ff17c94edb0c1"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjEzLjAtcHJl"
+        },
+        {
+            "name": "v1.12.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.12.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.12.0",
+            "commit": {
+                "sha": "15460959cbbfa20e66ef0b5ab497367e47fc0a04",
+                "url": "https://api.github.com/repos/google/googletest/commits/15460959cbbfa20e66ef0b5ab497367e47fc0a04"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjEyLjA="
+        },
+        {
+            "name": "v1.12.0-pre",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.12.0-pre",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.12.0-pre",
+            "commit": {
+                "sha": "15460959cbbfa20e66ef0b5ab497367e47fc0a04",
+                "url": "https://api.github.com/repos/google/googletest/commits/15460959cbbfa20e66ef0b5ab497367e47fc0a04"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjEyLjAtcHJl"
+        },
+        {
+            "name": "v1.10.x",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/v1.10.x",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/v1.10.x",
+            "commit": {
+                "sha": "703bd9caab50b139428cea1aaff9974ebee5742e",
+                "url": "https://api.github.com/repos/google/googletest/commits/703bd9caab50b139428cea1aaff9974ebee5742e"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3YxLjEwLng="
+        },
+        {
+            "name": "release-1.12.1",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.12.1",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.12.1",
+            "commit": {
+                "sha": "58d77fa8070e8cec2dc1ed015d66b454c8d78850",
+                "url": "https://api.github.com/repos/google/googletest/commits/58d77fa8070e8cec2dc1ed015d66b454c8d78850"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4xMi4x"
+        },
+        {
+            "name": "release-1.12.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.12.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.12.0",
+            "commit": {
+                "sha": "15460959cbbfa20e66ef0b5ab497367e47fc0a04",
+                "url": "https://api.github.com/repos/google/googletest/commits/15460959cbbfa20e66ef0b5ab497367e47fc0a04"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4xMi4w"
+        },
+        {
+            "name": "release-1.11.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.11.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.11.0",
+            "commit": {
+                "sha": "e2239ee6043f73722e7aa812a459f54a28552929",
+                "url": "https://api.github.com/repos/google/googletest/commits/e2239ee6043f73722e7aa812a459f54a28552929"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4xMS4w"
+        },
+        {
+            "name": "release-1.10.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.10.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.10.0",
+            "commit": {
+                "sha": "703bd9caab50b139428cea1aaff9974ebee5742e",
+                "url": "https://api.github.com/repos/google/googletest/commits/703bd9caab50b139428cea1aaff9974ebee5742e"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4xMC4w"
+        },
+        {
+            "name": "release-1.8.1",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.8.1",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.8.1",
+            "commit": {
+                "sha": "2fe3bd994b3189899d93f1d5a881e725e046fdc2",
+                "url": "https://api.github.com/repos/google/googletest/commits/2fe3bd994b3189899d93f1d5a881e725e046fdc2"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS44LjE="
+        },
+        {
+            "name": "release-1.8.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.8.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.8.0",
+            "commit": {
+                "sha": "ec44c6c1675c25b9827aacd08c02433cccde7780",
+                "url": "https://api.github.com/repos/google/googletest/commits/ec44c6c1675c25b9827aacd08c02433cccde7780"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS44LjA="
+        },
+        {
+            "name": "release-1.7.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.7.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.7.0",
+            "commit": {
+                "sha": "c99458533a9b4c743ed51537e25989ea55944908",
+                "url": "https://api.github.com/repos/google/googletest/commits/c99458533a9b4c743ed51537e25989ea55944908"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS43LjA="
+        },
+        {
+            "name": "release-1.6.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.6.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.6.0",
+            "commit": {
+                "sha": "800f5422ac9d9e0ad59cd860a2ef3a679588acb4",
+                "url": "https://api.github.com/repos/google/googletest/commits/800f5422ac9d9e0ad59cd860a2ef3a679588acb4"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS42LjA="
+        },
+        {
+            "name": "release-1.5.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.5.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.5.0",
+            "commit": {
+                "sha": "c9d6f5e0ed047c199c47edc170faf0b212e01c5a",
+                "url": "https://api.github.com/repos/google/googletest/commits/c9d6f5e0ed047c199c47edc170faf0b212e01c5a"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS41LjA="
+        },
+        {
+            "name": "release-1.4.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.4.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.4.0",
+            "commit": {
+                "sha": "b4d333f14f977b3668de4e794d7d2e00b322d59a",
+                "url": "https://api.github.com/repos/google/googletest/commits/b4d333f14f977b3668de4e794d7d2e00b322d59a"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS40LjA="
+        },
+        {
+            "name": "release-1.3.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.3.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.3.0",
+            "commit": {
+                "sha": "37099036614250e59828b33202e01a376101d639",
+                "url": "https://api.github.com/repos/google/googletest/commits/37099036614250e59828b33202e01a376101d639"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4zLjA="
+        },
+        {
+            "name": "release-1.2.1",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.2.1",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.2.1",
+            "commit": {
+                "sha": "164aeccb78117493d90cd53d642b892ed4c7dbfd",
+                "url": "https://api.github.com/repos/google/googletest/commits/164aeccb78117493d90cd53d642b892ed4c7dbfd"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4yLjE="
+        },
+        {
+            "name": "release-1.2.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.2.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.2.0",
+            "commit": {
+                "sha": "99ec78bdab7beeb8aa27334cb87552e0fa5ed6e3",
+                "url": "https://api.github.com/repos/google/googletest/commits/99ec78bdab7beeb8aa27334cb87552e0fa5ed6e3"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4yLjA="
+        },
+        {
+            "name": "release-1.1.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.1.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.1.0",
+            "commit": {
+                "sha": "190fa6300b39c37ec0219c57d72795e38833da17",
+                "url": "https://api.github.com/repos/google/googletest/commits/190fa6300b39c37ec0219c57d72795e38833da17"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4xLjA="
+        },
+        {
+            "name": "release-1.0.1",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.0.1",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.0.1",
+            "commit": {
+                "sha": "f36c0a061574e60a7f59290ef581b6fbe1aa93ad",
+                "url": "https://api.github.com/repos/google/googletest/commits/f36c0a061574e60a7f59290ef581b6fbe1aa93ad"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4wLjE="
+        },
+        {
+            "name": "release-1.0.0",
+            "zipball_url": "https://api.github.com/repos/google/googletest/zipball/refs/tags/release-1.0.0",
+            "tarball_url": "https://api.github.com/repos/google/googletest/tarball/refs/tags/release-1.0.0",
+            "commit": {
+                "sha": "6d1deeb565be215554ee28f0ec9c1ed0b12afa8e",
+                "url": "https://api.github.com/repos/google/googletest/commits/6d1deeb565be215554ee28f0ec9c1ed0b12afa8e"
+            },
+            "node_id": "MDM6UmVmMzk4NDA5MzI6cmVmcy90YWdzL3JlbGVhc2UtMS4wLjA="
+        }
+    ]
+}

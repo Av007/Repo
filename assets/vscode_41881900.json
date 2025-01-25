@@ -1,0 +1,423 @@
+{
+    "id": 41881900,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+    "name": "vscode",
+    "full_name": "microsoft/vscode",
+    "private": false,
+    "owner": {
+        "login": "microsoft",
+        "id": 6154722,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/microsoft",
+        "html_url": "https://github.com/microsoft",
+        "followers_url": "https://api.github.com/users/microsoft/followers",
+        "following_url": "https://api.github.com/users/microsoft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/microsoft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/microsoft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/microsoft/subscriptions",
+        "organizations_url": "https://api.github.com/users/microsoft/orgs",
+        "repos_url": "https://api.github.com/users/microsoft/repos",
+        "events_url": "https://api.github.com/users/microsoft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/microsoft/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "fork": false,
+    "url": "https://api.github.com/repos/microsoft/vscode",
+    "forks_url": "https://api.github.com/repos/microsoft/vscode/forks",
+    "keys_url": "https://api.github.com/repos/microsoft/vscode/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/microsoft/vscode/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/microsoft/vscode/teams",
+    "hooks_url": "https://api.github.com/repos/microsoft/vscode/hooks",
+    "issue_events_url": "https://api.github.com/repos/microsoft/vscode/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/microsoft/vscode/events",
+    "assignees_url": "https://api.github.com/repos/microsoft/vscode/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/microsoft/vscode/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/microsoft/vscode/tags",
+    "blobs_url": "https://api.github.com/repos/microsoft/vscode/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/microsoft/vscode/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/microsoft/vscode/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/microsoft/vscode/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/microsoft/vscode/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/microsoft/vscode/languages",
+    "stargazers_url": "https://api.github.com/repos/microsoft/vscode/stargazers",
+    "contributors_url": "https://api.github.com/repos/microsoft/vscode/contributors",
+    "subscribers_url": "https://api.github.com/repos/microsoft/vscode/subscribers",
+    "subscription_url": "https://api.github.com/repos/microsoft/vscode/subscription",
+    "commits_url": "https://api.github.com/repos/microsoft/vscode/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/microsoft/vscode/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/microsoft/vscode/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/microsoft/vscode/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/microsoft/vscode/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/microsoft/vscode/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/microsoft/vscode/merges",
+    "archive_url": "https://api.github.com/repos/microsoft/vscode/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/microsoft/vscode/downloads",
+    "issues_url": "https://api.github.com/repos/microsoft/vscode/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/microsoft/vscode/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/microsoft/vscode/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/microsoft/vscode/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/microsoft/vscode/labels{/name}",
+    "releases_url": "https://api.github.com/repos/microsoft/vscode/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/microsoft/vscode/deployments",
+    "created_at": "2015-09-03T20:23:38Z",
+    "updated_at": "2025-01-25T17:17:34Z",
+    "pushed_at": "2025-01-25T15:43:14Z",
+    "git_url": "git://github.com/microsoft/vscode.git",
+    "ssh_url": "git@github.com:microsoft/vscode.git",
+    "clone_url": "https://github.com/microsoft/vscode.git",
+    "svn_url": "https://github.com/microsoft/vscode",
+    "homepage": "https://code.visualstudio.com",
+    "size": 977096,
+    "stargazers_count": 166580,
+    "watchers_count": 166580,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 30182,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 8847,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "editor",
+        "electron",
+        "microsoft",
+        "typescript",
+        "visual-studio-code"
+    ],
+    "visibility": "public",
+    "forks": 30182,
+    "open_issues": 8847,
+    "watchers": 166580,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "vsda-v1.39.1",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/vsda-v1.39.1",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/vsda-v1.39.1",
+            "commit": {
+                "sha": "2cbf51458e5d74f39c4f19fb69c5c75f6a27529b",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/2cbf51458e5d74f39c4f19fb69c5c75f6a27529b"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3ZzZGEtdjEuMzkuMQ=="
+        },
+        {
+            "name": "v14",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/v14",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/v14",
+            "commit": {
+                "sha": "25875a16e80c5bf877b21faea9de2cf816b0428c",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/25875a16e80c5bf877b21faea9de2cf816b0428c"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3YxNA=="
+        },
+        {
+            "name": "v1.19.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/v1.19.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/v1.19.3",
+            "commit": {
+                "sha": "554a9c6dcd8b0636ace6f1c64e13e12adf0fcd1d",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/554a9c6dcd8b0636ace6f1c64e13e12adf0fcd1d"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3YxLjE5LjM="
+        },
+        {
+            "name": "v0.3.11",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/v0.3.11",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/v0.3.11",
+            "commit": {
+                "sha": "17fcb55af3da1938d28c49012db3c10471874d60",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/17fcb55af3da1938d28c49012db3c10471874d60"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3YwLjMuMTE="
+        },
+        {
+            "name": "translation/20172701.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20172701.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20172701.01",
+            "commit": {
+                "sha": "6fba7f34839511a62d059aad505605cf245e01e9",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/6fba7f34839511a62d059aad505605cf245e01e9"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcyNzAxLjAx"
+        },
+        {
+            "name": "translation/20170407.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170407.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170407.01",
+            "commit": {
+                "sha": "d2b1d2be5e0a395a5ad16517e49786ec8d95e3b0",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/d2b1d2be5e0a395a5ad16517e49786ec8d95e3b0"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwNDA3LjAx"
+        },
+        {
+            "name": "translation/20170331.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170331.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170331.01",
+            "commit": {
+                "sha": "8ef40c6b23c58fbc4a973b2a039e7b490659880d",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/8ef40c6b23c58fbc4a973b2a039e7b490659880d"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMzMxLjAx"
+        },
+        {
+            "name": "translation/20170324.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170324.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170324.01",
+            "commit": {
+                "sha": "801210c07483ddbd0c1b3b3ed18f27fd1a3ca08f",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/801210c07483ddbd0c1b3b3ed18f27fd1a3ca08f"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMzI0LjAx"
+        },
+        {
+            "name": "translation/20170317.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170317.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170317.01",
+            "commit": {
+                "sha": "a1912461005452ccfc04c7bc37f6767a575565c1",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/a1912461005452ccfc04c7bc37f6767a575565c1"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMzE3LjAx"
+        },
+        {
+            "name": "translation/20170311.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170311.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170311.01",
+            "commit": {
+                "sha": "3b7329eab86fedaade198c550a880ef24053b474",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/3b7329eab86fedaade198c550a880ef24053b474"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMzExLjAx"
+        },
+        {
+            "name": "translation/20170227.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170227.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170227.01",
+            "commit": {
+                "sha": "f3ec75c594bc6914c97bf613db9389ab2ea3f8c4",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/f3ec75c594bc6914c97bf613db9389ab2ea3f8c4"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMjI3LjAx"
+        },
+        {
+            "name": "translation/20170217.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170217.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170217.01",
+            "commit": {
+                "sha": "1a5e433eddcbc1caeba3d334a7ca59e3b10ea4d3",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/1a5e433eddcbc1caeba3d334a7ca59e3b10ea4d3"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMjE3LjAx"
+        },
+        {
+            "name": "translation/20170203.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170203.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170203.01",
+            "commit": {
+                "sha": "837a83000c6102c0034e12c63416dd9a38264d2a",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/837a83000c6102c0034e12c63416dd9a38264d2a"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMjAzLjAx"
+        },
+        {
+            "name": "translation/20170127.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170127.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170127.01",
+            "commit": {
+                "sha": "6fba7f34839511a62d059aad505605cf245e01e9",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/6fba7f34839511a62d059aad505605cf245e01e9"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMTI3LjAx"
+        },
+        {
+            "name": "translation/20170123.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20170123.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20170123.01",
+            "commit": {
+                "sha": "6ae9c3600abba518f5930c5d054ce1a300273d4e",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/6ae9c3600abba518f5930c5d054ce1a300273d4e"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTcwMTIzLjAx"
+        },
+        {
+            "name": "translation/20161209.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20161209.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20161209.01",
+            "commit": {
+                "sha": "df6fcbe12a000a62fb526fe6953405e28c6e6fc3",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/df6fcbe12a000a62fb526fe6953405e28c6e6fc3"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYxMjA5LjAx"
+        },
+        {
+            "name": "translation/20161125.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20161125.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20161125.01",
+            "commit": {
+                "sha": "9a6907075832335bfb18db64fc0a8faf65bfaac7",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/9a6907075832335bfb18db64fc0a8faf65bfaac7"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYxMTI1LjAx"
+        },
+        {
+            "name": "translation/20161118.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20161118.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20161118.01",
+            "commit": {
+                "sha": "97e2b7e340c0c607b5532fa33a5b4ed5dad9a896",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/97e2b7e340c0c607b5532fa33a5b4ed5dad9a896"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYxMTE4LjAx"
+        },
+        {
+            "name": "translation/20161111.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20161111.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20161111.01",
+            "commit": {
+                "sha": "6d73d972f0cbad1adc65ac71a419369b39d32133",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/6d73d972f0cbad1adc65ac71a419369b39d32133"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYxMTExLjAx"
+        },
+        {
+            "name": "translation/20161028.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20161028.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20161028.01",
+            "commit": {
+                "sha": "7cb2b6d58bdb8e364c6ce74ec3e8e1027a79ec2a",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/7cb2b6d58bdb8e364c6ce74ec3e8e1027a79ec2a"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYxMDI4LjAx"
+        },
+        {
+            "name": "translation/20161014.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20161014.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20161014.01",
+            "commit": {
+                "sha": "d3b76dcf2adaf2ce2c30f35a0d9c14902ca81bc0",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/d3b76dcf2adaf2ce2c30f35a0d9c14902ca81bc0"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYxMDE0LjAx"
+        },
+        {
+            "name": "translation/20160902.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20160902.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20160902.01",
+            "commit": {
+                "sha": "2ed5185cbe4afdcf3131f0ac737fae313248f27d",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/2ed5185cbe4afdcf3131f0ac737fae313248f27d"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYwOTAyLjAx"
+        },
+        {
+            "name": "translation/20160826.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20160826.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20160826.01",
+            "commit": {
+                "sha": "dcab6a6aeb04b3d2a788f58be5632820bd8b1785",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/dcab6a6aeb04b3d2a788f58be5632820bd8b1785"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYwODI2LjAx"
+        },
+        {
+            "name": "translation/20160817.01",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/translation/20160817.01",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/translation/20160817.01",
+            "commit": {
+                "sha": "349788fbc050f7a733ab35d753dc625f21a4c515",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/349788fbc050f7a733ab35d753dc625f21a4c515"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3RyYW5zbGF0aW9uLzIwMTYwODE3LjAx"
+        },
+        {
+            "name": "release/1.46.0",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/release/1.46.0",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/release/1.46.0",
+            "commit": {
+                "sha": "a5d1cc28bb5da32ec67e86cc50f84c67cc690321",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/a5d1cc28bb5da32ec67e86cc50f84c67cc690321"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3JlbGVhc2UvMS40Ni4w"
+        },
+        {
+            "name": "release/1.46",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/release/1.46",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/release/1.46",
+            "commit": {
+                "sha": "a5d1cc28bb5da32ec67e86cc50f84c67cc690321",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/a5d1cc28bb5da32ec67e86cc50f84c67cc690321"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3JlbGVhc2UvMS40Ng=="
+        },
+        {
+            "name": "release/0.10.1-extensionbuilders",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/release/0.10.1-extensionbuilders",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/release/0.10.1-extensionbuilders",
+            "commit": {
+                "sha": "d6f4873641e871de0894191c5689c75d92c6f60e",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/d6f4873641e871de0894191c5689c75d92c6f60e"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL3JlbGVhc2UvMC4xMC4xLWV4dGVuc2lvbmJ1aWxkZXJz"
+        },
+        {
+            "name": "master-with-conflict-190418",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/master-with-conflict-190418",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/master-with-conflict-190418",
+            "commit": {
+                "sha": "e396bc49e5abf93431cd62de26d32d6bbc10729f",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/e396bc49e5abf93431cd62de26d32d6bbc10729f"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL21hc3Rlci13aXRoLWNvbmZsaWN0LTE5MDQxOA=="
+        },
+        {
+            "name": "bad3",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/bad3",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/bad3",
+            "commit": {
+                "sha": "1ff5d84a5fd444c13dec747cc074d45b6329369b",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/1ff5d84a5fd444c13dec747cc074d45b6329369b"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL2JhZDM="
+        },
+        {
+            "name": "bad2",
+            "zipball_url": "https://api.github.com/repos/microsoft/vscode/zipball/refs/tags/bad2",
+            "tarball_url": "https://api.github.com/repos/microsoft/vscode/tarball/refs/tags/bad2",
+            "commit": {
+                "sha": "3e676f05ec5e244519587c26adcbb097d25c8ebc",
+                "url": "https://api.github.com/repos/microsoft/vscode/commits/3e676f05ec5e244519587c26adcbb097d25c8ebc"
+            },
+            "node_id": "MDM6UmVmNDE4ODE5MDA6cmVmcy90YWdzL2JhZDI="
+        }
+    ]
+}

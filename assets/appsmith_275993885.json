@@ -1,0 +1,438 @@
+{
+    "id": 275993885,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNzU5OTM4ODU=",
+    "name": "appsmith",
+    "full_name": "appsmithorg/appsmith",
+    "private": false,
+    "owner": {
+        "login": "appsmithorg",
+        "id": 67620218,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NjIwMjE4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/67620218?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/appsmithorg",
+        "html_url": "https://github.com/appsmithorg",
+        "followers_url": "https://api.github.com/users/appsmithorg/followers",
+        "following_url": "https://api.github.com/users/appsmithorg/following{/other_user}",
+        "gists_url": "https://api.github.com/users/appsmithorg/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/appsmithorg/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/appsmithorg/subscriptions",
+        "organizations_url": "https://api.github.com/users/appsmithorg/orgs",
+        "repos_url": "https://api.github.com/users/appsmithorg/repos",
+        "events_url": "https://api.github.com/users/appsmithorg/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/appsmithorg/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/appsmithorg/appsmith",
+    "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+    "fork": false,
+    "url": "https://api.github.com/repos/appsmithorg/appsmith",
+    "forks_url": "https://api.github.com/repos/appsmithorg/appsmith/forks",
+    "keys_url": "https://api.github.com/repos/appsmithorg/appsmith/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/appsmithorg/appsmith/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/appsmithorg/appsmith/teams",
+    "hooks_url": "https://api.github.com/repos/appsmithorg/appsmith/hooks",
+    "issue_events_url": "https://api.github.com/repos/appsmithorg/appsmith/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/appsmithorg/appsmith/events",
+    "assignees_url": "https://api.github.com/repos/appsmithorg/appsmith/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/appsmithorg/appsmith/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/appsmithorg/appsmith/tags",
+    "blobs_url": "https://api.github.com/repos/appsmithorg/appsmith/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/appsmithorg/appsmith/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/appsmithorg/appsmith/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/appsmithorg/appsmith/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/appsmithorg/appsmith/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/appsmithorg/appsmith/languages",
+    "stargazers_url": "https://api.github.com/repos/appsmithorg/appsmith/stargazers",
+    "contributors_url": "https://api.github.com/repos/appsmithorg/appsmith/contributors",
+    "subscribers_url": "https://api.github.com/repos/appsmithorg/appsmith/subscribers",
+    "subscription_url": "https://api.github.com/repos/appsmithorg/appsmith/subscription",
+    "commits_url": "https://api.github.com/repos/appsmithorg/appsmith/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/appsmithorg/appsmith/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/appsmithorg/appsmith/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/appsmithorg/appsmith/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/appsmithorg/appsmith/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/appsmithorg/appsmith/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/appsmithorg/appsmith/merges",
+    "archive_url": "https://api.github.com/repos/appsmithorg/appsmith/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/appsmithorg/appsmith/downloads",
+    "issues_url": "https://api.github.com/repos/appsmithorg/appsmith/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/appsmithorg/appsmith/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/appsmithorg/appsmith/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/appsmithorg/appsmith/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/appsmithorg/appsmith/labels{/name}",
+    "releases_url": "https://api.github.com/repos/appsmithorg/appsmith/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/appsmithorg/appsmith/deployments",
+    "created_at": "2020-06-30T04:07:36Z",
+    "updated_at": "2025-01-25T16:38:18Z",
+    "pushed_at": "2025-01-24T15:47:40Z",
+    "git_url": "git://github.com/appsmithorg/appsmith.git",
+    "ssh_url": "git@github.com:appsmithorg/appsmith.git",
+    "clone_url": "https://github.com/appsmithorg/appsmith.git",
+    "svn_url": "https://github.com/appsmithorg/appsmith",
+    "homepage": "https://www.appsmith.com",
+    "size": 762889,
+    "stargazers_count": 35331,
+    "watchers_count": 35331,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 3826,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 4052,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "admin-dashboard",
+        "admin-panels",
+        "app-builder",
+        "automation",
+        "crud",
+        "custom-internal",
+        "developer-tools",
+        "gui",
+        "gui-application",
+        "hacktoberfest",
+        "internal-tools",
+        "java",
+        "javascript",
+        "low-code",
+        "low-code-framework",
+        "react",
+        "self-hosted",
+        "typescript",
+        "webdevelopment",
+        "workflows"
+    ],
+    "visibility": "public",
+    "forks": 3826,
+    "open_issues": 4052,
+    "watchers": 35331,
+    "default_branch": "release",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.58",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.58",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.58",
+            "commit": {
+                "sha": "0245c2e751c4ea55aa962789a9d41525cd1625aa",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/0245c2e751c4ea55aa962789a9d41525cd1625aa"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41OA=="
+        },
+        {
+            "name": "v1.57",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.57",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.57",
+            "commit": {
+                "sha": "c7197af3a7f412a48107678e948e1a4ac15b586d",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/c7197af3a7f412a48107678e948e1a4ac15b586d"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41Nw=="
+        },
+        {
+            "name": "v1.56",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.56",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.56",
+            "commit": {
+                "sha": "efdabadd0ad71727dcf56e880cbde5ed3e6d3678",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/efdabadd0ad71727dcf56e880cbde5ed3e6d3678"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41Ng=="
+        },
+        {
+            "name": "v1.55",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.55",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.55",
+            "commit": {
+                "sha": "e825f5d8c478ca128e4e078b713041cebf77229e",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/e825f5d8c478ca128e4e078b713041cebf77229e"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41NQ=="
+        },
+        {
+            "name": "v1.54",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.54",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.54",
+            "commit": {
+                "sha": "f4fcc8a49b6da70230d35c78ee9cde2f95e30b04",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/f4fcc8a49b6da70230d35c78ee9cde2f95e30b04"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41NA=="
+        },
+        {
+            "name": "v1.53.1",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.53.1",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.53.1",
+            "commit": {
+                "sha": "4453206f02e89302d6757401730a84e7053e6a77",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/4453206f02e89302d6757401730a84e7053e6a77"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41My4x"
+        },
+        {
+            "name": "v1.53",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.53",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.53",
+            "commit": {
+                "sha": "16b5d20920cd431ec21bf060e82c4f985b5ed854",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/16b5d20920cd431ec21bf060e82c4f985b5ed854"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41Mw=="
+        },
+        {
+            "name": "v1.52",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.52",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.52",
+            "commit": {
+                "sha": "2199333776630c7e5a3c2ebb9cabeb73a02e4ba4",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/2199333776630c7e5a3c2ebb9cabeb73a02e4ba4"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41Mg=="
+        },
+        {
+            "name": "v1.51",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.51",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.51",
+            "commit": {
+                "sha": "7930bec9f6f8dc2d2707c68250f4481d37c2571b",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/7930bec9f6f8dc2d2707c68250f4481d37c2571b"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41MQ=="
+        },
+        {
+            "name": "v1.50",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.50",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.50",
+            "commit": {
+                "sha": "c5efa919841916f5cbf9f3022b322c6f49858a8d",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/c5efa919841916f5cbf9f3022b322c6f49858a8d"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS41MA=="
+        },
+        {
+            "name": "v1.49",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.49",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.49",
+            "commit": {
+                "sha": "c3cb5ef15fea32c40875b647b3e8f1ef14517ef2",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/c3cb5ef15fea32c40875b647b3e8f1ef14517ef2"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40OQ=="
+        },
+        {
+            "name": "v1.48",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.48",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.48",
+            "commit": {
+                "sha": "7c3c28d7d7f28366c6fd24e7417e1717798dba3a",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/7c3c28d7d7f28366c6fd24e7417e1717798dba3a"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40OA=="
+        },
+        {
+            "name": "v1.47",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.47",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.47",
+            "commit": {
+                "sha": "c4e4ce3959608d3c185272290d10c160457c7398",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/c4e4ce3959608d3c185272290d10c160457c7398"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40Nw=="
+        },
+        {
+            "name": "v1.46.1",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.46.1",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.46.1",
+            "commit": {
+                "sha": "07d97d55c7e31d21ec29c70a0ed09e246ca7b465",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/07d97d55c7e31d21ec29c70a0ed09e246ca7b465"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40Ni4x"
+        },
+        {
+            "name": "v1.46",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.46",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.46",
+            "commit": {
+                "sha": "23d5834d9f208a213ecbdde0f21ddaed54d50cea",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/23d5834d9f208a213ecbdde0f21ddaed54d50cea"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40Ng=="
+        },
+        {
+            "name": "v1.45",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.45",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.45",
+            "commit": {
+                "sha": "23d5834d9f208a213ecbdde0f21ddaed54d50cea",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/23d5834d9f208a213ecbdde0f21ddaed54d50cea"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40NQ=="
+        },
+        {
+            "name": "v1.44",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.44",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.44",
+            "commit": {
+                "sha": "524d400bd8eea54bb0e227f61edc0f31535f37a3",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/524d400bd8eea54bb0e227f61edc0f31535f37a3"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40NA=="
+        },
+        {
+            "name": "v1.43",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.43",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.43",
+            "commit": {
+                "sha": "9b4926a1b46805a566542e242cb0d37bc9c7e905",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/9b4926a1b46805a566542e242cb0d37bc9c7e905"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40Mw=="
+        },
+        {
+            "name": "v1.42",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.42",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.42",
+            "commit": {
+                "sha": "f728d9bef7f2a42ed77d27c2f74bb5bb36ce6014",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/f728d9bef7f2a42ed77d27c2f74bb5bb36ce6014"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40Mg=="
+        },
+        {
+            "name": "v1.41",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.41",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.41",
+            "commit": {
+                "sha": "d52aa53bb6e4e4a71796cb1425771d116a5ef4e6",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/d52aa53bb6e4e4a71796cb1425771d116a5ef4e6"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40MQ=="
+        },
+        {
+            "name": "v1.40",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.40",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.40",
+            "commit": {
+                "sha": "85259817f7f43829bc16737f765f825eba091c2d",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/85259817f7f43829bc16737f765f825eba091c2d"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS40MA=="
+        },
+        {
+            "name": "v1.39",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.39",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.39",
+            "commit": {
+                "sha": "e87d96d2afc977e761a233a898a046abafda9a11",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/e87d96d2afc977e761a233a898a046abafda9a11"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zOQ=="
+        },
+        {
+            "name": "v1.38.1",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.38.1",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.38.1",
+            "commit": {
+                "sha": "5c293ea031af4835990eea6ccc55062557684374",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/5c293ea031af4835990eea6ccc55062557684374"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zOC4x"
+        },
+        {
+            "name": "v1.38",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.38",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.38",
+            "commit": {
+                "sha": "a99b4e79745c9f26efbffeedd15b059d82f5e124",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/a99b4e79745c9f26efbffeedd15b059d82f5e124"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zOA=="
+        },
+        {
+            "name": "v1.37",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.37",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.37",
+            "commit": {
+                "sha": "64ebe15236e8f43f0ac32bbe7400332dc002f99d",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/64ebe15236e8f43f0ac32bbe7400332dc002f99d"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zNw=="
+        },
+        {
+            "name": "v1.36.1",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.36.1",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.36.1",
+            "commit": {
+                "sha": "0500bb2463bd3bb9e09ec4b3a49b4ba74bb86bf7",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/0500bb2463bd3bb9e09ec4b3a49b4ba74bb86bf7"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zNi4x"
+        },
+        {
+            "name": "v1.36",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.36",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.36",
+            "commit": {
+                "sha": "c5c466e2e2d1c7eecdbb286a62a7e92a921735f5",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/c5c466e2e2d1c7eecdbb286a62a7e92a921735f5"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zNg=="
+        },
+        {
+            "name": "v1.35",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.35",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.35",
+            "commit": {
+                "sha": "c5c466e2e2d1c7eecdbb286a62a7e92a921735f5",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/c5c466e2e2d1c7eecdbb286a62a7e92a921735f5"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zNQ=="
+        },
+        {
+            "name": "v1.34",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.34",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.34",
+            "commit": {
+                "sha": "b21aa076a0c031ca5bacfd0731c6d636c54a6e53",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/b21aa076a0c031ca5bacfd0731c6d636c54a6e53"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zNA=="
+        },
+        {
+            "name": "v1.33",
+            "zipball_url": "https://api.github.com/repos/appsmithorg/appsmith/zipball/refs/tags/v1.33",
+            "tarball_url": "https://api.github.com/repos/appsmithorg/appsmith/tarball/refs/tags/v1.33",
+            "commit": {
+                "sha": "0ce381ecce199098fc2d26e721fed1e0cbfc24c8",
+                "url": "https://api.github.com/repos/appsmithorg/appsmith/commits/0ce381ecce199098fc2d26e721fed1e0cbfc24c8"
+            },
+            "node_id": "MDM6UmVmMjc1OTkzODg1OnJlZnMvdGFncy92MS4zMw=="
+        }
+    ]
+}

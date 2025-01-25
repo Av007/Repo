@@ -1,0 +1,435 @@
+{
+    "id": 72495579,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3MjQ5NTU3OQ==",
+    "name": "gitea",
+    "full_name": "go-gitea/gitea",
+    "private": false,
+    "owner": {
+        "login": "go-gitea",
+        "id": 12724356,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNzI0MzU2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12724356?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/go-gitea",
+        "html_url": "https://github.com/go-gitea",
+        "followers_url": "https://api.github.com/users/go-gitea/followers",
+        "following_url": "https://api.github.com/users/go-gitea/following{/other_user}",
+        "gists_url": "https://api.github.com/users/go-gitea/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/go-gitea/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/go-gitea/subscriptions",
+        "organizations_url": "https://api.github.com/users/go-gitea/orgs",
+        "repos_url": "https://api.github.com/users/go-gitea/repos",
+        "events_url": "https://api.github.com/users/go-gitea/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/go-gitea/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/go-gitea/gitea",
+    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "fork": false,
+    "url": "https://api.github.com/repos/go-gitea/gitea",
+    "forks_url": "https://api.github.com/repos/go-gitea/gitea/forks",
+    "keys_url": "https://api.github.com/repos/go-gitea/gitea/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/go-gitea/gitea/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/go-gitea/gitea/teams",
+    "hooks_url": "https://api.github.com/repos/go-gitea/gitea/hooks",
+    "issue_events_url": "https://api.github.com/repos/go-gitea/gitea/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/go-gitea/gitea/events",
+    "assignees_url": "https://api.github.com/repos/go-gitea/gitea/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/go-gitea/gitea/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/go-gitea/gitea/tags",
+    "blobs_url": "https://api.github.com/repos/go-gitea/gitea/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/go-gitea/gitea/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/go-gitea/gitea/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/go-gitea/gitea/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/go-gitea/gitea/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/go-gitea/gitea/languages",
+    "stargazers_url": "https://api.github.com/repos/go-gitea/gitea/stargazers",
+    "contributors_url": "https://api.github.com/repos/go-gitea/gitea/contributors",
+    "subscribers_url": "https://api.github.com/repos/go-gitea/gitea/subscribers",
+    "subscription_url": "https://api.github.com/repos/go-gitea/gitea/subscription",
+    "commits_url": "https://api.github.com/repos/go-gitea/gitea/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/go-gitea/gitea/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/go-gitea/gitea/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/go-gitea/gitea/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/go-gitea/gitea/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/go-gitea/gitea/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/go-gitea/gitea/merges",
+    "archive_url": "https://api.github.com/repos/go-gitea/gitea/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/go-gitea/gitea/downloads",
+    "issues_url": "https://api.github.com/repos/go-gitea/gitea/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/go-gitea/gitea/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/go-gitea/gitea/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/go-gitea/gitea/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/go-gitea/gitea/labels{/name}",
+    "releases_url": "https://api.github.com/repos/go-gitea/gitea/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/go-gitea/gitea/deployments",
+    "created_at": "2016-11-01T02:13:26Z",
+    "updated_at": "2025-01-25T17:20:21Z",
+    "pushed_at": "2025-01-25T14:36:48Z",
+    "git_url": "git://github.com/go-gitea/gitea.git",
+    "ssh_url": "git@github.com:go-gitea/gitea.git",
+    "clone_url": "https://github.com/go-gitea/gitea.git",
+    "svn_url": "https://github.com/go-gitea/gitea",
+    "homepage": "https://gitea.com",
+    "size": 296157,
+    "stargazers_count": 46763,
+    "watchers_count": 46763,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5622,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2724,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bitbucket",
+        "cicd",
+        "devops",
+        "docker-registry-v2",
+        "git",
+        "git-gui",
+        "git-server",
+        "gitea",
+        "github",
+        "github-actions",
+        "gitlab",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "maven-server",
+        "npm-registry",
+        "vue"
+    ],
+    "visibility": "public",
+    "forks": 5622,
+    "open_issues": 2724,
+    "watchers": 46763,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.24.0-dev",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.24.0-dev",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.24.0-dev",
+            "commit": {
+                "sha": "22c4599542ee3e10bcab4c9136467bbac8e90ba0",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/22c4599542ee3e10bcab4c9136467bbac8e90ba0"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjI0LjAtZGV2"
+        },
+        {
+            "name": "v1.23.1",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.23.1",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.23.1",
+            "commit": {
+                "sha": "fcbbc24cc43811f2fc2f99b2f88060bc360ec38f",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/fcbbc24cc43811f2fc2f99b2f88060bc360ec38f"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIzLjE="
+        },
+        {
+            "name": "v1.23.0",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.23.0",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.23.0",
+            "commit": {
+                "sha": "a330f42f016e5a69dc204cdf858d8283ba75c229",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/a330f42f016e5a69dc204cdf858d8283ba75c229"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIzLjA="
+        },
+        {
+            "name": "v1.23.0-rc0",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.23.0-rc0",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.23.0-rc0",
+            "commit": {
+                "sha": "c8ffe777cf9c5bb47a38e3e0b3a3b5de6cd8813d",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/c8ffe777cf9c5bb47a38e3e0b3a3b5de6cd8813d"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIzLjAtcmMw"
+        },
+        {
+            "name": "v1.23.0-dev",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.23.0-dev",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.23.0-dev",
+            "commit": {
+                "sha": "7b8e418da1e082786b844562a05864ec1177ce97",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/7b8e418da1e082786b844562a05864ec1177ce97"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIzLjAtZGV2"
+        },
+        {
+            "name": "v1.22.6",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.6",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.6",
+            "commit": {
+                "sha": "8eefa1f6dedf2488db2c9e12c916e8e51f673160",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/8eefa1f6dedf2488db2c9e12c916e8e51f673160"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjY="
+        },
+        {
+            "name": "v1.22.5",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.5",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.5",
+            "commit": {
+                "sha": "c0092af2e01c15d806435b9c4916a61415483e24",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/c0092af2e01c15d806435b9c4916a61415483e24"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjU="
+        },
+        {
+            "name": "v1.22.4",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.4",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.4",
+            "commit": {
+                "sha": "293355777f334f9c3f09c2a19932f52253951298",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/293355777f334f9c3f09c2a19932f52253951298"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjQ="
+        },
+        {
+            "name": "v1.22.3",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.3",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.3",
+            "commit": {
+                "sha": "494017e4788d6defb5610ac68b9733fef5130f46",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/494017e4788d6defb5610ac68b9733fef5130f46"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjM="
+        },
+        {
+            "name": "v1.22.2",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.2",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.2",
+            "commit": {
+                "sha": "5e36e9f5a751444a94b8fd36a4a8564862c5abde",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/5e36e9f5a751444a94b8fd36a4a8564862c5abde"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjI="
+        },
+        {
+            "name": "v1.22.1",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.1",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.1",
+            "commit": {
+                "sha": "35c5192b2572041f14a4d33cbd0128da887b360e",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/35c5192b2572041f14a4d33cbd0128da887b360e"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjE="
+        },
+        {
+            "name": "v1.22.0",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.0",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.0",
+            "commit": {
+                "sha": "803b0c9ab43f809e47f42fad951e7f5fb6652e42",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/803b0c9ab43f809e47f42fad951e7f5fb6652e42"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjA="
+        },
+        {
+            "name": "v1.22.0-rc1",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.0-rc1",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.0-rc1",
+            "commit": {
+                "sha": "8de2992ffba8cc627757ecea1e002a55581113d2",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/8de2992ffba8cc627757ecea1e002a55581113d2"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjAtcmMx"
+        },
+        {
+            "name": "v1.22.0-rc0",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.0-rc0",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.0-rc0",
+            "commit": {
+                "sha": "40cdc84b368cce8328b4b49ea5ecf1c5fa040300",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/40cdc84b368cce8328b4b49ea5ecf1c5fa040300"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjAtcmMw"
+        },
+        {
+            "name": "v1.22.0-dev",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.22.0-dev",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.22.0-dev",
+            "commit": {
+                "sha": "d7f73a1334ab7a97d4e055b7c58cdd9ac303f77a",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/d7f73a1334ab7a97d4e055b7c58cdd9ac303f77a"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIyLjAtZGV2"
+        },
+        {
+            "name": "v1.21.11",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.11",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.11",
+            "commit": {
+                "sha": "acdcfcc6ebfe762657aa866ccbb8d9f8bd906639",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/acdcfcc6ebfe762657aa866ccbb8d9f8bd906639"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjEx"
+        },
+        {
+            "name": "v1.21.10",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.10",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.10",
+            "commit": {
+                "sha": "d6b0d0e9c0108f1c6c84a2b14020b2529e5329b2",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/d6b0d0e9c0108f1c6c84a2b14020b2529e5329b2"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjEw"
+        },
+        {
+            "name": "v1.21.9",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.9",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.9",
+            "commit": {
+                "sha": "e1e88f9ad18e82a67a1a8621d4dc4e1608ad07e4",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/e1e88f9ad18e82a67a1a8621d4dc4e1608ad07e4"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjk="
+        },
+        {
+            "name": "v1.21.8",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.8",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.8",
+            "commit": {
+                "sha": "1e4d5a55945ed81173d0ba85c58a89d6883ea060",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/1e4d5a55945ed81173d0ba85c58a89d6883ea060"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjg="
+        },
+        {
+            "name": "v1.21.7",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.7",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.7",
+            "commit": {
+                "sha": "78cb09deda5a52cd7499ceb9bacf202193041edc",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/78cb09deda5a52cd7499ceb9bacf202193041edc"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjc="
+        },
+        {
+            "name": "v1.21.6",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.6",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.6",
+            "commit": {
+                "sha": "e20023af5801a5766fc78a0f40dfd63fac4844e5",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/e20023af5801a5766fc78a0f40dfd63fac4844e5"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjY="
+        },
+        {
+            "name": "v1.21.5",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.5",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.5",
+            "commit": {
+                "sha": "2588d73ebfa39bbc5926e669c76a702c34daf7cd",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/2588d73ebfa39bbc5926e669c76a702c34daf7cd"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjU="
+        },
+        {
+            "name": "v1.21.4",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.4",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.4",
+            "commit": {
+                "sha": "f4923854f660c75f75592b9506c0471475ecc7cf",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/f4923854f660c75f75592b9506c0471475ecc7cf"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjQ="
+        },
+        {
+            "name": "v1.21.3",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.3",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.3",
+            "commit": {
+                "sha": "2360c7ec6cdddc337a9b4964a64d2e1640c69dad",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/2360c7ec6cdddc337a9b4964a64d2e1640c69dad"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjM="
+        },
+        {
+            "name": "v1.21.2",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.2",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.2",
+            "commit": {
+                "sha": "96d3fcf179d4eea98f62d380e04f246ff65694d7",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/96d3fcf179d4eea98f62d380e04f246ff65694d7"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjI="
+        },
+        {
+            "name": "v1.21.1",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.1",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.1",
+            "commit": {
+                "sha": "196100a07a930f8a8c81570f2156db1792c55850",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/196100a07a930f8a8c81570f2156db1792c55850"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjE="
+        },
+        {
+            "name": "v1.21.0",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.0",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.0",
+            "commit": {
+                "sha": "bc6477b36b774b0c4616a0ac7af76ba2d56da081",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/bc6477b36b774b0c4616a0ac7af76ba2d56da081"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjA="
+        },
+        {
+            "name": "v1.21.0-rc2",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.0-rc2",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.0-rc2",
+            "commit": {
+                "sha": "6cef7a767b649aa250ea902042c719d1c87d678d",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/6cef7a767b649aa250ea902042c719d1c87d678d"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjAtcmMy"
+        },
+        {
+            "name": "v1.21.0-rc1",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.0-rc1",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.0-rc1",
+            "commit": {
+                "sha": "5b670d83e1a2edc05c3f94b59bc99b9acd2c1023",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/5b670d83e1a2edc05c3f94b59bc99b9acd2c1023"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjAtcmMx"
+        },
+        {
+            "name": "v1.21.0-rc0",
+            "zipball_url": "https://api.github.com/repos/go-gitea/gitea/zipball/refs/tags/v1.21.0-rc0",
+            "tarball_url": "https://api.github.com/repos/go-gitea/gitea/tarball/refs/tags/v1.21.0-rc0",
+            "commit": {
+                "sha": "707c69f399d311aaa11ca62a27293244e85cb043",
+                "url": "https://api.github.com/repos/go-gitea/gitea/commits/707c69f399d311aaa11ca62a27293244e85cb043"
+            },
+            "node_id": "MDM6UmVmNzI0OTU1Nzk6cmVmcy90YWdzL3YxLjIxLjAtcmMw"
+        }
+    ]
+}

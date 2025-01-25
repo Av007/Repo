@@ -1,0 +1,433 @@
+{
+    "id": 49122742,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0OTEyMjc0Mg==",
+    "name": "WxJava",
+    "full_name": "binarywang/WxJava",
+    "private": false,
+    "owner": {
+        "login": "binarywang",
+        "id": 1343140,
+        "node_id": "MDQ6VXNlcjEzNDMxNDA=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1343140?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/binarywang",
+        "html_url": "https://github.com/binarywang",
+        "followers_url": "https://api.github.com/users/binarywang/followers",
+        "following_url": "https://api.github.com/users/binarywang/following{/other_user}",
+        "gists_url": "https://api.github.com/users/binarywang/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/binarywang/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/binarywang/subscriptions",
+        "organizations_url": "https://api.github.com/users/binarywang/orgs",
+        "repos_url": "https://api.github.com/users/binarywang/repos",
+        "events_url": "https://api.github.com/users/binarywang/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/binarywang/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/binarywang/WxJava",
+    "description": "\u5fae\u4fe1\u5f00\u53d1 Java SDK \uff0c\u652f\u6301\u5305\u62ec\u5fae\u4fe1\u652f\u4ed8\uff0c\u5f00\u653e\u5e73\u53f0\uff0c\u5c0f\u7a0b\u5e8f\uff0c\u4f01\u4e1a\u5fae\u4fe1\uff0c\u89c6\u9891\u53f7\uff0c\u516c\u4f17\u53f7\u7b49\u7684\u540e\u7aef\u5f00\u53d1",
+    "fork": false,
+    "url": "https://api.github.com/repos/binarywang/WxJava",
+    "forks_url": "https://api.github.com/repos/binarywang/WxJava/forks",
+    "keys_url": "https://api.github.com/repos/binarywang/WxJava/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/binarywang/WxJava/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/binarywang/WxJava/teams",
+    "hooks_url": "https://api.github.com/repos/binarywang/WxJava/hooks",
+    "issue_events_url": "https://api.github.com/repos/binarywang/WxJava/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/binarywang/WxJava/events",
+    "assignees_url": "https://api.github.com/repos/binarywang/WxJava/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/binarywang/WxJava/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/binarywang/WxJava/tags",
+    "blobs_url": "https://api.github.com/repos/binarywang/WxJava/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/binarywang/WxJava/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/binarywang/WxJava/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/binarywang/WxJava/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/binarywang/WxJava/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/binarywang/WxJava/languages",
+    "stargazers_url": "https://api.github.com/repos/binarywang/WxJava/stargazers",
+    "contributors_url": "https://api.github.com/repos/binarywang/WxJava/contributors",
+    "subscribers_url": "https://api.github.com/repos/binarywang/WxJava/subscribers",
+    "subscription_url": "https://api.github.com/repos/binarywang/WxJava/subscription",
+    "commits_url": "https://api.github.com/repos/binarywang/WxJava/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/binarywang/WxJava/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/binarywang/WxJava/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/binarywang/WxJava/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/binarywang/WxJava/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/binarywang/WxJava/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/binarywang/WxJava/merges",
+    "archive_url": "https://api.github.com/repos/binarywang/WxJava/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/binarywang/WxJava/downloads",
+    "issues_url": "https://api.github.com/repos/binarywang/WxJava/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/binarywang/WxJava/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/binarywang/WxJava/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/binarywang/WxJava/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/binarywang/WxJava/labels{/name}",
+    "releases_url": "https://api.github.com/repos/binarywang/WxJava/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/binarywang/WxJava/deployments",
+    "created_at": "2016-01-06T08:24:05Z",
+    "updated_at": "2025-01-25T12:50:32Z",
+    "pushed_at": "2025-01-24T14:19:06Z",
+    "git_url": "git://github.com/binarywang/WxJava.git",
+    "ssh_url": "git@github.com:binarywang/WxJava.git",
+    "clone_url": "https://github.com/binarywang/WxJava.git",
+    "svn_url": "https://github.com/binarywang/WxJava",
+    "homepage": "",
+    "size": 18034,
+    "stargazers_count": 30456,
+    "watchers_count": 30456,
+    "language": "Java",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8752,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 24,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cp",
+        "hacktoberfest",
+        "java",
+        "miniapp",
+        "miniprogram",
+        "mp",
+        "open",
+        "sdk",
+        "weapp",
+        "wechat",
+        "wechat-sdk",
+        "weixin",
+        "weixin-sdk",
+        "wxjava",
+        "wxpay"
+    ],
+    "visibility": "public",
+    "forks": 8752,
+    "open_issues": 24,
+    "watchers": 30456,
+    "default_branch": "develop",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.7.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.7.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.7.0",
+            "commit": {
+                "sha": "a29e00f00f188c9948e89a492ca9ba7ff4e6b73e",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/a29e00f00f188c9948e89a492ca9ba7ff4e6b73e"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjcuMA=="
+        },
+        {
+            "name": "v4.6.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.6.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.6.0",
+            "commit": {
+                "sha": "e7dff3619f064eb3d53583cdb4e2507ece87e52f",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/e7dff3619f064eb3d53583cdb4e2507ece87e52f"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjYuMA=="
+        },
+        {
+            "name": "v4.5.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.5.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.5.0",
+            "commit": {
+                "sha": "e72991c0b5cac64afc412575500ebfa2840d9969",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/e72991c0b5cac64afc412575500ebfa2840d9969"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjUuMA=="
+        },
+        {
+            "name": "v4.4.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.4.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.4.0",
+            "commit": {
+                "sha": "bf68104ee0b99636abe77d3a7e09913a13fbc9b0",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/bf68104ee0b99636abe77d3a7e09913a13fbc9b0"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjQuMA=="
+        },
+        {
+            "name": "v4.3.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.3.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.3.0",
+            "commit": {
+                "sha": "83adb23f8fe36b30c032b5f5b0c76490eb8309ff",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/83adb23f8fe36b30c032b5f5b0c76490eb8309ff"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjMuMA=="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "d5d61a4e1af69c995717ab74b28fed257975e4d0",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/d5d61a4e1af69c995717ab74b28fed257975e4d0"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjIuMA=="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "0c4fb44a797e072d24250f98f96ccc1eb32c65d5",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/0c4fb44a797e072d24250f98f96ccc1eb32c65d5"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "bf92d03529dd4021631eb6d1c50c39830389916f",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/bf92d03529dd4021631eb6d1c50c39830389916f"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v3.9.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.9.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.9.0",
+            "commit": {
+                "sha": "0fcd371f71d3f966adead902b8da7268154b7698",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/0fcd371f71d3f966adead902b8da7268154b7698"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjkuMA=="
+        },
+        {
+            "name": "v3.8.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.8.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.8.0",
+            "commit": {
+                "sha": "9ab2cfb2a816a33ab5fb3d45aac829e1dcbcca7c",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/9ab2cfb2a816a33ab5fb3d45aac829e1dcbcca7c"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjguMA=="
+        },
+        {
+            "name": "v3.7.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.7.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.7.0",
+            "commit": {
+                "sha": "7bd4726e9cf60d662a20f82597a38dadb5cc84d5",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/7bd4726e9cf60d662a20f82597a38dadb5cc84d5"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjcuMA=="
+        },
+        {
+            "name": "v3.6.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.6.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.6.0",
+            "commit": {
+                "sha": "4759606f3733486c680e93eaf7c1d7fbdb9f668e",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/4759606f3733486c680e93eaf7c1d7fbdb9f668e"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjYuMA=="
+        },
+        {
+            "name": "v3.5.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.5.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.5.0",
+            "commit": {
+                "sha": "476b067392264098cfcb4c5c516555052290093c",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/476b067392264098cfcb4c5c516555052290093c"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjUuMA=="
+        },
+        {
+            "name": "v3.4.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.4.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.4.0",
+            "commit": {
+                "sha": "32f88b7cd4c0f4c84ebdaddd923f4d7ed0900caa",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/32f88b7cd4c0f4c84ebdaddd923f4d7ed0900caa"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjQuMA=="
+        },
+        {
+            "name": "v3.3.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.3.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.3.0",
+            "commit": {
+                "sha": "cc8359b22c05590e1fcdd9982de20c4cf7616285",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/cc8359b22c05590e1fcdd9982de20c4cf7616285"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjMuMA=="
+        },
+        {
+            "name": "v3.2.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.2.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.2.0",
+            "commit": {
+                "sha": "d854ad8811c9d6ff48030ebc36f6264714742086",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/d854ad8811c9d6ff48030ebc36f6264714742086"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjIuMA=="
+        },
+        {
+            "name": "v3.1.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.1.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.1.0",
+            "commit": {
+                "sha": "9d66d582db3e18dc3d3425bae59652c3c6ef513c",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/9d66d582db3e18dc3d3425bae59652c3c6ef513c"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjEuMA=="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "89d7beb36cd140192480df4e8f632d5c80055990",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/89d7beb36cd140192480df4e8f632d5c80055990"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YzLjAuMA=="
+        },
+        {
+            "name": "v2.9.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.9.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.9.0",
+            "commit": {
+                "sha": "3b1645df62a2e737a14178ae0f01ed01e3c10eb4",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/3b1645df62a2e737a14178ae0f01ed01e3c10eb4"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjkuMA=="
+        },
+        {
+            "name": "v2.8.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.8.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.8.0",
+            "commit": {
+                "sha": "f08f9a0585ddcd5c6c5020851927bb4cbf2b34ed",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/f08f9a0585ddcd5c6c5020851927bb4cbf2b34ed"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjguMA=="
+        },
+        {
+            "name": "v2.7.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.7.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.7.0",
+            "commit": {
+                "sha": "491095f1d560a9938282ae21f08d65568e3b3299",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/491095f1d560a9938282ae21f08d65568e3b3299"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjcuMA=="
+        },
+        {
+            "name": "v2.6.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.6.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.6.0",
+            "commit": {
+                "sha": "7892f7136b39de2cd4cc1bcac842cde8e0be2659",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/7892f7136b39de2cd4cc1bcac842cde8e0be2659"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjYuMA=="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "910ba3283eb17c2f050fcefd05c914e54ea032cf",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/910ba3283eb17c2f050fcefd05c914e54ea032cf"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjUuMA=="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "668eaaa890e4ad204f1926cd89a563f9232803b3",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/668eaaa890e4ad204f1926cd89a563f9232803b3"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjQuMA=="
+        },
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "1f15cc826ac8d6ac1a209c80e7ddeb00b26704b6",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/1f15cc826ac8d6ac1a209c80e7ddeb00b26704b6"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjMuMA=="
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "9a26c755e622aa93451f5a46628f2786e355add6",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/9a26c755e622aa93451f5a46628f2786e355add6"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjIuMA=="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "a370309abf6d5322269882e953f5874c0347ecf6",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/a370309abf6d5322269882e953f5874c0347ecf6"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjEuMA=="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "17c18f59aeb929f579661101955a634455433e4c",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/17c18f59aeb929f579661101955a634455433e4c"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YyLjAuMA=="
+        },
+        {
+            "name": "v1.3.5",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v1.3.5",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v1.3.5",
+            "commit": {
+                "sha": "db1eb92ac8e8006eed5ad5b15439e51731caa8d3",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/db1eb92ac8e8006eed5ad5b15439e51731caa8d3"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YxLjMuNQ=="
+        },
+        {
+            "name": "v1.3.4",
+            "zipball_url": "https://api.github.com/repos/binarywang/WxJava/zipball/refs/tags/v1.3.4",
+            "tarball_url": "https://api.github.com/repos/binarywang/WxJava/tarball/refs/tags/v1.3.4",
+            "commit": {
+                "sha": "bdefca3e6805918c194e78556ac1ec226630c100",
+                "url": "https://api.github.com/repos/binarywang/WxJava/commits/bdefca3e6805918c194e78556ac1ec226630c100"
+            },
+            "node_id": "MDM6UmVmNDkxMjI3NDI6cmVmcy90YWdzL3YxLjMuNA=="
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "id": 128907699,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMjg5MDc2OTk=",
+    "name": "dayjs",
+    "full_name": "iamkun/dayjs",
+    "private": false,
+    "owner": {
+        "login": "iamkun",
+        "id": 17680888,
+        "node_id": "MDQ6VXNlcjE3NjgwODg4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17680888?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/iamkun",
+        "html_url": "https://github.com/iamkun",
+        "followers_url": "https://api.github.com/users/iamkun/followers",
+        "following_url": "https://api.github.com/users/iamkun/following{/other_user}",
+        "gists_url": "https://api.github.com/users/iamkun/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/iamkun/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/iamkun/subscriptions",
+        "organizations_url": "https://api.github.com/users/iamkun/orgs",
+        "repos_url": "https://api.github.com/users/iamkun/repos",
+        "events_url": "https://api.github.com/users/iamkun/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/iamkun/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/iamkun/dayjs",
+    "description": "\u23f0 Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
+    "fork": false,
+    "url": "https://api.github.com/repos/iamkun/dayjs",
+    "forks_url": "https://api.github.com/repos/iamkun/dayjs/forks",
+    "keys_url": "https://api.github.com/repos/iamkun/dayjs/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/iamkun/dayjs/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/iamkun/dayjs/teams",
+    "hooks_url": "https://api.github.com/repos/iamkun/dayjs/hooks",
+    "issue_events_url": "https://api.github.com/repos/iamkun/dayjs/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/iamkun/dayjs/events",
+    "assignees_url": "https://api.github.com/repos/iamkun/dayjs/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/iamkun/dayjs/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/iamkun/dayjs/tags",
+    "blobs_url": "https://api.github.com/repos/iamkun/dayjs/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/iamkun/dayjs/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/iamkun/dayjs/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/iamkun/dayjs/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/iamkun/dayjs/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/iamkun/dayjs/languages",
+    "stargazers_url": "https://api.github.com/repos/iamkun/dayjs/stargazers",
+    "contributors_url": "https://api.github.com/repos/iamkun/dayjs/contributors",
+    "subscribers_url": "https://api.github.com/repos/iamkun/dayjs/subscribers",
+    "subscription_url": "https://api.github.com/repos/iamkun/dayjs/subscription",
+    "commits_url": "https://api.github.com/repos/iamkun/dayjs/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/iamkun/dayjs/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/iamkun/dayjs/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/iamkun/dayjs/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/iamkun/dayjs/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/iamkun/dayjs/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/iamkun/dayjs/merges",
+    "archive_url": "https://api.github.com/repos/iamkun/dayjs/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/iamkun/dayjs/downloads",
+    "issues_url": "https://api.github.com/repos/iamkun/dayjs/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/iamkun/dayjs/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/iamkun/dayjs/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/iamkun/dayjs/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/iamkun/dayjs/labels{/name}",
+    "releases_url": "https://api.github.com/repos/iamkun/dayjs/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/iamkun/dayjs/deployments",
+    "created_at": "2018-04-10T09:26:44Z",
+    "updated_at": "2025-01-25T10:15:43Z",
+    "pushed_at": "2025-01-23T15:35:15Z",
+    "git_url": "git://github.com/iamkun/dayjs.git",
+    "ssh_url": "git@github.com:iamkun/dayjs.git",
+    "clone_url": "https://github.com/iamkun/dayjs.git",
+    "svn_url": "https://github.com/iamkun/dayjs",
+    "homepage": "https://day.js.org",
+    "size": 5567,
+    "stargazers_count": 47341,
+    "watchers_count": 47341,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 2322,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1071,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "date",
+        "date-formatting",
+        "datetime",
+        "dayjs",
+        "moment",
+        "time"
+    ],
+    "visibility": "public",
+    "forks": 2322,
+    "open_issues": 1071,
+    "watchers": 47341,
+    "default_branch": "dev",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.11.13",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.13",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.13",
+            "commit": {
+                "sha": "93c8fd0f807b8a8252f4cd65083bb1d6a49b90e7",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/93c8fd0f807b8a8252f4cd65083bb1d6a49b90e7"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4xMw=="
+        },
+        {
+            "name": "v1.11.12",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.12",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.12",
+            "commit": {
+                "sha": "6cc12b7748117a5089153a6acfac9f83e44729b8",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/6cc12b7748117a5089153a6acfac9f83e44729b8"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4xMg=="
+        },
+        {
+            "name": "v1.11.11",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.11",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.11",
+            "commit": {
+                "sha": "f9790aec5efcd590feafd760ac9b1a83b13f08ce",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/f9790aec5efcd590feafd760ac9b1a83b13f08ce"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4xMQ=="
+        },
+        {
+            "name": "v1.11.10",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.10",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.10",
+            "commit": {
+                "sha": "e56a8703dcc3820196972f53990010daf248726b",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/e56a8703dcc3820196972f53990010daf248726b"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4xMA=="
+        },
+        {
+            "name": "v1.11.9",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.9",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.9",
+            "commit": {
+                "sha": "5044cc839779c4bd399943e8e764bacfce5eaffc",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/5044cc839779c4bd399943e8e764bacfce5eaffc"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS45"
+        },
+        {
+            "name": "v1.11.8",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.8",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.8",
+            "commit": {
+                "sha": "b3624de619d6e734cd0ffdbbd3502185041c1b60",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/b3624de619d6e734cd0ffdbbd3502185041c1b60"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS44"
+        },
+        {
+            "name": "v1.11.7",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.7",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.7",
+            "commit": {
+                "sha": "f72b537ad60d654e2eec44ff08896c183b14eb37",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/f72b537ad60d654e2eec44ff08896c183b14eb37"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS43"
+        },
+        {
+            "name": "v1.11.6",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.6",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.6",
+            "commit": {
+                "sha": "eaab7d5b675ae6fa61f706d2bc27da12dc8503d4",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/eaab7d5b675ae6fa61f706d2bc27da12dc8503d4"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS42"
+        },
+        {
+            "name": "v1.11.5",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.5",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.5",
+            "commit": {
+                "sha": "e3777ed0f8189ad8f3a36001ecc583f74edd81df",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/e3777ed0f8189ad8f3a36001ecc583f74edd81df"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS41"
+        },
+        {
+            "name": "v1.11.4",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.4",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.4",
+            "commit": {
+                "sha": "fdf648ba8a6312f565df3de7fed54460c6dc8c20",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/fdf648ba8a6312f565df3de7fed54460c6dc8c20"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS40"
+        },
+        {
+            "name": "v1.11.3",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.3",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.3",
+            "commit": {
+                "sha": "c0e8e6cddf671a30b0ad8130edfe607add3a4137",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/c0e8e6cddf671a30b0ad8130edfe607add3a4137"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4z"
+        },
+        {
+            "name": "v1.11.2",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.2",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.2",
+            "commit": {
+                "sha": "12ab114d8a6a1cf4cedded674b700606d88a39b6",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/12ab114d8a6a1cf4cedded674b700606d88a39b6"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4y"
+        },
+        {
+            "name": "v1.11.1",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.1",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.1",
+            "commit": {
+                "sha": "4acbb7246887b5cf0923f5313f992b9478100cee",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/4acbb7246887b5cf0923f5313f992b9478100cee"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4x"
+        },
+        {
+            "name": "v1.11.0",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.11.0",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.11.0",
+            "commit": {
+                "sha": "4e3b4bf3a7bb055b5935b27fa90a6c6885b50457",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/4e3b4bf3a7bb055b5935b27fa90a6c6885b50457"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMS4w"
+        },
+        {
+            "name": "v1.10.8",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.8",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.8",
+            "commit": {
+                "sha": "a9aa18ed3d4d7959fa5b8c1b048c21ff525f9296",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/a9aa18ed3d4d7959fa5b8c1b048c21ff525f9296"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC44"
+        },
+        {
+            "name": "v1.10.7",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.7",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.7",
+            "commit": {
+                "sha": "9a4370812a47d8f5e8e32660f5f44be23b55e52e",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/9a4370812a47d8f5e8e32660f5f44be23b55e52e"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC43"
+        },
+        {
+            "name": "v1.10.6",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.6",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.6",
+            "commit": {
+                "sha": "42e494b447cec61428d80fe258edf7ba7a7ec202",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/42e494b447cec61428d80fe258edf7ba7a7ec202"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC42"
+        },
+        {
+            "name": "v1.10.5",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.5",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.5",
+            "commit": {
+                "sha": "aa5b524608c363a8b1e8b74b99c50ecb929075ce",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/aa5b524608c363a8b1e8b74b99c50ecb929075ce"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC41"
+        },
+        {
+            "name": "v1.10.4",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.4",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.4",
+            "commit": {
+                "sha": "2ab64ac3e84375e167fe1b23cb2282c9fdb5c930",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/2ab64ac3e84375e167fe1b23cb2282c9fdb5c930"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC40"
+        },
+        {
+            "name": "v1.10.3",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.3",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.3",
+            "commit": {
+                "sha": "907478e40511acad95b7ea5be04b9bc460a99785",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/907478e40511acad95b7ea5be04b9bc460a99785"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC4z"
+        },
+        {
+            "name": "v1.10.2",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.2",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.2",
+            "commit": {
+                "sha": "ac9076024507684ff50f1e9a67af1f9172b11ee1",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/ac9076024507684ff50f1e9a67af1f9172b11ee1"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC4y"
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "873b749e67f35f206bccdcd9cac367ee0b475203",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/873b749e67f35f206bccdcd9cac367ee0b475203"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC4x"
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "b60466e42c66d14a3813dfbc75b0bd80a912af2c",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/b60466e42c66d14a3813dfbc75b0bd80a912af2c"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS4xMC4w"
+        },
+        {
+            "name": "v1.9.8",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.8",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.8",
+            "commit": {
+                "sha": "fb3dd1b692966fdc41839ab4962deca9715f2d50",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/fb3dd1b692966fdc41839ab4962deca9715f2d50"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45Ljg="
+        },
+        {
+            "name": "v1.9.7",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.7",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.7",
+            "commit": {
+                "sha": "17221ec149161e5e87a7b34fb8562d3781913216",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/17221ec149161e5e87a7b34fb8562d3781913216"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45Ljc="
+        },
+        {
+            "name": "v1.9.6",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.6",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.6",
+            "commit": {
+                "sha": "ed9629b5ab2895652111fc854e6081422ed5c010",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/ed9629b5ab2895652111fc854e6081422ed5c010"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45LjY="
+        },
+        {
+            "name": "v1.9.5",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.5",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.5",
+            "commit": {
+                "sha": "236a2d8c0b9b623a865cba67c15de68d0fe00257",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/236a2d8c0b9b623a865cba67c15de68d0fe00257"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45LjU="
+        },
+        {
+            "name": "v1.9.4",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.4",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.4",
+            "commit": {
+                "sha": "e21aa170a31e4b4c4078adf1cdc4983bb98e6a4f",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/e21aa170a31e4b4c4078adf1cdc4983bb98e6a4f"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45LjQ="
+        },
+        {
+            "name": "v1.9.3",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.3",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.3",
+            "commit": {
+                "sha": "c0200e40ba7f4ae896fac03ec1dbab24d00f4e6f",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/c0200e40ba7f4ae896fac03ec1dbab24d00f4e6f"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45LjM="
+        },
+        {
+            "name": "v1.9.2",
+            "zipball_url": "https://api.github.com/repos/iamkun/dayjs/zipball/refs/tags/v1.9.2",
+            "tarball_url": "https://api.github.com/repos/iamkun/dayjs/tarball/refs/tags/v1.9.2",
+            "commit": {
+                "sha": "181c6470b0ae7fa00e15a767a1df47e72be56a43",
+                "url": "https://api.github.com/repos/iamkun/dayjs/commits/181c6470b0ae7fa00e15a767a1df47e72be56a43"
+            },
+            "node_id": "MDM6UmVmMTI4OTA3Njk5OnJlZnMvdGFncy92MS45LjI="
+        }
+    ]
+}

@@ -1,0 +1,431 @@
+{
+    "id": 218115303,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMTgxMTUzMDM=",
+    "name": "swr",
+    "full_name": "vercel/swr",
+    "private": false,
+    "owner": {
+        "login": "vercel",
+        "id": 14985020,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTg1MDIw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vercel",
+        "html_url": "https://github.com/vercel",
+        "followers_url": "https://api.github.com/users/vercel/followers",
+        "following_url": "https://api.github.com/users/vercel/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vercel/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vercel/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vercel/subscriptions",
+        "organizations_url": "https://api.github.com/users/vercel/orgs",
+        "repos_url": "https://api.github.com/users/vercel/repos",
+        "events_url": "https://api.github.com/users/vercel/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vercel/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/vercel/swr",
+    "description": "React Hooks for Data Fetching",
+    "fork": false,
+    "url": "https://api.github.com/repos/vercel/swr",
+    "forks_url": "https://api.github.com/repos/vercel/swr/forks",
+    "keys_url": "https://api.github.com/repos/vercel/swr/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/vercel/swr/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/vercel/swr/teams",
+    "hooks_url": "https://api.github.com/repos/vercel/swr/hooks",
+    "issue_events_url": "https://api.github.com/repos/vercel/swr/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/vercel/swr/events",
+    "assignees_url": "https://api.github.com/repos/vercel/swr/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/vercel/swr/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/vercel/swr/tags",
+    "blobs_url": "https://api.github.com/repos/vercel/swr/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/vercel/swr/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/vercel/swr/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/vercel/swr/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/vercel/swr/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/vercel/swr/languages",
+    "stargazers_url": "https://api.github.com/repos/vercel/swr/stargazers",
+    "contributors_url": "https://api.github.com/repos/vercel/swr/contributors",
+    "subscribers_url": "https://api.github.com/repos/vercel/swr/subscribers",
+    "subscription_url": "https://api.github.com/repos/vercel/swr/subscription",
+    "commits_url": "https://api.github.com/repos/vercel/swr/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/vercel/swr/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/vercel/swr/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/vercel/swr/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/vercel/swr/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/vercel/swr/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/vercel/swr/merges",
+    "archive_url": "https://api.github.com/repos/vercel/swr/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/vercel/swr/downloads",
+    "issues_url": "https://api.github.com/repos/vercel/swr/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/vercel/swr/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/vercel/swr/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/vercel/swr/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/vercel/swr/labels{/name}",
+    "releases_url": "https://api.github.com/repos/vercel/swr/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/vercel/swr/deployments",
+    "created_at": "2019-10-28T18:16:01Z",
+    "updated_at": "2025-01-25T16:25:16Z",
+    "pushed_at": "2025-01-10T10:56:21Z",
+    "git_url": "git://github.com/vercel/swr.git",
+    "ssh_url": "git@github.com:vercel/swr.git",
+    "clone_url": "https://github.com/vercel/swr.git",
+    "svn_url": "https://github.com/vercel/swr",
+    "homepage": "https://swr.vercel.app",
+    "size": 3415,
+    "stargazers_count": 30918,
+    "watchers_count": 30918,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1243,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 151,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cache",
+        "data",
+        "data-fetching",
+        "fetch",
+        "hook",
+        "hooks",
+        "nextjs",
+        "react",
+        "react-native",
+        "stale-while-revalidate",
+        "suspense",
+        "swr",
+        "vercel"
+    ],
+    "visibility": "public",
+    "forks": 1243,
+    "open_issues": 151,
+    "watchers": 30918,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "f22b2744566d46799f1274a4641cdb221e4871a3",
+                "url": "https://api.github.com/repos/vercel/swr/commits/f22b2744566d46799f1274a4641cdb221e4871a3"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4zLjA="
+        },
+        {
+            "name": "v2.2.6-beta.5",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.6-beta.5",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.6-beta.5",
+            "commit": {
+                "sha": "076a53818989af11b7e24b285e7b9538325bee73",
+                "url": "https://api.github.com/repos/vercel/swr/commits/076a53818989af11b7e24b285e7b9538325bee73"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjYtYmV0YS41"
+        },
+        {
+            "name": "v2.2.6-beta.4",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.6-beta.4",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.6-beta.4",
+            "commit": {
+                "sha": "1585a3e37d90ad0df8097b099db38f1afb43c95d",
+                "url": "https://api.github.com/repos/vercel/swr/commits/1585a3e37d90ad0df8097b099db38f1afb43c95d"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjYtYmV0YS40"
+        },
+        {
+            "name": "v2.2.6-beta.3",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.6-beta.3",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.6-beta.3",
+            "commit": {
+                "sha": "682039a43bc0d8776e609eb5f9b6eeb9f3db91ea",
+                "url": "https://api.github.com/repos/vercel/swr/commits/682039a43bc0d8776e609eb5f9b6eeb9f3db91ea"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjYtYmV0YS4z"
+        },
+        {
+            "name": "v2.2.6-beta.2",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.6-beta.2",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.6-beta.2",
+            "commit": {
+                "sha": "6da84a375f59ec88b7dc0eedc27ed8ab1e56066a",
+                "url": "https://api.github.com/repos/vercel/swr/commits/6da84a375f59ec88b7dc0eedc27ed8ab1e56066a"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjYtYmV0YS4y"
+        },
+        {
+            "name": "v2.2.6-beta.1",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.6-beta.1",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.6-beta.1",
+            "commit": {
+                "sha": "bce44c766dd1591ac4c661b1ad58423c4229fb8a",
+                "url": "https://api.github.com/repos/vercel/swr/commits/bce44c766dd1591ac4c661b1ad58423c4229fb8a"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjYtYmV0YS4x"
+        },
+        {
+            "name": "v2.2.6-beta.0",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.6-beta.0",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.6-beta.0",
+            "commit": {
+                "sha": "9481ea5b06dfb4e278ad6e486f308c2f1870996a",
+                "url": "https://api.github.com/repos/vercel/swr/commits/9481ea5b06dfb4e278ad6e486f308c2f1870996a"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjYtYmV0YS4w"
+        },
+        {
+            "name": "v2.2.5",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.5",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.5",
+            "commit": {
+                "sha": "79445e4ac2ae5d0d7a0ba0eddd71be812b53c9c9",
+                "url": "https://api.github.com/repos/vercel/swr/commits/79445e4ac2ae5d0d7a0ba0eddd71be812b53c9c9"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjU="
+        },
+        {
+            "name": "v2.2.4",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.4",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.4",
+            "commit": {
+                "sha": "41b061306e2ce8b64e2923b1594e8db525c9368a",
+                "url": "https://api.github.com/repos/vercel/swr/commits/41b061306e2ce8b64e2923b1594e8db525c9368a"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjQ="
+        },
+        {
+            "name": "v2.2.3",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.3",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.3",
+            "commit": {
+                "sha": "1f7dd10d2127617ea1d73a29c03c5eda810ec327",
+                "url": "https://api.github.com/repos/vercel/swr/commits/1f7dd10d2127617ea1d73a29c03c5eda810ec327"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjM="
+        },
+        {
+            "name": "v2.2.2",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.2",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.2",
+            "commit": {
+                "sha": "4d20bff6759d4478380963654a560a1cf9ae7be1",
+                "url": "https://api.github.com/repos/vercel/swr/commits/4d20bff6759d4478380963654a560a1cf9ae7be1"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjI="
+        },
+        {
+            "name": "v2.2.1",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.1",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.1",
+            "commit": {
+                "sha": "e510955d42b472c8d45034c51b8acc12980aa2e7",
+                "url": "https://api.github.com/repos/vercel/swr/commits/e510955d42b472c8d45034c51b8acc12980aa2e7"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjE="
+        },
+        {
+            "name": "v2.2.1-beta.3",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.1-beta.3",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.1-beta.3",
+            "commit": {
+                "sha": "2b14298ced094e50a90595f7f916c88447586f66",
+                "url": "https://api.github.com/repos/vercel/swr/commits/2b14298ced094e50a90595f7f916c88447586f66"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjEtYmV0YS4z"
+        },
+        {
+            "name": "v2.2.1-beta.2",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.1-beta.2",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.1-beta.2",
+            "commit": {
+                "sha": "bf1cd031ac3a24ad844569a364282d8fc50b6b5d",
+                "url": "https://api.github.com/repos/vercel/swr/commits/bf1cd031ac3a24ad844569a364282d8fc50b6b5d"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjEtYmV0YS4y"
+        },
+        {
+            "name": "v2.2.1-beta.1",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.1-beta.1",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.1-beta.1",
+            "commit": {
+                "sha": "d14cef260e1fce9968763f8e3abbda8ce6b1afe4",
+                "url": "https://api.github.com/repos/vercel/swr/commits/d14cef260e1fce9968763f8e3abbda8ce6b1afe4"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjEtYmV0YS4x"
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "024cbd106f8f1b0f8ea0006301d1a5fe974c691b",
+                "url": "https://api.github.com/repos/vercel/swr/commits/024cbd106f8f1b0f8ea0006301d1a5fe974c691b"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjA="
+        },
+        {
+            "name": "v2.2.0-beta.5",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0-beta.5",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0-beta.5",
+            "commit": {
+                "sha": "373ab93ef74ad50dae988dadf811f6e22d805a8a",
+                "url": "https://api.github.com/repos/vercel/swr/commits/373ab93ef74ad50dae988dadf811f6e22d805a8a"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjAtYmV0YS41"
+        },
+        {
+            "name": "v2.2.0-beta.4",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0-beta.4",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0-beta.4",
+            "commit": {
+                "sha": "eb9444c8393de443754248b4ab657963a0601ef3",
+                "url": "https://api.github.com/repos/vercel/swr/commits/eb9444c8393de443754248b4ab657963a0601ef3"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjAtYmV0YS40"
+        },
+        {
+            "name": "v2.2.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0-beta.3",
+            "commit": {
+                "sha": "e6383dc9c6bcf7788ee831521ab4cab55c55c8d4",
+                "url": "https://api.github.com/repos/vercel/swr/commits/e6383dc9c6bcf7788ee831521ab4cab55c55c8d4"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjAtYmV0YS4z"
+        },
+        {
+            "name": "v2.2.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0-beta.2",
+            "commit": {
+                "sha": "55bfc887557fcdc135162b76eca0ef4acc694e6d",
+                "url": "https://api.github.com/repos/vercel/swr/commits/55bfc887557fcdc135162b76eca0ef4acc694e6d"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjAtYmV0YS4y"
+        },
+        {
+            "name": "v2.2.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0-beta.1",
+            "commit": {
+                "sha": "c263f06f47e2cce0cd56e4cdc928ed497b41177e",
+                "url": "https://api.github.com/repos/vercel/swr/commits/c263f06f47e2cce0cd56e4cdc928ed497b41177e"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjAtYmV0YS4x"
+        },
+        {
+            "name": "v2.2.0-beta.0",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.2.0-beta.0",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.2.0-beta.0",
+            "commit": {
+                "sha": "6ecb8f39b5bdf23b8468994d89c20d7557e6e41a",
+                "url": "https://api.github.com/repos/vercel/swr/commits/6ecb8f39b5bdf23b8468994d89c20d7557e6e41a"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4yLjAtYmV0YS4w"
+        },
+        {
+            "name": "v2.1.5",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.1.5",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.1.5",
+            "commit": {
+                "sha": "5f9923e6a7cb767958b8155151a12e2ae5603f06",
+                "url": "https://api.github.com/repos/vercel/swr/commits/5f9923e6a7cb767958b8155151a12e2ae5603f06"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4xLjU="
+        },
+        {
+            "name": "v2.1.4",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.1.4",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.1.4",
+            "commit": {
+                "sha": "3a8de8831662bfc9f4e55f92ca706373c0d51fcf",
+                "url": "https://api.github.com/repos/vercel/swr/commits/3a8de8831662bfc9f4e55f92ca706373c0d51fcf"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4xLjQ="
+        },
+        {
+            "name": "v2.1.3",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.1.3",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.1.3",
+            "commit": {
+                "sha": "6aff5f3862ac52860c90f6719d45cbc11cd9de85",
+                "url": "https://api.github.com/repos/vercel/swr/commits/6aff5f3862ac52860c90f6719d45cbc11cd9de85"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4xLjM="
+        },
+        {
+            "name": "v2.1.2",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.1.2",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.1.2",
+            "commit": {
+                "sha": "bad51f61bf54166abcb0f2a424eafda88157a6ab",
+                "url": "https://api.github.com/repos/vercel/swr/commits/bad51f61bf54166abcb0f2a424eafda88157a6ab"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4xLjI="
+        },
+        {
+            "name": "v2.1.1",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.1.1",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.1.1",
+            "commit": {
+                "sha": "1af69c9c12a69d8a19e136c7b9cfce60cca12377",
+                "url": "https://api.github.com/repos/vercel/swr/commits/1af69c9c12a69d8a19e136c7b9cfce60cca12377"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4xLjE="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "043b9e42bcbde6cc6cffb8826d6bb7f130d63c21",
+                "url": "https://api.github.com/repos/vercel/swr/commits/043b9e42bcbde6cc6cffb8826d6bb7f130d63c21"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4xLjA="
+        },
+        {
+            "name": "v2.0.4",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.0.4",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.0.4",
+            "commit": {
+                "sha": "0a82d343b80435e24e796a759dad5ac4f4b55127",
+                "url": "https://api.github.com/repos/vercel/swr/commits/0a82d343b80435e24e796a759dad5ac4f4b55127"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4wLjQ="
+        },
+        {
+            "name": "v2.0.3",
+            "zipball_url": "https://api.github.com/repos/vercel/swr/zipball/refs/tags/v2.0.3",
+            "tarball_url": "https://api.github.com/repos/vercel/swr/tarball/refs/tags/v2.0.3",
+            "commit": {
+                "sha": "903de33428627bfea7f4ea073b1bcf39d06dd502",
+                "url": "https://api.github.com/repos/vercel/swr/commits/903de33428627bfea7f4ea073b1bcf39d06dd502"
+            },
+            "node_id": "MDM6UmVmMjE4MTE1MzAzOnJlZnMvdGFncy92Mi4wLjM="
+        }
+    ]
+}

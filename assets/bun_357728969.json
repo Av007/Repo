@@ -1,0 +1,430 @@
+{
+    "id": 357728969,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNTc3Mjg5Njk=",
+    "name": "bun",
+    "full_name": "oven-sh/bun",
+    "private": false,
+    "owner": {
+        "login": "oven-sh",
+        "id": 108928776,
+        "node_id": "O_kgDOBn4fCA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108928776?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/oven-sh",
+        "html_url": "https://github.com/oven-sh",
+        "followers_url": "https://api.github.com/users/oven-sh/followers",
+        "following_url": "https://api.github.com/users/oven-sh/following{/other_user}",
+        "gists_url": "https://api.github.com/users/oven-sh/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/oven-sh/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/oven-sh/subscriptions",
+        "organizations_url": "https://api.github.com/users/oven-sh/orgs",
+        "repos_url": "https://api.github.com/users/oven-sh/repos",
+        "events_url": "https://api.github.com/users/oven-sh/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/oven-sh/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+    "fork": false,
+    "url": "https://api.github.com/repos/oven-sh/bun",
+    "forks_url": "https://api.github.com/repos/oven-sh/bun/forks",
+    "keys_url": "https://api.github.com/repos/oven-sh/bun/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/oven-sh/bun/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/oven-sh/bun/teams",
+    "hooks_url": "https://api.github.com/repos/oven-sh/bun/hooks",
+    "issue_events_url": "https://api.github.com/repos/oven-sh/bun/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/oven-sh/bun/events",
+    "assignees_url": "https://api.github.com/repos/oven-sh/bun/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/oven-sh/bun/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/oven-sh/bun/tags",
+    "blobs_url": "https://api.github.com/repos/oven-sh/bun/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/oven-sh/bun/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/oven-sh/bun/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/oven-sh/bun/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/oven-sh/bun/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/oven-sh/bun/languages",
+    "stargazers_url": "https://api.github.com/repos/oven-sh/bun/stargazers",
+    "contributors_url": "https://api.github.com/repos/oven-sh/bun/contributors",
+    "subscribers_url": "https://api.github.com/repos/oven-sh/bun/subscribers",
+    "subscription_url": "https://api.github.com/repos/oven-sh/bun/subscription",
+    "commits_url": "https://api.github.com/repos/oven-sh/bun/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/oven-sh/bun/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/oven-sh/bun/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/oven-sh/bun/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/oven-sh/bun/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/oven-sh/bun/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/oven-sh/bun/merges",
+    "archive_url": "https://api.github.com/repos/oven-sh/bun/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/oven-sh/bun/downloads",
+    "issues_url": "https://api.github.com/repos/oven-sh/bun/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/oven-sh/bun/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/oven-sh/bun/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/oven-sh/bun/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/oven-sh/bun/labels{/name}",
+    "releases_url": "https://api.github.com/repos/oven-sh/bun/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/oven-sh/bun/deployments",
+    "created_at": "2021-04-14T00:48:17Z",
+    "updated_at": "2025-01-25T17:19:48Z",
+    "pushed_at": "2025-01-25T16:25:48Z",
+    "git_url": "git://github.com/oven-sh/bun.git",
+    "ssh_url": "git@github.com:oven-sh/bun.git",
+    "clone_url": "https://github.com/oven-sh/bun.git",
+    "svn_url": "https://github.com/oven-sh/bun",
+    "homepage": "https://bun.sh",
+    "size": 222784,
+    "stargazers_count": 75640,
+    "watchers_count": 75640,
+    "language": "Zig",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2874,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 4360,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bun",
+        "bundler",
+        "javascript",
+        "javascriptcore",
+        "jsx",
+        "nodejs",
+        "npm",
+        "react",
+        "transpiler",
+        "typescript",
+        "zig",
+        "ziglang"
+    ],
+    "visibility": "public",
+    "forks": 2874,
+    "open_issues": 4360,
+    "watchers": 75640,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.1.1",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/v0.1.1",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/v0.1.1",
+            "commit": {
+                "sha": "a027e9b6bc1c27066f8756f4f8c5cf2a94e1a868",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/a027e9b6bc1c27066f8756f4f8c5cf2a94e1a868"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy92MC4xLjE="
+        },
+        {
+            "name": "v0.0.0",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/v0.0.0",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/v0.0.0",
+            "commit": {
+                "sha": "0f7bc76f39b6792052be799779e8d10ee03c564c",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/0f7bc76f39b6792052be799779e8d10ee03c564c"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy92MC4wLjA="
+        },
+        {
+            "name": "v0.0.0-21",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/v0.0.0-21",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/v0.0.0-21",
+            "commit": {
+                "sha": "8721ba7474297850ad8f7ab98e90e8301cef1757",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/8721ba7474297850ad8f7ab98e90e8301cef1757"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy92MC4wLjAtMjE="
+        },
+        {
+            "name": "v0.0.0-20",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/v0.0.0-20",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/v0.0.0-20",
+            "commit": {
+                "sha": "d7a5b604053889cb564d0098b081b4d95e6509ba",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/d7a5b604053889cb564d0098b081b4d95e6509ba"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy92MC4wLjAtMjA="
+        },
+        {
+            "name": "v0.0.0-19",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/v0.0.0-19",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/v0.0.0-19",
+            "commit": {
+                "sha": "2ebe9ad101882cb112a99156414a6fd98244c624",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/2ebe9ad101882cb112a99156414a6fd98244c624"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy92MC4wLjAtMTk="
+        },
+        {
+            "name": "not-quite-v0",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/not-quite-v0",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/not-quite-v0",
+            "commit": {
+                "sha": "4f0d4cee0be523bcaeaa85e80309526bdf5cd91e",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/4f0d4cee0be523bcaeaa85e80309526bdf5cd91e"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9ub3QtcXVpdGUtdjA="
+        },
+        {
+            "name": "canary",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/canary",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/canary",
+            "commit": {
+                "sha": "0d4b4c494243cf73bf704971dcc0711c5882a8aa",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/0d4b4c494243cf73bf704971dcc0711c5882a8aa"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9jYW5hcnk="
+        },
+        {
+            "name": "bun-v1.2.0",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.2.0",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.2.0",
+            "commit": {
+                "sha": "b0c5a7655dac9040655a22754c5eab91046e923b",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/b0c5a7655dac9040655a22754c5eab91046e923b"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMi4w"
+        },
+        {
+            "name": "bun-v1.1.45",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.45",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.45",
+            "commit": {
+                "sha": "196621f253cf318b9096d2b8335b74e0b0e98d6c",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/196621f253cf318b9096d2b8335b74e0b0e98d6c"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS40NQ=="
+        },
+        {
+            "name": "bun-v1.1.44",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.44",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.44",
+            "commit": {
+                "sha": "6cdcb1c867c9b61ace5edef373508cb7e8161867",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/6cdcb1c867c9b61ace5edef373508cb7e8161867"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS40NA=="
+        },
+        {
+            "name": "bun-v1.1.43",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.43",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.43",
+            "commit": {
+                "sha": "76800b049a705b02f104089ba70d13b0667a4046",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/76800b049a705b02f104089ba70d13b0667a4046"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS40Mw=="
+        },
+        {
+            "name": "bun-v1.1.42",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.42",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.42",
+            "commit": {
+                "sha": "50eec0025b482ad7b340c82f64749903b2fad4b8",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/50eec0025b482ad7b340c82f64749903b2fad4b8"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS40Mg=="
+        },
+        {
+            "name": "bun-v1.1.41",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.41",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.41",
+            "commit": {
+                "sha": "b8f28ed8afd1c2b60568b2b0158d39a674178027",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/b8f28ed8afd1c2b60568b2b0158d39a674178027"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS40MQ=="
+        },
+        {
+            "name": "bun-v1.1.40",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.40",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.40",
+            "commit": {
+                "sha": "b5b51004e8de80dcd43849e4da1d2623ee3d3008",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/b5b51004e8de80dcd43849e4da1d2623ee3d3008"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS40MA=="
+        },
+        {
+            "name": "bun-v1.1.39",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.39",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.39",
+            "commit": {
+                "sha": "1d4856170978abe3aa47960e2fd7d4f400423808",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/1d4856170978abe3aa47960e2fd7d4f400423808"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zOQ=="
+        },
+        {
+            "name": "bun-v1.1.38",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.38",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.38",
+            "commit": {
+                "sha": "bf2f153f5ca45876bc88369273743cd6fa04881c",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/bf2f153f5ca45876bc88369273743cd6fa04881c"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zOA=="
+        },
+        {
+            "name": "bun-v1.1.37",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.37",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.37",
+            "commit": {
+                "sha": "8ca0eb831d6739c6a94b3f4d484bbfe71ee97226",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/8ca0eb831d6739c6a94b3f4d484bbfe71ee97226"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zNw=="
+        },
+        {
+            "name": "bun-v1.1.36",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.36",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.36",
+            "commit": {
+                "sha": "ededc168cf07afcdbe5ca34495c58df435ea526d",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/ededc168cf07afcdbe5ca34495c58df435ea526d"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zNg=="
+        },
+        {
+            "name": "bun-v1.1.35",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.35",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.35",
+            "commit": {
+                "sha": "fc94db1efbf6d8cf97c2ec30aa4a3671f5717709",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/fc94db1efbf6d8cf97c2ec30aa4a3671f5717709"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zNQ=="
+        },
+        {
+            "name": "bun-v1.1.34",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.34",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.34",
+            "commit": {
+                "sha": "5e5e7c60f1004c79a3f87e1f5470ee19d57f10d0",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/5e5e7c60f1004c79a3f87e1f5470ee19d57f10d0"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zNA=="
+        },
+        {
+            "name": "bun-v1.1.33",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.33",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.33",
+            "commit": {
+                "sha": "247456b675d4bf4b9cd920e0a080b7002325c0df",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/247456b675d4bf4b9cd920e0a080b7002325c0df"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zMw=="
+        },
+        {
+            "name": "bun-v1.1.32",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.32",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.32",
+            "commit": {
+                "sha": "fe8d0079ecdfeb61cea6ba041ed6845d6fffa43e",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/fe8d0079ecdfeb61cea6ba041ed6845d6fffa43e"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zMg=="
+        },
+        {
+            "name": "bun-v1.1.31",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.31",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.31",
+            "commit": {
+                "sha": "e448c4cc3bf43fc67e39799d34c4ed70b8037509",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/e448c4cc3bf43fc67e39799d34c4ed70b8037509"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zMQ=="
+        },
+        {
+            "name": "bun-v1.1.30",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.30",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.30",
+            "commit": {
+                "sha": "7996d06b8f5869ccc9ad9a421cd06469da4273fc",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/7996d06b8f5869ccc9ad9a421cd06469da4273fc"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4zMA=="
+        },
+        {
+            "name": "bun-v1.1.29",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.29",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.29",
+            "commit": {
+                "sha": "73c553b25ab06026acc628a95c5c65783f89e1e5",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/73c553b25ab06026acc628a95c5c65783f89e1e5"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4yOQ=="
+        },
+        {
+            "name": "bun-v1.1.28",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.28",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.28",
+            "commit": {
+                "sha": "cf4e9cb69ee862037b09f2cd6668be76d2aca78d",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/cf4e9cb69ee862037b09f2cd6668be76d2aca78d"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4yOA=="
+        },
+        {
+            "name": "bun-v1.1.27",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.27",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.27",
+            "commit": {
+                "sha": "267afa293483d5ed5f834a6d35350232188e3f98",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/267afa293483d5ed5f834a6d35350232188e3f98"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4yNw=="
+        },
+        {
+            "name": "bun-v1.1.26",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.26",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.26",
+            "commit": {
+                "sha": "0a37423bafab6aebe803e5f1594cffa9796f2ae6",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/0a37423bafab6aebe803e5f1594cffa9796f2ae6"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4yNg=="
+        },
+        {
+            "name": "bun-v1.1.25",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.25",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.25",
+            "commit": {
+                "sha": "fe62a614046948ebba260bed87db96287e67921f",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/fe62a614046948ebba260bed87db96287e67921f"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4yNQ=="
+        },
+        {
+            "name": "bun-v1.1.24",
+            "zipball_url": "https://api.github.com/repos/oven-sh/bun/zipball/refs/tags/bun-v1.1.24",
+            "tarball_url": "https://api.github.com/repos/oven-sh/bun/tarball/refs/tags/bun-v1.1.24",
+            "commit": {
+                "sha": "85a32991152871b06becd6b411eb663008369769",
+                "url": "https://api.github.com/repos/oven-sh/bun/commits/85a32991152871b06becd6b411eb663008369769"
+            },
+            "node_id": "MDM6UmVmMzU3NzI4OTY5OnJlZnMvdGFncy9idW4tdjEuMS4yNA=="
+        }
+    ]
+}

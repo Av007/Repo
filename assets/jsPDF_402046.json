@@ -1,0 +1,419 @@
+{
+    "id": 402046,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0MDIwNDY=",
+    "name": "jsPDF",
+    "full_name": "parallax/jsPDF",
+    "private": false,
+    "owner": {
+        "login": "parallax",
+        "id": 320004,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyMDAwNA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/320004?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/parallax",
+        "html_url": "https://github.com/parallax",
+        "followers_url": "https://api.github.com/users/parallax/followers",
+        "following_url": "https://api.github.com/users/parallax/following{/other_user}",
+        "gists_url": "https://api.github.com/users/parallax/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/parallax/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/parallax/subscriptions",
+        "organizations_url": "https://api.github.com/users/parallax/orgs",
+        "repos_url": "https://api.github.com/users/parallax/repos",
+        "events_url": "https://api.github.com/users/parallax/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/parallax/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/parallax/jsPDF",
+    "description": "Client-side JavaScript PDF generation for everyone.",
+    "fork": false,
+    "url": "https://api.github.com/repos/parallax/jsPDF",
+    "forks_url": "https://api.github.com/repos/parallax/jsPDF/forks",
+    "keys_url": "https://api.github.com/repos/parallax/jsPDF/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/parallax/jsPDF/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/parallax/jsPDF/teams",
+    "hooks_url": "https://api.github.com/repos/parallax/jsPDF/hooks",
+    "issue_events_url": "https://api.github.com/repos/parallax/jsPDF/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/parallax/jsPDF/events",
+    "assignees_url": "https://api.github.com/repos/parallax/jsPDF/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/parallax/jsPDF/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/parallax/jsPDF/tags",
+    "blobs_url": "https://api.github.com/repos/parallax/jsPDF/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/parallax/jsPDF/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/parallax/jsPDF/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/parallax/jsPDF/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/parallax/jsPDF/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/parallax/jsPDF/languages",
+    "stargazers_url": "https://api.github.com/repos/parallax/jsPDF/stargazers",
+    "contributors_url": "https://api.github.com/repos/parallax/jsPDF/contributors",
+    "subscribers_url": "https://api.github.com/repos/parallax/jsPDF/subscribers",
+    "subscription_url": "https://api.github.com/repos/parallax/jsPDF/subscription",
+    "commits_url": "https://api.github.com/repos/parallax/jsPDF/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/parallax/jsPDF/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/parallax/jsPDF/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/parallax/jsPDF/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/parallax/jsPDF/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/parallax/jsPDF/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/parallax/jsPDF/merges",
+    "archive_url": "https://api.github.com/repos/parallax/jsPDF/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/parallax/jsPDF/downloads",
+    "issues_url": "https://api.github.com/repos/parallax/jsPDF/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/parallax/jsPDF/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/parallax/jsPDF/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/parallax/jsPDF/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/parallax/jsPDF/labels{/name}",
+    "releases_url": "https://api.github.com/repos/parallax/jsPDF/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/parallax/jsPDF/deployments",
+    "created_at": "2009-12-06T14:56:32Z",
+    "updated_at": "2025-01-25T17:15:08Z",
+    "pushed_at": "2025-01-22T07:23:14Z",
+    "git_url": "git://github.com/parallax/jsPDF.git",
+    "ssh_url": "git@github.com:parallax/jsPDF.git",
+    "clone_url": "https://github.com/parallax/jsPDF.git",
+    "svn_url": "https://github.com/parallax/jsPDF",
+    "homepage": "https://parall.ax/products/jspdf",
+    "size": 110171,
+    "stargazers_count": 29641,
+    "watchers_count": 29641,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 4696,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 123,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "hacktoberfest"
+    ],
+    "visibility": "public",
+    "forks": 4696,
+    "open_issues": 123,
+    "watchers": 29641,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.5.2",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.5.2",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.5.2",
+            "commit": {
+                "sha": "caf51599f4fd6f608684b4347e1e22f1c403ae87",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/caf51599f4fd6f608684b4347e1e22f1c403ae87"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi41LjI="
+        },
+        {
+            "name": "v2.5.1",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.5.1",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.5.1",
+            "commit": {
+                "sha": "7315ccbb54fdf47a3498cfb3c9f757da5c450242",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/7315ccbb54fdf47a3498cfb3c9f757da5c450242"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi41LjE="
+        },
+        {
+            "name": "v2.5.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.5.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.5.0",
+            "commit": {
+                "sha": "edd59d892d2b717f109230cddb4dc82938292285",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/edd59d892d2b717f109230cddb4dc82938292285"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi41LjA="
+        },
+        {
+            "name": "v2.4.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.4.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.4.0",
+            "commit": {
+                "sha": "30880b41475c587dc3a0182f980883395ea638e7",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/30880b41475c587dc3a0182f980883395ea638e7"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi40LjA="
+        },
+        {
+            "name": "v2.3.1",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.3.1",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.3.1",
+            "commit": {
+                "sha": "9b8f1e962cbf0e886cdead7cf8a9d614943838eb",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/9b8f1e962cbf0e886cdead7cf8a9d614943838eb"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi4zLjE="
+        },
+        {
+            "name": "v2.3.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.3.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.3.0",
+            "commit": {
+                "sha": "63f89d47d1cd60091e62d6d51570f78f27d01a23",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/63f89d47d1cd60091e62d6d51570f78f27d01a23"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi4zLjA="
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "f2c578fd179d1a6be2d37adf7e5e914c902bcf56",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/f2c578fd179d1a6be2d37adf7e5e914c902bcf56"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi4yLjA="
+        },
+        {
+            "name": "v2.1.1",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.1.1",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.1.1",
+            "commit": {
+                "sha": "550ad8bdc64ec96351c806f90401e528af6e0554",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/550ad8bdc64ec96351c806f90401e528af6e0554"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi4xLjE="
+        },
+        {
+            "name": "v2,1,0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2,1,0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2,1,0",
+            "commit": {
+                "sha": "dd6bdddd19fab2b399e7e15693c8664d673a52b3",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/dd6bdddd19fab2b399e7e15693c8664d673a52b3"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MiwxLDA="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "4497d22f4bcbcc794cc8364e26b1986d787ed753",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/4497d22f4bcbcc794cc8364e26b1986d787ed753"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92Mi4wLjA="
+        },
+        {
+            "name": "v1.5.3",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.5.3",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.5.3",
+            "commit": {
+                "sha": "f14bac45183666e0f4ec0eb3333b8e761cb0288a",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/f14bac45183666e0f4ec0eb3333b8e761cb0288a"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS41LjM="
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "5b6937a82b4779b6637ffce1ac2bd1c1ff4d037d",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/5b6937a82b4779b6637ffce1ac2bd1c1ff4d037d"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS41LjI="
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "83b45510abbce26f5a2fd2d01112f89a80b031f7",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/83b45510abbce26f5a2fd2d01112f89a80b031f7"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS41LjE="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "ca72cf5baf65ba1b70c1a3258aab9eb7a78c1ea6",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/ca72cf5baf65ba1b70c1a3258aab9eb7a78c1ea6"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS41LjA="
+        },
+        {
+            "name": "v1.4.1",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.4.1",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.4.1",
+            "commit": {
+                "sha": "eb6f0424855fc5cf790178572a19f277e1ca5107",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/eb6f0424855fc5cf790178572a19f277e1ca5107"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS40LjE="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "16887f832521767aa662d512298126bb2d600cf4",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/16887f832521767aa662d512298126bb2d600cf4"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS40LjA="
+        },
+        {
+            "name": "v.1.4.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v.1.4.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v.1.4.0",
+            "commit": {
+                "sha": "16887f832521767aa662d512298126bb2d600cf4",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/16887f832521767aa662d512298126bb2d600cf4"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92LjEuNC4w"
+        },
+        {
+            "name": "v1.3.5",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.3.5",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.3.5",
+            "commit": {
+                "sha": "626d79aab76d85ae987f88081f7aabb7c1f2e61c",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/626d79aab76d85ae987f88081f7aabb7c1f2e61c"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4zLjU="
+        },
+        {
+            "name": "v1.3.4",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.3.4",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.3.4",
+            "commit": {
+                "sha": "938a6bcfc8468ff383c2a02e50e6e3022ff253bd",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/938a6bcfc8468ff383c2a02e50e6e3022ff253bd"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4zLjQ="
+        },
+        {
+            "name": "v1.3.3",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.3.3",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.3.3",
+            "commit": {
+                "sha": "ac12a246456496d509be585d0fa504da55aef96e",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/ac12a246456496d509be585d0fa504da55aef96e"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4zLjM="
+        },
+        {
+            "name": "v1.3.2",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.3.2",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.3.2",
+            "commit": {
+                "sha": "5a5f4b6fb4221edb6da147de3fb9500fe886805b",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/5a5f4b6fb4221edb6da147de3fb9500fe886805b"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4zLjI="
+        },
+        {
+            "name": "v1.3.1",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.3.1",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.3.1",
+            "commit": {
+                "sha": "7d854cc77ddf6006d2928d57c2788f4bebaf9ddf",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/7d854cc77ddf6006d2928d57c2788f4bebaf9ddf"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4zLjE="
+        },
+        {
+            "name": "v1.3.0",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.3.0",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.3.0",
+            "commit": {
+                "sha": "32d2675cf566feaece7747e429880495baba6bdf",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/32d2675cf566feaece7747e429880495baba6bdf"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4zLjA="
+        },
+        {
+            "name": "v1.2.61",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.2.61",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.2.61",
+            "commit": {
+                "sha": "5e8bd00e640653048554e9474f157ba4479dd669",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/5e8bd00e640653048554e9474f157ba4479dd669"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4yLjYx"
+        },
+        {
+            "name": "v1.2.60",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.2.60",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.2.60",
+            "commit": {
+                "sha": "04343b54b04a573512abe948cd80ef9a86c271a8",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/04343b54b04a573512abe948cd80ef9a86c271a8"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4yLjYw"
+        },
+        {
+            "name": "v1.0.272",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.0.272",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.0.272",
+            "commit": {
+                "sha": "43eb0811568aae12c5258326921d7cda06424d59",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/43eb0811568aae12c5258326921d7cda06424d59"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4wLjI3Mg=="
+        },
+        {
+            "name": "v1.0.178",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.0.178",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.0.178",
+            "commit": {
+                "sha": "da257c28e70df11e68e9887ddf0dab7bb19902f5",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/da257c28e70df11e68e9887ddf0dab7bb19902f5"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4wLjE3OA=="
+        },
+        {
+            "name": "v1.0.150",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.0.150",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.0.150",
+            "commit": {
+                "sha": "75d18af849972d8826b7b0c5e6b65c7d868803a1",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/75d18af849972d8826b7b0c5e6b65c7d868803a1"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4wLjE1MA=="
+        },
+        {
+            "name": "v1.0.138",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.0.138",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.0.138",
+            "commit": {
+                "sha": "aed93c35eff51a0c032627af3241b5f2c4311fc7",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/aed93c35eff51a0c032627af3241b5f2c4311fc7"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4wLjEzOA=="
+        },
+        {
+            "name": "v1.0.119",
+            "zipball_url": "https://api.github.com/repos/parallax/jsPDF/zipball/refs/tags/v1.0.119",
+            "tarball_url": "https://api.github.com/repos/parallax/jsPDF/tarball/refs/tags/v1.0.119",
+            "commit": {
+                "sha": "4c6949394c1ffaf86d448e5e962f315559deb000",
+                "url": "https://api.github.com/repos/parallax/jsPDF/commits/4c6949394c1ffaf86d448e5e962f315559deb000"
+            },
+            "node_id": "MDM6UmVmNDAyMDQ2OnJlZnMvdGFncy92MS4wLjExOQ=="
+        }
+    ]
+}

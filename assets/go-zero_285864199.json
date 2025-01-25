@@ -1,0 +1,438 @@
+{
+    "id": 285864199,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyODU4NjQxOTk=",
+    "name": "go-zero",
+    "full_name": "zeromicro/go-zero",
+    "private": false,
+    "owner": {
+        "login": "zeromicro",
+        "id": 74225106,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc0MjI1MTA2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74225106?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/zeromicro",
+        "html_url": "https://github.com/zeromicro",
+        "followers_url": "https://api.github.com/users/zeromicro/followers",
+        "following_url": "https://api.github.com/users/zeromicro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/zeromicro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/zeromicro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/zeromicro/subscriptions",
+        "organizations_url": "https://api.github.com/users/zeromicro/orgs",
+        "repos_url": "https://api.github.com/users/zeromicro/repos",
+        "events_url": "https://api.github.com/users/zeromicro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/zeromicro/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/zeromicro/go-zero",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+    "fork": false,
+    "url": "https://api.github.com/repos/zeromicro/go-zero",
+    "forks_url": "https://api.github.com/repos/zeromicro/go-zero/forks",
+    "keys_url": "https://api.github.com/repos/zeromicro/go-zero/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zeromicro/go-zero/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zeromicro/go-zero/teams",
+    "hooks_url": "https://api.github.com/repos/zeromicro/go-zero/hooks",
+    "issue_events_url": "https://api.github.com/repos/zeromicro/go-zero/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zeromicro/go-zero/events",
+    "assignees_url": "https://api.github.com/repos/zeromicro/go-zero/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zeromicro/go-zero/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zeromicro/go-zero/tags",
+    "blobs_url": "https://api.github.com/repos/zeromicro/go-zero/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zeromicro/go-zero/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zeromicro/go-zero/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zeromicro/go-zero/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zeromicro/go-zero/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zeromicro/go-zero/languages",
+    "stargazers_url": "https://api.github.com/repos/zeromicro/go-zero/stargazers",
+    "contributors_url": "https://api.github.com/repos/zeromicro/go-zero/contributors",
+    "subscribers_url": "https://api.github.com/repos/zeromicro/go-zero/subscribers",
+    "subscription_url": "https://api.github.com/repos/zeromicro/go-zero/subscription",
+    "commits_url": "https://api.github.com/repos/zeromicro/go-zero/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zeromicro/go-zero/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zeromicro/go-zero/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zeromicro/go-zero/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zeromicro/go-zero/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zeromicro/go-zero/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zeromicro/go-zero/merges",
+    "archive_url": "https://api.github.com/repos/zeromicro/go-zero/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zeromicro/go-zero/downloads",
+    "issues_url": "https://api.github.com/repos/zeromicro/go-zero/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zeromicro/go-zero/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zeromicro/go-zero/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zeromicro/go-zero/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zeromicro/go-zero/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zeromicro/go-zero/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zeromicro/go-zero/deployments",
+    "created_at": "2020-08-07T15:37:57Z",
+    "updated_at": "2025-01-25T16:07:28Z",
+    "pushed_at": "2025-01-25T16:40:37Z",
+    "git_url": "git://github.com/zeromicro/go-zero.git",
+    "ssh_url": "git@github.com:zeromicro/go-zero.git",
+    "clone_url": "https://github.com/zeromicro/go-zero.git",
+    "svn_url": "https://github.com/zeromicro/go-zero",
+    "homepage": "https://go-zero.dev",
+    "size": 21532,
+    "stargazers_count": 29776,
+    "watchers_count": 29776,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4019,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 336,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cloud-native",
+        "code-generation",
+        "framework",
+        "gateway",
+        "go",
+        "go-zero",
+        "goctl",
+        "golang",
+        "gozero",
+        "grpc-gateway",
+        "microservice",
+        "microservice-framework",
+        "microservices",
+        "microservices-architecture",
+        "rest-api",
+        "restful",
+        "restful-api",
+        "rpc",
+        "rpc-framework",
+        "web-framework"
+    ],
+    "visibility": "public",
+    "forks": 4019,
+    "open_issues": 336,
+    "watchers": 29776,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.7.6",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.6",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.6",
+            "commit": {
+                "sha": "cdd068575c19a82f7d0a62dc79a56e34a7d8dc77",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/cdd068575c19a82f7d0a62dc79a56e34a7d8dc77"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjY="
+        },
+        {
+            "name": "v1.7.5",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.5",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.5",
+            "commit": {
+                "sha": "48d21ef8adf6f910142473ee1f02767f6b4cbfc3",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/48d21ef8adf6f910142473ee1f02767f6b4cbfc3"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjU="
+        },
+        {
+            "name": "v1.7.4",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.4",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.4",
+            "commit": {
+                "sha": "cad243905ffe241d8cfe41b71bc07041531c9f76",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/cad243905ffe241d8cfe41b71bc07041531c9f76"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjQ="
+        },
+        {
+            "name": "v1.7.3",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.3",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.3",
+            "commit": {
+                "sha": "796dd5b6e2df35969a0c8716dd5f26b19e506ef8",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/796dd5b6e2df35969a0c8716dd5f26b19e506ef8"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjM="
+        },
+        {
+            "name": "v1.7.2",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.2",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.2",
+            "commit": {
+                "sha": "077b6072fadc91ba7f44bdcd7624d940a98c2178",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/077b6072fadc91ba7f44bdcd7624d940a98c2178"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjI="
+        },
+        {
+            "name": "v1.7.1",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.1",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.1",
+            "commit": {
+                "sha": "24d6150073385178316fb97596af879eec6ec8d1",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/24d6150073385178316fb97596af879eec6ec8d1"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjE="
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "caf0e64bebfcafa0f1879491b77b8ffb5aa2b67a",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/caf0e64bebfcafa0f1879491b77b8ffb5aa2b67a"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS43LjA="
+        },
+        {
+            "name": "v1.6.6",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.6",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.6",
+            "commit": {
+                "sha": "f1ed7bd75de44ba1491a2627c36c86e649ae277e",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/f1ed7bd75de44ba1491a2627c36c86e649ae277e"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjY="
+        },
+        {
+            "name": "v1.6.5",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.5",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.5",
+            "commit": {
+                "sha": "0cac41a38bc859f4df0126d7814a5f98c2319980",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/0cac41a38bc859f4df0126d7814a5f98c2319980"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjU="
+        },
+        {
+            "name": "v1.6.4",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.4",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.4",
+            "commit": {
+                "sha": "3866b5741ace2e93d10cf3de991a80e7f76fe30d",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/3866b5741ace2e93d10cf3de991a80e7f76fe30d"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjQ="
+        },
+        {
+            "name": "v1.6.3",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.3",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.3",
+            "commit": {
+                "sha": "25821bdee67975bf7926aaba07bd67ee74c10842",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/25821bdee67975bf7926aaba07bd67ee74c10842"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjM="
+        },
+        {
+            "name": "v1.6.2",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.2",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.2",
+            "commit": {
+                "sha": "97cf2421deb9ebd3daa128a1d93d4f2173eae24b",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/97cf2421deb9ebd3daa128a1d93d4f2173eae24b"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjI="
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "27c4908342a90712d8c1069806cc940f8c395a5d",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/27c4908342a90712d8c1069806cc940f8c395a5d"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjE="
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "07e3e14c0e2e9c5c5decff8a235404e1cb9b4cef",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/07e3e14c0e2e9c5c5decff8a235404e1cb9b4cef"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS42LjA="
+        },
+        {
+            "name": "v1.5.6",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.6",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.6",
+            "commit": {
+                "sha": "421e6617b16bc576e9ce3e8bf7d0405d8fbd04d9",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/421e6617b16bc576e9ce3e8bf7d0405d8fbd04d9"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjY="
+        },
+        {
+            "name": "v1.5.5",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.5",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.5",
+            "commit": {
+                "sha": "14fcbd76586009d5008b8ee3e19ea552d5f6a016",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/14fcbd76586009d5008b8ee3e19ea552d5f6a016"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjU="
+        },
+        {
+            "name": "v1.5.4",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.4",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.4",
+            "commit": {
+                "sha": "b245159417b0f0e1f4ed3fc595d8a9d36ad36d6f",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/b245159417b0f0e1f4ed3fc595d8a9d36ad36d6f"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjQ="
+        },
+        {
+            "name": "v1.5.3",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.3",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.3",
+            "commit": {
+                "sha": "452c9dbcafe695490f1d99cff8eef559df077686",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/452c9dbcafe695490f1d99cff8eef559df077686"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjM="
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "49f73265b9aebd9e6f9e91e649fbfcb7065d0b7a",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/49f73265b9aebd9e6f9e91e649fbfcb7065d0b7a"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjI="
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "22fad4bb9c16143d6257e0706a230e13914179b2",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/22fad4bb9c16143d6257e0706a230e13914179b2"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjE="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "d953675085476c98772fbc495ccaf47b9fd479df",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/d953675085476c98772fbc495ccaf47b9fd479df"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS41LjA="
+        },
+        {
+            "name": "v1.4.5",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.4.5",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.4.5",
+            "commit": {
+                "sha": "2ea0a843f8fe7bbe028d6a890ee13c8b91b9f473",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/2ea0a843f8fe7bbe028d6a890ee13c8b91b9f473"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS40LjU="
+        },
+        {
+            "name": "v1.4.4",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.4.4",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.4.4",
+            "commit": {
+                "sha": "f3369f8e816d7bdeef970069b409ca3a017818bf",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/f3369f8e816d7bdeef970069b409ca3a017818bf"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS40LjQ="
+        },
+        {
+            "name": "v1.4.3",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.4.3",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.4.3",
+            "commit": {
+                "sha": "7a75dce465ec049b1d11205f12cd4f2ec5b69772",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/7a75dce465ec049b1d11205f12cd4f2ec5b69772"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS40LjM="
+        },
+        {
+            "name": "v1.4.2",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.4.2",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.4.2",
+            "commit": {
+                "sha": "06e4914e418a5ac38c3669378b58dc6a7f286e4b",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/06e4914e418a5ac38c3669378b58dc6a7f286e4b"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS40LjI="
+        },
+        {
+            "name": "v1.4.1",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.4.1",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.4.1",
+            "commit": {
+                "sha": "1f6688e5c104e3223ce75a0d397a6d63c371352d",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/1f6688e5c104e3223ce75a0d397a6d63c371352d"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS40LjE="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "731b3ebf6f8f8b7e9022dee0a6507b74b35b5317",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/731b3ebf6f8f8b7e9022dee0a6507b74b35b5317"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS40LjA="
+        },
+        {
+            "name": "v1.3.5",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.3.5",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.3.5",
+            "commit": {
+                "sha": "97a171441d6c30696b7269f65e1b6057c01090d3",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/97a171441d6c30696b7269f65e1b6057c01090d3"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS4zLjU="
+        },
+        {
+            "name": "v1.3.4",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.3.4",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.3.4",
+            "commit": {
+                "sha": "bb33a20bc8ae31f74c269fb977305f2b35ea4ddd",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/bb33a20bc8ae31f74c269fb977305f2b35ea4ddd"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS4zLjQ="
+        },
+        {
+            "name": "v1.3.3",
+            "zipball_url": "https://api.github.com/repos/zeromicro/go-zero/zipball/refs/tags/v1.3.3",
+            "tarball_url": "https://api.github.com/repos/zeromicro/go-zero/tarball/refs/tags/v1.3.3",
+            "commit": {
+                "sha": "3bbc90ec248bdcd3735d85692036360f7218c580",
+                "url": "https://api.github.com/repos/zeromicro/go-zero/commits/3bbc90ec248bdcd3735d85692036360f7218c580"
+            },
+            "node_id": "MDM6UmVmMjg1ODY0MTk5OnJlZnMvdGFncy92MS4zLjM="
+        }
+    ]
+}

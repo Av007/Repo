@@ -1,0 +1,431 @@
+{
+    "id": 612230,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2MTIyMzA=",
+    "name": "nvm",
+    "full_name": "nvm-sh/nvm",
+    "private": false,
+    "owner": {
+        "login": "nvm-sh",
+        "id": 49963700,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5OTYzNzAw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49963700?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nvm-sh",
+        "html_url": "https://github.com/nvm-sh",
+        "followers_url": "https://api.github.com/users/nvm-sh/followers",
+        "following_url": "https://api.github.com/users/nvm-sh/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nvm-sh/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nvm-sh/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nvm-sh/subscriptions",
+        "organizations_url": "https://api.github.com/users/nvm-sh/orgs",
+        "repos_url": "https://api.github.com/users/nvm-sh/repos",
+        "events_url": "https://api.github.com/users/nvm-sh/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nvm-sh/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "fork": false,
+    "url": "https://api.github.com/repos/nvm-sh/nvm",
+    "forks_url": "https://api.github.com/repos/nvm-sh/nvm/forks",
+    "keys_url": "https://api.github.com/repos/nvm-sh/nvm/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/nvm-sh/nvm/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/nvm-sh/nvm/teams",
+    "hooks_url": "https://api.github.com/repos/nvm-sh/nvm/hooks",
+    "issue_events_url": "https://api.github.com/repos/nvm-sh/nvm/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/nvm-sh/nvm/events",
+    "assignees_url": "https://api.github.com/repos/nvm-sh/nvm/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/nvm-sh/nvm/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/nvm-sh/nvm/tags",
+    "blobs_url": "https://api.github.com/repos/nvm-sh/nvm/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/nvm-sh/nvm/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/nvm-sh/nvm/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/nvm-sh/nvm/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/nvm-sh/nvm/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/nvm-sh/nvm/languages",
+    "stargazers_url": "https://api.github.com/repos/nvm-sh/nvm/stargazers",
+    "contributors_url": "https://api.github.com/repos/nvm-sh/nvm/contributors",
+    "subscribers_url": "https://api.github.com/repos/nvm-sh/nvm/subscribers",
+    "subscription_url": "https://api.github.com/repos/nvm-sh/nvm/subscription",
+    "commits_url": "https://api.github.com/repos/nvm-sh/nvm/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/nvm-sh/nvm/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/nvm-sh/nvm/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/nvm-sh/nvm/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/nvm-sh/nvm/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/nvm-sh/nvm/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/nvm-sh/nvm/merges",
+    "archive_url": "https://api.github.com/repos/nvm-sh/nvm/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/nvm-sh/nvm/downloads",
+    "issues_url": "https://api.github.com/repos/nvm-sh/nvm/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/nvm-sh/nvm/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/nvm-sh/nvm/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/nvm-sh/nvm/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/nvm-sh/nvm/labels{/name}",
+    "releases_url": "https://api.github.com/repos/nvm-sh/nvm/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/nvm-sh/nvm/deployments",
+    "created_at": "2010-04-15T17:47:47Z",
+    "updated_at": "2025-01-25T16:48:47Z",
+    "pushed_at": "2025-01-13T16:31:59Z",
+    "git_url": "git://github.com/nvm-sh/nvm.git",
+    "ssh_url": "git@github.com:nvm-sh/nvm.git",
+    "clone_url": "https://github.com/nvm-sh/nvm.git",
+    "svn_url": "https://github.com/nvm-sh/nvm",
+    "homepage": "",
+    "size": 3832,
+    "stargazers_count": 81848,
+    "watchers_count": 81848,
+    "language": "Shell",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 8142,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 366,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bash",
+        "install",
+        "lts",
+        "node",
+        "node-js",
+        "nodejs",
+        "nvm",
+        "nvmrc",
+        "posix",
+        "posix-compliant",
+        "shell",
+        "version-manager",
+        "zsh"
+    ],
+    "visibility": "public",
+    "forks": 8142,
+    "open_issues": 366,
+    "watchers": 81848,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.40.1",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.40.1",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.40.1",
+            "commit": {
+                "sha": "179d45050be0a71fd57591b0ed8aedf9b177ba10",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/179d45050be0a71fd57591b0ed8aedf9b177ba10"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC40MC4x"
+        },
+        {
+            "name": "v0.40.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.40.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.40.0",
+            "commit": {
+                "sha": "deac4e0932eb3031656cdcbe12f0a7be2cacb69f",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/deac4e0932eb3031656cdcbe12f0a7be2cacb69f"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC40MC4w"
+        },
+        {
+            "name": "v0.39.7",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.7",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.7",
+            "commit": {
+                "sha": "bab86d5de571015b63fd8fc30b47bbe072a1290e",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/bab86d5de571015b63fd8fc30b47bbe072a1290e"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS43"
+        },
+        {
+            "name": "v0.39.6",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.6",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.6",
+            "commit": {
+                "sha": "c73009f50327b539f39c7e94504c8974b7d83c66",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/c73009f50327b539f39c7e94504c8974b7d83c66"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS42"
+        },
+        {
+            "name": "v0.39.5",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.5",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.5",
+            "commit": {
+                "sha": "c92adb3c479d70bb29f4399a808c972ef41510e7",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/c92adb3c479d70bb29f4399a808c972ef41510e7"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS41"
+        },
+        {
+            "name": "v0.39.4",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.4",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.4",
+            "commit": {
+                "sha": "8fbf8ab6943d0bcb402773c3c2b30c2f103d7fa2",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/8fbf8ab6943d0bcb402773c3c2b30c2f103d7fa2"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS40"
+        },
+        {
+            "name": "v0.39.3",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.3",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.3",
+            "commit": {
+                "sha": "552db40622bb7a82d9c6d67d2d6bcf3694b47e30",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/552db40622bb7a82d9c6d67d2d6bcf3694b47e30"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS4z"
+        },
+        {
+            "name": "v0.39.2",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.2",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.2",
+            "commit": {
+                "sha": "0ccd099bff8e384043883c4ae01b589794b13d72",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/0ccd099bff8e384043883c4ae01b589794b13d72"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS4y"
+        },
+        {
+            "name": "v0.39.1",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.1",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.1",
+            "commit": {
+                "sha": "9600617c52d0d2e48493424c529ac6c945d2775b",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/9600617c52d0d2e48493424c529ac6c945d2775b"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS4x"
+        },
+        {
+            "name": "v0.39.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.39.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.39.0",
+            "commit": {
+                "sha": "5b3d188b83f27ec31d97f3f3e6e49220e09b6985",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/5b3d188b83f27ec31d97f3f3e6e49220e09b6985"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOS4w"
+        },
+        {
+            "name": "v0.38.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.38.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.38.0",
+            "commit": {
+                "sha": "3fea5493a431ac64470d4230d4b51438cf213bd1",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/3fea5493a431ac64470d4230d4b51438cf213bd1"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zOC4w"
+        },
+        {
+            "name": "v0.37.2",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.37.2",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.37.2",
+            "commit": {
+                "sha": "4b947ec92d0195756709e5b563569cf48aef1e09",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/4b947ec92d0195756709e5b563569cf48aef1e09"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNy4y"
+        },
+        {
+            "name": "v0.37.1",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.37.1",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.37.1",
+            "commit": {
+                "sha": "661a702cdd623913e5c77ea7d4e270809b82e2ee",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/661a702cdd623913e5c77ea7d4e270809b82e2ee"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNy4x"
+        },
+        {
+            "name": "v0.37.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.37.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.37.0",
+            "commit": {
+                "sha": "4054bd70cedb9998015c2d8cc468c818c7d2f57d",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/4054bd70cedb9998015c2d8cc468c818c7d2f57d"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNy4w"
+        },
+        {
+            "name": "v0.36.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.36.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.36.0",
+            "commit": {
+                "sha": "8debf39f24954d1006df6bac2dbef09d1ea68bc5",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/8debf39f24954d1006df6bac2dbef09d1ea68bc5"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNi4w"
+        },
+        {
+            "name": "v0.35.3",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.35.3",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.35.3",
+            "commit": {
+                "sha": "258938ef66a2a49a4a400554a6dce890226ae34c",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/258938ef66a2a49a4a400554a6dce890226ae34c"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNS4z"
+        },
+        {
+            "name": "v0.35.2",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.35.2",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.35.2",
+            "commit": {
+                "sha": "f355b327d6a2a4e8020e943974086d53f00f9a02",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/f355b327d6a2a4e8020e943974086d53f00f9a02"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNS4y"
+        },
+        {
+            "name": "v0.35.1",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.35.1",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.35.1",
+            "commit": {
+                "sha": "28bc2fd99149bbc8462df8b9962786b7ee91966c",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/28bc2fd99149bbc8462df8b9962786b7ee91966c"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNS4x"
+        },
+        {
+            "name": "v0.35.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.35.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.35.0",
+            "commit": {
+                "sha": "011810e721c4c26be997c7c0b62739c7b991526d",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/011810e721c4c26be997c7c0b62739c7b991526d"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNS4w"
+        },
+        {
+            "name": "v0.34.0",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.34.0",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.34.0",
+            "commit": {
+                "sha": "3d9c31d94488884e74ae1ba0d46bc6607bc74667",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/3d9c31d94488884e74ae1ba0d46bc6607bc74667"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zNC4w"
+        },
+        {
+            "name": "v0.33.11",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.11",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.11",
+            "commit": {
+                "sha": "93990ab7da37007c8d9db16415cfb939aa5dd201",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/93990ab7da37007c8d9db16415cfb939aa5dd201"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy4xMQ=="
+        },
+        {
+            "name": "v0.33.10",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.10",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.10",
+            "commit": {
+                "sha": "177a9673a791b47973e97f897a7c11aade6da8b6",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/177a9673a791b47973e97f897a7c11aade6da8b6"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy4xMA=="
+        },
+        {
+            "name": "v0.33.9",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.9",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.9",
+            "commit": {
+                "sha": "1b14e6b4d95db3aedc2dc51e5a4d97012210e606",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/1b14e6b4d95db3aedc2dc51e5a4d97012210e606"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy45"
+        },
+        {
+            "name": "v0.33.8",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.8",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.8",
+            "commit": {
+                "sha": "7ad6d98cedde01809e32d56ab8ced064f6f28175",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/7ad6d98cedde01809e32d56ab8ced064f6f28175"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy44"
+        },
+        {
+            "name": "v0.33.7",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.7",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.7",
+            "commit": {
+                "sha": "65f0572bdc5c618f747df4b1e70a76fbc0174b82",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/65f0572bdc5c618f747df4b1e70a76fbc0174b82"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy43"
+        },
+        {
+            "name": "v0.33.6",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.6",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.6",
+            "commit": {
+                "sha": "b546436113084d6de584c57b259b947dd467a900",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/b546436113084d6de584c57b259b947dd467a900"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy42"
+        },
+        {
+            "name": "v0.33.5",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.5",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.5",
+            "commit": {
+                "sha": "6597e11971c5c71da97b67e9e8786dec23d523b1",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/6597e11971c5c71da97b67e9e8786dec23d523b1"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy41"
+        },
+        {
+            "name": "v0.33.4",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.4",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.4",
+            "commit": {
+                "sha": "d91b6197f3f60e1e7a332acf69a9b90e83120f06",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/d91b6197f3f60e1e7a332acf69a9b90e83120f06"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy40"
+        },
+        {
+            "name": "v0.33.3",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.3",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.3",
+            "commit": {
+                "sha": "6f19babbffce56435ae8bebd604cc5594f05f745",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/6f19babbffce56435ae8bebd604cc5594f05f745"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy4z"
+        },
+        {
+            "name": "v0.33.2",
+            "zipball_url": "https://api.github.com/repos/nvm-sh/nvm/zipball/refs/tags/v0.33.2",
+            "tarball_url": "https://api.github.com/repos/nvm-sh/nvm/tarball/refs/tags/v0.33.2",
+            "commit": {
+                "sha": "0a95e77000515c1156be593642dd4e452f2f098e",
+                "url": "https://api.github.com/repos/nvm-sh/nvm/commits/0a95e77000515c1156be593642dd4e452f2f098e"
+            },
+            "node_id": "MDM6UmVmNjEyMjMwOnJlZnMvdGFncy92MC4zMy4y"
+        }
+    ]
+}

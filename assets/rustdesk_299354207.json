@@ -1,0 +1,408 @@
+{
+    "id": 299354207,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyOTkzNTQyMDc=",
+    "name": "rustdesk",
+    "full_name": "rustdesk/rustdesk",
+    "private": false,
+    "owner": {
+        "login": "rustdesk",
+        "id": 71636191,
+        "node_id": "MDQ6VXNlcjcxNjM2MTkx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/71636191?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rustdesk",
+        "html_url": "https://github.com/rustdesk",
+        "followers_url": "https://api.github.com/users/rustdesk/followers",
+        "following_url": "https://api.github.com/users/rustdesk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rustdesk/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rustdesk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rustdesk/subscriptions",
+        "organizations_url": "https://api.github.com/users/rustdesk/orgs",
+        "repos_url": "https://api.github.com/users/rustdesk/repos",
+        "events_url": "https://api.github.com/users/rustdesk/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rustdesk/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "fork": false,
+    "url": "https://api.github.com/repos/rustdesk/rustdesk",
+    "forks_url": "https://api.github.com/repos/rustdesk/rustdesk/forks",
+    "keys_url": "https://api.github.com/repos/rustdesk/rustdesk/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/rustdesk/rustdesk/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/rustdesk/rustdesk/teams",
+    "hooks_url": "https://api.github.com/repos/rustdesk/rustdesk/hooks",
+    "issue_events_url": "https://api.github.com/repos/rustdesk/rustdesk/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/rustdesk/rustdesk/events",
+    "assignees_url": "https://api.github.com/repos/rustdesk/rustdesk/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/rustdesk/rustdesk/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/rustdesk/rustdesk/tags",
+    "blobs_url": "https://api.github.com/repos/rustdesk/rustdesk/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/rustdesk/rustdesk/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/rustdesk/rustdesk/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/rustdesk/rustdesk/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/rustdesk/rustdesk/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/rustdesk/rustdesk/languages",
+    "stargazers_url": "https://api.github.com/repos/rustdesk/rustdesk/stargazers",
+    "contributors_url": "https://api.github.com/repos/rustdesk/rustdesk/contributors",
+    "subscribers_url": "https://api.github.com/repos/rustdesk/rustdesk/subscribers",
+    "subscription_url": "https://api.github.com/repos/rustdesk/rustdesk/subscription",
+    "commits_url": "https://api.github.com/repos/rustdesk/rustdesk/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/rustdesk/rustdesk/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/rustdesk/rustdesk/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/rustdesk/rustdesk/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/rustdesk/rustdesk/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/rustdesk/rustdesk/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/rustdesk/rustdesk/merges",
+    "archive_url": "https://api.github.com/repos/rustdesk/rustdesk/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/rustdesk/rustdesk/downloads",
+    "issues_url": "https://api.github.com/repos/rustdesk/rustdesk/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/rustdesk/rustdesk/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/rustdesk/rustdesk/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/rustdesk/rustdesk/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/rustdesk/rustdesk/labels{/name}",
+    "releases_url": "https://api.github.com/repos/rustdesk/rustdesk/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/rustdesk/rustdesk/deployments",
+    "created_at": "2020-09-28T15:36:08Z",
+    "updated_at": "2025-01-25T17:21:20Z",
+    "pushed_at": "2025-01-25T08:39:16Z",
+    "git_url": "git://github.com/rustdesk/rustdesk.git",
+    "ssh_url": "git@github.com:rustdesk/rustdesk.git",
+    "clone_url": "https://github.com/rustdesk/rustdesk.git",
+    "svn_url": "https://github.com/rustdesk/rustdesk",
+    "homepage": "https://rustdesk.com",
+    "size": 53905,
+    "stargazers_count": 79853,
+    "watchers_count": 79853,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 11301,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 52,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "anydesk",
+        "dart",
+        "flutter",
+        "flutter-apps",
+        "flutter-desktop",
+        "flutter-examples",
+        "flutter-mobile",
+        "flutter-ui",
+        "flutter-web",
+        "hacktoberfest",
+        "linux",
+        "p2p",
+        "rdp",
+        "remote-control",
+        "remote-desktop",
+        "rust",
+        "rust-lang",
+        "teamviewer",
+        "vnc",
+        "wayland"
+    ],
+    "visibility": "public",
+    "forks": 11301,
+    "open_issues": 52,
+    "watchers": 79853,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "nightly",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/nightly",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/nightly",
+            "commit": {
+                "sha": "b39e851262cea9dd869dcaae55a1f6730728f086",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/b39e851262cea9dd869dcaae55a1f6730728f086"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy9uaWdodGx5"
+        },
+        {
+            "name": "fdroid-version",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/fdroid-version",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/fdroid-version",
+            "commit": {
+                "sha": "9827c7651442800f47428087903d52da8cb8c2c8",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/9827c7651442800f47428087903d52da8cb8c2c8"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy9mZHJvaWQtdmVyc2lvbg=="
+        },
+        {
+            "name": "1.3.7",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.7",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.7",
+            "commit": {
+                "sha": "1f02bc9d3ed379e970f8ae4d4497f76adfd98d1c",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/1f02bc9d3ed379e970f8ae4d4497f76adfd98d1c"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuNw=="
+        },
+        {
+            "name": "1.3.6",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.6",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.6",
+            "commit": {
+                "sha": "e9c5e0d26b10c6aa2d243d31c65a27560829002c",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/e9c5e0d26b10c6aa2d243d31c65a27560829002c"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuNg=="
+        },
+        {
+            "name": "1.3.5",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.5",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.5",
+            "commit": {
+                "sha": "588103c6dc36e16d07347dbc7f15e7566ec3dcee",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/588103c6dc36e16d07347dbc7f15e7566ec3dcee"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuNQ=="
+        },
+        {
+            "name": "1.3.4",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.4",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.4",
+            "commit": {
+                "sha": "a23822074ec5199c9fd462ffe5c9b1308601739c",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/a23822074ec5199c9fd462ffe5c9b1308601739c"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuNA=="
+        },
+        {
+            "name": "1.3.3",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.3",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.3",
+            "commit": {
+                "sha": "b99c540210a98df39b96ec65f2ec40fd703c7506",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/b99c540210a98df39b96ec65f2ec40fd703c7506"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuMw=="
+        },
+        {
+            "name": "1.3.2",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.2",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.2",
+            "commit": {
+                "sha": "f0450db2030f71df423b5c508b98b7332de0a355",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/f0450db2030f71df423b5c508b98b7332de0a355"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuMg=="
+        },
+        {
+            "name": "1.3.1",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.1",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.1",
+            "commit": {
+                "sha": "a516f01feb982202b95bc291e4cbd593eb5bd0be",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/a516f01feb982202b95bc291e4cbd593eb5bd0be"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuMQ=="
+        },
+        {
+            "name": "1.3.0",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.3.0",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.3.0",
+            "commit": {
+                "sha": "2a0fd55af76cb32d1312cb0166d73ed7214f7ae1",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/2a0fd55af76cb32d1312cb0166d73ed7214f7ae1"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjMuMA=="
+        },
+        {
+            "name": "1.2.7",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.7",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.7",
+            "commit": {
+                "sha": "97f26f880b8dbc21d6a9d73b886c7aa27ca051f3",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/97f26f880b8dbc21d6a9d73b886c7aa27ca051f3"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuNw=="
+        },
+        {
+            "name": "1.2.6",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.6",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.6",
+            "commit": {
+                "sha": "1a69d525af31369561411791721184e4411faea1",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/1a69d525af31369561411791721184e4411faea1"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuNg=="
+        },
+        {
+            "name": "1.2.5",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.5",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.5",
+            "commit": {
+                "sha": "7d56717cf56bc3535832e2a89e4a87c5ca753f1e",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/7d56717cf56bc3535832e2a89e4a87c5ca753f1e"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuNQ=="
+        },
+        {
+            "name": "1.2.4",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.4",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.4",
+            "commit": {
+                "sha": "9827c7651442800f47428087903d52da8cb8c2c8",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/9827c7651442800f47428087903d52da8cb8c2c8"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuNA=="
+        },
+        {
+            "name": "1.2.3",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.3",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.3",
+            "commit": {
+                "sha": "cf0e3ec303990a48e0b3a6beedd3587079a6526c",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/cf0e3ec303990a48e0b3a6beedd3587079a6526c"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuMw=="
+        },
+        {
+            "name": "1.2.3-2",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.3-2",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.3-2",
+            "commit": {
+                "sha": "65f7541ec76cab7f996623a4c9ee674d3b294800",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/65f7541ec76cab7f996623a4c9ee674d3b294800"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuMy0y"
+        },
+        {
+            "name": "1.2.3-1",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.3-1",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.3-1",
+            "commit": {
+                "sha": "914da2b86f73a314027833b1940784d657826503",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/914da2b86f73a314027833b1940784d657826503"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuMy0x"
+        },
+        {
+            "name": "1.2.2",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.2",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.2",
+            "commit": {
+                "sha": "9383d4c97ca079c64e01ca83762b77f776a186cd",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/9383d4c97ca079c64e01ca83762b77f776a186cd"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuMg=="
+        },
+        {
+            "name": "1.2.1",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.1",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.1",
+            "commit": {
+                "sha": "a9f0223ea3d02367c150e0db904b1bf14bcb757e",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/a9f0223ea3d02367c150e0db904b1bf14bcb757e"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuMQ=="
+        },
+        {
+            "name": "1.2.0",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.2.0",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.2.0",
+            "commit": {
+                "sha": "b213fd091cbe3d5af62bd07bfd63dbf74941cbaa",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/b213fd091cbe3d5af62bd07bfd63dbf74941cbaa"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjIuMA=="
+        },
+        {
+            "name": "1.1.9",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.9",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.9",
+            "commit": {
+                "sha": "d716e2b40c38737f1aa3f16de0dec67394a6ac68",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/d716e2b40c38737f1aa3f16de0dec67394a6ac68"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuOQ=="
+        },
+        {
+            "name": "1.1.8",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.8",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.8",
+            "commit": {
+                "sha": "1a54c50c6ff487a60a1cc35532bde393ecbb25fc",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/1a54c50c6ff487a60a1cc35532bde393ecbb25fc"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuOA=="
+        },
+        {
+            "name": "1.1.6",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.6",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.6",
+            "commit": {
+                "sha": "fda1e5e231ae64b6a60c441a089aedc3f7cb75f4",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/fda1e5e231ae64b6a60c441a089aedc3f7cb75f4"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuNg=="
+        },
+        {
+            "name": "1.1.5",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.5",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.5",
+            "commit": {
+                "sha": "5b2c1eea75c14b096662966da28f5964f021a5d7",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/5b2c1eea75c14b096662966da28f5964f021a5d7"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuNQ=="
+        },
+        {
+            "name": "1.1.4",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.4",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.4",
+            "commit": {
+                "sha": "619fba5838cd85a0cf9a264498cece547b6c3180",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/619fba5838cd85a0cf9a264498cece547b6c3180"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuNA=="
+        },
+        {
+            "name": "1.1.3",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.3",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.3",
+            "commit": {
+                "sha": "0503a4d5b6d70f713d943618896501bd67d931dc",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/0503a4d5b6d70f713d943618896501bd67d931dc"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuMw=="
+        },
+        {
+            "name": "1.1.2",
+            "zipball_url": "https://api.github.com/repos/rustdesk/rustdesk/zipball/refs/tags/1.1.2",
+            "tarball_url": "https://api.github.com/repos/rustdesk/rustdesk/tarball/refs/tags/1.1.2",
+            "commit": {
+                "sha": "ad0a24ba237afb762e9c48561c84c2d3633583f0",
+                "url": "https://api.github.com/repos/rustdesk/rustdesk/commits/ad0a24ba237afb762e9c48561c84c2d3633583f0"
+            },
+            "node_id": "MDM6UmVmMjk5MzU0MjA3OnJlZnMvdGFncy8xLjEuMg=="
+        }
+    ]
+}

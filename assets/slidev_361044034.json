@@ -1,0 +1,424 @@
+{
+    "id": 361044034,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNjEwNDQwMzQ=",
+    "name": "slidev",
+    "full_name": "slidevjs/slidev",
+    "private": false,
+    "owner": {
+        "login": "slidevjs",
+        "id": 83095831,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgzMDk1ODMx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/83095831?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/slidevjs",
+        "html_url": "https://github.com/slidevjs",
+        "followers_url": "https://api.github.com/users/slidevjs/followers",
+        "following_url": "https://api.github.com/users/slidevjs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/slidevjs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/slidevjs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/slidevjs/subscriptions",
+        "organizations_url": "https://api.github.com/users/slidevjs/orgs",
+        "repos_url": "https://api.github.com/users/slidevjs/repos",
+        "events_url": "https://api.github.com/users/slidevjs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/slidevjs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/slidevjs/slidev",
+    "description": "Presentation Slides for Developers",
+    "fork": false,
+    "url": "https://api.github.com/repos/slidevjs/slidev",
+    "forks_url": "https://api.github.com/repos/slidevjs/slidev/forks",
+    "keys_url": "https://api.github.com/repos/slidevjs/slidev/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/slidevjs/slidev/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/slidevjs/slidev/teams",
+    "hooks_url": "https://api.github.com/repos/slidevjs/slidev/hooks",
+    "issue_events_url": "https://api.github.com/repos/slidevjs/slidev/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/slidevjs/slidev/events",
+    "assignees_url": "https://api.github.com/repos/slidevjs/slidev/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/slidevjs/slidev/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/slidevjs/slidev/tags",
+    "blobs_url": "https://api.github.com/repos/slidevjs/slidev/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/slidevjs/slidev/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/slidevjs/slidev/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/slidevjs/slidev/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/slidevjs/slidev/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/slidevjs/slidev/languages",
+    "stargazers_url": "https://api.github.com/repos/slidevjs/slidev/stargazers",
+    "contributors_url": "https://api.github.com/repos/slidevjs/slidev/contributors",
+    "subscribers_url": "https://api.github.com/repos/slidevjs/slidev/subscribers",
+    "subscription_url": "https://api.github.com/repos/slidevjs/slidev/subscription",
+    "commits_url": "https://api.github.com/repos/slidevjs/slidev/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/slidevjs/slidev/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/slidevjs/slidev/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/slidevjs/slidev/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/slidevjs/slidev/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/slidevjs/slidev/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/slidevjs/slidev/merges",
+    "archive_url": "https://api.github.com/repos/slidevjs/slidev/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/slidevjs/slidev/downloads",
+    "issues_url": "https://api.github.com/repos/slidevjs/slidev/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/slidevjs/slidev/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/slidevjs/slidev/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/slidevjs/slidev/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/slidevjs/slidev/labels{/name}",
+    "releases_url": "https://api.github.com/repos/slidevjs/slidev/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/slidevjs/slidev/deployments",
+    "created_at": "2021-04-24T01:25:23Z",
+    "updated_at": "2025-01-25T14:46:09Z",
+    "pushed_at": "2025-01-20T08:40:55Z",
+    "git_url": "git://github.com/slidevjs/slidev.git",
+    "ssh_url": "git@github.com:slidevjs/slidev.git",
+    "clone_url": "https://github.com/slidevjs/slidev.git",
+    "svn_url": "https://github.com/slidevjs/slidev",
+    "homepage": "https://sli.dev",
+    "size": 78884,
+    "stargazers_count": 34633,
+    "watchers_count": 34633,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1418,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 111,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "markdown",
+        "presentation",
+        "slides",
+        "vite",
+        "vue",
+        "vueuse"
+    ],
+    "visibility": "public",
+    "forks": 1418,
+    "open_issues": 111,
+    "watchers": 34633,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v51.0.2",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v51.0.2",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v51.0.2",
+            "commit": {
+                "sha": "48dad78f55ba8585833726205f607e6cc7777d70",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/48dad78f55ba8585833726205f607e6cc7777d70"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92NTEuMC4y"
+        },
+        {
+            "name": "v51.0.1",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v51.0.1",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v51.0.1",
+            "commit": {
+                "sha": "959f019bcc26e6f5342cfed79ab63488e7790ab9",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/959f019bcc26e6f5342cfed79ab63488e7790ab9"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92NTEuMC4x"
+        },
+        {
+            "name": "v51.0.0",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v51.0.0",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v51.0.0",
+            "commit": {
+                "sha": "c5a63867857c6fc62c09077bd5b938589994d7e0",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/c5a63867857c6fc62c09077bd5b938589994d7e0"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92NTEuMC4w"
+        },
+        {
+            "name": "v0.51.0-beta.4",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.51.0-beta.4",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.51.0-beta.4",
+            "commit": {
+                "sha": "05486d6544cb85916069061f712d382bbbea9bbc",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/05486d6544cb85916069061f712d382bbbea9bbc"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MS4wLWJldGEuNA=="
+        },
+        {
+            "name": "v0.51.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.51.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.51.0-beta.3",
+            "commit": {
+                "sha": "2b1dce08878dfa228d2c35e8bcd1bed23f59afad",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/2b1dce08878dfa228d2c35e8bcd1bed23f59afad"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MS4wLWJldGEuMw=="
+        },
+        {
+            "name": "v0.51.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.51.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.51.0-beta.2",
+            "commit": {
+                "sha": "e434c9d57472227f330267297a2ecf80818faad3",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/e434c9d57472227f330267297a2ecf80818faad3"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MS4wLWJldGEuMg=="
+        },
+        {
+            "name": "v0.51.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.51.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.51.0-beta.1",
+            "commit": {
+                "sha": "dbb78fac22072de0c5ad7a6f0fd397e661982a10",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/dbb78fac22072de0c5ad7a6f0fd397e661982a10"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MS4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v0.50.0",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0",
+            "commit": {
+                "sha": "cfe3415643fa2ca9a679146db84aaebd7888c280",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/cfe3415643fa2ca9a679146db84aaebd7888c280"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4w"
+        },
+        {
+            "name": "v0.50.0-beta.13",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.13",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.13",
+            "commit": {
+                "sha": "f636b72448165d00cb20b3e9a6e98a7fd740c13b",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/f636b72448165d00cb20b3e9a6e98a7fd740c13b"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMTM="
+        },
+        {
+            "name": "v0.50.0-beta.12",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.12",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.12",
+            "commit": {
+                "sha": "52dc7a33b00def38c944d49c43b99343511c2bce",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/52dc7a33b00def38c944d49c43b99343511c2bce"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMTI="
+        },
+        {
+            "name": "v0.50.0-beta.11",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.11",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.11",
+            "commit": {
+                "sha": "b4296fbf7e040891ca34b6a58e3ffb11d058dbd5",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/b4296fbf7e040891ca34b6a58e3ffb11d058dbd5"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMTE="
+        },
+        {
+            "name": "v0.50.0-beta.10",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.10",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.10",
+            "commit": {
+                "sha": "6896ae931656a106a77eea585a0e1c9b460ad490",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/6896ae931656a106a77eea585a0e1c9b460ad490"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMTA="
+        },
+        {
+            "name": "v0.50.0-beta.9",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.9",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.9",
+            "commit": {
+                "sha": "b2b734773aa920c19835603ac6984e2480282239",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/b2b734773aa920c19835603ac6984e2480282239"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuOQ=="
+        },
+        {
+            "name": "v0.50.0-beta.8",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.8",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.8",
+            "commit": {
+                "sha": "921adf26e79f020e0823fc1146ad79b6936efa5e",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/921adf26e79f020e0823fc1146ad79b6936efa5e"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuOA=="
+        },
+        {
+            "name": "v0.50.0-beta.7",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.7",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.7",
+            "commit": {
+                "sha": "2451e20f871979174cf7c0a5f835dbb9a7c6a0f1",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/2451e20f871979174cf7c0a5f835dbb9a7c6a0f1"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuNw=="
+        },
+        {
+            "name": "v0.50.0-beta.6",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.6",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.6",
+            "commit": {
+                "sha": "a4456b74533b656e9d80b0fa8bb3ba17a31aa9ea",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/a4456b74533b656e9d80b0fa8bb3ba17a31aa9ea"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuNg=="
+        },
+        {
+            "name": "v0.50.0-beta.5",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.5",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.5",
+            "commit": {
+                "sha": "b0821861fa4e7dcccb2f029b878ac71317291dc1",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/b0821861fa4e7dcccb2f029b878ac71317291dc1"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuNQ=="
+        },
+        {
+            "name": "v0.50.0-beta.4",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.4",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.4",
+            "commit": {
+                "sha": "b2cfa788f4c98864d81672518b5285b8a334ee81",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/b2cfa788f4c98864d81672518b5285b8a334ee81"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuNA=="
+        },
+        {
+            "name": "v0.50.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.3",
+            "commit": {
+                "sha": "2a006786ccafdbc938ed073b3028fbb460f8bd49",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/2a006786ccafdbc938ed073b3028fbb460f8bd49"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMw=="
+        },
+        {
+            "name": "v0.50.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.2",
+            "commit": {
+                "sha": "7f1408ea03f7bee4d600b75ad6d3eeede0014ab3",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/7f1408ea03f7bee4d600b75ad6d3eeede0014ab3"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMg=="
+        },
+        {
+            "name": "v0.50.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.50.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.50.0-beta.1",
+            "commit": {
+                "sha": "9e047316ac1717094a6c43f15b4577b381fdc7f3",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/9e047316ac1717094a6c43f15b4577b381fdc7f3"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC41MC4wLWJldGEuMQ=="
+        },
+        {
+            "name": "v0.49.29",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.29",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.29",
+            "commit": {
+                "sha": "7504bb518df4e4a899c0486dae1233c4bcee72b6",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/7504bb518df4e4a899c0486dae1233c4bcee72b6"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yOQ=="
+        },
+        {
+            "name": "v0.49.28",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.28",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.28",
+            "commit": {
+                "sha": "c4dc591bedc507cc6585a7dae47ecd603413f27f",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/c4dc591bedc507cc6585a7dae47ecd603413f27f"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yOA=="
+        },
+        {
+            "name": "v0.49.27",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.27",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.27",
+            "commit": {
+                "sha": "c24980d45da433c41ce3060a5be9a94d550aba01",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/c24980d45da433c41ce3060a5be9a94d550aba01"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yNw=="
+        },
+        {
+            "name": "v0.49.26",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.26",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.26",
+            "commit": {
+                "sha": "ec67cd12ea1399b4aac3ee87ff7154819ec05e21",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/ec67cd12ea1399b4aac3ee87ff7154819ec05e21"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yNg=="
+        },
+        {
+            "name": "v0.49.25",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.25",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.25",
+            "commit": {
+                "sha": "ca81faa8e018cec46b8b932dc847d34f796cb67e",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/ca81faa8e018cec46b8b932dc847d34f796cb67e"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yNQ=="
+        },
+        {
+            "name": "v0.49.24",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.24",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.24",
+            "commit": {
+                "sha": "c46addf04c5d6a24777277af8d8ae6b7b4368e9e",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/c46addf04c5d6a24777277af8d8ae6b7b4368e9e"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yNA=="
+        },
+        {
+            "name": "v0.49.23",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.23",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.23",
+            "commit": {
+                "sha": "41a4fb047e67f3f02732663525a8798ff043d421",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/41a4fb047e67f3f02732663525a8798ff043d421"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yMw=="
+        },
+        {
+            "name": "v0.49.22",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.22",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.22",
+            "commit": {
+                "sha": "2256a581a64c00ba5aa32279c6e41cb7e8a75604",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/2256a581a64c00ba5aa32279c6e41cb7e8a75604"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yMg=="
+        },
+        {
+            "name": "v0.49.21",
+            "zipball_url": "https://api.github.com/repos/slidevjs/slidev/zipball/refs/tags/v0.49.21",
+            "tarball_url": "https://api.github.com/repos/slidevjs/slidev/tarball/refs/tags/v0.49.21",
+            "commit": {
+                "sha": "a46aea8f10596643088e59863797911c19611940",
+                "url": "https://api.github.com/repos/slidevjs/slidev/commits/a46aea8f10596643088e59863797911c19611940"
+            },
+            "node_id": "MDM6UmVmMzYxMDQ0MDM0OnJlZnMvdGFncy92MC40OS4yMQ=="
+        }
+    ]
+}

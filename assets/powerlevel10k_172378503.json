@@ -1,0 +1,419 @@
+{
+    "id": 172378503,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNzIzNzg1MDM=",
+    "name": "powerlevel10k",
+    "full_name": "romkatv/powerlevel10k",
+    "private": false,
+    "owner": {
+        "login": "romkatv",
+        "id": 1282067,
+        "node_id": "MDQ6VXNlcjEyODIwNjc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1282067?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/romkatv",
+        "html_url": "https://github.com/romkatv",
+        "followers_url": "https://api.github.com/users/romkatv/followers",
+        "following_url": "https://api.github.com/users/romkatv/following{/other_user}",
+        "gists_url": "https://api.github.com/users/romkatv/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/romkatv/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/romkatv/subscriptions",
+        "organizations_url": "https://api.github.com/users/romkatv/orgs",
+        "repos_url": "https://api.github.com/users/romkatv/repos",
+        "events_url": "https://api.github.com/users/romkatv/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/romkatv/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/romkatv/powerlevel10k",
+    "description": "A Zsh theme",
+    "fork": false,
+    "url": "https://api.github.com/repos/romkatv/powerlevel10k",
+    "forks_url": "https://api.github.com/repos/romkatv/powerlevel10k/forks",
+    "keys_url": "https://api.github.com/repos/romkatv/powerlevel10k/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/romkatv/powerlevel10k/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/romkatv/powerlevel10k/teams",
+    "hooks_url": "https://api.github.com/repos/romkatv/powerlevel10k/hooks",
+    "issue_events_url": "https://api.github.com/repos/romkatv/powerlevel10k/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/romkatv/powerlevel10k/events",
+    "assignees_url": "https://api.github.com/repos/romkatv/powerlevel10k/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/romkatv/powerlevel10k/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/romkatv/powerlevel10k/tags",
+    "blobs_url": "https://api.github.com/repos/romkatv/powerlevel10k/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/romkatv/powerlevel10k/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/romkatv/powerlevel10k/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/romkatv/powerlevel10k/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/romkatv/powerlevel10k/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/romkatv/powerlevel10k/languages",
+    "stargazers_url": "https://api.github.com/repos/romkatv/powerlevel10k/stargazers",
+    "contributors_url": "https://api.github.com/repos/romkatv/powerlevel10k/contributors",
+    "subscribers_url": "https://api.github.com/repos/romkatv/powerlevel10k/subscribers",
+    "subscription_url": "https://api.github.com/repos/romkatv/powerlevel10k/subscription",
+    "commits_url": "https://api.github.com/repos/romkatv/powerlevel10k/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/romkatv/powerlevel10k/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/romkatv/powerlevel10k/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/romkatv/powerlevel10k/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/romkatv/powerlevel10k/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/romkatv/powerlevel10k/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/romkatv/powerlevel10k/merges",
+    "archive_url": "https://api.github.com/repos/romkatv/powerlevel10k/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/romkatv/powerlevel10k/downloads",
+    "issues_url": "https://api.github.com/repos/romkatv/powerlevel10k/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/romkatv/powerlevel10k/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/romkatv/powerlevel10k/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/romkatv/powerlevel10k/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/romkatv/powerlevel10k/labels{/name}",
+    "releases_url": "https://api.github.com/repos/romkatv/powerlevel10k/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/romkatv/powerlevel10k/deployments",
+    "created_at": "2019-02-24T19:09:45Z",
+    "updated_at": "2025-01-25T13:11:02Z",
+    "pushed_at": "2025-01-23T18:34:17Z",
+    "git_url": "git://github.com/romkatv/powerlevel10k.git",
+    "ssh_url": "git@github.com:romkatv/powerlevel10k.git",
+    "clone_url": "https://github.com/romkatv/powerlevel10k.git",
+    "svn_url": "https://github.com/romkatv/powerlevel10k",
+    "homepage": "",
+    "size": 71993,
+    "stargazers_count": 47586,
+    "watchers_count": 47586,
+    "language": "Shell",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2234,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 87,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "zsh"
+    ],
+    "visibility": "public",
+    "forks": 2234,
+    "open_issues": 87,
+    "watchers": 47586,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.20.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.20.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.20.0",
+            "commit": {
+                "sha": "35833ea15f14b71dbcebc7e54c104d8d56ca5268",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/35833ea15f14b71dbcebc7e54c104d8d56ca5268"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4yMC4w"
+        },
+        {
+            "name": "v1.19.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.19.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.19.0",
+            "commit": {
+                "sha": "017395a266aa15011c09e64e44a1c98ed91c478c",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/017395a266aa15011c09e64e44a1c98ed91c478c"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xOS4w"
+        },
+        {
+            "name": "v1.18.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.18.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.18.0",
+            "commit": {
+                "sha": "0af598cbed78660066f8a8f4465844501ba5695b",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/0af598cbed78660066f8a8f4465844501ba5695b"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xOC4w"
+        },
+        {
+            "name": "v1.17.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.17.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.17.0",
+            "commit": {
+                "sha": "a066b55f855c8e488d3ea9e26e861bdd5ecd4fe8",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/a066b55f855c8e488d3ea9e26e861bdd5ecd4fe8"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNy4w"
+        },
+        {
+            "name": "v1.16.1",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.16.1",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.16.1",
+            "commit": {
+                "sha": "8a676a9157d2b0e00e88d06456ac7317f11c0317",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/8a676a9157d2b0e00e88d06456ac7317f11c0317"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNi4x"
+        },
+        {
+            "name": "v1.16.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.16.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.16.0",
+            "commit": {
+                "sha": "683a485232d75978a79199a305c4fc4843772a77",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/683a485232d75978a79199a305c4fc4843772a77"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNi4w"
+        },
+        {
+            "name": "v1.15.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.15.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.15.0",
+            "commit": {
+                "sha": "f5d61840ae3a4f8c2765e1a67d94d9a96de71601",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/f5d61840ae3a4f8c2765e1a67d94d9a96de71601"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNS4w"
+        },
+        {
+            "name": "v1.14.6",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.6",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.6",
+            "commit": {
+                "sha": "d26bdcd6010cfe82bc7bab07e4363b40be834cc8",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/d26bdcd6010cfe82bc7bab07e4363b40be834cc8"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC42"
+        },
+        {
+            "name": "v1.14.5",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.5",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.5",
+            "commit": {
+                "sha": "9c3ecab81e7a8080d4f11b966d705d51f29198b0",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/9c3ecab81e7a8080d4f11b966d705d51f29198b0"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC41"
+        },
+        {
+            "name": "v1.14.4",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.4",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.4",
+            "commit": {
+                "sha": "b9b3399b354e64bac631eb700cc4570d91fdb0da",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/b9b3399b354e64bac631eb700cc4570d91fdb0da"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC40"
+        },
+        {
+            "name": "v1.14.3",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.3",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.3",
+            "commit": {
+                "sha": "ff79e502adf8eeec0fa775087f42d9679b10c5eb",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/ff79e502adf8eeec0fa775087f42d9679b10c5eb"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC4z"
+        },
+        {
+            "name": "v1.14.2",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.2",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.2",
+            "commit": {
+                "sha": "9d6444a557017de8ed3fd4eba8ff92510fd7121a",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/9d6444a557017de8ed3fd4eba8ff92510fd7121a"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC4y"
+        },
+        {
+            "name": "v1.14.1",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.1",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.1",
+            "commit": {
+                "sha": "381bd09e67328fbce598473c9f443ac9587a333d",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/381bd09e67328fbce598473c9f443ac9587a333d"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC4x"
+        },
+        {
+            "name": "v1.14.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.14.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.14.0",
+            "commit": {
+                "sha": "4050729e483e5346f514ea0a052716fd48d4bfbf",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/4050729e483e5346f514ea0a052716fd48d4bfbf"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xNC4w"
+        },
+        {
+            "name": "v1.13.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.13.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.13.0",
+            "commit": {
+                "sha": "47c842fe8e666e718c8ea805586fe30d0038c262",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/47c842fe8e666e718c8ea805586fe30d0038c262"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xMy4w"
+        },
+        {
+            "name": "v1.12.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.12.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.12.0",
+            "commit": {
+                "sha": "0c341b67024642b8f1741920d1ae5d760bc488b0",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/0c341b67024642b8f1741920d1ae5d760bc488b0"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xMi4w"
+        },
+        {
+            "name": "v1.11.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.11.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.11.0",
+            "commit": {
+                "sha": "801bfbb2946b10527e75e77838a3657d78cb92e5",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/801bfbb2946b10527e75e77838a3657d78cb92e5"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xMS4w"
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "936b0d6dea09059d2d45fde17bc4d912b29e8703",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/936b0d6dea09059d2d45fde17bc4d912b29e8703"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xMC4x"
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "c713ded9e76032f90014bc6829165d0dd69d28b3",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/c713ded9e76032f90014bc6829165d0dd69d28b3"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4xMC4w"
+        },
+        {
+            "name": "v1.9.1",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.9.1",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.9.1",
+            "commit": {
+                "sha": "9f33d6567bf835c84b717f3c3251ef576e61b065",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/9f33d6567bf835c84b717f3c3251ef576e61b065"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS45LjE="
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "1f8bd78e3a0f839fa1e35cf16f287a2802f4a5a9",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/1f8bd78e3a0f839fa1e35cf16f287a2802f4a5a9"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS45LjA="
+        },
+        {
+            "name": "v1.8.2",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.8.2",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.8.2",
+            "commit": {
+                "sha": "f43d8b9e0ef48326e68fd627a016f94ab1c3585e",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/f43d8b9e0ef48326e68fd627a016f94ab1c3585e"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS44LjI="
+        },
+        {
+            "name": "v1.8.1",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.8.1",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.8.1",
+            "commit": {
+                "sha": "1a976f989a7b9ace28ec72a57eb570850088ab8e",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/1a976f989a7b9ace28ec72a57eb570850088ab8e"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS44LjE="
+        },
+        {
+            "name": "v1.8.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.8.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.8.0",
+            "commit": {
+                "sha": "1c39df62800890eebe8f3c6be13fe5e6ca00ab7a",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/1c39df62800890eebe8f3c6be13fe5e6ca00ab7a"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS44LjA="
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "7c4b0f36c0b5d3dc1049115ecca192463c19278d",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/7c4b0f36c0b5d3dc1049115ecca192463c19278d"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS43LjA="
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "1b6c24e99e016e3b51cb424f0c10d4ce4d43f56c",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/1b6c24e99e016e3b51cb424f0c10d4ce4d43f56c"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS42LjE="
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "d3e5aebd695e87b15f93015c5e657a7412c546da",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/d3e5aebd695e87b15f93015c5e657a7412c546da"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS42LjA="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "6a0e7523b232d02854008405a3645031c848922b",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/6a0e7523b232d02854008405a3645031c848922b"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS41LjA="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "d53355cd30acf8888bc1cf5caccea52f486c5584",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/d53355cd30acf8888bc1cf5caccea52f486c5584"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS40LjA="
+        },
+        {
+            "name": "v1.3.0",
+            "zipball_url": "https://api.github.com/repos/romkatv/powerlevel10k/zipball/refs/tags/v1.3.0",
+            "tarball_url": "https://api.github.com/repos/romkatv/powerlevel10k/tarball/refs/tags/v1.3.0",
+            "commit": {
+                "sha": "7306efb94ba739f714972038ad74c48d2bebfdd6",
+                "url": "https://api.github.com/repos/romkatv/powerlevel10k/commits/7306efb94ba739f714972038ad74c48d2bebfdd6"
+            },
+            "node_id": "MDM6UmVmMTcyMzc4NTAzOnJlZnMvdGFncy92MS4zLjA="
+        }
+    ]
+}

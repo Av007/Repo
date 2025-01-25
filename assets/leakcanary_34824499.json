@@ -1,0 +1,428 @@
+{
+    "id": 34824499,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNDgyNDQ5OQ==",
+    "name": "leakcanary",
+    "full_name": "square/leakcanary",
+    "private": false,
+    "owner": {
+        "login": "square",
+        "id": 82592,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyNTky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/square",
+        "html_url": "https://github.com/square",
+        "followers_url": "https://api.github.com/users/square/followers",
+        "following_url": "https://api.github.com/users/square/following{/other_user}",
+        "gists_url": "https://api.github.com/users/square/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/square/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/square/subscriptions",
+        "organizations_url": "https://api.github.com/users/square/orgs",
+        "repos_url": "https://api.github.com/users/square/repos",
+        "events_url": "https://api.github.com/users/square/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/square/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/square/leakcanary",
+    "description": "A memory leak detection library for Android.",
+    "fork": false,
+    "url": "https://api.github.com/repos/square/leakcanary",
+    "forks_url": "https://api.github.com/repos/square/leakcanary/forks",
+    "keys_url": "https://api.github.com/repos/square/leakcanary/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/square/leakcanary/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/square/leakcanary/teams",
+    "hooks_url": "https://api.github.com/repos/square/leakcanary/hooks",
+    "issue_events_url": "https://api.github.com/repos/square/leakcanary/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/square/leakcanary/events",
+    "assignees_url": "https://api.github.com/repos/square/leakcanary/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/square/leakcanary/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/square/leakcanary/tags",
+    "blobs_url": "https://api.github.com/repos/square/leakcanary/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/square/leakcanary/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/square/leakcanary/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/square/leakcanary/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/square/leakcanary/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/square/leakcanary/languages",
+    "stargazers_url": "https://api.github.com/repos/square/leakcanary/stargazers",
+    "contributors_url": "https://api.github.com/repos/square/leakcanary/contributors",
+    "subscribers_url": "https://api.github.com/repos/square/leakcanary/subscribers",
+    "subscription_url": "https://api.github.com/repos/square/leakcanary/subscription",
+    "commits_url": "https://api.github.com/repos/square/leakcanary/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/square/leakcanary/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/square/leakcanary/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/square/leakcanary/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/square/leakcanary/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/square/leakcanary/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/square/leakcanary/merges",
+    "archive_url": "https://api.github.com/repos/square/leakcanary/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/square/leakcanary/downloads",
+    "issues_url": "https://api.github.com/repos/square/leakcanary/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/square/leakcanary/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/square/leakcanary/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/square/leakcanary/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/square/leakcanary/labels{/name}",
+    "releases_url": "https://api.github.com/repos/square/leakcanary/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/square/leakcanary/deployments",
+    "created_at": "2015-04-29T23:54:16Z",
+    "updated_at": "2025-01-25T06:47:33Z",
+    "pushed_at": "2025-01-08T23:35:20Z",
+    "git_url": "git://github.com/square/leakcanary.git",
+    "ssh_url": "git@github.com:square/leakcanary.git",
+    "clone_url": "https://github.com/square/leakcanary.git",
+    "svn_url": "https://github.com/square/leakcanary",
+    "homepage": "https://square.github.io/leakcanary",
+    "size": 147411,
+    "stargazers_count": 29498,
+    "watchers_count": 29498,
+    "language": "Kotlin",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 3977,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 108,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "android",
+        "java",
+        "kotlin",
+        "kotlin-android",
+        "leak-canary",
+        "leak-trace",
+        "leakcanary",
+        "memory-leak",
+        "outofmemory",
+        "outofmemoryerror"
+    ],
+    "visibility": "public",
+    "forks": 3977,
+    "open_issues": 108,
+    "watchers": 29498,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.0-alpha-8",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-8",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-8",
+            "commit": {
+                "sha": "d3fd078cc4fab75c193e6211d3705c004d48fdb3",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/d3fd078cc4fab75c193e6211d3705c004d48fdb3"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtOA=="
+        },
+        {
+            "name": "v3.0-alpha-7",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-7",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-7",
+            "commit": {
+                "sha": "3f581367dc5066a17ee306db6281cdbfe3d31043",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/3f581367dc5066a17ee306db6281cdbfe3d31043"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtNw=="
+        },
+        {
+            "name": "v3.0-alpha-6",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-6",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-6",
+            "commit": {
+                "sha": "9aff0760d8bbda78b4a787f0581b97d508aef7d6",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/9aff0760d8bbda78b4a787f0581b97d508aef7d6"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtNg=="
+        },
+        {
+            "name": "v3.0-alpha-5",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-5",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-5",
+            "commit": {
+                "sha": "058b9356e246530699ee6da49915e7d5e80ff014",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/058b9356e246530699ee6da49915e7d5e80ff014"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtNQ=="
+        },
+        {
+            "name": "v3.0-alpha-4",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-4",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-4",
+            "commit": {
+                "sha": "b3e55d8949e9be5f895cef4bb35a57d1da8ff799",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/b3e55d8949e9be5f895cef4bb35a57d1da8ff799"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtNA=="
+        },
+        {
+            "name": "v3.0-alpha-3",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-3",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-3",
+            "commit": {
+                "sha": "4d09a61110757ccc61b049204f6cad50ec35dcc6",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/4d09a61110757ccc61b049204f6cad50ec35dcc6"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtMw=="
+        },
+        {
+            "name": "v3.0-alpha-2",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-2",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-2",
+            "commit": {
+                "sha": "370e3c75df5fde7a8af4c58cc0fe45c2d2d25150",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/370e3c75df5fde7a8af4c58cc0fe45c2d2d25150"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtMg=="
+        },
+        {
+            "name": "v3.0-alpha-1",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v3.0-alpha-1",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v3.0-alpha-1",
+            "commit": {
+                "sha": "d22f76ccf484df8fa3a55eb599b3b6ab1940ee3f",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/d22f76ccf484df8fa3a55eb599b3b6ab1940ee3f"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YzLjAtYWxwaGEtMQ=="
+        },
+        {
+            "name": "v2.14",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.14",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.14",
+            "commit": {
+                "sha": "8d29638ccf25e15d84b0119b6617f0069bc0b2d8",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/8d29638ccf25e15d84b0119b6617f0069bc0b2d8"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjE0"
+        },
+        {
+            "name": "v2.13",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.13",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.13",
+            "commit": {
+                "sha": "4d2994fb88627aab6133e860b99ab9c14a9586b0",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/4d2994fb88627aab6133e860b99ab9c14a9586b0"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjEz"
+        },
+        {
+            "name": "v2.12",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.12",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.12",
+            "commit": {
+                "sha": "eea5aebdd4770dd9bbca085c9c1b182615c2b068",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/eea5aebdd4770dd9bbca085c9c1b182615c2b068"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjEy"
+        },
+        {
+            "name": "v2.11",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.11",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.11",
+            "commit": {
+                "sha": "437c872e13095c65f754414546c6c61d62c4c4f2",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/437c872e13095c65f754414546c6c61d62c4c4f2"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjEx"
+        },
+        {
+            "name": "v2.10",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.10",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.10",
+            "commit": {
+                "sha": "9da58bd93a5d006b007775ede668bb1561526a8a",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/9da58bd93a5d006b007775ede668bb1561526a8a"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjEw"
+        },
+        {
+            "name": "v2.9.1",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.9.1",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.9.1",
+            "commit": {
+                "sha": "99a5606cc2117acb2fe07fa55b20334f7e41f3d7",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/99a5606cc2117acb2fe07fa55b20334f7e41f3d7"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjkuMQ=="
+        },
+        {
+            "name": "v2.9",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.9",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.9",
+            "commit": {
+                "sha": "5abae5d774edcd85e823d0c7f7529d1e127b61bc",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/5abae5d774edcd85e823d0c7f7529d1e127b61bc"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjk="
+        },
+        {
+            "name": "v2.8.1",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.8.1",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.8.1",
+            "commit": {
+                "sha": "ddf08a9a29250a4b3a3c7477e7cc83ad5af2106c",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/ddf08a9a29250a4b3a3c7477e7cc83ad5af2106c"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjguMQ=="
+        },
+        {
+            "name": "v2.8",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.8",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.8",
+            "commit": {
+                "sha": "07139c7eb82521b5d0d13fc7ca49e6eb61f2b841",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/07139c7eb82521b5d0d13fc7ca49e6eb61f2b841"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjg="
+        },
+        {
+            "name": "v2.7",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.7",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.7",
+            "commit": {
+                "sha": "9f85fbc988878d0265a9383e0c1bada3177e6fc8",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/9f85fbc988878d0265a9383e0c1bada3177e6fc8"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjc="
+        },
+        {
+            "name": "v2.6",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.6",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.6",
+            "commit": {
+                "sha": "357100de20cdeef2962e2ee7bfb3f36a0e3574d8",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/357100de20cdeef2962e2ee7bfb3f36a0e3574d8"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjY="
+        },
+        {
+            "name": "v2.5",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.5",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.5",
+            "commit": {
+                "sha": "3f22deefc18130b6c24e830b368482fa6b4e3958",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/3f22deefc18130b6c24e830b368482fa6b4e3958"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjU="
+        },
+        {
+            "name": "v2.4",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.4",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.4",
+            "commit": {
+                "sha": "83b1b1baefd9c176bd7b0a408d27756b20ce1253",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/83b1b1baefd9c176bd7b0a408d27756b20ce1253"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjQ="
+        },
+        {
+            "name": "v2.3",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.3",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.3",
+            "commit": {
+                "sha": "45982625a13b54d90e4719ed534442eae09fd404",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/45982625a13b54d90e4719ed534442eae09fd404"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjM="
+        },
+        {
+            "name": "v2.2",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.2",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.2",
+            "commit": {
+                "sha": "57d5e35b4bf45c694e1df3f40790be95b96dfa6e",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/57d5e35b4bf45c694e1df3f40790be95b96dfa6e"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjI="
+        },
+        {
+            "name": "v2.1",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.1",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.1",
+            "commit": {
+                "sha": "7c56f23ebe572146376e1854a763cdd3860ac542",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/7c56f23ebe572146376e1854a763cdd3860ac542"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjE="
+        },
+        {
+            "name": "v2.0",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.0",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.0",
+            "commit": {
+                "sha": "49510378fa14e14e110985da4cab838facbf4864",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/49510378fa14e14e110985da4cab838facbf4864"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjA="
+        },
+        {
+            "name": "v2.0-beta-5",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.0-beta-5",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.0-beta-5",
+            "commit": {
+                "sha": "e4a2f7e7ca98d3daa02170c804197239a10e875f",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/e4a2f7e7ca98d3daa02170c804197239a10e875f"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjAtYmV0YS01"
+        },
+        {
+            "name": "v2.0-beta-4",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.0-beta-4",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.0-beta-4",
+            "commit": {
+                "sha": "976738f50d41435812938f00efdcd6993f8397aa",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/976738f50d41435812938f00efdcd6993f8397aa"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjAtYmV0YS00"
+        },
+        {
+            "name": "v2.0-beta-3",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.0-beta-3",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.0-beta-3",
+            "commit": {
+                "sha": "53fa1902d3eb3aec9d99257a517dc6ad198acc39",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/53fa1902d3eb3aec9d99257a517dc6ad198acc39"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjAtYmV0YS0z"
+        },
+        {
+            "name": "v2.0-beta-2",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.0-beta-2",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.0-beta-2",
+            "commit": {
+                "sha": "cc5b133bdcd081b04445381a141a0d0747946ff5",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/cc5b133bdcd081b04445381a141a0d0747946ff5"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjAtYmV0YS0y"
+        },
+        {
+            "name": "v2.0-beta-1",
+            "zipball_url": "https://api.github.com/repos/square/leakcanary/zipball/refs/tags/v2.0-beta-1",
+            "tarball_url": "https://api.github.com/repos/square/leakcanary/tarball/refs/tags/v2.0-beta-1",
+            "commit": {
+                "sha": "5021bc8161dcef9cd5ef47d3ffb2ae0255371dcd",
+                "url": "https://api.github.com/repos/square/leakcanary/commits/5021bc8161dcef9cd5ef47d3ffb2ae0255371dcd"
+            },
+            "node_id": "MDM6UmVmMzQ4MjQ0OTk6cmVmcy90YWdzL3YyLjAtYmV0YS0x"
+        }
+    ]
+}

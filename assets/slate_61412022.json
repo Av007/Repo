@@ -1,0 +1,426 @@
+{
+    "id": 61412022,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2MTQxMjAyMg==",
+    "name": "slate",
+    "full_name": "ianstormtaylor/slate",
+    "private": false,
+    "owner": {
+        "login": "ianstormtaylor",
+        "id": 311752,
+        "node_id": "MDQ6VXNlcjMxMTc1Mg==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/311752?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ianstormtaylor",
+        "html_url": "https://github.com/ianstormtaylor",
+        "followers_url": "https://api.github.com/users/ianstormtaylor/followers",
+        "following_url": "https://api.github.com/users/ianstormtaylor/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ianstormtaylor/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ianstormtaylor/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ianstormtaylor/subscriptions",
+        "organizations_url": "https://api.github.com/users/ianstormtaylor/orgs",
+        "repos_url": "https://api.github.com/users/ianstormtaylor/repos",
+        "events_url": "https://api.github.com/users/ianstormtaylor/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ianstormtaylor/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/ianstormtaylor/slate",
+    "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+    "fork": false,
+    "url": "https://api.github.com/repos/ianstormtaylor/slate",
+    "forks_url": "https://api.github.com/repos/ianstormtaylor/slate/forks",
+    "keys_url": "https://api.github.com/repos/ianstormtaylor/slate/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ianstormtaylor/slate/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ianstormtaylor/slate/teams",
+    "hooks_url": "https://api.github.com/repos/ianstormtaylor/slate/hooks",
+    "issue_events_url": "https://api.github.com/repos/ianstormtaylor/slate/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ianstormtaylor/slate/events",
+    "assignees_url": "https://api.github.com/repos/ianstormtaylor/slate/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ianstormtaylor/slate/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ianstormtaylor/slate/tags",
+    "blobs_url": "https://api.github.com/repos/ianstormtaylor/slate/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ianstormtaylor/slate/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ianstormtaylor/slate/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ianstormtaylor/slate/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ianstormtaylor/slate/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ianstormtaylor/slate/languages",
+    "stargazers_url": "https://api.github.com/repos/ianstormtaylor/slate/stargazers",
+    "contributors_url": "https://api.github.com/repos/ianstormtaylor/slate/contributors",
+    "subscribers_url": "https://api.github.com/repos/ianstormtaylor/slate/subscribers",
+    "subscription_url": "https://api.github.com/repos/ianstormtaylor/slate/subscription",
+    "commits_url": "https://api.github.com/repos/ianstormtaylor/slate/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ianstormtaylor/slate/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ianstormtaylor/slate/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ianstormtaylor/slate/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ianstormtaylor/slate/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ianstormtaylor/slate/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ianstormtaylor/slate/merges",
+    "archive_url": "https://api.github.com/repos/ianstormtaylor/slate/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ianstormtaylor/slate/downloads",
+    "issues_url": "https://api.github.com/repos/ianstormtaylor/slate/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ianstormtaylor/slate/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ianstormtaylor/slate/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ianstormtaylor/slate/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ianstormtaylor/slate/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ianstormtaylor/slate/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ianstormtaylor/slate/deployments",
+    "created_at": "2016-06-18T01:52:42Z",
+    "updated_at": "2025-01-25T12:53:48Z",
+    "pushed_at": "2025-01-20T17:36:40Z",
+    "git_url": "git://github.com/ianstormtaylor/slate.git",
+    "ssh_url": "git@github.com:ianstormtaylor/slate.git",
+    "clone_url": "https://github.com/ianstormtaylor/slate.git",
+    "svn_url": "https://github.com/ianstormtaylor/slate",
+    "homepage": "http://slatejs.org",
+    "size": 23671,
+    "stargazers_count": 30253,
+    "watchers_count": 30253,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 3276,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 677,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "browser",
+        "editor",
+        "framework",
+        "javascript",
+        "react",
+        "rich-text",
+        "slate",
+        "text-editor"
+    ],
+    "visibility": "public",
+    "forks": 3276,
+    "open_issues": 677,
+    "watchers": 30253,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.61.3",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.61.3",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.61.3",
+            "commit": {
+                "sha": "7b6c986661a9f49628749780512bfd726cd93191",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/7b6c986661a9f49628749780512bfd726cd93191"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYxLjM="
+        },
+        {
+            "name": "v0.61.2",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.61.2",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.61.2",
+            "commit": {
+                "sha": "5fa8fb347137b704a8622d62a10bd0cc26877184",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/5fa8fb347137b704a8622d62a10bd0cc26877184"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYxLjI="
+        },
+        {
+            "name": "v0.61.1",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.61.1",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.61.1",
+            "commit": {
+                "sha": "4ec2dc9d5cdd9f9fac3bf3665ee7dd54c8fcdd6d",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/4ec2dc9d5cdd9f9fac3bf3665ee7dd54c8fcdd6d"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYxLjE="
+        },
+        {
+            "name": "v0.61.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.61.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.61.0",
+            "commit": {
+                "sha": "b5cb9ee6dbe919b33bbcc81d5d2426c33ea86ebf",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/b5cb9ee6dbe919b33bbcc81d5d2426c33ea86ebf"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYxLjA="
+        },
+        {
+            "name": "v0.60.17",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.17",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.17",
+            "commit": {
+                "sha": "c2bc4f6444518278c119c346fc5e4d0e678b0603",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/c2bc4f6444518278c119c346fc5e4d0e678b0603"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjE3"
+        },
+        {
+            "name": "v0.60.16",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.16",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.16",
+            "commit": {
+                "sha": "ad7abdad7ae144725eafb12eaaffbc62534dc572",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/ad7abdad7ae144725eafb12eaaffbc62534dc572"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjE2"
+        },
+        {
+            "name": "v0.60.15",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.15",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.15",
+            "commit": {
+                "sha": "cd13b4c7de1624296c848170af415dacd60f064a",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/cd13b4c7de1624296c848170af415dacd60f064a"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjE1"
+        },
+        {
+            "name": "v0.60.14",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.14",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.14",
+            "commit": {
+                "sha": "43dfff2a278810416ab56e4c3e2dc3161280ad48",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/43dfff2a278810416ab56e4c3e2dc3161280ad48"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjE0"
+        },
+        {
+            "name": "v0.60.13",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.13",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.13",
+            "commit": {
+                "sha": "09903646f091da3254d49110c59266b98c6f7b23",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/09903646f091da3254d49110c59266b98c6f7b23"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjEz"
+        },
+        {
+            "name": "v0.60.12",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.12",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.12",
+            "commit": {
+                "sha": "775f34b88876bee9139bbe5aa290dfee4ef6a154",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/775f34b88876bee9139bbe5aa290dfee4ef6a154"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjEy"
+        },
+        {
+            "name": "v0.60.11",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.11",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.11",
+            "commit": {
+                "sha": "b0c27496ec1eb9b9709008ae768ffec9efb92bf3",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/b0c27496ec1eb9b9709008ae768ffec9efb92bf3"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjEx"
+        },
+        {
+            "name": "v0.60.10",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.10",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.10",
+            "commit": {
+                "sha": "7e655f13a1ef7aa73b02f7aad5e9a96e899bc1c3",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/7e655f13a1ef7aa73b02f7aad5e9a96e899bc1c3"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjEw"
+        },
+        {
+            "name": "v0.60.9",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.9",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.9",
+            "commit": {
+                "sha": "361c10efbcb27fafb7d4723ce654758c2d5db6ae",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/361c10efbcb27fafb7d4723ce654758c2d5db6ae"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjk="
+        },
+        {
+            "name": "v0.60.8",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.8",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.8",
+            "commit": {
+                "sha": "6e5ae75b51977c18726fb8abaad5fb31e4d66b96",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/6e5ae75b51977c18726fb8abaad5fb31e4d66b96"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjg="
+        },
+        {
+            "name": "v0.60.7",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.7",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.7",
+            "commit": {
+                "sha": "e39cb45529c6250a2a8cf58b0b6d49d2e1fee941",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/e39cb45529c6250a2a8cf58b0b6d49d2e1fee941"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjc="
+        },
+        {
+            "name": "v0.60.7-alpha.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.7-alpha.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.7-alpha.0",
+            "commit": {
+                "sha": "2990f8267d6d2fe342da7fa1bee7fc82a86c00c9",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/2990f8267d6d2fe342da7fa1bee7fc82a86c00c9"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjctYWxwaGEuMA=="
+        },
+        {
+            "name": "v0.60.6-alpha.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.6-alpha.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.6-alpha.0",
+            "commit": {
+                "sha": "ae3180ba3402797ede9724b58385b8fe9bbd4020",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/ae3180ba3402797ede9724b58385b8fe9bbd4020"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjYtYWxwaGEuMA=="
+        },
+        {
+            "name": "v0.60.5-alpha.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.5-alpha.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.5-alpha.0",
+            "commit": {
+                "sha": "f2e8c22add45799c2e1e80eda5b97935ed5dbb48",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/f2e8c22add45799c2e1e80eda5b97935ed5dbb48"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjUtYWxwaGEuMA=="
+        },
+        {
+            "name": "v0.60.4",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.4",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.4",
+            "commit": {
+                "sha": "df06528b18b4a2c27b856f867ceafbca6b193798",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/df06528b18b4a2c27b856f867ceafbca6b193798"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjQ="
+        },
+        {
+            "name": "v0.60.3",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.3",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.3",
+            "commit": {
+                "sha": "291aac9c5bb05940aa245dc0ea745561fca65293",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/291aac9c5bb05940aa245dc0ea745561fca65293"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjM="
+        },
+        {
+            "name": "v0.60.2",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.2",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.2",
+            "commit": {
+                "sha": "424a6cbde9bd60f4d58ccf85c2a7ad8f833f1997",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/424a6cbde9bd60f4d58ccf85c2a7ad8f833f1997"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjI="
+        },
+        {
+            "name": "v0.60.1",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.1",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.1",
+            "commit": {
+                "sha": "1f067b8d333d95f244daa7e53d5a8a0b97e28755",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/1f067b8d333d95f244daa7e53d5a8a0b97e28755"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjE="
+        },
+        {
+            "name": "v0.60.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.60.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.60.0",
+            "commit": {
+                "sha": "db118ee8d83c48ab58e8af9723ef3a8df9536c98",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/db118ee8d83c48ab58e8af9723ef3a8df9536c98"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjYwLjA="
+        },
+        {
+            "name": "v0.59.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.59.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.59.0",
+            "commit": {
+                "sha": "60b56651b2e1e6f58bcf29a1a876612720a4fe2c",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/60b56651b2e1e6f58bcf29a1a876612720a4fe2c"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU5LjA="
+        },
+        {
+            "name": "v0.58.4",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.58.4",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.58.4",
+            "commit": {
+                "sha": "958189bc4ae4502dc7fe22219c77fea9820124f5",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/958189bc4ae4502dc7fe22219c77fea9820124f5"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU4LjQ="
+        },
+        {
+            "name": "v0.58.3",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.58.3",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.58.3",
+            "commit": {
+                "sha": "ca126fbb39f5b050a2f399f071eb1184ac0c494a",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/ca126fbb39f5b050a2f399f071eb1184ac0c494a"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU4LjM="
+        },
+        {
+            "name": "v0.58.2",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.58.2",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.58.2",
+            "commit": {
+                "sha": "97a7e8a469e4da1e5144c3593ba046dcd61c9947",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/97a7e8a469e4da1e5144c3593ba046dcd61c9947"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU4LjI="
+        },
+        {
+            "name": "v0.58.1",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.58.1",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.58.1",
+            "commit": {
+                "sha": "aabb9b50bd390e3afb638ee2170c3c15d583960c",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/aabb9b50bd390e3afb638ee2170c3c15d583960c"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU4LjE="
+        },
+        {
+            "name": "v0.58.0",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.58.0",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.58.0",
+            "commit": {
+                "sha": "8737f0411a0a151859044e3f858cdbfe9e3f8cff",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/8737f0411a0a151859044e3f858cdbfe9e3f8cff"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU4LjA="
+        },
+        {
+            "name": "v0.57.3",
+            "zipball_url": "https://api.github.com/repos/ianstormtaylor/slate/zipball/refs/tags/v0.57.3",
+            "tarball_url": "https://api.github.com/repos/ianstormtaylor/slate/tarball/refs/tags/v0.57.3",
+            "commit": {
+                "sha": "036ee664aff6b4eb1f43b0790c96a3984beb954a",
+                "url": "https://api.github.com/repos/ianstormtaylor/slate/commits/036ee664aff6b4eb1f43b0790c96a3984beb954a"
+            },
+            "node_id": "MDM6UmVmNjE0MTIwMjI6cmVmcy90YWdzL3YwLjU3LjM="
+        }
+    ]
+}

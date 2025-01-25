@@ -1,0 +1,424 @@
+{
+    "id": 679506386,
+    "node_id": "R_kgDOKIBx0g",
+    "name": "jan",
+    "full_name": "janhq/jan",
+    "private": false,
+    "owner": {
+        "login": "janhq",
+        "id": 102363196,
+        "node_id": "O_kgDOBhnwPA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102363196?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/janhq",
+        "html_url": "https://github.com/janhq",
+        "followers_url": "https://api.github.com/users/janhq/followers",
+        "following_url": "https://api.github.com/users/janhq/following{/other_user}",
+        "gists_url": "https://api.github.com/users/janhq/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/janhq/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/janhq/subscriptions",
+        "organizations_url": "https://api.github.com/users/janhq/orgs",
+        "repos_url": "https://api.github.com/users/janhq/repos",
+        "events_url": "https://api.github.com/users/janhq/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/janhq/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/janhq/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "fork": false,
+    "url": "https://api.github.com/repos/janhq/jan",
+    "forks_url": "https://api.github.com/repos/janhq/jan/forks",
+    "keys_url": "https://api.github.com/repos/janhq/jan/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/janhq/jan/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/janhq/jan/teams",
+    "hooks_url": "https://api.github.com/repos/janhq/jan/hooks",
+    "issue_events_url": "https://api.github.com/repos/janhq/jan/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/janhq/jan/events",
+    "assignees_url": "https://api.github.com/repos/janhq/jan/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/janhq/jan/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/janhq/jan/tags",
+    "blobs_url": "https://api.github.com/repos/janhq/jan/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/janhq/jan/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/janhq/jan/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/janhq/jan/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/janhq/jan/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/janhq/jan/languages",
+    "stargazers_url": "https://api.github.com/repos/janhq/jan/stargazers",
+    "contributors_url": "https://api.github.com/repos/janhq/jan/contributors",
+    "subscribers_url": "https://api.github.com/repos/janhq/jan/subscribers",
+    "subscription_url": "https://api.github.com/repos/janhq/jan/subscription",
+    "commits_url": "https://api.github.com/repos/janhq/jan/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/janhq/jan/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/janhq/jan/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/janhq/jan/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/janhq/jan/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/janhq/jan/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/janhq/jan/merges",
+    "archive_url": "https://api.github.com/repos/janhq/jan/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/janhq/jan/downloads",
+    "issues_url": "https://api.github.com/repos/janhq/jan/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/janhq/jan/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/janhq/jan/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/janhq/jan/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/janhq/jan/labels{/name}",
+    "releases_url": "https://api.github.com/repos/janhq/jan/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/janhq/jan/deployments",
+    "created_at": "2023-08-17T02:17:10Z",
+    "updated_at": "2025-01-25T16:46:22Z",
+    "pushed_at": "2025-01-24T14:33:54Z",
+    "git_url": "git://github.com/janhq/jan.git",
+    "ssh_url": "git@github.com:janhq/jan.git",
+    "clone_url": "https://github.com/janhq/jan.git",
+    "svn_url": "https://github.com/janhq/jan",
+    "homepage": "https://jan.ai/",
+    "size": 1211728,
+    "stargazers_count": 26696,
+    "watchers_count": 26696,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 1542,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 134,
+    "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "electron",
+        "gpt",
+        "llama2",
+        "llamacpp",
+        "localai",
+        "self-hosted"
+    ],
+    "visibility": "public",
+    "forks": 1542,
+    "open_issues": 134,
+    "watchers": 26696,
+    "default_branch": "dev",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.5.14",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14",
+            "commit": {
+                "sha": "a3b242c4b77e4d15d72e745064ff756f31b8ba15",
+                "url": "https://api.github.com/repos/janhq/jan/commits/a3b242c4b77e4d15d72e745064ff756f31b8ba15"
+            },
+            "node_id": "REF_kwDOKIBx0rFyZWZzL3RhZ3MvdjAuNS4xNA"
+        },
+        {
+            "name": "v0.5.14-rc7-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc7-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc7-beta",
+            "commit": {
+                "sha": "0dd251915d6a4dd25570065898387e2f3d97230c",
+                "url": "https://api.github.com/repos/janhq/jan/commits/0dd251915d6a4dd25570065898387e2f3d97230c"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzctYmV0YQ"
+        },
+        {
+            "name": "v0.5.14-rc6-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc6-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc6-beta",
+            "commit": {
+                "sha": "0547cac0bf4cc0062c285f9288de94ce098c1017",
+                "url": "https://api.github.com/repos/janhq/jan/commits/0547cac0bf4cc0062c285f9288de94ce098c1017"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzYtYmV0YQ"
+        },
+        {
+            "name": "v0.5.14-rc5-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc5-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc5-beta",
+            "commit": {
+                "sha": "f0bd2393fc007480486e6f4a8252151d45f570b8",
+                "url": "https://api.github.com/repos/janhq/jan/commits/f0bd2393fc007480486e6f4a8252151d45f570b8"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzUtYmV0YQ"
+        },
+        {
+            "name": "v0.5.14-rc4-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc4-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc4-beta",
+            "commit": {
+                "sha": "6041d6128db58d80534ce35cadf3d0cb0ad9381d",
+                "url": "https://api.github.com/repos/janhq/jan/commits/6041d6128db58d80534ce35cadf3d0cb0ad9381d"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzQtYmV0YQ"
+        },
+        {
+            "name": "v0.5.14-rc3-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc3-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc3-beta",
+            "commit": {
+                "sha": "df6110b447d6a6b8c160ffc320bba03f0bdc49fb",
+                "url": "https://api.github.com/repos/janhq/jan/commits/df6110b447d6a6b8c160ffc320bba03f0bdc49fb"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzMtYmV0YQ"
+        },
+        {
+            "name": "v0.5.14-rc2-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc2-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc2-beta",
+            "commit": {
+                "sha": "b9ea4baaa87a77bbe9ecf589b38cda8ae1d10bac",
+                "url": "https://api.github.com/repos/janhq/jan/commits/b9ea4baaa87a77bbe9ecf589b38cda8ae1d10bac"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzItYmV0YQ"
+        },
+        {
+            "name": "v0.5.14-rc1-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.14-rc1-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.14-rc1-beta",
+            "commit": {
+                "sha": "63c938e2f553691440f7991c7e378c5011c0ae1e",
+                "url": "https://api.github.com/repos/janhq/jan/commits/63c938e2f553691440f7991c7e378c5011c0ae1e"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xNC1yYzEtYmV0YQ"
+        },
+        {
+            "name": "v0.5.13",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.13",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.13",
+            "commit": {
+                "sha": "3cd4c9852af4e0d376bf0ad3ac084aa13b9429be",
+                "url": "https://api.github.com/repos/janhq/jan/commits/3cd4c9852af4e0d376bf0ad3ac084aa13b9429be"
+            },
+            "node_id": "REF_kwDOKIBx0rFyZWZzL3RhZ3MvdjAuNS4xMw"
+        },
+        {
+            "name": "v0.5.13-rc5-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.13-rc5-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.13-rc5-beta",
+            "commit": {
+                "sha": "f69c31be6409918dd480faebcf43b5520368176e",
+                "url": "https://api.github.com/repos/janhq/jan/commits/f69c31be6409918dd480faebcf43b5520368176e"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMy1yYzUtYmV0YQ"
+        },
+        {
+            "name": "v0.5.13-rc4-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.13-rc4-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.13-rc4-beta",
+            "commit": {
+                "sha": "786d528abbea24c7386bc4302840d954d06f8c78",
+                "url": "https://api.github.com/repos/janhq/jan/commits/786d528abbea24c7386bc4302840d954d06f8c78"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMy1yYzQtYmV0YQ"
+        },
+        {
+            "name": "v0.5.13-rc3-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.13-rc3-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.13-rc3-beta",
+            "commit": {
+                "sha": "538a6bf923cee968758802c5cc92271b7d5f168b",
+                "url": "https://api.github.com/repos/janhq/jan/commits/538a6bf923cee968758802c5cc92271b7d5f168b"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMy1yYzMtYmV0YQ"
+        },
+        {
+            "name": "v0.5.13-rc2-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.13-rc2-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.13-rc2-beta",
+            "commit": {
+                "sha": "33bb35cb99027daf4f74261507c432f803063d13",
+                "url": "https://api.github.com/repos/janhq/jan/commits/33bb35cb99027daf4f74261507c432f803063d13"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMy1yYzItYmV0YQ"
+        },
+        {
+            "name": "v0.5.13-rc1-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.13-rc1-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.13-rc1-beta",
+            "commit": {
+                "sha": "e8aa977886c0a22ae23a477f1d00c2c435b6b897",
+                "url": "https://api.github.com/repos/janhq/jan/commits/e8aa977886c0a22ae23a477f1d00c2c435b6b897"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMy1yYzEtYmV0YQ"
+        },
+        {
+            "name": "v0.5.12",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12",
+            "commit": {
+                "sha": "a33563be9afb0d5ac90196be67e4bb975801c990",
+                "url": "https://api.github.com/repos/janhq/jan/commits/a33563be9afb0d5ac90196be67e4bb975801c990"
+            },
+            "node_id": "REF_kwDOKIBx0rFyZWZzL3RhZ3MvdjAuNS4xMg"
+        },
+        {
+            "name": "v0.5.12-rc7-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc7-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc7-beta",
+            "commit": {
+                "sha": "81ad90b951ddfef04787505605f8c28c2ad1989a",
+                "url": "https://api.github.com/repos/janhq/jan/commits/81ad90b951ddfef04787505605f8c28c2ad1989a"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzctYmV0YQ"
+        },
+        {
+            "name": "v0.5.12-rc6-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc6-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc6-beta",
+            "commit": {
+                "sha": "9b8d8ab3f76287a6e7cc6d8d968108ea5d05b5a1",
+                "url": "https://api.github.com/repos/janhq/jan/commits/9b8d8ab3f76287a6e7cc6d8d968108ea5d05b5a1"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzYtYmV0YQ"
+        },
+        {
+            "name": "v0.5.12-rc5-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc5-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc5-beta",
+            "commit": {
+                "sha": "16dce88a75e3540f49827f7c17de6f085bd827c2",
+                "url": "https://api.github.com/repos/janhq/jan/commits/16dce88a75e3540f49827f7c17de6f085bd827c2"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzUtYmV0YQ"
+        },
+        {
+            "name": "v0.5.12-rc4-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc4-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc4-beta",
+            "commit": {
+                "sha": "3af34c0d56fed32d4f7310e845d381b252769a1b",
+                "url": "https://api.github.com/repos/janhq/jan/commits/3af34c0d56fed32d4f7310e845d381b252769a1b"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzQtYmV0YQ"
+        },
+        {
+            "name": "v0.5.12-rc3-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc3-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc3-beta",
+            "commit": {
+                "sha": "c0f3fb50070cc384477520b7077169548963cd1a",
+                "url": "https://api.github.com/repos/janhq/jan/commits/c0f3fb50070cc384477520b7077169548963cd1a"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzMtYmV0YQ"
+        },
+        {
+            "name": "v0.5.12-rc2-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc2-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc2-beta",
+            "commit": {
+                "sha": "c77275a35c32a19ca57983b3d21f95e46591c0b7",
+                "url": "https://api.github.com/repos/janhq/jan/commits/c77275a35c32a19ca57983b3d21f95e46591c0b7"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzItYmV0YQ"
+        },
+        {
+            "name": "v0.5.12-rc1-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.12-rc1-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.12-rc1-beta",
+            "commit": {
+                "sha": "dccd9dd77c92fcec1b6c179616f81c062cec2d61",
+                "url": "https://api.github.com/repos/janhq/jan/commits/dccd9dd77c92fcec1b6c179616f81c062cec2d61"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMi1yYzEtYmV0YQ"
+        },
+        {
+            "name": "v0.5.11",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.11",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.11",
+            "commit": {
+                "sha": "e56b3e46d3e5bfafad06a67a15f7dd7983d556c3",
+                "url": "https://api.github.com/repos/janhq/jan/commits/e56b3e46d3e5bfafad06a67a15f7dd7983d556c3"
+            },
+            "node_id": "REF_kwDOKIBx0rFyZWZzL3RhZ3MvdjAuNS4xMQ"
+        },
+        {
+            "name": "v0.5.11-rc2-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.11-rc2-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.11-rc2-beta",
+            "commit": {
+                "sha": "a3b328732794473fe50547e3bb8cfd2f23d8cdab",
+                "url": "https://api.github.com/repos/janhq/jan/commits/a3b328732794473fe50547e3bb8cfd2f23d8cdab"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMS1yYzItYmV0YQ"
+        },
+        {
+            "name": "v0.5.11-rc1-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.11-rc1-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.11-rc1-beta",
+            "commit": {
+                "sha": "e56b3e46d3e5bfafad06a67a15f7dd7983d556c3",
+                "url": "https://api.github.com/repos/janhq/jan/commits/e56b3e46d3e5bfafad06a67a15f7dd7983d556c3"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMS1yYzEtYmV0YQ"
+        },
+        {
+            "name": "v0.5.10",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.10",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.10",
+            "commit": {
+                "sha": "7b5f8dd9acc5b294ef23d9844417a065b5c2511d",
+                "url": "https://api.github.com/repos/janhq/jan/commits/7b5f8dd9acc5b294ef23d9844417a065b5c2511d"
+            },
+            "node_id": "REF_kwDOKIBx0rFyZWZzL3RhZ3MvdjAuNS4xMA"
+        },
+        {
+            "name": "v0.5.10-rc1-beta",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.10-rc1-beta",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.10-rc1-beta",
+            "commit": {
+                "sha": "c000cd53458b1361a9abbc784447569afc1fb515",
+                "url": "https://api.github.com/repos/janhq/jan/commits/c000cd53458b1361a9abbc784447569afc1fb515"
+            },
+            "node_id": "REF_kwDOKIBx0rpyZWZzL3RhZ3MvdjAuNS4xMC1yYzEtYmV0YQ"
+        },
+        {
+            "name": "v0.5.9",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.9",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.9",
+            "commit": {
+                "sha": "28e32df31898f9002b05f3337c1aa2cda7cd51ed",
+                "url": "https://api.github.com/repos/janhq/jan/commits/28e32df31898f9002b05f3337c1aa2cda7cd51ed"
+            },
+            "node_id": "REF_kwDOKIBx0rByZWZzL3RhZ3MvdjAuNS45"
+        },
+        {
+            "name": "v0.5.8",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.8",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.8",
+            "commit": {
+                "sha": "54e84219532515b9c4c70328d9720694a0da7ebe",
+                "url": "https://api.github.com/repos/janhq/jan/commits/54e84219532515b9c4c70328d9720694a0da7ebe"
+            },
+            "node_id": "REF_kwDOKIBx0rByZWZzL3RhZ3MvdjAuNS44"
+        },
+        {
+            "name": "v0.5.7",
+            "zipball_url": "https://api.github.com/repos/janhq/jan/zipball/refs/tags/v0.5.7",
+            "tarball_url": "https://api.github.com/repos/janhq/jan/tarball/refs/tags/v0.5.7",
+            "commit": {
+                "sha": "c47d0499205291043f322980bc33b1d8abe171e9",
+                "url": "https://api.github.com/repos/janhq/jan/commits/c47d0499205291043f322980bc33b1d8abe171e9"
+            },
+            "node_id": "REF_kwDOKIBx0rByZWZzL3RhZ3MvdjAuNS43"
+        }
+    ]
+}

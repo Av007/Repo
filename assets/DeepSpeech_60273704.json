@@ -1,0 +1,428 @@
+{
+    "id": 60273704,
+    "node_id": "MDEwOlJlcG9zaXRvcnk2MDI3MzcwNA==",
+    "name": "DeepSpeech",
+    "full_name": "mozilla/DeepSpeech",
+    "private": false,
+    "owner": {
+        "login": "mozilla",
+        "id": 131524,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMTUyNA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131524?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mozilla",
+        "html_url": "https://github.com/mozilla",
+        "followers_url": "https://api.github.com/users/mozilla/followers",
+        "following_url": "https://api.github.com/users/mozilla/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mozilla/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mozilla/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mozilla/subscriptions",
+        "organizations_url": "https://api.github.com/users/mozilla/orgs",
+        "repos_url": "https://api.github.com/users/mozilla/repos",
+        "events_url": "https://api.github.com/users/mozilla/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mozilla/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/mozilla/DeepSpeech",
+    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "fork": false,
+    "url": "https://api.github.com/repos/mozilla/DeepSpeech",
+    "forks_url": "https://api.github.com/repos/mozilla/DeepSpeech/forks",
+    "keys_url": "https://api.github.com/repos/mozilla/DeepSpeech/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/mozilla/DeepSpeech/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/mozilla/DeepSpeech/teams",
+    "hooks_url": "https://api.github.com/repos/mozilla/DeepSpeech/hooks",
+    "issue_events_url": "https://api.github.com/repos/mozilla/DeepSpeech/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/mozilla/DeepSpeech/events",
+    "assignees_url": "https://api.github.com/repos/mozilla/DeepSpeech/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/mozilla/DeepSpeech/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/mozilla/DeepSpeech/tags",
+    "blobs_url": "https://api.github.com/repos/mozilla/DeepSpeech/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/mozilla/DeepSpeech/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/mozilla/DeepSpeech/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/mozilla/DeepSpeech/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/mozilla/DeepSpeech/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/mozilla/DeepSpeech/languages",
+    "stargazers_url": "https://api.github.com/repos/mozilla/DeepSpeech/stargazers",
+    "contributors_url": "https://api.github.com/repos/mozilla/DeepSpeech/contributors",
+    "subscribers_url": "https://api.github.com/repos/mozilla/DeepSpeech/subscribers",
+    "subscription_url": "https://api.github.com/repos/mozilla/DeepSpeech/subscription",
+    "commits_url": "https://api.github.com/repos/mozilla/DeepSpeech/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/mozilla/DeepSpeech/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/mozilla/DeepSpeech/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/mozilla/DeepSpeech/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/mozilla/DeepSpeech/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/mozilla/DeepSpeech/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/mozilla/DeepSpeech/merges",
+    "archive_url": "https://api.github.com/repos/mozilla/DeepSpeech/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/mozilla/DeepSpeech/downloads",
+    "issues_url": "https://api.github.com/repos/mozilla/DeepSpeech/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/mozilla/DeepSpeech/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/mozilla/DeepSpeech/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/mozilla/DeepSpeech/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/mozilla/DeepSpeech/labels{/name}",
+    "releases_url": "https://api.github.com/repos/mozilla/DeepSpeech/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/mozilla/DeepSpeech/deployments",
+    "created_at": "2016-06-02T15:04:53Z",
+    "updated_at": "2025-01-25T16:56:02Z",
+    "pushed_at": "2024-09-03T21:17:43Z",
+    "git_url": "git://github.com/mozilla/DeepSpeech.git",
+    "ssh_url": "git@github.com:mozilla/DeepSpeech.git",
+    "clone_url": "https://github.com/mozilla/DeepSpeech.git",
+    "svn_url": "https://github.com/mozilla/DeepSpeech",
+    "homepage": "",
+    "size": 50592,
+    "stargazers_count": 25652,
+    "watchers_count": 25652,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 3993,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 150,
+    "license": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdx_id": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "deep-learning",
+        "deepspeech",
+        "embedded",
+        "machine-learning",
+        "neural-networks",
+        "offline",
+        "on-device",
+        "speech-recognition",
+        "speech-to-text",
+        "tensorflow"
+    ],
+    "visibility": "public",
+    "forks": 3993,
+    "open_issues": 150,
+    "watchers": 25652,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.10.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.10.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.10.0-alpha.3",
+            "commit": {
+                "sha": "fcbd92d0d75beee36473aa44669fa330ca522cdc",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/fcbd92d0d75beee36473aa44669fa330ca522cdc"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjEwLjAtYWxwaGEuMw=="
+        },
+        {
+            "name": "v0.10.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.10.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.10.0-alpha.2",
+            "commit": {
+                "sha": "239656c0f91cfac077305b63e66d6111bf8e4dde",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/239656c0f91cfac077305b63e66d6111bf8e4dde"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjEwLjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v0.10.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.10.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.10.0-alpha.1",
+            "commit": {
+                "sha": "55751e5d7011114359eaec89558da78501acbf87",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/55751e5d7011114359eaec89558da78501acbf87"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjEwLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v0.10.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.10.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.10.0-alpha.0",
+            "commit": {
+                "sha": "273d461f6a0eff85cd33c8ccb9dd5d6d8beb0a07",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/273d461f6a0eff85cd33c8ccb9dd5d6d8beb0a07"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjEwLjAtYWxwaGEuMA=="
+        },
+        {
+            "name": "v0.9.3",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.3",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.3",
+            "commit": {
+                "sha": "f2e9c85880dff94115ab510cde9ca4af7ee51c19",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/f2e9c85880dff94115ab510cde9ca4af7ee51c19"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMw=="
+        },
+        {
+            "name": "v0.9.2",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.2",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.2",
+            "commit": {
+                "sha": "b2920c755717499fad8e49f2c27091f438357653",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/b2920c755717499fad8e49f2c27091f438357653"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMg=="
+        },
+        {
+            "name": "v0.9.1",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.1",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.1",
+            "commit": {
+                "sha": "ab8bd3e11c59b2147217bacbb549d8e251d856d9",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/ab8bd3e11c59b2147217bacbb549d8e251d856d9"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMQ=="
+        },
+        {
+            "name": "v0.9.0",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0",
+            "commit": {
+                "sha": "2d04fbe0496e91b061f5795672186951db4fedc0",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/2d04fbe0496e91b061f5795672186951db4fedc0"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMA=="
+        },
+        {
+            "name": "v0.9.0-alpha.12",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.12",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.12",
+            "commit": {
+                "sha": "0ae425525dda459fdcc04854803d547168b76113",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/0ae425525dda459fdcc04854803d547168b76113"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4xMg=="
+        },
+        {
+            "name": "v0.9.0-alpha.11",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.11",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.11",
+            "commit": {
+                "sha": "065c8a6cdfdc6523c82d90c5a2dbada029b557c3",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/065c8a6cdfdc6523c82d90c5a2dbada029b557c3"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4xMQ=="
+        },
+        {
+            "name": "v0.9.0-alpha.10",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.10",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.10",
+            "commit": {
+                "sha": "34a62bd1d16ab30dd77a8b292d9cb9780a506556",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/34a62bd1d16ab30dd77a8b292d9cb9780a506556"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4xMA=="
+        },
+        {
+            "name": "v0.9.0-alpha.9",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.9",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.9",
+            "commit": {
+                "sha": "d466fb09d4baf5f8a89f144ee3151b4ce3d02911",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/d466fb09d4baf5f8a89f144ee3151b4ce3d02911"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS45"
+        },
+        {
+            "name": "v0.9.0-alpha.8",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.8",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.8",
+            "commit": {
+                "sha": "ce95be13546528be8153fe870cd334ed04da269c",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/ce95be13546528be8153fe870cd334ed04da269c"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS44"
+        },
+        {
+            "name": "v0.9.0-alpha.7",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.7",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.7",
+            "commit": {
+                "sha": "02afc2ac7e1cf81589b435e4ed39be649ffbf3fe",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/02afc2ac7e1cf81589b435e4ed39be649ffbf3fe"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS43"
+        },
+        {
+            "name": "v0.9.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.6",
+            "commit": {
+                "sha": "a6f40a3b2fce53f6d8e393168c60da20ef19d3bb",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/a6f40a3b2fce53f6d8e393168c60da20ef19d3bb"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS42"
+        },
+        {
+            "name": "v0.9.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.5",
+            "commit": {
+                "sha": "457198c88d7ad96ee4596cb21deaeca77c277898",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/457198c88d7ad96ee4596cb21deaeca77c277898"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS41"
+        },
+        {
+            "name": "v0.9.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.4",
+            "commit": {
+                "sha": "c31df0fd4cba77e632b1ad76c27162727a98e540",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/c31df0fd4cba77e632b1ad76c27162727a98e540"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS40"
+        },
+        {
+            "name": "v0.9.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.3",
+            "commit": {
+                "sha": "78ae08cdb462297fbf3db2e5c8cb339bc3d9ae4c",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/78ae08cdb462297fbf3db2e5c8cb339bc3d9ae4c"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4z"
+        },
+        {
+            "name": "v0.9.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.2",
+            "commit": {
+                "sha": "18ea7391f3dde4393f313c9590f4332a81c15b26",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/18ea7391f3dde4393f313c9590f4332a81c15b26"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4y"
+        },
+        {
+            "name": "v0.9.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.1",
+            "commit": {
+                "sha": "7f2964e6abce72c2a35a588b86c6af79ebe587bd",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/7f2964e6abce72c2a35a588b86c6af79ebe587bd"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4x"
+        },
+        {
+            "name": "v0.9.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.9.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.9.0-alpha.0",
+            "commit": {
+                "sha": "be006da2d205aa4ced3ca4747e1b4b3a7909e524",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/be006da2d205aa4ced3ca4747e1b4b3a7909e524"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjkuMC1hbHBoYS4w"
+        },
+        {
+            "name": "v0.8.2",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.2",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.2",
+            "commit": {
+                "sha": "02e4c7624063377cdb711d13a0fc8e901818cf1a",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/02e4c7624063377cdb711d13a0fc8e901818cf1a"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMg=="
+        },
+        {
+            "name": "v0.8.1",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.1",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.1",
+            "commit": {
+                "sha": "fa883eb8b8ab22899f4303521e5576bb72c28464",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/fa883eb8b8ab22899f4303521e5576bb72c28464"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMQ=="
+        },
+        {
+            "name": "v0.8.0",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0",
+            "commit": {
+                "sha": "f56b07dab4542eecfb72e059079db6c2603cc0ee",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/f56b07dab4542eecfb72e059079db6c2603cc0ee"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMA=="
+        },
+        {
+            "name": "v0.8.0-alpha.8",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0-alpha.8",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0-alpha.8",
+            "commit": {
+                "sha": "03b568904b09f3bf2578cb68dde070132e8d4f57",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/03b568904b09f3bf2578cb68dde070132e8d4f57"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMC1hbHBoYS44"
+        },
+        {
+            "name": "v0.8.0-alpha.7",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0-alpha.7",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0-alpha.7",
+            "commit": {
+                "sha": "32e185f1d7f5f97443da5a9ca2088d48b03d7b60",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/32e185f1d7f5f97443da5a9ca2088d48b03d7b60"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMC1hbHBoYS43"
+        },
+        {
+            "name": "v0.8.0-alpha.6",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0-alpha.6",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0-alpha.6",
+            "commit": {
+                "sha": "19fb1726c6b7aa06d71f8a069bc6536d329ba908",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/19fb1726c6b7aa06d71f8a069bc6536d329ba908"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMC1hbHBoYS42"
+        },
+        {
+            "name": "v0.8.0-alpha.5",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0-alpha.5",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0-alpha.5",
+            "commit": {
+                "sha": "c32bdeeee03f3af49dab84db1ac4eea5812dfd46",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/c32bdeeee03f3af49dab84db1ac4eea5812dfd46"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMC1hbHBoYS41"
+        },
+        {
+            "name": "v0.8.0-alpha.4",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0-alpha.4",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0-alpha.4",
+            "commit": {
+                "sha": "86c88c23109db2141ffe9e16c27a34363cc93fa0",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/86c88c23109db2141ffe9e16c27a34363cc93fa0"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMC1hbHBoYS40"
+        },
+        {
+            "name": "v0.8.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/mozilla/DeepSpeech/zipball/refs/tags/v0.8.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/mozilla/DeepSpeech/tarball/refs/tags/v0.8.0-alpha.3",
+            "commit": {
+                "sha": "1b10a257336d67e59688e2b527e3ce6430fd1234",
+                "url": "https://api.github.com/repos/mozilla/DeepSpeech/commits/1b10a257336d67e59688e2b527e3ce6430fd1234"
+            },
+            "node_id": "MDM6UmVmNjAyNzM3MDQ6cmVmcy90YWdzL3YwLjguMC1hbHBoYS4z"
+        }
+    ]
+}

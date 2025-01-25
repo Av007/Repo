@@ -1,0 +1,434 @@
+{
+    "id": 207645083,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMDc2NDUwODM=",
+    "name": "query",
+    "full_name": "TanStack/query",
+    "private": false,
+    "owner": {
+        "login": "TanStack",
+        "id": 72518640,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyNTE4NjQw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/72518640?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/TanStack",
+        "html_url": "https://github.com/TanStack",
+        "followers_url": "https://api.github.com/users/TanStack/followers",
+        "following_url": "https://api.github.com/users/TanStack/following{/other_user}",
+        "gists_url": "https://api.github.com/users/TanStack/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/TanStack/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/TanStack/subscriptions",
+        "organizations_url": "https://api.github.com/users/TanStack/orgs",
+        "repos_url": "https://api.github.com/users/TanStack/repos",
+        "events_url": "https://api.github.com/users/TanStack/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/TanStack/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/TanStack/query",
+    "description": "\ud83e\udd16 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+    "fork": false,
+    "url": "https://api.github.com/repos/TanStack/query",
+    "forks_url": "https://api.github.com/repos/TanStack/query/forks",
+    "keys_url": "https://api.github.com/repos/TanStack/query/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/TanStack/query/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/TanStack/query/teams",
+    "hooks_url": "https://api.github.com/repos/TanStack/query/hooks",
+    "issue_events_url": "https://api.github.com/repos/TanStack/query/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/TanStack/query/events",
+    "assignees_url": "https://api.github.com/repos/TanStack/query/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/TanStack/query/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/TanStack/query/tags",
+    "blobs_url": "https://api.github.com/repos/TanStack/query/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/TanStack/query/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/TanStack/query/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/TanStack/query/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/TanStack/query/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/TanStack/query/languages",
+    "stargazers_url": "https://api.github.com/repos/TanStack/query/stargazers",
+    "contributors_url": "https://api.github.com/repos/TanStack/query/contributors",
+    "subscribers_url": "https://api.github.com/repos/TanStack/query/subscribers",
+    "subscription_url": "https://api.github.com/repos/TanStack/query/subscription",
+    "commits_url": "https://api.github.com/repos/TanStack/query/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/TanStack/query/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/TanStack/query/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/TanStack/query/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/TanStack/query/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/TanStack/query/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/TanStack/query/merges",
+    "archive_url": "https://api.github.com/repos/TanStack/query/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/TanStack/query/downloads",
+    "issues_url": "https://api.github.com/repos/TanStack/query/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/TanStack/query/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/TanStack/query/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/TanStack/query/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/TanStack/query/labels{/name}",
+    "releases_url": "https://api.github.com/repos/TanStack/query/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/TanStack/query/deployments",
+    "created_at": "2019-09-10T19:23:58Z",
+    "updated_at": "2025-01-25T16:25:27Z",
+    "pushed_at": "2025-01-25T17:20:23Z",
+    "git_url": "git://github.com/TanStack/query.git",
+    "ssh_url": "git@github.com:TanStack/query.git",
+    "clone_url": "https://github.com/TanStack/query.git",
+    "svn_url": "https://github.com/TanStack/query",
+    "homepage": "https://tanstack.com/query",
+    "size": 82483,
+    "stargazers_count": 43494,
+    "watchers_count": 43494,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2996,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 104,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "async",
+        "cache",
+        "data",
+        "fetch",
+        "graphql",
+        "hooks",
+        "query",
+        "react",
+        "rest",
+        "solid",
+        "stale",
+        "stale-while-revalidate",
+        "svelte",
+        "typescript",
+        "update",
+        "vue"
+    ],
+    "visibility": "public",
+    "forks": 2996,
+    "open_issues": 104,
+    "watchers": 43494,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.64.2",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.64.2",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.64.2",
+            "commit": {
+                "sha": "d4d246685c4f8e87f276a17311d16db46201e54a",
+                "url": "https://api.github.com/repos/TanStack/query/commits/d4d246685c4f8e87f276a17311d16db46201e54a"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42NC4y"
+        },
+        {
+            "name": "v5.64.1",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.64.1",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.64.1",
+            "commit": {
+                "sha": "e3e8814ea32129a0319862b159e4135bfcc538f3",
+                "url": "https://api.github.com/repos/TanStack/query/commits/e3e8814ea32129a0319862b159e4135bfcc538f3"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42NC4x"
+        },
+        {
+            "name": "v5.64.0",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.64.0",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.64.0",
+            "commit": {
+                "sha": "4a589bf2791afbf038e53d20abcdc615d000cbaf",
+                "url": "https://api.github.com/repos/TanStack/query/commits/4a589bf2791afbf038e53d20abcdc615d000cbaf"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42NC4w"
+        },
+        {
+            "name": "v5.63.0",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.63.0",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.63.0",
+            "commit": {
+                "sha": "564e549687520866c0fde69b04104762f30a8227",
+                "url": "https://api.github.com/repos/TanStack/query/commits/564e549687520866c0fde69b04104762f30a8227"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42My4w"
+        },
+        {
+            "name": "v5.62.16",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.16",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.16",
+            "commit": {
+                "sha": "3c5d8e348cc53e46aea6c74767f3181fc77c2308",
+                "url": "https://api.github.com/repos/TanStack/query/commits/3c5d8e348cc53e46aea6c74767f3181fc77c2308"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4xNg=="
+        },
+        {
+            "name": "v5.62.14",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.14",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.14",
+            "commit": {
+                "sha": "c91c590a82a7e25b1e5cdac87a197a6ad2143066",
+                "url": "https://api.github.com/repos/TanStack/query/commits/c91c590a82a7e25b1e5cdac87a197a6ad2143066"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4xNA=="
+        },
+        {
+            "name": "v5.62.13",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.13",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.13",
+            "commit": {
+                "sha": "bc8b9e79da9d9ff0cb8f91e8a9dbc7389f5eaece",
+                "url": "https://api.github.com/repos/TanStack/query/commits/bc8b9e79da9d9ff0cb8f91e8a9dbc7389f5eaece"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4xMw=="
+        },
+        {
+            "name": "v5.62.12",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.12",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.12",
+            "commit": {
+                "sha": "b25a41e209f59346a3f6d65104cae765a56dc5e4",
+                "url": "https://api.github.com/repos/TanStack/query/commits/b25a41e209f59346a3f6d65104cae765a56dc5e4"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4xMg=="
+        },
+        {
+            "name": "v5.62.11",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.11",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.11",
+            "commit": {
+                "sha": "8f72f59463c49246601c965d80e0564ba3ce87b0",
+                "url": "https://api.github.com/repos/TanStack/query/commits/8f72f59463c49246601c965d80e0564ba3ce87b0"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4xMQ=="
+        },
+        {
+            "name": "v5.62.10",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.10",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.10",
+            "commit": {
+                "sha": "4f90639610fdbd2135f5f726b123dd918682ff92",
+                "url": "https://api.github.com/repos/TanStack/query/commits/4f90639610fdbd2135f5f726b123dd918682ff92"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4xMA=="
+        },
+        {
+            "name": "v5.62.9",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.9",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.9",
+            "commit": {
+                "sha": "e41ea5a5628d8b966efeaf7d6821e274778b71ea",
+                "url": "https://api.github.com/repos/TanStack/query/commits/e41ea5a5628d8b966efeaf7d6821e274778b71ea"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi45"
+        },
+        {
+            "name": "v5.62.8",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.8",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.8",
+            "commit": {
+                "sha": "8a0eb6a3645d21770ef0ba609bf8a158b5c3ffef",
+                "url": "https://api.github.com/repos/TanStack/query/commits/8a0eb6a3645d21770ef0ba609bf8a158b5c3ffef"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi44"
+        },
+        {
+            "name": "v5.62.7",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.7",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.7",
+            "commit": {
+                "sha": "1eebfc9d3355c411b16146cc8df76c18e63d59ad",
+                "url": "https://api.github.com/repos/TanStack/query/commits/1eebfc9d3355c411b16146cc8df76c18e63d59ad"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi43"
+        },
+        {
+            "name": "v5.62.6",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.6",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.6",
+            "commit": {
+                "sha": "aef7ba209aeb53338dca262d48aef5719e8ac792",
+                "url": "https://api.github.com/repos/TanStack/query/commits/aef7ba209aeb53338dca262d48aef5719e8ac792"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi42"
+        },
+        {
+            "name": "v5.62.5",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.5",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.5",
+            "commit": {
+                "sha": "e7d7d36fa07fd86dc5064b30cec602569556cbf8",
+                "url": "https://api.github.com/repos/TanStack/query/commits/e7d7d36fa07fd86dc5064b30cec602569556cbf8"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi41"
+        },
+        {
+            "name": "v5.62.4",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.4",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.4",
+            "commit": {
+                "sha": "9e6d01d4427f9dfea7cd9846cbfd2d644733003a",
+                "url": "https://api.github.com/repos/TanStack/query/commits/9e6d01d4427f9dfea7cd9846cbfd2d644733003a"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi40"
+        },
+        {
+            "name": "v5.62.3",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.3",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.3",
+            "commit": {
+                "sha": "d3073c86c460e570161154fcceb0c574b959e60e",
+                "url": "https://api.github.com/repos/TanStack/query/commits/d3073c86c460e570161154fcceb0c574b959e60e"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4z"
+        },
+        {
+            "name": "v5.62.2",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.2",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.2",
+            "commit": {
+                "sha": "73ec525f32d3a1c6974abe76ad4aa5b7e8a6a480",
+                "url": "https://api.github.com/repos/TanStack/query/commits/73ec525f32d3a1c6974abe76ad4aa5b7e8a6a480"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4y"
+        },
+        {
+            "name": "v5.62.1",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.1",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.1",
+            "commit": {
+                "sha": "ceb4094038a25ad76c0c9f18cc6e2c54be1df309",
+                "url": "https://api.github.com/repos/TanStack/query/commits/ceb4094038a25ad76c0c9f18cc6e2c54be1df309"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4x"
+        },
+        {
+            "name": "v5.62.0",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.62.0",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.62.0",
+            "commit": {
+                "sha": "f8164805b33a836987003d10c6eadd245f00a9ce",
+                "url": "https://api.github.com/repos/TanStack/query/commits/f8164805b33a836987003d10c6eadd245f00a9ce"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42Mi4w"
+        },
+        {
+            "name": "v5.61.6",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.6",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.6",
+            "commit": {
+                "sha": "c361be4854778972c918f2d3a1c56f9c27c4f794",
+                "url": "https://api.github.com/repos/TanStack/query/commits/c361be4854778972c918f2d3a1c56f9c27c4f794"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS42"
+        },
+        {
+            "name": "v5.61.5",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.5",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.5",
+            "commit": {
+                "sha": "dc4ae507179d6ca799fe0c19f1f6224ca4a9fd42",
+                "url": "https://api.github.com/repos/TanStack/query/commits/dc4ae507179d6ca799fe0c19f1f6224ca4a9fd42"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS41"
+        },
+        {
+            "name": "v5.61.4",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.4",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.4",
+            "commit": {
+                "sha": "efdd2044a7e340e437695f1b982c2d8fcaa816f2",
+                "url": "https://api.github.com/repos/TanStack/query/commits/efdd2044a7e340e437695f1b982c2d8fcaa816f2"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS40"
+        },
+        {
+            "name": "v5.61.3",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.3",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.3",
+            "commit": {
+                "sha": "68dee7e0f91df43579dc385266080c201325d5de",
+                "url": "https://api.github.com/repos/TanStack/query/commits/68dee7e0f91df43579dc385266080c201325d5de"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS4z"
+        },
+        {
+            "name": "v5.61.2",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.2",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.2",
+            "commit": {
+                "sha": "3888f2311699a125f8557d99d24c4caba1d8f3a0",
+                "url": "https://api.github.com/repos/TanStack/query/commits/3888f2311699a125f8557d99d24c4caba1d8f3a0"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS4y"
+        },
+        {
+            "name": "v5.61.1",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.1",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.1",
+            "commit": {
+                "sha": "436422ca4ca651d68135a441779000593c8f5a3c",
+                "url": "https://api.github.com/repos/TanStack/query/commits/436422ca4ca651d68135a441779000593c8f5a3c"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS4x"
+        },
+        {
+            "name": "v5.61.0",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.61.0",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.61.0",
+            "commit": {
+                "sha": "8a25b4e93b2645bcb3b80d2f55bd9f8a079164c3",
+                "url": "https://api.github.com/repos/TanStack/query/commits/8a25b4e93b2645bcb3b80d2f55bd9f8a079164c3"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MS4w"
+        },
+        {
+            "name": "v5.60.7",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.60.7",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.60.7",
+            "commit": {
+                "sha": "77b5f3a634dc8ed8a05b98ff867d8182e0112f52",
+                "url": "https://api.github.com/repos/TanStack/query/commits/77b5f3a634dc8ed8a05b98ff867d8182e0112f52"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MC43"
+        },
+        {
+            "name": "v5.60.6",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.60.6",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.60.6",
+            "commit": {
+                "sha": "fa77f323cbe506252ebb9b4234644f41de26d491",
+                "url": "https://api.github.com/repos/TanStack/query/commits/fa77f323cbe506252ebb9b4234644f41de26d491"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MC42"
+        },
+        {
+            "name": "v5.60.5",
+            "zipball_url": "https://api.github.com/repos/TanStack/query/zipball/refs/tags/v5.60.5",
+            "tarball_url": "https://api.github.com/repos/TanStack/query/tarball/refs/tags/v5.60.5",
+            "commit": {
+                "sha": "3fc2fce77e831e60dafb333c929b88a38240ad74",
+                "url": "https://api.github.com/repos/TanStack/query/commits/3fc2fce77e831e60dafb333c929b88a38240ad74"
+            },
+            "node_id": "MDM6UmVmMjA3NjQ1MDgzOnJlZnMvdGFncy92NS42MC41"
+        }
+    ]
+}

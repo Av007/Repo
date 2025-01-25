@@ -1,0 +1,417 @@
+{
+    "id": 193162629,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxOTMxNjI2Mjk=",
+    "name": "Rectangle",
+    "full_name": "rxhanson/Rectangle",
+    "private": false,
+    "owner": {
+        "login": "rxhanson",
+        "id": 13651296,
+        "node_id": "MDQ6VXNlcjEzNjUxMjk2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13651296?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rxhanson",
+        "html_url": "https://github.com/rxhanson",
+        "followers_url": "https://api.github.com/users/rxhanson/followers",
+        "following_url": "https://api.github.com/users/rxhanson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rxhanson/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rxhanson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rxhanson/subscriptions",
+        "organizations_url": "https://api.github.com/users/rxhanson/orgs",
+        "repos_url": "https://api.github.com/users/rxhanson/repos",
+        "events_url": "https://api.github.com/users/rxhanson/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rxhanson/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/rxhanson/Rectangle",
+    "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+    "fork": false,
+    "url": "https://api.github.com/repos/rxhanson/Rectangle",
+    "forks_url": "https://api.github.com/repos/rxhanson/Rectangle/forks",
+    "keys_url": "https://api.github.com/repos/rxhanson/Rectangle/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/rxhanson/Rectangle/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/rxhanson/Rectangle/teams",
+    "hooks_url": "https://api.github.com/repos/rxhanson/Rectangle/hooks",
+    "issue_events_url": "https://api.github.com/repos/rxhanson/Rectangle/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/rxhanson/Rectangle/events",
+    "assignees_url": "https://api.github.com/repos/rxhanson/Rectangle/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/rxhanson/Rectangle/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/rxhanson/Rectangle/tags",
+    "blobs_url": "https://api.github.com/repos/rxhanson/Rectangle/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/rxhanson/Rectangle/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/rxhanson/Rectangle/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/rxhanson/Rectangle/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/rxhanson/Rectangle/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/rxhanson/Rectangle/languages",
+    "stargazers_url": "https://api.github.com/repos/rxhanson/Rectangle/stargazers",
+    "contributors_url": "https://api.github.com/repos/rxhanson/Rectangle/contributors",
+    "subscribers_url": "https://api.github.com/repos/rxhanson/Rectangle/subscribers",
+    "subscription_url": "https://api.github.com/repos/rxhanson/Rectangle/subscription",
+    "commits_url": "https://api.github.com/repos/rxhanson/Rectangle/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/rxhanson/Rectangle/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/rxhanson/Rectangle/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/rxhanson/Rectangle/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/rxhanson/Rectangle/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/rxhanson/Rectangle/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/rxhanson/Rectangle/merges",
+    "archive_url": "https://api.github.com/repos/rxhanson/Rectangle/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/rxhanson/Rectangle/downloads",
+    "issues_url": "https://api.github.com/repos/rxhanson/Rectangle/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/rxhanson/Rectangle/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/rxhanson/Rectangle/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/rxhanson/Rectangle/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/rxhanson/Rectangle/labels{/name}",
+    "releases_url": "https://api.github.com/repos/rxhanson/Rectangle/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/rxhanson/Rectangle/deployments",
+    "created_at": "2019-06-21T21:34:53Z",
+    "updated_at": "2025-01-25T16:14:27Z",
+    "pushed_at": "2025-01-06T00:04:50Z",
+    "git_url": "git://github.com/rxhanson/Rectangle.git",
+    "ssh_url": "git@github.com:rxhanson/Rectangle.git",
+    "clone_url": "https://github.com/rxhanson/Rectangle.git",
+    "svn_url": "https://github.com/rxhanson/Rectangle",
+    "homepage": "https://rectangleapp.com",
+    "size": 5157,
+    "stargazers_count": 26349,
+    "watchers_count": 26349,
+    "language": "Swift",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 802,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 98,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 802,
+    "open_issues": 98,
+    "watchers": 26349,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.85",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.85",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.85",
+            "commit": {
+                "sha": "4be459ae63b7ca8cca4763d16ab7eed8bcc9d7f4",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/4be459ae63b7ca8cca4763d16ab7eed8bcc9d7f4"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC44NQ=="
+        },
+        {
+            "name": "v0.84",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.84",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.84",
+            "commit": {
+                "sha": "abef063467cb7bd60b1acfeb386e4e842a75e973",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/abef063467cb7bd60b1acfeb386e4e842a75e973"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC44NA=="
+        },
+        {
+            "name": "v0.83",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.83",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.83",
+            "commit": {
+                "sha": "88e4418c21923e95d7f8e4f536aa7c2f7fd6f9ee",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/88e4418c21923e95d7f8e4f536aa7c2f7fd6f9ee"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC44Mw=="
+        },
+        {
+            "name": "v0.82",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.82",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.82",
+            "commit": {
+                "sha": "dd7f4897f7590e6e015fe197cfda936dca66f73b",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/dd7f4897f7590e6e015fe197cfda936dca66f73b"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC44Mg=="
+        },
+        {
+            "name": "v0.81",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.81",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.81",
+            "commit": {
+                "sha": "7eb7d9083692e229327e124309858cf701dc72ee",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/7eb7d9083692e229327e124309858cf701dc72ee"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC44MQ=="
+        },
+        {
+            "name": "v0.80",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.80",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.80",
+            "commit": {
+                "sha": "000dbbe29bc3a21603d8372649ea444c97004421",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/000dbbe29bc3a21603d8372649ea444c97004421"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC44MA=="
+        },
+        {
+            "name": "v0.79",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.79",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.79",
+            "commit": {
+                "sha": "62880ccd0f24a5b17bd99a27291b2503d43c4e62",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/62880ccd0f24a5b17bd99a27291b2503d43c4e62"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43OQ=="
+        },
+        {
+            "name": "v0.78",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.78",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.78",
+            "commit": {
+                "sha": "db5c14183153a3d73d3d08a30d67b320bc1bc3ef",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/db5c14183153a3d73d3d08a30d67b320bc1bc3ef"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43OA=="
+        },
+        {
+            "name": "v0.77",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.77",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.77",
+            "commit": {
+                "sha": "894ab3453688b4689ae3858e157b4d446cce199b",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/894ab3453688b4689ae3858e157b4d446cce199b"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43Nw=="
+        },
+        {
+            "name": "v0.76",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.76",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.76",
+            "commit": {
+                "sha": "c548726c8a969c795cf72e0951a124de82ff27a0",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/c548726c8a969c795cf72e0951a124de82ff27a0"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43Ng=="
+        },
+        {
+            "name": "v0.75",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.75",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.75",
+            "commit": {
+                "sha": "967637fcca13c95c1cd4a7ac3ee8724fa9176483",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/967637fcca13c95c1cd4a7ac3ee8724fa9176483"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43NQ=="
+        },
+        {
+            "name": "v0.74",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.74",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.74",
+            "commit": {
+                "sha": "89defc8f8c02508689f1d6521cb0d4f933a883cb",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/89defc8f8c02508689f1d6521cb0d4f933a883cb"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43NA=="
+        },
+        {
+            "name": "v0.73",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.73",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.73",
+            "commit": {
+                "sha": "6ead6ed9d51d8d45fe2cf24ede2230d85e9983d9",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/6ead6ed9d51d8d45fe2cf24ede2230d85e9983d9"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43Mw=="
+        },
+        {
+            "name": "v0.72",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.72",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.72",
+            "commit": {
+                "sha": "fc6e4415fa5128f58500c06df8eada77f0531846",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/fc6e4415fa5128f58500c06df8eada77f0531846"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43Mg=="
+        },
+        {
+            "name": "v0.71",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.71",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.71",
+            "commit": {
+                "sha": "56caf631e6a39d1179ca87f8d46468f2212befe7",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/56caf631e6a39d1179ca87f8d46468f2212befe7"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43MQ=="
+        },
+        {
+            "name": "v0.70",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.70",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.70",
+            "commit": {
+                "sha": "4ee180e2271df832fc85e4a6faffd210e748de5c",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/4ee180e2271df832fc85e4a6faffd210e748de5c"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC43MA=="
+        },
+        {
+            "name": "v0.69",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.69",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.69",
+            "commit": {
+                "sha": "c7f1c8bf6f6386e01603ad53fdeaa24d953f32c5",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/c7f1c8bf6f6386e01603ad53fdeaa24d953f32c5"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42OQ=="
+        },
+        {
+            "name": "v0.68",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.68",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.68",
+            "commit": {
+                "sha": "5cb586982e6bd8b0c59f9987c4a91556d594a5a8",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/5cb586982e6bd8b0c59f9987c4a91556d594a5a8"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42OA=="
+        },
+        {
+            "name": "v0.67",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.67",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.67",
+            "commit": {
+                "sha": "db462140f2a3e2f8dc79b5c15e41a72b1cada8b6",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/db462140f2a3e2f8dc79b5c15e41a72b1cada8b6"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42Nw=="
+        },
+        {
+            "name": "v0.66",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.66",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.66",
+            "commit": {
+                "sha": "4aa5a080d8e6da7e050cf6d1a16521af115393d3",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/4aa5a080d8e6da7e050cf6d1a16521af115393d3"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42Ng=="
+        },
+        {
+            "name": "v0.65",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.65",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.65",
+            "commit": {
+                "sha": "b65cb724d10cd25e591c14a01fbe3da1abadc90b",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/b65cb724d10cd25e591c14a01fbe3da1abadc90b"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42NQ=="
+        },
+        {
+            "name": "v0.64",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.64",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.64",
+            "commit": {
+                "sha": "edfdc39e3f3840cb4db7e0da849deb80ef87b05c",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/edfdc39e3f3840cb4db7e0da849deb80ef87b05c"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42NA=="
+        },
+        {
+            "name": "v0.63",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.63",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.63",
+            "commit": {
+                "sha": "2f38f74db552085ab451ade2613fb4f26a9ee1f0",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/2f38f74db552085ab451ade2613fb4f26a9ee1f0"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42Mw=="
+        },
+        {
+            "name": "v0.62",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.62",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.62",
+            "commit": {
+                "sha": "fa06fc4c9d80963106fd5b52cc7811dad5241644",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/fa06fc4c9d80963106fd5b52cc7811dad5241644"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42Mg=="
+        },
+        {
+            "name": "v0.61",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.61",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.61",
+            "commit": {
+                "sha": "4115b0167179b2a3f51aed22baa8a38fb0caab10",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/4115b0167179b2a3f51aed22baa8a38fb0caab10"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42MQ=="
+        },
+        {
+            "name": "v0.60",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.60",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.60",
+            "commit": {
+                "sha": "00b739627abb578ef71a30a751a483f51b1b8ed3",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/00b739627abb578ef71a30a751a483f51b1b8ed3"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC42MA=="
+        },
+        {
+            "name": "v0.59",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.59",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.59",
+            "commit": {
+                "sha": "ac351e642050ddd49b64619d6e9963f85a61993d",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/ac351e642050ddd49b64619d6e9963f85a61993d"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC41OQ=="
+        },
+        {
+            "name": "v0.58",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.58",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.58",
+            "commit": {
+                "sha": "e70067643c205eb7a4fc17d5e63029c2845fb6ad",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/e70067643c205eb7a4fc17d5e63029c2845fb6ad"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC41OA=="
+        },
+        {
+            "name": "v0.57",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.57",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.57",
+            "commit": {
+                "sha": "f53f501980b4712b80d48c438cdf8c99e89716ad",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/f53f501980b4712b80d48c438cdf8c99e89716ad"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC41Nw=="
+        },
+        {
+            "name": "v0.56",
+            "zipball_url": "https://api.github.com/repos/rxhanson/Rectangle/zipball/refs/tags/v0.56",
+            "tarball_url": "https://api.github.com/repos/rxhanson/Rectangle/tarball/refs/tags/v0.56",
+            "commit": {
+                "sha": "bc848177b7cc226d32d5100df5d1bd6223ef2774",
+                "url": "https://api.github.com/repos/rxhanson/Rectangle/commits/bc848177b7cc226d32d5100df5d1bd6223ef2774"
+            },
+            "node_id": "MDM6UmVmMTkzMTYyNjI5OnJlZnMvdGFncy92MC41Ng=="
+        }
+    ]
+}

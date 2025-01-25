@@ -1,0 +1,326 @@
+{
+    "id": 149001365,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNDkwMDEzNjU=",
+    "name": "leetcode",
+    "full_name": "doocs/leetcode",
+    "private": false,
+    "owner": {
+        "login": "doocs",
+        "id": 43716716,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzNzE2NzE2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43716716?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/doocs",
+        "html_url": "https://github.com/doocs",
+        "followers_url": "https://api.github.com/users/doocs/followers",
+        "following_url": "https://api.github.com/users/doocs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/doocs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/doocs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/doocs/subscriptions",
+        "organizations_url": "https://api.github.com/users/doocs/orgs",
+        "repos_url": "https://api.github.com/users/doocs/repos",
+        "events_url": "https://api.github.com/users/doocs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/doocs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/doocs/leetcode",
+    "description": "\ud83d\udd25LeetCode solutions in any programming language | \u591a\u79cd\u7f16\u7a0b\u8bed\u8a00\u5b9e\u73b0 LeetCode\u3001\u300a\u5251\u6307 Offer\uff08\u7b2c 2 \u7248\uff09\u300b\u3001\u300a\u7a0b\u5e8f\u5458\u9762\u8bd5\u91d1\u5178\uff08\u7b2c 6 \u7248\uff09\u300b\u9898\u89e3",
+    "fork": false,
+    "url": "https://api.github.com/repos/doocs/leetcode",
+    "forks_url": "https://api.github.com/repos/doocs/leetcode/forks",
+    "keys_url": "https://api.github.com/repos/doocs/leetcode/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/doocs/leetcode/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/doocs/leetcode/teams",
+    "hooks_url": "https://api.github.com/repos/doocs/leetcode/hooks",
+    "issue_events_url": "https://api.github.com/repos/doocs/leetcode/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/doocs/leetcode/events",
+    "assignees_url": "https://api.github.com/repos/doocs/leetcode/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/doocs/leetcode/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/doocs/leetcode/tags",
+    "blobs_url": "https://api.github.com/repos/doocs/leetcode/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/doocs/leetcode/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/doocs/leetcode/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/doocs/leetcode/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/doocs/leetcode/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/doocs/leetcode/languages",
+    "stargazers_url": "https://api.github.com/repos/doocs/leetcode/stargazers",
+    "contributors_url": "https://api.github.com/repos/doocs/leetcode/contributors",
+    "subscribers_url": "https://api.github.com/repos/doocs/leetcode/subscribers",
+    "subscription_url": "https://api.github.com/repos/doocs/leetcode/subscription",
+    "commits_url": "https://api.github.com/repos/doocs/leetcode/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/doocs/leetcode/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/doocs/leetcode/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/doocs/leetcode/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/doocs/leetcode/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/doocs/leetcode/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/doocs/leetcode/merges",
+    "archive_url": "https://api.github.com/repos/doocs/leetcode/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/doocs/leetcode/downloads",
+    "issues_url": "https://api.github.com/repos/doocs/leetcode/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/doocs/leetcode/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/doocs/leetcode/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/doocs/leetcode/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/doocs/leetcode/labels{/name}",
+    "releases_url": "https://api.github.com/repos/doocs/leetcode/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/doocs/leetcode/deployments",
+    "created_at": "2018-09-16T14:03:03Z",
+    "updated_at": "2025-01-25T16:30:13Z",
+    "pushed_at": "2025-01-25T15:58:44Z",
+    "git_url": "git://github.com/doocs/leetcode.git",
+    "ssh_url": "git@github.com:doocs/leetcode.git",
+    "clone_url": "https://github.com/doocs/leetcode.git",
+    "svn_url": "https://github.com/doocs/leetcode",
+    "homepage": "https://doocs.github.io/leetcode",
+    "size": 14539111,
+    "stargazers_count": 32714,
+    "watchers_count": 32714,
+    "language": "Java",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 8165,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 14,
+    "license": {
+        "key": "cc-by-sa-4.0",
+        "name": "Creative Commons Attribution Share Alike 4.0 International",
+        "spdx_id": "CC-BY-SA-4.0",
+        "url": "https://api.github.com/licenses/cc-by-sa-4.0",
+        "node_id": "MDc6TGljZW5zZTI2"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "algorithms",
+        "cpp",
+        "csharp",
+        "golang",
+        "java",
+        "javascript",
+        "leetcode",
+        "python3"
+    ],
+    "visibility": "public",
+    "forks": 8165,
+    "open_issues": 14,
+    "watchers": 32714,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.2.0",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.2.0",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.2.0",
+            "commit": {
+                "sha": "9226ec0f74022166e7890f056249aa5c859e5f2c",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/9226ec0f74022166e7890f056249aa5c859e5f2c"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4yLjA="
+        },
+        {
+            "name": "v0.1.9",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.9",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.9",
+            "commit": {
+                "sha": "76747ebd8cfc136b236653ae7ff8b658aa7092cd",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/76747ebd8cfc136b236653ae7ff8b658aa7092cd"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjk="
+        },
+        {
+            "name": "v0.1.8",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.8",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.8",
+            "commit": {
+                "sha": "0258364a64d7b28cba09d6996d323cce7d54595b",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/0258364a64d7b28cba09d6996d323cce7d54595b"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjg="
+        },
+        {
+            "name": "v0.1.7",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.7",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.7",
+            "commit": {
+                "sha": "9525eaa98afbb53edff099f51c29972dede49b0e",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/9525eaa98afbb53edff099f51c29972dede49b0e"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjc="
+        },
+        {
+            "name": "v0.1.6",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.6",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.6",
+            "commit": {
+                "sha": "bd1bf9a93341dca031efa698881543dde720d70a",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/bd1bf9a93341dca031efa698881543dde720d70a"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjY="
+        },
+        {
+            "name": "v0.1.5",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.5",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.5",
+            "commit": {
+                "sha": "4d7d4fa85a4b380c236034f7220d93a14037375d",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/4d7d4fa85a4b380c236034f7220d93a14037375d"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjU="
+        },
+        {
+            "name": "v0.1.4",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.4",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.4",
+            "commit": {
+                "sha": "c2456e35376194389cb6e171936bea90df85a0fd",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/c2456e35376194389cb6e171936bea90df85a0fd"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjQ="
+        },
+        {
+            "name": "v0.1.3",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.3",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.3",
+            "commit": {
+                "sha": "c8afc1b7645539b4e09cd64f9d0ff0d3963ac6f6",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/c8afc1b7645539b4e09cd64f9d0ff0d3963ac6f6"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjM="
+        },
+        {
+            "name": "v0.1.2",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.2",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.2",
+            "commit": {
+                "sha": "6db65065992ca9debaa5037267d89117f66f8990",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/6db65065992ca9debaa5037267d89117f66f8990"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjI="
+        },
+        {
+            "name": "v0.1.1",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.1",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.1",
+            "commit": {
+                "sha": "4d7d0f34c7da23d50550fc1168e9fa14af2d567c",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/4d7d0f34c7da23d50550fc1168e9fa14af2d567c"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjE="
+        },
+        {
+            "name": "v0.1.0",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.1.0",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.1.0",
+            "commit": {
+                "sha": "0b84082e4b4170d605c9cb0d130be4c0d68365f5",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/0b84082e4b4170d605c9cb0d130be4c0d68365f5"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4xLjA="
+        },
+        {
+            "name": "v0.0.9",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.9",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.9",
+            "commit": {
+                "sha": "21adb38ba1b4a3929720d5268ddfac258dfbbdd2",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/21adb38ba1b4a3929720d5268ddfac258dfbbdd2"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjk="
+        },
+        {
+            "name": "v0.0.8",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.8",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.8",
+            "commit": {
+                "sha": "ce3f14fd20030cc7b708b934ae897b5eee3828e8",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/ce3f14fd20030cc7b708b934ae897b5eee3828e8"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjg="
+        },
+        {
+            "name": "v0.0.7",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.7",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.7",
+            "commit": {
+                "sha": "ed54ca7f031cc18c61a6a0d95a455e798483525a",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/ed54ca7f031cc18c61a6a0d95a455e798483525a"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjc="
+        },
+        {
+            "name": "v0.0.6",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.6",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.6",
+            "commit": {
+                "sha": "b3ea65444bb92de5e5c094f3cfac60ece1767094",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/b3ea65444bb92de5e5c094f3cfac60ece1767094"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjY="
+        },
+        {
+            "name": "v0.0.5",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.5",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.5",
+            "commit": {
+                "sha": "692acff451bb338a5dcfb854c6c5497112a79b29",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/692acff451bb338a5dcfb854c6c5497112a79b29"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjU="
+        },
+        {
+            "name": "v0.0.4",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.4",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.4",
+            "commit": {
+                "sha": "45e286ba36e8a9905fc0cb3f21e58cdfd05a288e",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/45e286ba36e8a9905fc0cb3f21e58cdfd05a288e"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjQ="
+        },
+        {
+            "name": "v0.0.3",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.3",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.3",
+            "commit": {
+                "sha": "a025ba4e74e802e1b8e20788ec2faf769b235441",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/a025ba4e74e802e1b8e20788ec2faf769b235441"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjM="
+        },
+        {
+            "name": "v0.0.2",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.2",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.2",
+            "commit": {
+                "sha": "8e0340442a91a776aa142b0139a593ca3f993e79",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/8e0340442a91a776aa142b0139a593ca3f993e79"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjI="
+        },
+        {
+            "name": "v0.0.1",
+            "zipball_url": "https://api.github.com/repos/doocs/leetcode/zipball/refs/tags/v0.0.1",
+            "tarball_url": "https://api.github.com/repos/doocs/leetcode/tarball/refs/tags/v0.0.1",
+            "commit": {
+                "sha": "a3f28ba73ee1b0ca3ae33e194803827884ca06fa",
+                "url": "https://api.github.com/repos/doocs/leetcode/commits/a3f28ba73ee1b0ca3ae33e194803827884ca06fa"
+            },
+            "node_id": "MDM6UmVmMTQ5MDAxMzY1OnJlZnMvdGFncy92MC4wLjE="
+        }
+    ]
+}

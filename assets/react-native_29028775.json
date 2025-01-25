@@ -1,0 +1,426 @@
+{
+    "id": 29028775,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==",
+    "name": "react-native",
+    "full_name": "facebook/react-native",
+    "private": false,
+    "owner": {
+        "login": "facebook",
+        "id": 69631,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NjMx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69631?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/facebook",
+        "html_url": "https://github.com/facebook",
+        "followers_url": "https://api.github.com/users/facebook/followers",
+        "following_url": "https://api.github.com/users/facebook/following{/other_user}",
+        "gists_url": "https://api.github.com/users/facebook/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/facebook/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/facebook/subscriptions",
+        "organizations_url": "https://api.github.com/users/facebook/orgs",
+        "repos_url": "https://api.github.com/users/facebook/repos",
+        "events_url": "https://api.github.com/users/facebook/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/facebook/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "fork": false,
+    "url": "https://api.github.com/repos/facebook/react-native",
+    "forks_url": "https://api.github.com/repos/facebook/react-native/forks",
+    "keys_url": "https://api.github.com/repos/facebook/react-native/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/facebook/react-native/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/facebook/react-native/teams",
+    "hooks_url": "https://api.github.com/repos/facebook/react-native/hooks",
+    "issue_events_url": "https://api.github.com/repos/facebook/react-native/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/facebook/react-native/events",
+    "assignees_url": "https://api.github.com/repos/facebook/react-native/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/facebook/react-native/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/facebook/react-native/tags",
+    "blobs_url": "https://api.github.com/repos/facebook/react-native/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/facebook/react-native/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/facebook/react-native/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/facebook/react-native/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/facebook/react-native/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/facebook/react-native/languages",
+    "stargazers_url": "https://api.github.com/repos/facebook/react-native/stargazers",
+    "contributors_url": "https://api.github.com/repos/facebook/react-native/contributors",
+    "subscribers_url": "https://api.github.com/repos/facebook/react-native/subscribers",
+    "subscription_url": "https://api.github.com/repos/facebook/react-native/subscription",
+    "commits_url": "https://api.github.com/repos/facebook/react-native/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/facebook/react-native/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/facebook/react-native/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/facebook/react-native/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/facebook/react-native/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/facebook/react-native/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/facebook/react-native/merges",
+    "archive_url": "https://api.github.com/repos/facebook/react-native/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/facebook/react-native/downloads",
+    "issues_url": "https://api.github.com/repos/facebook/react-native/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/facebook/react-native/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/facebook/react-native/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/facebook/react-native/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/facebook/react-native/labels{/name}",
+    "releases_url": "https://api.github.com/repos/facebook/react-native/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/facebook/react-native/deployments",
+    "created_at": "2015-01-09T18:10:16Z",
+    "updated_at": "2025-01-25T16:54:12Z",
+    "pushed_at": "2025-01-25T00:23:45Z",
+    "git_url": "git://github.com/facebook/react-native.git",
+    "ssh_url": "git@github.com:facebook/react-native.git",
+    "clone_url": "https://github.com/facebook/react-native.git",
+    "svn_url": "https://github.com/facebook/react-native",
+    "homepage": "https://reactnative.dev",
+    "size": 903005,
+    "stargazers_count": 120265,
+    "watchers_count": 120265,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 24449,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 884,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "android",
+        "app-framework",
+        "cross-platform",
+        "ios",
+        "mobile",
+        "mobile-development",
+        "react",
+        "react-native"
+    ],
+    "visibility": "public",
+    "forks": 24449,
+    "open_issues": 884,
+    "watchers": 120265,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.78.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.78.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.78.0-rc.1",
+            "commit": {
+                "sha": "1f412d0826683989c5fd6051287e3bf31ee54b56",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/1f412d0826683989c5fd6051287e3bf31ee54b56"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc4LjAtcmMuMQ=="
+        },
+        {
+            "name": "v0.78.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.78.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.78.0-rc.0",
+            "commit": {
+                "sha": "b713f273b6df654e4274ae00a849c39d2efccedc",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/b713f273b6df654e4274ae00a849c39d2efccedc"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc4LjAtcmMuMA=="
+        },
+        {
+            "name": "v0.77.0",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0",
+            "commit": {
+                "sha": "4eef1672526271eded3960d81dd8fa5ec9ee82cf",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/4eef1672526271eded3960d81dd8fa5ec9ee82cf"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjA="
+        },
+        {
+            "name": "v0.77.0-rc.7",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.7",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.7",
+            "commit": {
+                "sha": "06c8a745b0ac38a5ceae1d8363c29b8f8846fa3a",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/06c8a745b0ac38a5ceae1d8363c29b8f8846fa3a"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuNw=="
+        },
+        {
+            "name": "v0.77.0-rc.6",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.6",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.6",
+            "commit": {
+                "sha": "407c4fbffd3b10f8e5a3f291a598c573bb2d9b0d",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/407c4fbffd3b10f8e5a3f291a598c573bb2d9b0d"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuNg=="
+        },
+        {
+            "name": "v0.77.0-rc.5",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.5",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.5",
+            "commit": {
+                "sha": "9d472ae28db901906f94cf2a175e0a3675471165",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/9d472ae28db901906f94cf2a175e0a3675471165"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuNQ=="
+        },
+        {
+            "name": "v0.77.0-rc.4",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.4",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.4",
+            "commit": {
+                "sha": "b0d9ef80daf481ca64967abb3094df7dc6075f30",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/b0d9ef80daf481ca64967abb3094df7dc6075f30"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuNA=="
+        },
+        {
+            "name": "v0.77.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.3",
+            "commit": {
+                "sha": "0840eab8ed1e9d9d14feda3218d467a6f54b0147",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/0840eab8ed1e9d9d14feda3218d467a6f54b0147"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuMw=="
+        },
+        {
+            "name": "v0.77.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.2",
+            "commit": {
+                "sha": "c5b53fdfab5ba30994c7cfcc728b498321bd775c",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/c5b53fdfab5ba30994c7cfcc728b498321bd775c"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuMg=="
+        },
+        {
+            "name": "v0.77.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.1",
+            "commit": {
+                "sha": "b19898e25978b2d4a00cb1eeb55e3e0d1d7c73c4",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/b19898e25978b2d4a00cb1eeb55e3e0d1d7c73c4"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuMQ=="
+        },
+        {
+            "name": "v0.77.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.77.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.77.0-rc.0",
+            "commit": {
+                "sha": "f6cce65bec99d214f788703c9c0cf7ce828479ab",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/f6cce65bec99d214f788703c9c0cf7ce828479ab"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc3LjAtcmMuMA=="
+        },
+        {
+            "name": "v0.76.6",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.6",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.6",
+            "commit": {
+                "sha": "a0411eebe284895ccaa11e7eab8a69bd2f7e7e53",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/a0411eebe284895ccaa11e7eab8a69bd2f7e7e53"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjY="
+        },
+        {
+            "name": "v0.76.5",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.5",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.5",
+            "commit": {
+                "sha": "f8654f954011b4ad885ca6cdca38b2dc87a8cf6e",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/f8654f954011b4ad885ca6cdca38b2dc87a8cf6e"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjU="
+        },
+        {
+            "name": "v0.76.4",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.4",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.4",
+            "commit": {
+                "sha": "30f208eb2b1741587091b61c15ffb698d125929d",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/30f208eb2b1741587091b61c15ffb698d125929d"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjQ="
+        },
+        {
+            "name": "v0.76.3",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.3",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.3",
+            "commit": {
+                "sha": "605e2e443bf893d5896f1d613cac763564dc3f69",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/605e2e443bf893d5896f1d613cac763564dc3f69"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjM="
+        },
+        {
+            "name": "v0.76.2",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.2",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.2",
+            "commit": {
+                "sha": "81737c2b992cdf7ef02d437dbad57ccae8d9de3a",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/81737c2b992cdf7ef02d437dbad57ccae8d9de3a"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjI="
+        },
+        {
+            "name": "v0.76.1",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.1",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.1",
+            "commit": {
+                "sha": "b048659ceb5e0645b9287789ce1212e9ea0afe6c",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/b048659ceb5e0645b9287789ce1212e9ea0afe6c"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjE="
+        },
+        {
+            "name": "v0.76.0",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0",
+            "commit": {
+                "sha": "2e10ba945f6f2dca8d8cf1bb0db1d67fd50f2235",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/2e10ba945f6f2dca8d8cf1bb0db1d67fd50f2235"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjA="
+        },
+        {
+            "name": "v0.76.0-rc.6",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.6",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.6",
+            "commit": {
+                "sha": "9f9e1a41cad27324fcd2b41fcbe8e389b7019f93",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/9f9e1a41cad27324fcd2b41fcbe8e389b7019f93"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuNg=="
+        },
+        {
+            "name": "v0.76.0-rc.5",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.5",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.5",
+            "commit": {
+                "sha": "5e2f3e018c37d152d6c0ae72fd8891b2e44d37e8",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/5e2f3e018c37d152d6c0ae72fd8891b2e44d37e8"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuNQ=="
+        },
+        {
+            "name": "v0.76.0-rc.4",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.4",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.4",
+            "commit": {
+                "sha": "5106933c750fee2ce49fe1945c3e3763eebc92bc",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/5106933c750fee2ce49fe1945c3e3763eebc92bc"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuNA=="
+        },
+        {
+            "name": "v0.76.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.3",
+            "commit": {
+                "sha": "dbd9952e0ad1dc30f076c9c16753e760c88b06c6",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/dbd9952e0ad1dc30f076c9c16753e760c88b06c6"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuMw=="
+        },
+        {
+            "name": "v0.76.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.2",
+            "commit": {
+                "sha": "23f62acd839d38d7ea4ba9d7d2e99bb2a1aa0bb9",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/23f62acd839d38d7ea4ba9d7d2e99bb2a1aa0bb9"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuMg=="
+        },
+        {
+            "name": "v0.76.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.1",
+            "commit": {
+                "sha": "ec9e1718aa6179c6f634128fd64c36c9b116fa8f",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/ec9e1718aa6179c6f634128fd64c36c9b116fa8f"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuMQ=="
+        },
+        {
+            "name": "v0.76.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.76.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.76.0-rc.0",
+            "commit": {
+                "sha": "f60fbc15ae62d901f52162864b0c5a0f307ca46c",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/f60fbc15ae62d901f52162864b0c5a0f307ca46c"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc2LjAtcmMuMA=="
+        },
+        {
+            "name": "v0.75.4",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.75.4",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.75.4",
+            "commit": {
+                "sha": "1611a5e8a1a9a9cb7d6d9ddb4d7316d8e634e6e3",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/1611a5e8a1a9a9cb7d6d9ddb4d7316d8e634e6e3"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc1LjQ="
+        },
+        {
+            "name": "v0.75.3",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.75.3",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.75.3",
+            "commit": {
+                "sha": "496879853872e857b375ee19cca06fab17ddb0a0",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/496879853872e857b375ee19cca06fab17ddb0a0"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc1LjM="
+        },
+        {
+            "name": "v0.75.2",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.75.2",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.75.2",
+            "commit": {
+                "sha": "2e994fdddb05955ee8dcce1e2151288977dd1c5e",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/2e994fdddb05955ee8dcce1e2151288977dd1c5e"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc1LjI="
+        },
+        {
+            "name": "v0.75.1",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.75.1",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.75.1",
+            "commit": {
+                "sha": "b5b57731d3d3dfbe98994c57c65eb77c7ef3ddb5",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/b5b57731d3d3dfbe98994c57c65eb77c7ef3ddb5"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc1LjE="
+        },
+        {
+            "name": "v0.75.0",
+            "zipball_url": "https://api.github.com/repos/facebook/react-native/zipball/refs/tags/v0.75.0",
+            "tarball_url": "https://api.github.com/repos/facebook/react-native/tarball/refs/tags/v0.75.0",
+            "commit": {
+                "sha": "89cdc14c8bcccb8506cee82056dca6febb1a7281",
+                "url": "https://api.github.com/repos/facebook/react-native/commits/89cdc14c8bcccb8506cee82056dca6febb1a7281"
+            },
+            "node_id": "MDM6UmVmMjkwMjg3NzU6cmVmcy90YWdzL3YwLjc1LjA="
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "id": 46273445,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0NjI3MzQ0NQ==",
+    "name": "uppy",
+    "full_name": "transloadit/uppy",
+    "private": false,
+    "owner": {
+        "login": "transloadit",
+        "id": 125754,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNTc1NA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/125754?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/transloadit",
+        "html_url": "https://github.com/transloadit",
+        "followers_url": "https://api.github.com/users/transloadit/followers",
+        "following_url": "https://api.github.com/users/transloadit/following{/other_user}",
+        "gists_url": "https://api.github.com/users/transloadit/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/transloadit/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/transloadit/subscriptions",
+        "organizations_url": "https://api.github.com/users/transloadit/orgs",
+        "repos_url": "https://api.github.com/users/transloadit/repos",
+        "events_url": "https://api.github.com/users/transloadit/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/transloadit/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/transloadit/uppy",
+    "description": "The next open source file uploader for web browsers :dog: ",
+    "fork": false,
+    "url": "https://api.github.com/repos/transloadit/uppy",
+    "forks_url": "https://api.github.com/repos/transloadit/uppy/forks",
+    "keys_url": "https://api.github.com/repos/transloadit/uppy/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/transloadit/uppy/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/transloadit/uppy/teams",
+    "hooks_url": "https://api.github.com/repos/transloadit/uppy/hooks",
+    "issue_events_url": "https://api.github.com/repos/transloadit/uppy/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/transloadit/uppy/events",
+    "assignees_url": "https://api.github.com/repos/transloadit/uppy/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/transloadit/uppy/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/transloadit/uppy/tags",
+    "blobs_url": "https://api.github.com/repos/transloadit/uppy/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/transloadit/uppy/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/transloadit/uppy/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/transloadit/uppy/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/transloadit/uppy/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/transloadit/uppy/languages",
+    "stargazers_url": "https://api.github.com/repos/transloadit/uppy/stargazers",
+    "contributors_url": "https://api.github.com/repos/transloadit/uppy/contributors",
+    "subscribers_url": "https://api.github.com/repos/transloadit/uppy/subscribers",
+    "subscription_url": "https://api.github.com/repos/transloadit/uppy/subscription",
+    "commits_url": "https://api.github.com/repos/transloadit/uppy/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/transloadit/uppy/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/transloadit/uppy/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/transloadit/uppy/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/transloadit/uppy/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/transloadit/uppy/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/transloadit/uppy/merges",
+    "archive_url": "https://api.github.com/repos/transloadit/uppy/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/transloadit/uppy/downloads",
+    "issues_url": "https://api.github.com/repos/transloadit/uppy/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/transloadit/uppy/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/transloadit/uppy/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/transloadit/uppy/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/transloadit/uppy/labels{/name}",
+    "releases_url": "https://api.github.com/repos/transloadit/uppy/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/transloadit/uppy/deployments",
+    "created_at": "2015-11-16T12:32:33Z",
+    "updated_at": "2025-01-25T14:47:50Z",
+    "pushed_at": "2025-01-23T14:13:01Z",
+    "git_url": "git://github.com/transloadit/uppy.git",
+    "ssh_url": "git@github.com:transloadit/uppy.git",
+    "clone_url": "https://github.com/transloadit/uppy.git",
+    "svn_url": "https://github.com/transloadit/uppy",
+    "homepage": "https://uppy.io",
+    "size": 404594,
+    "stargazers_count": 29405,
+    "watchers_count": 29405,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 2018,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 148,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "dropbox",
+        "encoding",
+        "file-uploader",
+        "file-uploads",
+        "files",
+        "hacktoberfest",
+        "instagram",
+        "javascript",
+        "mit",
+        "modular",
+        "open-source",
+        "pick-files",
+        "resumable",
+        "transloadit",
+        "tus",
+        "uploader",
+        "uppy",
+        "webbrowser"
+    ],
+    "visibility": "public",
+    "forks": 2018,
+    "open_issues": 148,
+    "watchers": 29405,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.25.6",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.6",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.6",
+            "commit": {
+                "sha": "cc4ad1252b34c2359b3179f970a3bae2085ae56d",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/cc4ad1252b34c2359b3179f970a3bae2085ae56d"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjY="
+        },
+        {
+            "name": "v0.25.5",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.5",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.5",
+            "commit": {
+                "sha": "78689f49ca78e797c7cbd5b541782dc7a0174724",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/78689f49ca78e797c7cbd5b541782dc7a0174724"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjU="
+        },
+        {
+            "name": "v0.25.4",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.4",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.4",
+            "commit": {
+                "sha": "994deb950e6cc0bb5d0deaad64d84e0a59c0a949",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/994deb950e6cc0bb5d0deaad64d84e0a59c0a949"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjQ="
+        },
+        {
+            "name": "v0.25.3",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.3",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.3",
+            "commit": {
+                "sha": "c3f27a69c4759251af2d3b996c72f9084f63f9f9",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/c3f27a69c4759251af2d3b996c72f9084f63f9f9"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjM="
+        },
+        {
+            "name": "v0.25.2",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.2",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.2",
+            "commit": {
+                "sha": "6ec4912665a03e56e3352fbdd436c58b70c68586",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/6ec4912665a03e56e3352fbdd436c58b70c68586"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjI="
+        },
+        {
+            "name": "v0.25.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.1",
+            "commit": {
+                "sha": "708c722c951a5b028e8744e2f04fdadde2153ba7",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/708c722c951a5b028e8744e2f04fdadde2153ba7"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjE="
+        },
+        {
+            "name": "v0.25.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.25.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.25.0",
+            "commit": {
+                "sha": "218577cc0f0d70bd3d73f90e41321911a261dda3",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/218577cc0f0d70bd3d73f90e41321911a261dda3"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI1LjA="
+        },
+        {
+            "name": "v0.24.4",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.24.4",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.24.4",
+            "commit": {
+                "sha": "a8f26e743816ac5f896813343b2b378c09646c19",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/a8f26e743816ac5f896813343b2b378c09646c19"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI0LjQ="
+        },
+        {
+            "name": "v0.24.3",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.24.3",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.24.3",
+            "commit": {
+                "sha": "03cb8b5184534f4145749b6fd14cb1fcf54254ce",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/03cb8b5184534f4145749b6fd14cb1fcf54254ce"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI0LjM="
+        },
+        {
+            "name": "v0.24.2",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.24.2",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.24.2",
+            "commit": {
+                "sha": "c35e8b0ea840bad6623f064265318bc0cdfe1002",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/c35e8b0ea840bad6623f064265318bc0cdfe1002"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI0LjI="
+        },
+        {
+            "name": "v0.24.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.24.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.24.1",
+            "commit": {
+                "sha": "69a0f8f3178bcbaf035835652b4568e9314c2c82",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/69a0f8f3178bcbaf035835652b4568e9314c2c82"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI0LjE="
+        },
+        {
+            "name": "v0.24.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.24.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.24.0",
+            "commit": {
+                "sha": "f6a8ab7d89e329e5f01a74c44850014184cdafd5",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/f6a8ab7d89e329e5f01a74c44850014184cdafd5"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjI0LjA="
+        },
+        {
+            "name": "v0.23.3",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.23.3",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.23.3",
+            "commit": {
+                "sha": "bac499ed1916aa6d7f37e5de2370040d59448ff6",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/bac499ed1916aa6d7f37e5de2370040d59448ff6"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIzLjM="
+        },
+        {
+            "name": "v0.23.2",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.23.2",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.23.2",
+            "commit": {
+                "sha": "a7653dd66433b5123377a14258c3701b3b12f400",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/a7653dd66433b5123377a14258c3701b3b12f400"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIzLjI="
+        },
+        {
+            "name": "v0.23.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.23.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.23.1",
+            "commit": {
+                "sha": "ffaa0a65cb2af6f3b745626f19f853d8ec0ebf18",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/ffaa0a65cb2af6f3b745626f19f853d8ec0ebf18"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIzLjE="
+        },
+        {
+            "name": "v0.23.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.23.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.23.0",
+            "commit": {
+                "sha": "78d36e14c631b4fa9ecd09745303eff60ff7881e",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/78d36e14c631b4fa9ecd09745303eff60ff7881e"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIzLjA="
+        },
+        {
+            "name": "v0.22.5",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.22.5",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.22.5",
+            "commit": {
+                "sha": "736792012d99779c948f4ccdacaaab8ea60e961c",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/736792012d99779c948f4ccdacaaab8ea60e961c"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIyLjU="
+        },
+        {
+            "name": "v0.22.4",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.22.4",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.22.4",
+            "commit": {
+                "sha": "dbce014d339fca49a7dc7645f4f0bb70e4af019e",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/dbce014d339fca49a7dc7645f4f0bb70e4af019e"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIyLjQ="
+        },
+        {
+            "name": "v0.22.3",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.22.3",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.22.3",
+            "commit": {
+                "sha": "083d937f444ad987745830d2aff62c9c2018c604",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/083d937f444ad987745830d2aff62c9c2018c604"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIyLjM="
+        },
+        {
+            "name": "v0.22.2",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.22.2",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.22.2",
+            "commit": {
+                "sha": "1d87d11a06bdc61ea3edeab25072314e60f1ac3b",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/1d87d11a06bdc61ea3edeab25072314e60f1ac3b"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIyLjI="
+        },
+        {
+            "name": "v0.22.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.22.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.22.1",
+            "commit": {
+                "sha": "2757e50d630fa2f75cc67f93389b3253b4b28e88",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/2757e50d630fa2f75cc67f93389b3253b4b28e88"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIyLjE="
+        },
+        {
+            "name": "v0.22.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.22.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.22.0",
+            "commit": {
+                "sha": "e655193502e1fca14aab278304238e61a4446d77",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/e655193502e1fca14aab278304238e61a4446d77"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIyLjA="
+        },
+        {
+            "name": "v0.21.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.21.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.21.1",
+            "commit": {
+                "sha": "39a5e4aa260a5de543975d98bb55471ed90f7dc3",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/39a5e4aa260a5de543975d98bb55471ed90f7dc3"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIxLjE="
+        },
+        {
+            "name": "v0.21.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.21.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.21.0",
+            "commit": {
+                "sha": "cb4bc92c3813cc2821f8243f3fca1d1d83d89317",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/cb4bc92c3813cc2821f8243f3fca1d1d83d89317"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIxLjA="
+        },
+        {
+            "name": "v0.20.3",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.20.3",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.20.3",
+            "commit": {
+                "sha": "8d87182a21fa54fd30361b5c7e1974a657fae5e8",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/8d87182a21fa54fd30361b5c7e1974a657fae5e8"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIwLjM="
+        },
+        {
+            "name": "v0.20.2",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.20.2",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.20.2",
+            "commit": {
+                "sha": "5486ca805a0db7629fdfb8ba88b77b885da1a5b4",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/5486ca805a0db7629fdfb8ba88b77b885da1a5b4"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIwLjI="
+        },
+        {
+            "name": "v0.20.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.20.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.20.1",
+            "commit": {
+                "sha": "8806fff510b5fd0e2f367438c9c18add02cb874e",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/8806fff510b5fd0e2f367438c9c18add02cb874e"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIwLjE="
+        },
+        {
+            "name": "v0.20.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.20.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.20.0",
+            "commit": {
+                "sha": "5ee0a134871b3f98bba1072d138e7a1b8a1aaef9",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/5ee0a134871b3f98bba1072d138e7a1b8a1aaef9"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjIwLjA="
+        },
+        {
+            "name": "v0.19.1",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.19.1",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.19.1",
+            "commit": {
+                "sha": "fb89c4b9c42ffabccd91e40200afee06e0cc4841",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/fb89c4b9c42ffabccd91e40200afee06e0cc4841"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjE5LjE="
+        },
+        {
+            "name": "v0.19.0",
+            "zipball_url": "https://api.github.com/repos/transloadit/uppy/zipball/refs/tags/v0.19.0",
+            "tarball_url": "https://api.github.com/repos/transloadit/uppy/tarball/refs/tags/v0.19.0",
+            "commit": {
+                "sha": "7838f19a329179f955ea36d7d50edfe8e53f2b4f",
+                "url": "https://api.github.com/repos/transloadit/uppy/commits/7838f19a329179f955ea36d7d50edfe8e53f2b4f"
+            },
+            "node_id": "MDM6UmVmNDYyNzM0NDU6cmVmcy90YWdzL3YwLjE5LjA="
+        }
+    ]
+}

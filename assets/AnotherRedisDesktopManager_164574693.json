@@ -1,0 +1,423 @@
+{
+    "id": 164574693,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjQ1NzQ2OTM=",
+    "name": "AnotherRedisDesktopManager",
+    "full_name": "qishibo/AnotherRedisDesktopManager",
+    "private": false,
+    "owner": {
+        "login": "qishibo",
+        "id": 5136418,
+        "node_id": "MDQ6VXNlcjUxMzY0MTg=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5136418?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/qishibo",
+        "html_url": "https://github.com/qishibo",
+        "followers_url": "https://api.github.com/users/qishibo/followers",
+        "following_url": "https://api.github.com/users/qishibo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/qishibo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/qishibo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/qishibo/subscriptions",
+        "organizations_url": "https://api.github.com/users/qishibo/orgs",
+        "repos_url": "https://api.github.com/users/qishibo/repos",
+        "events_url": "https://api.github.com/users/qishibo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/qishibo/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+    "fork": false,
+    "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager",
+    "forks_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/forks",
+    "keys_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/teams",
+    "hooks_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/hooks",
+    "issue_events_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/events",
+    "assignees_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tags",
+    "blobs_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/languages",
+    "stargazers_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/stargazers",
+    "contributors_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/contributors",
+    "subscribers_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/subscribers",
+    "subscription_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/subscription",
+    "commits_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/merges",
+    "archive_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/downloads",
+    "issues_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/labels{/name}",
+    "releases_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/deployments",
+    "created_at": "2019-01-08T06:01:56Z",
+    "updated_at": "2025-01-25T16:42:51Z",
+    "pushed_at": "2025-01-08T07:49:26Z",
+    "git_url": "git://github.com/qishibo/AnotherRedisDesktopManager.git",
+    "ssh_url": "git@github.com:qishibo/AnotherRedisDesktopManager.git",
+    "clone_url": "https://github.com/qishibo/AnotherRedisDesktopManager.git",
+    "svn_url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "homepage": "",
+    "size": 5441,
+    "stargazers_count": 31401,
+    "watchers_count": 31401,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2609,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 133,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "redis",
+        "redis-client",
+        "redis-cluster",
+        "redis-desktop-manager",
+        "redis-gui"
+    ],
+    "visibility": "public",
+    "forks": 2609,
+    "open_issues": 133,
+    "watchers": 31401,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.7.1",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.7.1",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.7.1",
+            "commit": {
+                "sha": "fbd8cbe4cec5205a0923881954307aa0cb76dc96",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/fbd8cbe4cec5205a0923881954307aa0cb76dc96"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS43LjE="
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "30b27c947261500c1012b808b81628a640bfbb81",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/30b27c947261500c1012b808b81628a640bfbb81"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS43LjA="
+        },
+        {
+            "name": "v1.6.8",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.8",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.8",
+            "commit": {
+                "sha": "870ca90603be7a40ae18fa1dc476f56a75fe77a4",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/870ca90603be7a40ae18fa1dc476f56a75fe77a4"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42Ljg="
+        },
+        {
+            "name": "v1.6.7",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.7",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.7",
+            "commit": {
+                "sha": "02ed39b4c4f086ca408a53e47699c8b517d0616e",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/02ed39b4c4f086ca408a53e47699c8b517d0616e"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42Ljc="
+        },
+        {
+            "name": "v1.6.6",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.6",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.6",
+            "commit": {
+                "sha": "443617728fdc79029a4decad7fbabe96b6a424f6",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/443617728fdc79029a4decad7fbabe96b6a424f6"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42LjY="
+        },
+        {
+            "name": "v1.6.4",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.4",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.4",
+            "commit": {
+                "sha": "3aa88b7ef938d42a073ec293d174d122f1bf3275",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/3aa88b7ef938d42a073ec293d174d122f1bf3275"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42LjQ="
+        },
+        {
+            "name": "v1.6.3",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.3",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.3",
+            "commit": {
+                "sha": "8aaea34166d2d9d21286e4e9f3c999947c8e75a7",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/8aaea34166d2d9d21286e4e9f3c999947c8e75a7"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42LjM="
+        },
+        {
+            "name": "v1.6.2",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.2",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.2",
+            "commit": {
+                "sha": "64bccbb1e4052d4bb6dd758aaf9834f41ec39f2f",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/64bccbb1e4052d4bb6dd758aaf9834f41ec39f2f"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42LjI="
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "c3ffb13b9c561f61d34db73205e4a037a3acf80c",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/c3ffb13b9c561f61d34db73205e4a037a3acf80c"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42LjE="
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "392eaf278499df56f83ca56995fdbc7e8643d3ae",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/392eaf278499df56f83ca56995fdbc7e8643d3ae"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS42LjA="
+        },
+        {
+            "name": "v1.5.9",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.9",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.9",
+            "commit": {
+                "sha": "43c5208a56674266d146851ebe5e466d1821ae69",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/43c5208a56674266d146851ebe5e466d1821ae69"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41Ljk="
+        },
+        {
+            "name": "v1.5.8",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.8",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.8",
+            "commit": {
+                "sha": "c5fcb2e237aa442351deb5b23634c5aa4a1b4cfb",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/c5fcb2e237aa442351deb5b23634c5aa4a1b4cfb"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41Ljg="
+        },
+        {
+            "name": "v1.5.7",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.7",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.7",
+            "commit": {
+                "sha": "74627e5ce8c6c5a7a2c4feebc41257da024ba946",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/74627e5ce8c6c5a7a2c4feebc41257da024ba946"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41Ljc="
+        },
+        {
+            "name": "v1.5.6",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.6",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.6",
+            "commit": {
+                "sha": "fdd394a54e928b5ecf0ee031f5ce3df27b01e290",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/fdd394a54e928b5ecf0ee031f5ce3df27b01e290"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41LjY="
+        },
+        {
+            "name": "v1.5.5",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.5",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.5",
+            "commit": {
+                "sha": "4578329142f9174ace38bd936c7eff8161b4d734",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/4578329142f9174ace38bd936c7eff8161b4d734"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41LjU="
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "4003f2289b3a85c4e26a5da2f536cd0ea89682a4",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/4003f2289b3a85c4e26a5da2f536cd0ea89682a4"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41LjI="
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "53f5b74c51c0e541498d90e9d1c606d682e7093c",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/53f5b74c51c0e541498d90e9d1c606d682e7093c"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41LjE="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "b44740c85b367ea9dbeadffaece0b08f47f32607",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/b44740c85b367ea9dbeadffaece0b08f47f32607"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS41LjA="
+        },
+        {
+            "name": "v1.4.9",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.9",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.9",
+            "commit": {
+                "sha": "eb2c75a8ba4f673213758e838d320c242d0bc65e",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/eb2c75a8ba4f673213758e838d320c242d0bc65e"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40Ljk="
+        },
+        {
+            "name": "v1.4.8",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.8",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.8",
+            "commit": {
+                "sha": "bcc9ba10cd66aadee80113c4da6480b667d71e02",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/bcc9ba10cd66aadee80113c4da6480b667d71e02"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40Ljg="
+        },
+        {
+            "name": "v1.4.7",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.7",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.7",
+            "commit": {
+                "sha": "a34a21db273493e2cd9ee5a50f048d75202c3116",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/a34a21db273493e2cd9ee5a50f048d75202c3116"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40Ljc="
+        },
+        {
+            "name": "v1.4.5",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.5",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.5",
+            "commit": {
+                "sha": "3060b45263d1b2e696e0b49bc56a55bb7788b3ed",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/3060b45263d1b2e696e0b49bc56a55bb7788b3ed"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40LjU="
+        },
+        {
+            "name": "v1.4.4",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.4",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.4",
+            "commit": {
+                "sha": "37d49861b1f21aee1f5a1da4a54c08399bc51e07",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/37d49861b1f21aee1f5a1da4a54c08399bc51e07"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40LjQ="
+        },
+        {
+            "name": "v1.4.3",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.3",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.3",
+            "commit": {
+                "sha": "9d94cb492d210b0b34171ebff27a7c8a0a728159",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/9d94cb492d210b0b34171ebff27a7c8a0a728159"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40LjM="
+        },
+        {
+            "name": "v1.4.2",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.2",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.2",
+            "commit": {
+                "sha": "40b8aa406b55eaf99ce2b76afa8731304ec09627",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/40b8aa406b55eaf99ce2b76afa8731304ec09627"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40LjI="
+        },
+        {
+            "name": "v1.4.1",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.1",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.1",
+            "commit": {
+                "sha": "38e21d3eee75b8a613a3bf919faaae7fd3a5f011",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/38e21d3eee75b8a613a3bf919faaae7fd3a5f011"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40LjE="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "9ee5b0d6c355d2b02b96d701491fea9d884ac5c2",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/9ee5b0d6c355d2b02b96d701491fea9d884ac5c2"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS40LjA="
+        },
+        {
+            "name": "v1.3.9",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.3.9",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.3.9",
+            "commit": {
+                "sha": "f65df0caeb51ed0dbf5d82802f955f5f580d3705",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/f65df0caeb51ed0dbf5d82802f955f5f580d3705"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS4zLjk="
+        },
+        {
+            "name": "v1.3.8",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.3.8",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.3.8",
+            "commit": {
+                "sha": "31a854bcb33991d250cac072f4d8a42e41a1ff70",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/31a854bcb33991d250cac072f4d8a42e41a1ff70"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS4zLjg="
+        },
+        {
+            "name": "v1.3.7",
+            "zipball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/zipball/refs/tags/v1.3.7",
+            "tarball_url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/tarball/refs/tags/v1.3.7",
+            "commit": {
+                "sha": "8522a85e8bb5917890c7a26507910b2013ffb187",
+                "url": "https://api.github.com/repos/qishibo/AnotherRedisDesktopManager/commits/8522a85e8bb5917890c7a26507910b2013ffb187"
+            },
+            "node_id": "MDM6UmVmMTY0NTc0NjkzOnJlZnMvdGFncy92MS4zLjc="
+        }
+    ]
+}

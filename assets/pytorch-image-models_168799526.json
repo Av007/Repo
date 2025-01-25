@@ -1,0 +1,438 @@
+{
+    "id": 168799526,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjg3OTk1MjY=",
+    "name": "pytorch-image-models",
+    "full_name": "huggingface/pytorch-image-models",
+    "private": false,
+    "owner": {
+        "login": "huggingface",
+        "id": 25720743,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NzIwNzQz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/huggingface",
+        "html_url": "https://github.com/huggingface",
+        "followers_url": "https://api.github.com/users/huggingface/followers",
+        "following_url": "https://api.github.com/users/huggingface/following{/other_user}",
+        "gists_url": "https://api.github.com/users/huggingface/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/huggingface/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/huggingface/subscriptions",
+        "organizations_url": "https://api.github.com/users/huggingface/orgs",
+        "repos_url": "https://api.github.com/users/huggingface/repos",
+        "events_url": "https://api.github.com/users/huggingface/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/huggingface/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/huggingface/pytorch-image-models",
+    "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+    "fork": false,
+    "url": "https://api.github.com/repos/huggingface/pytorch-image-models",
+    "forks_url": "https://api.github.com/repos/huggingface/pytorch-image-models/forks",
+    "keys_url": "https://api.github.com/repos/huggingface/pytorch-image-models/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/huggingface/pytorch-image-models/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/huggingface/pytorch-image-models/teams",
+    "hooks_url": "https://api.github.com/repos/huggingface/pytorch-image-models/hooks",
+    "issue_events_url": "https://api.github.com/repos/huggingface/pytorch-image-models/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/huggingface/pytorch-image-models/events",
+    "assignees_url": "https://api.github.com/repos/huggingface/pytorch-image-models/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/huggingface/pytorch-image-models/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tags",
+    "blobs_url": "https://api.github.com/repos/huggingface/pytorch-image-models/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/huggingface/pytorch-image-models/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/huggingface/pytorch-image-models/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/huggingface/pytorch-image-models/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/huggingface/pytorch-image-models/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/huggingface/pytorch-image-models/languages",
+    "stargazers_url": "https://api.github.com/repos/huggingface/pytorch-image-models/stargazers",
+    "contributors_url": "https://api.github.com/repos/huggingface/pytorch-image-models/contributors",
+    "subscribers_url": "https://api.github.com/repos/huggingface/pytorch-image-models/subscribers",
+    "subscription_url": "https://api.github.com/repos/huggingface/pytorch-image-models/subscription",
+    "commits_url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/huggingface/pytorch-image-models/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/huggingface/pytorch-image-models/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/huggingface/pytorch-image-models/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/huggingface/pytorch-image-models/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/huggingface/pytorch-image-models/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/huggingface/pytorch-image-models/merges",
+    "archive_url": "https://api.github.com/repos/huggingface/pytorch-image-models/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/huggingface/pytorch-image-models/downloads",
+    "issues_url": "https://api.github.com/repos/huggingface/pytorch-image-models/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/huggingface/pytorch-image-models/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/huggingface/pytorch-image-models/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/huggingface/pytorch-image-models/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/huggingface/pytorch-image-models/labels{/name}",
+    "releases_url": "https://api.github.com/repos/huggingface/pytorch-image-models/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/huggingface/pytorch-image-models/deployments",
+    "created_at": "2019-02-02T05:51:12Z",
+    "updated_at": "2025-01-25T11:49:07Z",
+    "pushed_at": "2025-01-24T22:16:39Z",
+    "git_url": "git://github.com/huggingface/pytorch-image-models.git",
+    "ssh_url": "git@github.com:huggingface/pytorch-image-models.git",
+    "clone_url": "https://github.com/huggingface/pytorch-image-models.git",
+    "svn_url": "https://github.com/huggingface/pytorch-image-models",
+    "homepage": "https://huggingface.co/docs/timm",
+    "size": 27907,
+    "stargazers_count": 32999,
+    "watchers_count": 32999,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 4824,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 66,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "augmix",
+        "convnext",
+        "distributed-training",
+        "dual-path-networks",
+        "efficientnet",
+        "image-classification",
+        "imagenet",
+        "maxvit",
+        "mixnet",
+        "mobile-deep-learning",
+        "mobilenet-v2",
+        "mobilenetv3",
+        "nfnets",
+        "normalization-free-training",
+        "pretrained-models",
+        "pretrained-weights",
+        "pytorch",
+        "randaugment",
+        "resnet",
+        "vision-transformer-models"
+    ],
+    "visibility": "public",
+    "forks": 4824,
+    "open_issues": 66,
+    "watchers": 32999,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.0.14",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.14",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.14",
+            "commit": {
+                "sha": "5d535d7a2d4b435b1b5c1177fd8f04a12b942b9a",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/5d535d7a2d4b435b1b5c1177fd8f04a12b942b9a"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjE0"
+        },
+        {
+            "name": "v1.0.13",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.13",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.13",
+            "commit": {
+                "sha": "47811bc05a2fdff2dedbbb8b8b3a4b9e8dba4bb3",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/47811bc05a2fdff2dedbbb8b8b3a4b9e8dba4bb3"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjEz"
+        },
+        {
+            "name": "v1.0.12",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.12",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.12",
+            "commit": {
+                "sha": "553ded5c6b9f2cd1ce6220baf6561ff526e8ff12",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/553ded5c6b9f2cd1ce6220baf6561ff526e8ff12"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjEy"
+        },
+        {
+            "name": "v1.0.11",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.11",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.11",
+            "commit": {
+                "sha": "8cb25489621de5dad5200e7f70402236a699058b",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/8cb25489621de5dad5200e7f70402236a699058b"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjEx"
+        },
+        {
+            "name": "v1.0.10",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.10",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.10",
+            "commit": {
+                "sha": "b4a9a166c35b101d88ac152d130d8aea554dcb2e",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/b4a9a166c35b101d88ac152d130d8aea554dcb2e"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjEw"
+        },
+        {
+            "name": "v1.0.9",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.9",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.9",
+            "commit": {
+                "sha": "072783331f42dd320e3c6fe890a5c197fc21958f",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/072783331f42dd320e3c6fe890a5c197fc21958f"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjk="
+        },
+        {
+            "name": "v1.0.8",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.8",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.8",
+            "commit": {
+                "sha": "a6fe31b09670289dbc8e99a0cfae23de355534c9",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/a6fe31b09670289dbc8e99a0cfae23de355534c9"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjg="
+        },
+        {
+            "name": "v1.0.7",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.7",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.7",
+            "commit": {
+                "sha": "b28945ff056d454b174f0fb8682e362b87150141",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/b28945ff056d454b174f0fb8682e362b87150141"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjc="
+        },
+        {
+            "name": "v1.0.3",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v1.0.3",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v1.0.3",
+            "commit": {
+                "sha": "cb0e4391beedcc5ac3ae4bce16561b95c326f32c",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/cb0e4391beedcc5ac3ae4bce16561b95c326f32c"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MS4wLjM="
+        },
+        {
+            "name": "v0.9.16",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.16",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.16",
+            "commit": {
+                "sha": "6e6f3686a7e06bcba37bbd3b7c755f04a516a1e7",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/6e6f3686a7e06bcba37bbd3b7c755f04a516a1e7"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjE2"
+        },
+        {
+            "name": "v0.9.12",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.12",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.12",
+            "commit": {
+                "sha": "b996c1a0f5068e7f5dfe69429e59e873536754c9",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/b996c1a0f5068e7f5dfe69429e59e873536754c9"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjEy"
+        },
+        {
+            "name": "v0.9.11",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.11",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.11",
+            "commit": {
+                "sha": "3370053e719d9dd98223f85d45dd14e6b0cfc734",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/3370053e719d9dd98223f85d45dd14e6b0cfc734"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjEx"
+        },
+        {
+            "name": "v0.9.10",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.10",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.10",
+            "commit": {
+                "sha": "205d8ad37c838c20c541b787dca840edd9ed1408",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/205d8ad37c838c20c541b787dca840edd9ed1408"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjEw"
+        },
+        {
+            "name": "v0.9.9",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.9",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.9",
+            "commit": {
+                "sha": "d3e83a190f58407107e478d4e0e0d59098ec7fe3",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/d3e83a190f58407107e478d4e0e0d59098ec7fe3"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45Ljk="
+        },
+        {
+            "name": "v0.9.8",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.8",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.8",
+            "commit": {
+                "sha": "9afe0bb78e91ea4183cd1bf076f160ec50e9078b",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/9afe0bb78e91ea4183cd1bf076f160ec50e9078b"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45Ljg="
+        },
+        {
+            "name": "v0.9.7",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.7",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.7",
+            "commit": {
+                "sha": "730b907b4d45a4713cbc425cbf224c46089fd514",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/730b907b4d45a4713cbc425cbf224c46089fd514"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45Ljc="
+        },
+        {
+            "name": "v0.9.6",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.6",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.6",
+            "commit": {
+                "sha": "f544d4916c2ab8d7a763228303d3a5e8e4015909",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/f544d4916c2ab8d7a763228303d3a5e8e4015909"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjY="
+        },
+        {
+            "name": "v0.9.5",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.5",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.5",
+            "commit": {
+                "sha": "81089b10a24b3a780988a1cdf075dd1de9c17042",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/81089b10a24b3a780988a1cdf075dd1de9c17042"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjU="
+        },
+        {
+            "name": "v0.9.2",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.2",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.2",
+            "commit": {
+                "sha": "3d05c0e86f2f4c57bf495468aa3f8a7d3487c986",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/3d05c0e86f2f4c57bf495468aa3f8a7d3487c986"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjI="
+        },
+        {
+            "name": "v0.9.1",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.1",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.1",
+            "commit": {
+                "sha": "cc7709635012a770586a0143973ee4df4ae837af",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/cc7709635012a770586a0143973ee4df4ae837af"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjE="
+        },
+        {
+            "name": "v0.9.0",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.9.0",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.9.0",
+            "commit": {
+                "sha": "35b9fc71a1c7e097797721fbdd1bb5743853d1e1",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/35b9fc71a1c7e097797721fbdd1bb5743853d1e1"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC45LjA="
+        },
+        {
+            "name": "v0.8.17dev0",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.8.17dev0",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.8.17dev0",
+            "commit": {
+                "sha": "a089bfba2d8a531c571e0d70f24bf3dc6d7b752f",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/a089bfba2d8a531c571e0d70f24bf3dc6d7b752f"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC44LjE3ZGV2MA=="
+        },
+        {
+            "name": "v0.8.13dev0",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.8.13dev0",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.8.13dev0",
+            "commit": {
+                "sha": "a0772f03e0f4bc704705fb9afb9505c65ef2fe22",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/a0772f03e0f4bc704705fb9afb9505c65ef2fe22"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC44LjEzZGV2MA=="
+        },
+        {
+            "name": "v0.8.10dev0",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.8.10dev0",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.8.10dev0",
+            "commit": {
+                "sha": "1e0b34722772b6612ceab18cfe43d2e6a10c204e",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/1e0b34722772b6612ceab18cfe43d2e6a10c204e"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC44LjEwZGV2MA=="
+        },
+        {
+            "name": "v0.8.6dev0",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.8.6dev0",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.8.6dev0",
+            "commit": {
+                "sha": "a2c14c20642c464dcd28ebe5cd66b945d8fa47f4",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/a2c14c20642c464dcd28ebe5cd66b945d8fa47f4"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC44LjZkZXYw"
+        },
+        {
+            "name": "v0.8.2dev0",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.8.2dev0",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.8.2dev0",
+            "commit": {
+                "sha": "130458988a61c961cd78eb95c427472af5a26e50",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/130458988a61c961cd78eb95c427472af5a26e50"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC44LjJkZXYw"
+        },
+        {
+            "name": "v0.6.13",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.6.13",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.6.13",
+            "commit": {
+                "sha": "2696eedd1b1763b9da06e68c1af3c5ed360fe687",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/2696eedd1b1763b9da06e68c1af3c5ed360fe687"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC42LjEz"
+        },
+        {
+            "name": "v0.6.12",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.6.12",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.6.12",
+            "commit": {
+                "sha": "ce4d3485b690837ba4e1cb4e0e6c4ed415e36cea",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/ce4d3485b690837ba4e1cb4e0e6c4ed415e36cea"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC42LjEy"
+        },
+        {
+            "name": "v0.6.11",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.6.11",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.6.11",
+            "commit": {
+                "sha": "d4ea5c7d7d55967a8bedbfbb58962131d8aba776",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/d4ea5c7d7d55967a8bedbfbb58962131d8aba776"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC42LjEx"
+        },
+        {
+            "name": "v0.6.7",
+            "zipball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/zipball/refs/tags/v0.6.7",
+            "tarball_url": "https://api.github.com/repos/huggingface/pytorch-image-models/tarball/refs/tags/v0.6.7",
+            "commit": {
+                "sha": "7cd4204a289cd0dddad925c076cdb96ae9670e87",
+                "url": "https://api.github.com/repos/huggingface/pytorch-image-models/commits/7cd4204a289cd0dddad925c076cdb96ae9670e87"
+            },
+            "node_id": "MDM6UmVmMTY4Nzk5NTI2OnJlZnMvdGFncy92MC42Ljc="
+        }
+    ]
+}

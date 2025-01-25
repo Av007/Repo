@@ -1,0 +1,423 @@
+{
+    "id": 17728164,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNzcyODE2NA==",
+    "name": "terraform",
+    "full_name": "hashicorp/terraform",
+    "private": false,
+    "owner": {
+        "login": "hashicorp",
+        "id": 761456,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MTQ1Ng==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/761456?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/hashicorp",
+        "html_url": "https://github.com/hashicorp",
+        "followers_url": "https://api.github.com/users/hashicorp/followers",
+        "following_url": "https://api.github.com/users/hashicorp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/hashicorp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/hashicorp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/hashicorp/subscriptions",
+        "organizations_url": "https://api.github.com/users/hashicorp/orgs",
+        "repos_url": "https://api.github.com/users/hashicorp/repos",
+        "events_url": "https://api.github.com/users/hashicorp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/hashicorp/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "fork": false,
+    "url": "https://api.github.com/repos/hashicorp/terraform",
+    "forks_url": "https://api.github.com/repos/hashicorp/terraform/forks",
+    "keys_url": "https://api.github.com/repos/hashicorp/terraform/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/hashicorp/terraform/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/hashicorp/terraform/teams",
+    "hooks_url": "https://api.github.com/repos/hashicorp/terraform/hooks",
+    "issue_events_url": "https://api.github.com/repos/hashicorp/terraform/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/hashicorp/terraform/events",
+    "assignees_url": "https://api.github.com/repos/hashicorp/terraform/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/hashicorp/terraform/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/hashicorp/terraform/tags",
+    "blobs_url": "https://api.github.com/repos/hashicorp/terraform/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/hashicorp/terraform/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/hashicorp/terraform/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/hashicorp/terraform/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/hashicorp/terraform/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/hashicorp/terraform/languages",
+    "stargazers_url": "https://api.github.com/repos/hashicorp/terraform/stargazers",
+    "contributors_url": "https://api.github.com/repos/hashicorp/terraform/contributors",
+    "subscribers_url": "https://api.github.com/repos/hashicorp/terraform/subscribers",
+    "subscription_url": "https://api.github.com/repos/hashicorp/terraform/subscription",
+    "commits_url": "https://api.github.com/repos/hashicorp/terraform/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/hashicorp/terraform/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/hashicorp/terraform/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/hashicorp/terraform/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/hashicorp/terraform/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/hashicorp/terraform/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/hashicorp/terraform/merges",
+    "archive_url": "https://api.github.com/repos/hashicorp/terraform/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/hashicorp/terraform/downloads",
+    "issues_url": "https://api.github.com/repos/hashicorp/terraform/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/hashicorp/terraform/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/hashicorp/terraform/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/hashicorp/terraform/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/hashicorp/terraform/labels{/name}",
+    "releases_url": "https://api.github.com/repos/hashicorp/terraform/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/hashicorp/terraform/deployments",
+    "created_at": "2014-03-13T22:25:48Z",
+    "updated_at": "2025-01-25T17:05:58Z",
+    "pushed_at": "2025-01-25T00:22:56Z",
+    "git_url": "git://github.com/hashicorp/terraform.git",
+    "ssh_url": "git@github.com:hashicorp/terraform.git",
+    "clone_url": "https://github.com/hashicorp/terraform.git",
+    "svn_url": "https://github.com/hashicorp/terraform",
+    "homepage": "https://www.terraform.io",
+    "size": 334137,
+    "stargazers_count": 43957,
+    "watchers_count": 43957,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 9642,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1986,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cloud",
+        "cloud-management",
+        "graph",
+        "infrastructure-as-code",
+        "terraform"
+    ],
+    "visibility": "public",
+    "forks": 9642,
+    "open_issues": 1986,
+    "watchers": 43957,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.11.0-beta1",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.11.0-beta1",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.11.0-beta1",
+            "commit": {
+                "sha": "24e181d8b7337c92208351369db743f3c0ea7741",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/24e181d8b7337c92208351369db743f3c0ea7741"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjExLjAtYmV0YTE="
+        },
+        {
+            "name": "v1.11.0-alpha20250107",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.11.0-alpha20250107",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.11.0-alpha20250107",
+            "commit": {
+                "sha": "2e236506d908344c4d066b8cc7fcfe7fe7e7fc29",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/2e236506d908344c4d066b8cc7fcfe7fe7e7fc29"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjExLjAtYWxwaGEyMDI1MDEwNw=="
+        },
+        {
+            "name": "v1.11.0-alpha20241218",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.11.0-alpha20241218",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.11.0-alpha20241218",
+            "commit": {
+                "sha": "8f3f2ccaacf74e1d273f417ec540a4a5214e8d19",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/8f3f2ccaacf74e1d273f417ec540a4a5214e8d19"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjExLjAtYWxwaGEyMDI0MTIxOA=="
+        },
+        {
+            "name": "v1.11.0-alpha20241211",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.11.0-alpha20241211",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.11.0-alpha20241211",
+            "commit": {
+                "sha": "108f99cd41baec233a88d75336488890b42c7a87",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/108f99cd41baec233a88d75336488890b42c7a87"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjExLjAtYWxwaGEyMDI0MTIxMQ=="
+        },
+        {
+            "name": "v1.11.0-alpha20241106",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.11.0-alpha20241106",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.11.0-alpha20241106",
+            "commit": {
+                "sha": "caf10429ee9ea37e23b1b2c2a394267121e22cc7",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/caf10429ee9ea37e23b1b2c2a394267121e22cc7"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjExLjAtYWxwaGEyMDI0MTEwNg=="
+        },
+        {
+            "name": "v1.10.5",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.5",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.5",
+            "commit": {
+                "sha": "898e397ebaefb4d0c363b7332b3ba184b8852162",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/898e397ebaefb4d0c363b7332b3ba184b8852162"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjU="
+        },
+        {
+            "name": "v1.10.4",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.4",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.4",
+            "commit": {
+                "sha": "369495a8601caad9c0b5052739db42f421bf1c03",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/369495a8601caad9c0b5052739db42f421bf1c03"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjQ="
+        },
+        {
+            "name": "v1.10.3",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.3",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.3",
+            "commit": {
+                "sha": "7f205bcb3170da14ebb90d27cc170ddfe168e912",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/7f205bcb3170da14ebb90d27cc170ddfe168e912"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjM="
+        },
+        {
+            "name": "v1.10.2",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.2",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.2",
+            "commit": {
+                "sha": "99f2641df60ed3fa522d615d82d1d87abca8a9c7",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/99f2641df60ed3fa522d615d82d1d87abca8a9c7"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjI="
+        },
+        {
+            "name": "v1.10.1",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.1",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.1",
+            "commit": {
+                "sha": "7bffc912cea2a563f90bfffce68e8cf44d3d8a5c",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/7bffc912cea2a563f90bfffce68e8cf44d3d8a5c"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjE="
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "24236f4f0bd10ada71d70868abe15f9d88099747",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/24236f4f0bd10ada71d70868abe15f9d88099747"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjA="
+        },
+        {
+            "name": "v1.10.0-rc3",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-rc3",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-rc3",
+            "commit": {
+                "sha": "50c3761fef4ad44e4a2fb99db7585be569748edb",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/50c3761fef4ad44e4a2fb99db7585be569748edb"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtcmMz"
+        },
+        {
+            "name": "v1.10.0-rc2",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-rc2",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-rc2",
+            "commit": {
+                "sha": "f57792ed2dc62c8d2c13d80b9a6992799f760d83",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/f57792ed2dc62c8d2c13d80b9a6992799f760d83"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtcmMy"
+        },
+        {
+            "name": "v1.10.0-rc1",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-rc1",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-rc1",
+            "commit": {
+                "sha": "baf1906fae53e93f26dafb61fd9ea18d1e13a7fa",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/baf1906fae53e93f26dafb61fd9ea18d1e13a7fa"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtcmMx"
+        },
+        {
+            "name": "v1.10.0-beta1",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-beta1",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-beta1",
+            "commit": {
+                "sha": "864649ead9899d84cfb116318a5c55b5689fbd95",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/864649ead9899d84cfb116318a5c55b5689fbd95"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYmV0YTE="
+        },
+        {
+            "name": "v1.10.0-alpha20241023",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20241023",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20241023",
+            "commit": {
+                "sha": "c8bc448a789b7e538cf110aafeb7c2339c5542cf",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/c8bc448a789b7e538cf110aafeb7c2339c5542cf"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MTAyMw=="
+        },
+        {
+            "name": "v1.10.0-alpha20241009",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20241009",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20241009",
+            "commit": {
+                "sha": "3ca2ce48263061ba96877f242dd47b0f777bb9f6",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/3ca2ce48263061ba96877f242dd47b0f777bb9f6"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MTAwOQ=="
+        },
+        {
+            "name": "v1.10.0-alpha20240926",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240926",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240926",
+            "commit": {
+                "sha": "be9d03a03df9753100d386e57e979fe42ff19552",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/be9d03a03df9753100d386e57e979fe42ff19552"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDkyNg=="
+        },
+        {
+            "name": "v1.10.0-alpha20240918",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240918",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240918",
+            "commit": {
+                "sha": "90a5c50972cdec98bb2df96c7f590a1a980ca59e",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/90a5c50972cdec98bb2df96c7f590a1a980ca59e"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDkxOA=="
+        },
+        {
+            "name": "v1.10.0-alpha20240911",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240911",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240911",
+            "commit": {
+                "sha": "5624bc70d21f2cbfe71b1063798c010d0fa7066a",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/5624bc70d21f2cbfe71b1063798c010d0fa7066a"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDkxMQ=="
+        },
+        {
+            "name": "v1.10.0-alpha20240828",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240828",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240828",
+            "commit": {
+                "sha": "7fdfc762a2995f880cfc83f8ac6aa2eed0f42130",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/7fdfc762a2995f880cfc83f8ac6aa2eed0f42130"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDgyOA=="
+        },
+        {
+            "name": "v1.10.0-alpha20240814",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240814",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240814",
+            "commit": {
+                "sha": "573802427d227866d1b0d47341d7e42d94f57625",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/573802427d227866d1b0d47341d7e42d94f57625"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDgxNA=="
+        },
+        {
+            "name": "v1.10.0-alpha20240807",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240807",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240807",
+            "commit": {
+                "sha": "a3522cb168fd70849a813768b5e771800618d64c",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/a3522cb168fd70849a813768b5e771800618d64c"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDgwNw=="
+        },
+        {
+            "name": "v1.10.0-alpha20240730",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240730",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240730",
+            "commit": {
+                "sha": "92574a7811111f6afef4a16c9b72b8bd53e882e1",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/92574a7811111f6afef4a16c9b72b8bd53e882e1"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDczMA=="
+        },
+        {
+            "name": "v1.10.0-alpha20240717",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240717",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240717",
+            "commit": {
+                "sha": "7da9b85930fe541504d94525b5c937ef87493f2b",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/7da9b85930fe541504d94525b5c937ef87493f2b"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDcxNw=="
+        },
+        {
+            "name": "v1.10.0-alpha20240619",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240619",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240619",
+            "commit": {
+                "sha": "521c659bfd5b1b6b83680f12ed9317fd865085c6",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/521c659bfd5b1b6b83680f12ed9317fd865085c6"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDYxOQ=="
+        },
+        {
+            "name": "v1.10.0-alpha20240606",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.10.0-alpha20240606",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.10.0-alpha20240606",
+            "commit": {
+                "sha": "1d1e979e4682349f66ebe7506296e9a41df6adfa",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/1d1e979e4682349f66ebe7506296e9a41df6adfa"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjEwLjAtYWxwaGEyMDI0MDYwNg=="
+        },
+        {
+            "name": "v1.9.8",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.9.8",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.9.8",
+            "commit": {
+                "sha": "e044e569c5bc81f82e9a4d7891f37c6fbb0a8a10",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/e044e569c5bc81f82e9a4d7891f37c6fbb0a8a10"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjkuOA=="
+        },
+        {
+            "name": "v1.9.7",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.9.7",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.9.7",
+            "commit": {
+                "sha": "25c4dfba736ceba6456a57cca3703b1495a5ef62",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/25c4dfba736ceba6456a57cca3703b1495a5ef62"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjkuNw=="
+        },
+        {
+            "name": "v1.9.6",
+            "zipball_url": "https://api.github.com/repos/hashicorp/terraform/zipball/refs/tags/v1.9.6",
+            "tarball_url": "https://api.github.com/repos/hashicorp/terraform/tarball/refs/tags/v1.9.6",
+            "commit": {
+                "sha": "f164d45c3f5775f930c8ccb7d8c5295d8a5fcd52",
+                "url": "https://api.github.com/repos/hashicorp/terraform/commits/f164d45c3f5775f930c8ccb7d8c5295d8a5fcd52"
+            },
+            "node_id": "MDM6UmVmMTc3MjgxNjQ6cmVmcy90YWdzL3YxLjkuNg=="
+        }
+    ]
+}

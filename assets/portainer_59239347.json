@@ -1,0 +1,431 @@
+{
+    "id": 59239347,
+    "node_id": "MDEwOlJlcG9zaXRvcnk1OTIzOTM0Nw==",
+    "name": "portainer",
+    "full_name": "portainer/portainer",
+    "private": false,
+    "owner": {
+        "login": "portainer",
+        "id": 22225832,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMjI1ODMy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22225832?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/portainer",
+        "html_url": "https://github.com/portainer",
+        "followers_url": "https://api.github.com/users/portainer/followers",
+        "following_url": "https://api.github.com/users/portainer/following{/other_user}",
+        "gists_url": "https://api.github.com/users/portainer/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/portainer/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/portainer/subscriptions",
+        "organizations_url": "https://api.github.com/users/portainer/orgs",
+        "repos_url": "https://api.github.com/users/portainer/repos",
+        "events_url": "https://api.github.com/users/portainer/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/portainer/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/portainer/portainer",
+    "description": "Making Docker and Kubernetes management easy.",
+    "fork": false,
+    "url": "https://api.github.com/repos/portainer/portainer",
+    "forks_url": "https://api.github.com/repos/portainer/portainer/forks",
+    "keys_url": "https://api.github.com/repos/portainer/portainer/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/portainer/portainer/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/portainer/portainer/teams",
+    "hooks_url": "https://api.github.com/repos/portainer/portainer/hooks",
+    "issue_events_url": "https://api.github.com/repos/portainer/portainer/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/portainer/portainer/events",
+    "assignees_url": "https://api.github.com/repos/portainer/portainer/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/portainer/portainer/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/portainer/portainer/tags",
+    "blobs_url": "https://api.github.com/repos/portainer/portainer/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/portainer/portainer/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/portainer/portainer/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/portainer/portainer/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/portainer/portainer/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/portainer/portainer/languages",
+    "stargazers_url": "https://api.github.com/repos/portainer/portainer/stargazers",
+    "contributors_url": "https://api.github.com/repos/portainer/portainer/contributors",
+    "subscribers_url": "https://api.github.com/repos/portainer/portainer/subscribers",
+    "subscription_url": "https://api.github.com/repos/portainer/portainer/subscription",
+    "commits_url": "https://api.github.com/repos/portainer/portainer/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/portainer/portainer/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/portainer/portainer/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/portainer/portainer/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/portainer/portainer/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/portainer/portainer/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/portainer/portainer/merges",
+    "archive_url": "https://api.github.com/repos/portainer/portainer/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/portainer/portainer/downloads",
+    "issues_url": "https://api.github.com/repos/portainer/portainer/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/portainer/portainer/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/portainer/portainer/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/portainer/portainer/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/portainer/portainer/labels{/name}",
+    "releases_url": "https://api.github.com/repos/portainer/portainer/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/portainer/portainer/deployments",
+    "created_at": "2016-05-19T20:15:28Z",
+    "updated_at": "2025-01-25T16:29:13Z",
+    "pushed_at": "2025-01-25T13:07:31Z",
+    "git_url": "git://github.com/portainer/portainer.git",
+    "ssh_url": "git@github.com:portainer/portainer.git",
+    "clone_url": "https://github.com/portainer/portainer.git",
+    "svn_url": "https://github.com/portainer/portainer",
+    "homepage": "https://www.portainer.io",
+    "size": 81946,
+    "stargazers_count": 31757,
+    "watchers_count": 31757,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2525,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 699,
+    "license": {
+        "key": "zlib",
+        "name": "zlib License",
+        "spdx_id": "Zlib",
+        "url": "https://api.github.com/licenses/zlib",
+        "node_id": "MDc6TGljZW5zZTI3"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "docker",
+        "docker-compose",
+        "docker-container",
+        "docker-deployment",
+        "docker-image",
+        "docker-swarm",
+        "docker-ui",
+        "dockerfile",
+        "hacktoberfest",
+        "kubernetes",
+        "moby",
+        "portainer",
+        "ui"
+    ],
+    "visibility": "public",
+    "forks": 2525,
+    "open_issues": 699,
+    "watchers": 31757,
+    "default_branch": "develop",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.10.1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.10.1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.10.1",
+            "commit": {
+                "sha": "199efb400c0e5fa68d128a5c54c63f1d2682287e",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/199efb400c0e5fa68d128a5c54c63f1d2682287e"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjEwLjE="
+        },
+        {
+            "name": "v0.10.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.10.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.10.0",
+            "commit": {
+                "sha": "d40b48775697cee04e1acf8d67f4b844bc997a49",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/d40b48775697cee04e1acf8d67f4b844bc997a49"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjEwLjA="
+        },
+        {
+            "name": "v0.9.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.9.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.9.0",
+            "commit": {
+                "sha": "3df4342f08bf593934f73b051e6b11ebcf243dd0",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/3df4342f08bf593934f73b051e6b11ebcf243dd0"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjkuMA=="
+        },
+        {
+            "name": "v0.8.1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.8.1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.8.1",
+            "commit": {
+                "sha": "f9aedad71a64f7f8cfd488f3a5f58c4fd6e98c39",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/f9aedad71a64f7f8cfd488f3a5f58c4fd6e98c39"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjguMQ=="
+        },
+        {
+            "name": "v0.8.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.8.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.8.0",
+            "commit": {
+                "sha": "106b0f3de834ba4784eab5123ba802e3f208f0fc",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/106b0f3de834ba4784eab5123ba802e3f208f0fc"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjguMA=="
+        },
+        {
+            "name": "v0.7.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.7.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.7.0",
+            "commit": {
+                "sha": "ae3d1c305d40e51238b1fcaec515c7140e697f96",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/ae3d1c305d40e51238b1fcaec515c7140e697f96"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjcuMA=="
+        },
+        {
+            "name": "v0.6.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.6.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.6.0",
+            "commit": {
+                "sha": "ccd27f203d7aed5b40f5952c1027418e4791c7cb",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/ccd27f203d7aed5b40f5952c1027418e4791c7cb"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjYuMA=="
+        },
+        {
+            "name": "v0.5",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/v0.5",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/v0.5",
+            "commit": {
+                "sha": "8586993ee5da4c376e18a5f59cca7e7b38a37be5",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/8586993ee5da4c376e18a5f59cca7e7b38a37be5"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL3YwLjU="
+        },
+        {
+            "name": "internal-1.8.1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.8.1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.8.1",
+            "commit": {
+                "sha": "2199c0fa065b640e2c51181da4c80ae6fac8104e",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/2199c0fa065b640e2c51181da4c80ae6fac8104e"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuOC4x"
+        },
+        {
+            "name": "internal-1.8.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.8.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.8.0",
+            "commit": {
+                "sha": "21b82c3758da1a921a09691c35dc035d2048c4af",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/21b82c3758da1a921a09691c35dc035d2048c4af"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuOC4w"
+        },
+        {
+            "name": "internal-1.7.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.7.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.7.0",
+            "commit": {
+                "sha": "0aa84422da5501dc47ddef6b126bfee6b6818cd6",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/0aa84422da5501dc47ddef6b126bfee6b6818cd6"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuNy4w"
+        },
+        {
+            "name": "internal-1.6.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.6.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.6.0",
+            "commit": {
+                "sha": "de8c6b4ed872abcef12241f3076a82406673a634",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/de8c6b4ed872abcef12241f3076a82406673a634"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuNi4w"
+        },
+        {
+            "name": "internal-1.5.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.5.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.5.0",
+            "commit": {
+                "sha": "bcdd7498a1232bbaf918d5b9ac945559c9972a06",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/bcdd7498a1232bbaf918d5b9ac945559c9972a06"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuNS4w"
+        },
+        {
+            "name": "internal-1.4.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.4.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.4.0",
+            "commit": {
+                "sha": "1f884e9584a7eec086f5a68fad5ff7e5b32cdad2",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/1f884e9584a7eec086f5a68fad5ff7e5b32cdad2"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuNC4w"
+        },
+        {
+            "name": "internal-1.3.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.3.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.3.0",
+            "commit": {
+                "sha": "d253c0d4940a0d0a7328974482da399693500ce5",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/d253c0d4940a0d0a7328974482da399693500ce5"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuMy4w"
+        },
+        {
+            "name": "internal-1.2.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/internal-1.2.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/internal-1.2.0",
+            "commit": {
+                "sha": "b997b787c48e97cb7b9462d14be8e1526107969d",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/b997b787c48e97cb7b9462d14be8e1526107969d"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2ludGVybmFsLTEuMi4w"
+        },
+        {
+            "name": "edge_m2",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/edge_m2",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/edge_m2",
+            "commit": {
+                "sha": "ecf52616e2a9dbcf36beff4777cffa6d797e3404",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/ecf52616e2a9dbcf36beff4777cffa6d797e3404"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzL2VkZ2VfbTI="
+        },
+        {
+            "name": "2.26.1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.26.1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.26.1",
+            "commit": {
+                "sha": "8b60ebcd8e471f470db4e6d9c3b33c6fde4bc6e8",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/8b60ebcd8e471f470db4e6d9c3b33c6fde4bc6e8"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjYuMQ=="
+        },
+        {
+            "name": "2.26.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.26.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.26.0",
+            "commit": {
+                "sha": "d16462195fc3e5ea8c2c4af1d78fa104bd0dfdd6",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/d16462195fc3e5ea8c2c4af1d78fa104bd0dfdd6"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjYuMA=="
+        },
+        {
+            "name": "2.25.1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.25.1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.25.1",
+            "commit": {
+                "sha": "60ca1839679038db03d2aadcbf653d52c820f6af",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/60ca1839679038db03d2aadcbf653d52c820f6af"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjUuMQ=="
+        },
+        {
+            "name": "2.25.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.25.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.25.0",
+            "commit": {
+                "sha": "b2f6f43a255240d19f49fcd690bff94eedfd16d3",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/b2f6f43a255240d19f49fcd690bff94eedfd16d3"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjUuMA=="
+        },
+        {
+            "name": "2.24.1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.24.1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.24.1",
+            "commit": {
+                "sha": "b46bff06c6f988bcffc51e8561c99d91db3d60b3",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/b46bff06c6f988bcffc51e8561c99d91db3d60b3"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjQuMQ=="
+        },
+        {
+            "name": "2.24.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.24.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.24.0",
+            "commit": {
+                "sha": "2c8434c6098d0500ccece1afebfcba8b7ff479de",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/2c8434c6098d0500ccece1afebfcba8b7ff479de"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjQuMA=="
+        },
+        {
+            "name": "2.23.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.23.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.23.0",
+            "commit": {
+                "sha": "369598bc96503323a857d191e24236eee9b96029",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/369598bc96503323a857d191e24236eee9b96029"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjMuMA=="
+        },
+        {
+            "name": "2.22.0",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.22.0",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.22.0",
+            "commit": {
+                "sha": "71c7dacf42b2011045b1e457bae0b87bdf827554",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/71c7dacf42b2011045b1e457bae0b87bdf827554"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjIuMA=="
+        },
+        {
+            "name": "2.22.0-rc1",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.22.0-rc1",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.22.0-rc1",
+            "commit": {
+                "sha": "b4d8bc22546f94a0edd025684ee335290d18408e",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/b4d8bc22546f94a0edd025684ee335290d18408e"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjIuMC1yYzE="
+        },
+        {
+            "name": "2.21.5",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.21.5",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.21.5",
+            "commit": {
+                "sha": "515ef880c03cf63a48cb86790cd644a76a191a7f",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/515ef880c03cf63a48cb86790cd644a76a191a7f"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjEuNQ=="
+        },
+        {
+            "name": "2.21.4",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.21.4",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.21.4",
+            "commit": {
+                "sha": "a904c74fbbddfc22eb042e1fe45efc52bd2cb41a",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/a904c74fbbddfc22eb042e1fe45efc52bd2cb41a"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjEuNA=="
+        },
+        {
+            "name": "2.21.3",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.21.3",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.21.3",
+            "commit": {
+                "sha": "8cbd23c059eea2892d925a7e5a65129a8a46e2e1",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/8cbd23c059eea2892d925a7e5a65129a8a46e2e1"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjEuMw=="
+        },
+        {
+            "name": "2.21.2",
+            "zipball_url": "https://api.github.com/repos/portainer/portainer/zipball/refs/tags/2.21.2",
+            "tarball_url": "https://api.github.com/repos/portainer/portainer/tarball/refs/tags/2.21.2",
+            "commit": {
+                "sha": "09348b8a25b109df9850844c2e5665a27b99cde8",
+                "url": "https://api.github.com/repos/portainer/portainer/commits/09348b8a25b109df9850844c2e5665a27b99cde8"
+            },
+            "node_id": "MDM6UmVmNTkyMzkzNDc6cmVmcy90YWdzLzIuMjEuMg=="
+        }
+    ]
+}

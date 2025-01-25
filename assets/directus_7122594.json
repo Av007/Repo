@@ -1,0 +1,438 @@
+{
+    "id": 7122594,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3MTIyNTk0",
+    "name": "directus",
+    "full_name": "directus/directus",
+    "private": false,
+    "owner": {
+        "login": "directus",
+        "id": 15967950,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1OTY3OTUw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15967950?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/directus",
+        "html_url": "https://github.com/directus",
+        "followers_url": "https://api.github.com/users/directus/followers",
+        "following_url": "https://api.github.com/users/directus/following{/other_user}",
+        "gists_url": "https://api.github.com/users/directus/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/directus/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/directus/subscriptions",
+        "organizations_url": "https://api.github.com/users/directus/orgs",
+        "repos_url": "https://api.github.com/users/directus/repos",
+        "events_url": "https://api.github.com/users/directus/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/directus/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/directus/directus",
+    "description": "The flexible backend for all your projects \ud83d\udc30 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+    "fork": false,
+    "url": "https://api.github.com/repos/directus/directus",
+    "forks_url": "https://api.github.com/repos/directus/directus/forks",
+    "keys_url": "https://api.github.com/repos/directus/directus/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/directus/directus/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/directus/directus/teams",
+    "hooks_url": "https://api.github.com/repos/directus/directus/hooks",
+    "issue_events_url": "https://api.github.com/repos/directus/directus/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/directus/directus/events",
+    "assignees_url": "https://api.github.com/repos/directus/directus/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/directus/directus/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/directus/directus/tags",
+    "blobs_url": "https://api.github.com/repos/directus/directus/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/directus/directus/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/directus/directus/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/directus/directus/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/directus/directus/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/directus/directus/languages",
+    "stargazers_url": "https://api.github.com/repos/directus/directus/stargazers",
+    "contributors_url": "https://api.github.com/repos/directus/directus/contributors",
+    "subscribers_url": "https://api.github.com/repos/directus/directus/subscribers",
+    "subscription_url": "https://api.github.com/repos/directus/directus/subscription",
+    "commits_url": "https://api.github.com/repos/directus/directus/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/directus/directus/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/directus/directus/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/directus/directus/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/directus/directus/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/directus/directus/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/directus/directus/merges",
+    "archive_url": "https://api.github.com/repos/directus/directus/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/directus/directus/downloads",
+    "issues_url": "https://api.github.com/repos/directus/directus/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/directus/directus/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/directus/directus/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/directus/directus/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/directus/directus/labels{/name}",
+    "releases_url": "https://api.github.com/repos/directus/directus/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/directus/directus/deployments",
+    "created_at": "2012-12-12T01:35:36Z",
+    "updated_at": "2025-01-25T14:52:32Z",
+    "pushed_at": "2025-01-24T16:20:49Z",
+    "git_url": "git://github.com/directus/directus.git",
+    "ssh_url": "git@github.com:directus/directus.git",
+    "clone_url": "https://github.com/directus/directus.git",
+    "svn_url": "https://github.com/directus/directus",
+    "homepage": "https://directus.io",
+    "size": 402776,
+    "stargazers_count": 28835,
+    "watchers_count": 28835,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4020,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 545,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "api",
+        "app",
+        "cms",
+        "composable",
+        "data-visualization",
+        "database",
+        "directus",
+        "graphql",
+        "headless-cms",
+        "javascript",
+        "mariadb",
+        "mssql",
+        "mysql",
+        "no-code",
+        "node",
+        "postgresql",
+        "sql",
+        "sqlite",
+        "typescript",
+        "vue"
+    ],
+    "visibility": "public",
+    "forks": 4020,
+    "open_issues": 545,
+    "watchers": 28835,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v11.4.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.4.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.4.0",
+            "commit": {
+                "sha": "a799fcb86302ce8c7856dd55106a503a2a32308a",
+                "url": "https://api.github.com/repos/directus/directus/commits/a799fcb86302ce8c7856dd55106a503a2a32308a"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjQuMA=="
+        },
+        {
+            "name": "v11.3.5",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.3.5",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.3.5",
+            "commit": {
+                "sha": "99cd15f3a0e4962602d2476e4f678d7a36fb37a8",
+                "url": "https://api.github.com/repos/directus/directus/commits/99cd15f3a0e4962602d2476e4f678d7a36fb37a8"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjMuNQ=="
+        },
+        {
+            "name": "v11.3.4",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.3.4",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.3.4",
+            "commit": {
+                "sha": "5eb8097cf249b0732cd168b1f85c014f089a5abf",
+                "url": "https://api.github.com/repos/directus/directus/commits/5eb8097cf249b0732cd168b1f85c014f089a5abf"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjMuNA=="
+        },
+        {
+            "name": "v11.3.3",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.3.3",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.3.3",
+            "commit": {
+                "sha": "f3d8a4bdea21656a84a668a39c9ce04558116abe",
+                "url": "https://api.github.com/repos/directus/directus/commits/f3d8a4bdea21656a84a668a39c9ce04558116abe"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjMuMw=="
+        },
+        {
+            "name": "v11.3.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.3.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.3.2",
+            "commit": {
+                "sha": "ba69d5591de8e7500b3c9f41ebc00f7dc076aa5f",
+                "url": "https://api.github.com/repos/directus/directus/commits/ba69d5591de8e7500b3c9f41ebc00f7dc076aa5f"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjMuMg=="
+        },
+        {
+            "name": "v11.3.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.3.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.3.1",
+            "commit": {
+                "sha": "401c565205fb040965292021c2f1457c9f1f83a3",
+                "url": "https://api.github.com/repos/directus/directus/commits/401c565205fb040965292021c2f1457c9f1f83a3"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjMuMQ=="
+        },
+        {
+            "name": "v11.3.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.3.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.3.0",
+            "commit": {
+                "sha": "6948e1f9563cbfb6286fab3364ac245c8373797f",
+                "url": "https://api.github.com/repos/directus/directus/commits/6948e1f9563cbfb6286fab3364ac245c8373797f"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjMuMA=="
+        },
+        {
+            "name": "v11.2.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.2.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.2.2",
+            "commit": {
+                "sha": "8c6d6875d07cb6f90c196b810e06c7be068c05ec",
+                "url": "https://api.github.com/repos/directus/directus/commits/8c6d6875d07cb6f90c196b810e06c7be068c05ec"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjIuMg=="
+        },
+        {
+            "name": "v11.2.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.2.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.2.1",
+            "commit": {
+                "sha": "d0c74917af60cb894e3bc1cdec6c3a9e73722879",
+                "url": "https://api.github.com/repos/directus/directus/commits/d0c74917af60cb894e3bc1cdec6c3a9e73722879"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjIuMQ=="
+        },
+        {
+            "name": "v11.2.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.2.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.2.0",
+            "commit": {
+                "sha": "a0a4c23131c021d08ee9b5efcd6a33a0a39c0250",
+                "url": "https://api.github.com/repos/directus/directus/commits/a0a4c23131c021d08ee9b5efcd6a33a0a39c0250"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjIuMA=="
+        },
+        {
+            "name": "v11.1.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.1.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.1.2",
+            "commit": {
+                "sha": "55d47b6443a5b4f8cd42182af19b211c51ac372a",
+                "url": "https://api.github.com/repos/directus/directus/commits/55d47b6443a5b4f8cd42182af19b211c51ac372a"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjEuMg=="
+        },
+        {
+            "name": "v11.1.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.1.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.1.1",
+            "commit": {
+                "sha": "cd58cb31cda20b7ff7b98dfc48e7bb1c6c510fb7",
+                "url": "https://api.github.com/repos/directus/directus/commits/cd58cb31cda20b7ff7b98dfc48e7bb1c6c510fb7"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjEuMQ=="
+        },
+        {
+            "name": "v11.1.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.1.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.1.0",
+            "commit": {
+                "sha": "1b1ab7713e543d491a8320fd2e337e96134df2dd",
+                "url": "https://api.github.com/repos/directus/directus/commits/1b1ab7713e543d491a8320fd2e337e96134df2dd"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjEuMA=="
+        },
+        {
+            "name": "v11.0.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.0.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.0.2",
+            "commit": {
+                "sha": "45e915aa5fc6d7698a3127bb7984d4ab9bf36582",
+                "url": "https://api.github.com/repos/directus/directus/commits/45e915aa5fc6d7698a3127bb7984d4ab9bf36582"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjAuMg=="
+        },
+        {
+            "name": "v11.0.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.0.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.0.1",
+            "commit": {
+                "sha": "034341c5b13a266e54f900a1b7c8a404fd473fab",
+                "url": "https://api.github.com/repos/directus/directus/commits/034341c5b13a266e54f900a1b7c8a404fd473fab"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjAuMQ=="
+        },
+        {
+            "name": "v11.0.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.0.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.0.0",
+            "commit": {
+                "sha": "2b02764ac8a4aac3df7764ca935ad7f9e48581b7",
+                "url": "https://api.github.com/repos/directus/directus/commits/2b02764ac8a4aac3df7764ca935ad7f9e48581b7"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjAuMA=="
+        },
+        {
+            "name": "v11.0.0-rc.3",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.0.0-rc.3",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.0.0-rc.3",
+            "commit": {
+                "sha": "4a5e0de18c7afce5d4d0fa63b3bd3a8cce35fe88",
+                "url": "https://api.github.com/repos/directus/directus/commits/4a5e0de18c7afce5d4d0fa63b3bd3a8cce35fe88"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjAuMC1yYy4z"
+        },
+        {
+            "name": "v11.0.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.0.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.0.0-rc.2",
+            "commit": {
+                "sha": "9237ed95d59e11bc86e9e870946f6cb9747a37f7",
+                "url": "https://api.github.com/repos/directus/directus/commits/9237ed95d59e11bc86e9e870946f6cb9747a37f7"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjAuMC1yYy4y"
+        },
+        {
+            "name": "v11.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v11.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v11.0.0-rc.1",
+            "commit": {
+                "sha": "f5b1c783d136a43d1a97b849ce7f26f9795466d6",
+                "url": "https://api.github.com/repos/directus/directus/commits/f5b1c783d136a43d1a97b849ce7f26f9795466d6"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjExLjAuMC1yYy4x"
+        },
+        {
+            "name": "v10.13.4",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.13.4",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.13.4",
+            "commit": {
+                "sha": "9be6b4afdce157189b6f2fc2777269ea3a5f56b3",
+                "url": "https://api.github.com/repos/directus/directus/commits/9be6b4afdce157189b6f2fc2777269ea3a5f56b3"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEzLjQ="
+        },
+        {
+            "name": "v10.13.3",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.13.3",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.13.3",
+            "commit": {
+                "sha": "7dc377f8fd7a3811e19291a2521d775498455422",
+                "url": "https://api.github.com/repos/directus/directus/commits/7dc377f8fd7a3811e19291a2521d775498455422"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEzLjM="
+        },
+        {
+            "name": "v10.13.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.13.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.13.2",
+            "commit": {
+                "sha": "e5ba369c242896f3c446da533a99abac2f66d2b4",
+                "url": "https://api.github.com/repos/directus/directus/commits/e5ba369c242896f3c446da533a99abac2f66d2b4"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEzLjI="
+        },
+        {
+            "name": "v10.13.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.13.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.13.1",
+            "commit": {
+                "sha": "65f5e96127b1ba965a6a56097190fe532cccb10b",
+                "url": "https://api.github.com/repos/directus/directus/commits/65f5e96127b1ba965a6a56097190fe532cccb10b"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEzLjE="
+        },
+        {
+            "name": "v10.13.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.13.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.13.0",
+            "commit": {
+                "sha": "844d4e7f336e02d5cd1881b7964625abe7ea8d43",
+                "url": "https://api.github.com/repos/directus/directus/commits/844d4e7f336e02d5cd1881b7964625abe7ea8d43"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEzLjA="
+        },
+        {
+            "name": "v10.12.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.12.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.12.1",
+            "commit": {
+                "sha": "3fec817d7bf262e1d02d7b46c12081dd734d3234",
+                "url": "https://api.github.com/repos/directus/directus/commits/3fec817d7bf262e1d02d7b46c12081dd734d3234"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEyLjE="
+        },
+        {
+            "name": "v10.12.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.12.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.12.0",
+            "commit": {
+                "sha": "8b887c82091c1e625dad29b27bc05ff859304e7b",
+                "url": "https://api.github.com/repos/directus/directus/commits/8b887c82091c1e625dad29b27bc05ff859304e7b"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEyLjA="
+        },
+        {
+            "name": "v10.11.2",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.11.2",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.11.2",
+            "commit": {
+                "sha": "b7794870f525a2f0821ebd8e84c9bd861d7ff977",
+                "url": "https://api.github.com/repos/directus/directus/commits/b7794870f525a2f0821ebd8e84c9bd861d7ff977"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjExLjI="
+        },
+        {
+            "name": "v10.11.1",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.11.1",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.11.1",
+            "commit": {
+                "sha": "7b212f8f1e483300b136e27f69ea37628733734c",
+                "url": "https://api.github.com/repos/directus/directus/commits/7b212f8f1e483300b136e27f69ea37628733734c"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjExLjE="
+        },
+        {
+            "name": "v10.11.0",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.11.0",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.11.0",
+            "commit": {
+                "sha": "0d6c6b90b0cd89558572e6413206a75236a30cb2",
+                "url": "https://api.github.com/repos/directus/directus/commits/0d6c6b90b0cd89558572e6413206a75236a30cb2"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjExLjA="
+        },
+        {
+            "name": "v10.10.7",
+            "zipball_url": "https://api.github.com/repos/directus/directus/zipball/refs/tags/v10.10.7",
+            "tarball_url": "https://api.github.com/repos/directus/directus/tarball/refs/tags/v10.10.7",
+            "commit": {
+                "sha": "98589cca6d23804c10e99293ea0c644cac3b9905",
+                "url": "https://api.github.com/repos/directus/directus/commits/98589cca6d23804c10e99293ea0c644cac3b9905"
+            },
+            "node_id": "MDM6UmVmNzEyMjU5NDpyZWZzL3RhZ3MvdjEwLjEwLjc="
+        }
+    ]
+}

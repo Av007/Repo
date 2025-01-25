@@ -1,0 +1,437 @@
+{
+    "id": 203587744,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMDM1ODc3NDQ=",
+    "name": "hoppscotch",
+    "full_name": "hoppscotch/hoppscotch",
+    "private": false,
+    "owner": {
+        "login": "hoppscotch",
+        "id": 56705483,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2NzA1NDgz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/56705483?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/hoppscotch",
+        "html_url": "https://github.com/hoppscotch",
+        "followers_url": "https://api.github.com/users/hoppscotch/followers",
+        "following_url": "https://api.github.com/users/hoppscotch/following{/other_user}",
+        "gists_url": "https://api.github.com/users/hoppscotch/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/hoppscotch/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/hoppscotch/subscriptions",
+        "organizations_url": "https://api.github.com/users/hoppscotch/orgs",
+        "repos_url": "https://api.github.com/users/hoppscotch/repos",
+        "events_url": "https://api.github.com/users/hoppscotch/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/hoppscotch/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+    "fork": false,
+    "url": "https://api.github.com/repos/hoppscotch/hoppscotch",
+    "forks_url": "https://api.github.com/repos/hoppscotch/hoppscotch/forks",
+    "keys_url": "https://api.github.com/repos/hoppscotch/hoppscotch/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/hoppscotch/hoppscotch/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/hoppscotch/hoppscotch/teams",
+    "hooks_url": "https://api.github.com/repos/hoppscotch/hoppscotch/hooks",
+    "issue_events_url": "https://api.github.com/repos/hoppscotch/hoppscotch/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/hoppscotch/hoppscotch/events",
+    "assignees_url": "https://api.github.com/repos/hoppscotch/hoppscotch/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/hoppscotch/hoppscotch/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tags",
+    "blobs_url": "https://api.github.com/repos/hoppscotch/hoppscotch/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/hoppscotch/hoppscotch/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/hoppscotch/hoppscotch/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/hoppscotch/hoppscotch/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/hoppscotch/hoppscotch/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/hoppscotch/hoppscotch/languages",
+    "stargazers_url": "https://api.github.com/repos/hoppscotch/hoppscotch/stargazers",
+    "contributors_url": "https://api.github.com/repos/hoppscotch/hoppscotch/contributors",
+    "subscribers_url": "https://api.github.com/repos/hoppscotch/hoppscotch/subscribers",
+    "subscription_url": "https://api.github.com/repos/hoppscotch/hoppscotch/subscription",
+    "commits_url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/hoppscotch/hoppscotch/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/hoppscotch/hoppscotch/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/hoppscotch/hoppscotch/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/hoppscotch/hoppscotch/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/hoppscotch/hoppscotch/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/hoppscotch/hoppscotch/merges",
+    "archive_url": "https://api.github.com/repos/hoppscotch/hoppscotch/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/hoppscotch/hoppscotch/downloads",
+    "issues_url": "https://api.github.com/repos/hoppscotch/hoppscotch/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/hoppscotch/hoppscotch/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/hoppscotch/hoppscotch/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/hoppscotch/hoppscotch/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/hoppscotch/hoppscotch/labels{/name}",
+    "releases_url": "https://api.github.com/repos/hoppscotch/hoppscotch/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/hoppscotch/hoppscotch/deployments",
+    "created_at": "2019-08-21T13:15:24Z",
+    "updated_at": "2025-01-25T17:21:33Z",
+    "pushed_at": "2025-01-24T22:21:04Z",
+    "git_url": "git://github.com/hoppscotch/hoppscotch.git",
+    "ssh_url": "git@github.com:hoppscotch/hoppscotch.git",
+    "clone_url": "https://github.com/hoppscotch/hoppscotch.git",
+    "svn_url": "https://github.com/hoppscotch/hoppscotch",
+    "homepage": "https://hoppscotch.io",
+    "size": 87042,
+    "stargazers_count": 66636,
+    "watchers_count": 66636,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4637,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 545,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "api",
+        "api-client",
+        "api-rest",
+        "api-testing",
+        "developer-tools",
+        "graphql",
+        "hacktoberfest",
+        "http",
+        "http-client",
+        "pwa",
+        "rest",
+        "rest-api",
+        "spa",
+        "testing",
+        "testing-tools",
+        "tools",
+        "vue",
+        "vuejs",
+        "websocket"
+    ],
+    "visibility": "public",
+    "forks": 4637,
+    "open_issues": 545,
+    "watchers": 66636,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v3.0.1",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v3.0.1",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v3.0.1",
+            "commit": {
+                "sha": "dc80cc80e6e9c02c41a0754dfa7868f7f102964a",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/dc80cc80e6e9c02c41a0754dfa7868f7f102964a"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92My4wLjE="
+        },
+        {
+            "name": "v3.0.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v3.0.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v3.0.0",
+            "commit": {
+                "sha": "389fedefb509a63c35b4fc9a83bd23d63427857d",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/389fedefb509a63c35b4fc9a83bd23d63427857d"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92My4wLjA="
+        },
+        {
+            "name": "v2.2.1",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v2.2.1",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v2.2.1",
+            "commit": {
+                "sha": "aae2dac588cd05c579f2c634a8515f0059cf5775",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/aae2dac588cd05c579f2c634a8515f0059cf5775"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92Mi4yLjE="
+        },
+        {
+            "name": "v2.2.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v2.2.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v2.2.0",
+            "commit": {
+                "sha": "758460210a7ba83095ac82e5c0518b2b42fbed6f",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/758460210a7ba83095ac82e5c0518b2b42fbed6f"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92Mi4yLjA="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "d3a1898dad442eebeb682a711f15c113a021cbad",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/d3a1898dad442eebeb682a711f15c113a021cbad"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92Mi4xLjA="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "8231157cdbe2f630da2891e9597e8b5d9868dd7f",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/8231157cdbe2f630da2891e9597e8b5d9868dd7f"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92Mi4wLjA="
+        },
+        {
+            "name": "v1.12.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.12.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.12.0",
+            "commit": {
+                "sha": "a795fc431080827b8be5da72e9ff1b6a81dee6b0",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/a795fc431080827b8be5da72e9ff1b6a81dee6b0"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS4xMi4w"
+        },
+        {
+            "name": "v1.10.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.10.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.10.0",
+            "commit": {
+                "sha": "f6c952ffb09dc6419bb95c2cdf4993f38453beab",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/f6c952ffb09dc6419bb95c2cdf4993f38453beab"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS4xMC4w"
+        },
+        {
+            "name": "v1.9.9",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.9.9",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.9.9",
+            "commit": {
+                "sha": "7196299d319189d5281692a63f72a2201d217c64",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/7196299d319189d5281692a63f72a2201d217c64"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS45Ljk="
+        },
+        {
+            "name": "v1.9.7",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.9.7",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.9.7",
+            "commit": {
+                "sha": "f2b4aec4ddb0e5c1bfac6ed307d4c8ea118b2263",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/f2b4aec4ddb0e5c1bfac6ed307d4c8ea118b2263"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS45Ljc="
+        },
+        {
+            "name": "v1.9.5",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.9.5",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.9.5",
+            "commit": {
+                "sha": "e5fb3bd9b1f4a291173c3706c971cff4ca8f173b",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/e5fb3bd9b1f4a291173c3706c971cff4ca8f173b"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS45LjU="
+        },
+        {
+            "name": "v1.9.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.9.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.9.0",
+            "commit": {
+                "sha": "08bb47da1dd0c0f700d9b2cf9422c05953fefe01",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/08bb47da1dd0c0f700d9b2cf9422c05953fefe01"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS45LjA="
+        },
+        {
+            "name": "v1.8.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.8.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.8.0",
+            "commit": {
+                "sha": "101d7807ff30c628ff21fa1eee58629d25fab1a1",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/101d7807ff30c628ff21fa1eee58629d25fab1a1"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS44LjA="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "3f727d6f7103edb19d4415c0dcca6cd402553b86",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/3f727d6f7103edb19d4415c0dcca6cd402553b86"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS41LjA="
+        },
+        {
+            "name": "v1.0.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v1.0.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v1.0.0",
+            "commit": {
+                "sha": "caed1a2f3ca2fbbf83e9ba78033cb91e5ad8b602",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/caed1a2f3ca2fbbf83e9ba78033cb91e5ad8b602"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MS4wLjA="
+        },
+        {
+            "name": "v0.1.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/v0.1.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/v0.1.0",
+            "commit": {
+                "sha": "042e033f811b9e25ef15b115ac3d3b3d91f6c548",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/042e033f811b9e25ef15b115ac3d3b3d91f6c548"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy92MC4xLjA="
+        },
+        {
+            "name": "2024.12.1",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.12.1",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.12.1",
+            "commit": {
+                "sha": "b48c982ea69ec086aaa00684261edf262d856ecc",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/b48c982ea69ec086aaa00684261edf262d856ecc"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjEyLjE="
+        },
+        {
+            "name": "2024.12.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.12.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.12.0",
+            "commit": {
+                "sha": "a16402e94d9bb1e753296210b9c337e92cc666d0",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/a16402e94d9bb1e753296210b9c337e92cc666d0"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjEyLjA="
+        },
+        {
+            "name": "2024.11.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.11.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.11.0",
+            "commit": {
+                "sha": "e2e769db71ce4c3f543e6cfc87e982328861628f",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/e2e769db71ce4c3f543e6cfc87e982328861628f"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjExLjA="
+        },
+        {
+            "name": "2024.10.2",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.10.2",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.10.2",
+            "commit": {
+                "sha": "908f936f50b6b22ea556e7cd92ea14fae3721672",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/908f936f50b6b22ea556e7cd92ea14fae3721672"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjEwLjI="
+        },
+        {
+            "name": "2024.10.1",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.10.1",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.10.1",
+            "commit": {
+                "sha": "3de3209d5e8a498dc89fb962b5d4697dde0613e9",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/3de3209d5e8a498dc89fb962b5d4697dde0613e9"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjEwLjE="
+        },
+        {
+            "name": "2024.10.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.10.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.10.0",
+            "commit": {
+                "sha": "223dd2578875c19ce8742c9eb87774b008711e99",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/223dd2578875c19ce8742c9eb87774b008711e99"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjEwLjA="
+        },
+        {
+            "name": "2024.9.3",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.9.3",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.9.3",
+            "commit": {
+                "sha": "9da5f63e701ba072ea393e68847d7f8e395d4c4a",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/9da5f63e701ba072ea393e68847d7f8e395d4c4a"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjkuMw=="
+        },
+        {
+            "name": "2024.9.2",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.9.2",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.9.2",
+            "commit": {
+                "sha": "28727cd6c2d959f5c169791221ff04f4d8183c08",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/28727cd6c2d959f5c169791221ff04f4d8183c08"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjkuMg=="
+        },
+        {
+            "name": "2024.9.1",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.9.1",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.9.1",
+            "commit": {
+                "sha": "cda1ed5f949bc5f65630b702dde29eb04bd26e8b",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/cda1ed5f949bc5f65630b702dde29eb04bd26e8b"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjkuMQ=="
+        },
+        {
+            "name": "2024.9.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.9.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.9.0",
+            "commit": {
+                "sha": "fdb250a60896e96a4cb183965ea41f81240d4175",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/fdb250a60896e96a4cb183965ea41f81240d4175"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjkuMA=="
+        },
+        {
+            "name": "2024.8.3",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.8.3",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.8.3",
+            "commit": {
+                "sha": "e9e1366cc8a0f6d3116cb4ab5a44b964d1d36128",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/e9e1366cc8a0f6d3116cb4ab5a44b964d1d36128"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjguMw=="
+        },
+        {
+            "name": "2024.8.2",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.8.2",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.8.2",
+            "commit": {
+                "sha": "cf2b1b50fae3cd2486309c1d5b8cf33f060eef8b",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/cf2b1b50fae3cd2486309c1d5b8cf33f060eef8b"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjguMg=="
+        },
+        {
+            "name": "2024.8.1",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.8.1",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.8.1",
+            "commit": {
+                "sha": "3b29a56ba0f2f1824eec3729773d8996cddc1ea3",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/3b29a56ba0f2f1824eec3729773d8996cddc1ea3"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjguMQ=="
+        },
+        {
+            "name": "2024.8.0",
+            "zipball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/zipball/refs/tags/2024.8.0",
+            "tarball_url": "https://api.github.com/repos/hoppscotch/hoppscotch/tarball/refs/tags/2024.8.0",
+            "commit": {
+                "sha": "c2fb6aee3fd3d034ebc565683c8236708e83f17b",
+                "url": "https://api.github.com/repos/hoppscotch/hoppscotch/commits/c2fb6aee3fd3d034ebc565683c8236708e83f17b"
+            },
+            "node_id": "MDM6UmVmMjAzNTg3NzQ0OnJlZnMvdGFncy8yMDI0LjguMA=="
+        }
+    ]
+}

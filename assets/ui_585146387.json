@@ -1,0 +1,424 @@
+{
+    "id": 585146387,
+    "node_id": "R_kgDOIuCgEw",
+    "name": "ui",
+    "full_name": "shadcn-ui/ui",
+    "private": false,
+    "owner": {
+        "login": "shadcn-ui",
+        "id": 139895814,
+        "node_id": "O_kgDOCFakBg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139895814?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/shadcn-ui",
+        "html_url": "https://github.com/shadcn-ui",
+        "followers_url": "https://api.github.com/users/shadcn-ui/followers",
+        "following_url": "https://api.github.com/users/shadcn-ui/following{/other_user}",
+        "gists_url": "https://api.github.com/users/shadcn-ui/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/shadcn-ui/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/shadcn-ui/subscriptions",
+        "organizations_url": "https://api.github.com/users/shadcn-ui/orgs",
+        "repos_url": "https://api.github.com/users/shadcn-ui/repos",
+        "events_url": "https://api.github.com/users/shadcn-ui/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/shadcn-ui/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/shadcn-ui/ui",
+    "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+    "fork": false,
+    "url": "https://api.github.com/repos/shadcn-ui/ui",
+    "forks_url": "https://api.github.com/repos/shadcn-ui/ui/forks",
+    "keys_url": "https://api.github.com/repos/shadcn-ui/ui/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/shadcn-ui/ui/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/shadcn-ui/ui/teams",
+    "hooks_url": "https://api.github.com/repos/shadcn-ui/ui/hooks",
+    "issue_events_url": "https://api.github.com/repos/shadcn-ui/ui/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/shadcn-ui/ui/events",
+    "assignees_url": "https://api.github.com/repos/shadcn-ui/ui/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/shadcn-ui/ui/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/shadcn-ui/ui/tags",
+    "blobs_url": "https://api.github.com/repos/shadcn-ui/ui/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/shadcn-ui/ui/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/shadcn-ui/ui/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/shadcn-ui/ui/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/shadcn-ui/ui/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/shadcn-ui/ui/languages",
+    "stargazers_url": "https://api.github.com/repos/shadcn-ui/ui/stargazers",
+    "contributors_url": "https://api.github.com/repos/shadcn-ui/ui/contributors",
+    "subscribers_url": "https://api.github.com/repos/shadcn-ui/ui/subscribers",
+    "subscription_url": "https://api.github.com/repos/shadcn-ui/ui/subscription",
+    "commits_url": "https://api.github.com/repos/shadcn-ui/ui/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/shadcn-ui/ui/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/shadcn-ui/ui/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/shadcn-ui/ui/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/shadcn-ui/ui/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/shadcn-ui/ui/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/shadcn-ui/ui/merges",
+    "archive_url": "https://api.github.com/repos/shadcn-ui/ui/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/shadcn-ui/ui/downloads",
+    "issues_url": "https://api.github.com/repos/shadcn-ui/ui/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/shadcn-ui/ui/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/shadcn-ui/ui/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/shadcn-ui/ui/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/shadcn-ui/ui/labels{/name}",
+    "releases_url": "https://api.github.com/repos/shadcn-ui/ui/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/shadcn-ui/ui/deployments",
+    "created_at": "2023-01-04T12:43:27Z",
+    "updated_at": "2025-01-25T16:53:44Z",
+    "pushed_at": "2025-01-24T13:55:43Z",
+    "git_url": "git://github.com/shadcn-ui/ui.git",
+    "ssh_url": "git@github.com:shadcn-ui/ui.git",
+    "clone_url": "https://github.com/shadcn-ui/ui.git",
+    "svn_url": "https://github.com/shadcn-ui/ui",
+    "homepage": "https://ui.shadcn.com",
+    "size": 23840,
+    "stargazers_count": 79386,
+    "watchers_count": 79386,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5130,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1544,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "components",
+        "nextjs",
+        "radix-ui",
+        "react",
+        "tailwindcss",
+        "ui"
+    ],
+    "visibility": "public",
+    "forks": 5130,
+    "open_issues": 1544,
+    "watchers": 79386,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "shadcn-ui@0.9.4",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.9.4",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.9.4",
+            "commit": {
+                "sha": "729b9ec8cacfae0bc31958c1a8e425d0a21be54e",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/729b9ec8cacfae0bc31958c1a8e425d0a21be54e"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuOS40"
+        },
+        {
+            "name": "shadcn-ui@0.9.3",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.9.3",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.9.3",
+            "commit": {
+                "sha": "f7c42169a6c7daa5821a033eed5928f26e565f38",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/f7c42169a6c7daa5821a033eed5928f26e565f38"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuOS4z"
+        },
+        {
+            "name": "shadcn-ui@0.9.2",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.9.2",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.9.2",
+            "commit": {
+                "sha": "a2abc4ad958c06260600a2b977dfe320e1388ab8",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/a2abc4ad958c06260600a2b977dfe320e1388ab8"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuOS4y"
+        },
+        {
+            "name": "shadcn-ui@0.9.1",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.9.1",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.9.1",
+            "commit": {
+                "sha": "061083006f0122bfded841235ee58caefc9fd944",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/061083006f0122bfded841235ee58caefc9fd944"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuOS4x"
+        },
+        {
+            "name": "shadcn-ui@0.9.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.9.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.9.0",
+            "commit": {
+                "sha": "f99cd2aa5dfb764d1a23acaafa31aebf8ba4cb18",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/f99cd2aa5dfb764d1a23acaafa31aebf8ba4cb18"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuOS4w"
+        },
+        {
+            "name": "shadcn-ui@0.8.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.8.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.8.0",
+            "commit": {
+                "sha": "29de71d77fd3db93c33cc3886c64a32ad889278f",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/29de71d77fd3db93c33cc3886c64a32ad889278f"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuOC4w"
+        },
+        {
+            "name": "shadcn-ui@0.7.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.7.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.7.0",
+            "commit": {
+                "sha": "59b2cc81420f8a6d07e1600ecf85f0e00401e8e2",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/59b2cc81420f8a6d07e1600ecf85f0e00401e8e2"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuNy4w"
+        },
+        {
+            "name": "shadcn-ui@0.6.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.6.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.6.0",
+            "commit": {
+                "sha": "fb614ac2921a84b916c56e9091aa0ae8e129c565",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/fb614ac2921a84b916c56e9091aa0ae8e129c565"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuNi4w"
+        },
+        {
+            "name": "shadcn-ui@0.5.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.5.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.5.0",
+            "commit": {
+                "sha": "6145dd81186b30bd5a65b6434ef12bf620a51574",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/6145dd81186b30bd5a65b6434ef12bf620a51574"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuNS4w"
+        },
+        {
+            "name": "shadcn-ui@0.4.1",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.4.1",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.4.1",
+            "commit": {
+                "sha": "c765635e1344d4d202c6bcc93773d9a6579dcdf3",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/c765635e1344d4d202c6bcc93773d9a6579dcdf3"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuNC4x"
+        },
+        {
+            "name": "shadcn-ui@0.4.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.4.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.4.0",
+            "commit": {
+                "sha": "897376329b0d79021c11307e7100213b5e39b5d3",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/897376329b0d79021c11307e7100213b5e39b5d3"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuNC4w"
+        },
+        {
+            "name": "shadcn-ui@0.3.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.3.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.3.0",
+            "commit": {
+                "sha": "25a41cfe2aa874db577bd49dd68ee74ef9e27454",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/25a41cfe2aa874db577bd49dd68ee74ef9e27454"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMy4w"
+        },
+        {
+            "name": "shadcn-ui@0.2.3",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.2.3",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.2.3",
+            "commit": {
+                "sha": "0857bfe8899af5e9b772d0e2e357e263f7d6f4f2",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/0857bfe8899af5e9b772d0e2e357e263f7d6f4f2"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMi4z"
+        },
+        {
+            "name": "shadcn-ui@0.2.2",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.2.2",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.2.2",
+            "commit": {
+                "sha": "2846b2ea9aaa359a8f09610aa76743681b521e90",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/2846b2ea9aaa359a8f09610aa76743681b521e90"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMi4y"
+        },
+        {
+            "name": "shadcn-ui@0.2.1",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.2.1",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.2.1",
+            "commit": {
+                "sha": "d604b82fb3ff91be10d5ca821f80310f89bf825c",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/d604b82fb3ff91be10d5ca821f80310f89bf825c"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMi4x"
+        },
+        {
+            "name": "shadcn-ui@0.2.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.2.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.2.0",
+            "commit": {
+                "sha": "4ca9619efa0ac7f944f2166c1d513160c25b6b92",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/4ca9619efa0ac7f944f2166c1d513160c25b6b92"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMi4w"
+        },
+        {
+            "name": "shadcn-ui@0.1.3",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.1.3",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.1.3",
+            "commit": {
+                "sha": "df9369762a0714b1811f950c227f69b6f9c6b1d2",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/df9369762a0714b1811f950c227f69b6f9c6b1d2"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMS4z"
+        },
+        {
+            "name": "shadcn-ui@0.1.2",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.1.2",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.1.2",
+            "commit": {
+                "sha": "71c631891f7673607f6fc9a40c3bcf91f7ddb6e5",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/71c631891f7673607f6fc9a40c3bcf91f7ddb6e5"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMS4y"
+        },
+        {
+            "name": "shadcn-ui@0.1.1",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.1.1",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.1.1",
+            "commit": {
+                "sha": "c37c087c6532a603af1a5cc1454e33b22d3afba4",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/c37c087c6532a603af1a5cc1454e33b22d3afba4"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMS4x"
+        },
+        {
+            "name": "shadcn-ui@0.1.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn-ui@0.1.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn-ui@0.1.0",
+            "commit": {
+                "sha": "d3cc7a3a6f5f53c26c45423a8eba5f50c6c3f612",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/d3cc7a3a6f5f53c26c45423a8eba5f50c6c3f612"
+            },
+            "node_id": "REF_kwDOIuCgE7lyZWZzL3RhZ3Mvc2hhZGNuLXVpQDAuMS4w"
+        },
+        {
+            "name": "shadcn@2.1.8",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.8",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.8",
+            "commit": {
+                "sha": "9253b43f29e6f54e20e7d2e10647f0755753f6b0",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/9253b43f29e6f54e20e7d2e10647f0755753f6b0"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS44"
+        },
+        {
+            "name": "shadcn@2.1.7",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.7",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.7",
+            "commit": {
+                "sha": "729b9ec8cacfae0bc31958c1a8e425d0a21be54e",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/729b9ec8cacfae0bc31958c1a8e425d0a21be54e"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS43"
+        },
+        {
+            "name": "shadcn@2.1.6",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.6",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.6",
+            "commit": {
+                "sha": "f7c42169a6c7daa5821a033eed5928f26e565f38",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/f7c42169a6c7daa5821a033eed5928f26e565f38"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS42"
+        },
+        {
+            "name": "shadcn@2.1.5",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.5",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.5",
+            "commit": {
+                "sha": "e24e51a2fa951eccbcada573056df86f4029f55f",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/e24e51a2fa951eccbcada573056df86f4029f55f"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS41"
+        },
+        {
+            "name": "shadcn@2.1.4",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.4",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.4",
+            "commit": {
+                "sha": "70c684c224be10777a86b36ceafc7a890b7481d0",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/70c684c224be10777a86b36ceafc7a890b7481d0"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS40"
+        },
+        {
+            "name": "shadcn@2.1.3",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.3",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.3",
+            "commit": {
+                "sha": "2b276de95a753fa669f53e3c91f3146966b89fa2",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/2b276de95a753fa669f53e3c91f3146966b89fa2"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS4z"
+        },
+        {
+            "name": "shadcn@2.1.2",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.2",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.2",
+            "commit": {
+                "sha": "e242adaa9c1dae1d9e14f9ce082dae91020c81b3",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/e242adaa9c1dae1d9e14f9ce082dae91020c81b3"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS4y"
+        },
+        {
+            "name": "shadcn@2.1.1",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.1",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.1",
+            "commit": {
+                "sha": "0a0a566a4e5cea06a9470bc1b6ab52f44c82e6ab",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/0a0a566a4e5cea06a9470bc1b6ab52f44c82e6ab"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS4x"
+        },
+        {
+            "name": "shadcn@2.1.0",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.1.0",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.1.0",
+            "commit": {
+                "sha": "a2abc4ad958c06260600a2b977dfe320e1388ab8",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/a2abc4ad958c06260600a2b977dfe320e1388ab8"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMS4w"
+        },
+        {
+            "name": "shadcn@2.0.8",
+            "zipball_url": "https://api.github.com/repos/shadcn-ui/ui/zipball/refs/tags/shadcn@2.0.8",
+            "tarball_url": "https://api.github.com/repos/shadcn-ui/ui/tarball/refs/tags/shadcn@2.0.8",
+            "commit": {
+                "sha": "bd54184e6016261148cd4e806fe17c9043678a88",
+                "url": "https://api.github.com/repos/shadcn-ui/ui/commits/bd54184e6016261148cd4e806fe17c9043678a88"
+            },
+            "node_id": "REF_kwDOIuCgE7ZyZWZzL3RhZ3Mvc2hhZGNuQDIuMC44"
+        }
+    ]
+}

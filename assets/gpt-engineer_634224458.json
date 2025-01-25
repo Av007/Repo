@@ -1,0 +1,338 @@
+{
+    "id": 634224458,
+    "node_id": "R_kgDOJc1_Sg",
+    "name": "gpt-engineer",
+    "full_name": "AntonOsika/gpt-engineer",
+    "private": false,
+    "owner": {
+        "login": "AntonOsika",
+        "id": 4467025,
+        "node_id": "MDQ6VXNlcjQ0NjcwMjU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4467025?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/AntonOsika",
+        "html_url": "https://github.com/AntonOsika",
+        "followers_url": "https://api.github.com/users/AntonOsika/followers",
+        "following_url": "https://api.github.com/users/AntonOsika/following{/other_user}",
+        "gists_url": "https://api.github.com/users/AntonOsika/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/AntonOsika/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/AntonOsika/subscriptions",
+        "organizations_url": "https://api.github.com/users/AntonOsika/orgs",
+        "repos_url": "https://api.github.com/users/AntonOsika/repos",
+        "events_url": "https://api.github.com/users/AntonOsika/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/AntonOsika/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/AntonOsika/gpt-engineer",
+    "description": "Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app",
+    "fork": false,
+    "url": "https://api.github.com/repos/AntonOsika/gpt-engineer",
+    "forks_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/forks",
+    "keys_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/teams",
+    "hooks_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/hooks",
+    "issue_events_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/events",
+    "assignees_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tags",
+    "blobs_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/languages",
+    "stargazers_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/stargazers",
+    "contributors_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/contributors",
+    "subscribers_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/subscribers",
+    "subscription_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/subscription",
+    "commits_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/merges",
+    "archive_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/downloads",
+    "issues_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/labels{/name}",
+    "releases_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/deployments",
+    "created_at": "2023-04-29T12:52:15Z",
+    "updated_at": "2025-01-25T17:05:46Z",
+    "pushed_at": "2024-11-17T22:47:32Z",
+    "git_url": "git://github.com/AntonOsika/gpt-engineer.git",
+    "ssh_url": "git@github.com:AntonOsika/gpt-engineer.git",
+    "clone_url": "https://github.com/AntonOsika/gpt-engineer.git",
+    "svn_url": "https://github.com/AntonOsika/gpt-engineer",
+    "homepage": "",
+    "size": 20607,
+    "stargazers_count": 52930,
+    "watchers_count": 52930,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 6896,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 30,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "ai",
+        "autonomous-agent",
+        "code-generation",
+        "codebase-generation",
+        "codegen",
+        "coding-assistant",
+        "gpt-4",
+        "gpt-engineer",
+        "openai",
+        "python"
+    ],
+    "visibility": "public",
+    "forks": 6896,
+    "open_issues": 30,
+    "watchers": 52930,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.3.1",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.3.1",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.3.1",
+            "commit": {
+                "sha": "3e589bf1356024fb471a9d17738e4626f21a953b",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/3e589bf1356024fb471a9d17738e4626f21a953b"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMy4x"
+        },
+        {
+            "name": "v0.3.0",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.3.0",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.3.0",
+            "commit": {
+                "sha": "a0794bfb66f1fb28ccfa97c7f1729ad438c2da3b",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/a0794bfb66f1fb28ccfa97c7f1729ad438c2da3b"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMy4w"
+        },
+        {
+            "name": "v0.2.9",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.2.9",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.2.9",
+            "commit": {
+                "sha": "c7da991eb31942dd52a052703c3630f67cb527af",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/c7da991eb31942dd52a052703c3630f67cb527af"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMi45"
+        },
+        {
+            "name": "v0.2.8",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.2.8",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.2.8",
+            "commit": {
+                "sha": "5e58cb117898c1cc8b9f6fa433634ebf4aa66953",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/5e58cb117898c1cc8b9f6fa433634ebf4aa66953"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMi44"
+        },
+        {
+            "name": "v0.2.7",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.2.7",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.2.7",
+            "commit": {
+                "sha": "f96a6a6f3dcaa3a0df55e2dfe1a197b8634e517b",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/f96a6a6f3dcaa3a0df55e2dfe1a197b8634e517b"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMi43"
+        },
+        {
+            "name": "v0.2.6-python3.8-11-compatible",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.2.6-python3.8-11-compatible",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.2.6-python3.8-11-compatible",
+            "commit": {
+                "sha": "31677ac59824c62aba94ac24956c7beffb111f8e",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/31677ac59824c62aba94ac24956c7beffb111f8e"
+            },
+            "node_id": "REF_kwDOJc1_StoAKHJlZnMvdGFncy92MC4yLjYtcHl0aG9uMy44LTExLWNvbXBhdGlibGU"
+        },
+        {
+            "name": "v.0.2.5",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v.0.2.5",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v.0.2.5",
+            "commit": {
+                "sha": "f4fd7c58f87430dff4fe0861ae5125e234dedcc9",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/f4fd7c58f87430dff4fe0861ae5125e234dedcc9"
+            },
+            "node_id": "REF_kwDOJc1_SrFyZWZzL3RhZ3Mvdi4wLjIuNQ"
+        },
+        {
+            "name": "v.0.2.4",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v.0.2.4",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v.0.2.4",
+            "commit": {
+                "sha": "08bde26bd8006da6a6f5ab6de7e12b29f384b0f4",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/08bde26bd8006da6a6f5ab6de7e12b29f384b0f4"
+            },
+            "node_id": "REF_kwDOJc1_SrFyZWZzL3RhZ3Mvdi4wLjIuNA"
+        },
+        {
+            "name": "v.0.2.0",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v.0.2.0",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v.0.2.0",
+            "commit": {
+                "sha": "5a9b4ec7086df0e83c3c8682366cf023d9e9941a",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/5a9b4ec7086df0e83c3c8682366cf023d9e9941a"
+            },
+            "node_id": "REF_kwDOJc1_SrFyZWZzL3RhZ3Mvdi4wLjIuMA"
+        },
+        {
+            "name": "v0.1.0",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.1.0",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.1.0",
+            "commit": {
+                "sha": "dc24bb846464f953e8bb2dbcbcb6ad4faaaeff32",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/dc24bb846464f953e8bb2dbcbcb6ad4faaaeff32"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMS4w"
+        },
+        {
+            "name": "v0.0.9",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.9",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.9",
+            "commit": {
+                "sha": "c4b4086e58e9e9cdfaaa0a0943073224bcc6621f",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/c4b4086e58e9e9cdfaaa0a0943073224bcc6621f"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC45"
+        },
+        {
+            "name": "v0.0.8",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.8",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.8",
+            "commit": {
+                "sha": "47d9291e2d763822c90614537745816adc880e49",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/47d9291e2d763822c90614537745816adc880e49"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC44"
+        },
+        {
+            "name": "v0.0.7",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.7",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.7",
+            "commit": {
+                "sha": "7f16abecb348b0137bc8eb31cd672f2dae25cf9c",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/7f16abecb348b0137bc8eb31cd672f2dae25cf9c"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC43"
+        },
+        {
+            "name": "v0.0.6",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.6",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.6",
+            "commit": {
+                "sha": "abb9f2332de033a0e40adc0f3492a73df9cfc1cc",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/abb9f2332de033a0e40adc0f3492a73df9cfc1cc"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC42"
+        },
+        {
+            "name": "v0.0.5",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.5",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.5",
+            "commit": {
+                "sha": "a36e299a98c86e40e7e21b4935885c32ba4abde9",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/a36e299a98c86e40e7e21b4935885c32ba4abde9"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC41"
+        },
+        {
+            "name": "v0.0.4",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.4",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.4",
+            "commit": {
+                "sha": "95093cd8e4f0cae283aaf495253895fd9e530829",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/95093cd8e4f0cae283aaf495253895fd9e530829"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC40"
+        },
+        {
+            "name": "v0.0.3",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.3",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.3",
+            "commit": {
+                "sha": "a8daabd78adbc0bfbd788787aa74b757a2b16a3a",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/a8daabd78adbc0bfbd788787aa74b757a2b16a3a"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC4z"
+        },
+        {
+            "name": "v0.0.2",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/v0.0.2",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/v0.0.2",
+            "commit": {
+                "sha": "e1ebe43cbc23fd209ef951c5c2cce48d05d56926",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/e1ebe43cbc23fd209ef951c5c2cce48d05d56926"
+            },
+            "node_id": "REF_kwDOJc1_SrByZWZzL3RhZ3MvdjAuMC4y"
+        },
+        {
+            "name": "0.2.3",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/0.2.3",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/0.2.3",
+            "commit": {
+                "sha": "80f9477999482ca5d112ce383e77a604087a3053",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/80f9477999482ca5d112ce383e77a604087a3053"
+            },
+            "node_id": "REF_kwDOJc1_Sq9yZWZzL3RhZ3MvMC4yLjM"
+        },
+        {
+            "name": "0.2.2",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/0.2.2",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/0.2.2",
+            "commit": {
+                "sha": "3996fbba7591477d3d9a79cd1abc33e75ed1324e",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/3996fbba7591477d3d9a79cd1abc33e75ed1324e"
+            },
+            "node_id": "REF_kwDOJc1_Sq9yZWZzL3RhZ3MvMC4yLjI"
+        },
+        {
+            "name": "0.2.1",
+            "zipball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/zipball/refs/tags/0.2.1",
+            "tarball_url": "https://api.github.com/repos/AntonOsika/gpt-engineer/tarball/refs/tags/0.2.1",
+            "commit": {
+                "sha": "b22398e81458a88ba302f5b93aa3f8271c0983fb",
+                "url": "https://api.github.com/repos/AntonOsika/gpt-engineer/commits/b22398e81458a88ba302f5b93aa3f8271c0983fb"
+            },
+            "node_id": "REF_kwDOJc1_Sq9yZWZzL3RhZ3MvMC4yLjE"
+        }
+    ]
+}

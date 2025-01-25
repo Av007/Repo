@@ -1,0 +1,420 @@
+{
+    "id": 290882787,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyOTA4ODI3ODc=",
+    "name": "fuel-core",
+    "full_name": "FuelLabs/fuel-core",
+    "private": false,
+    "owner": {
+        "login": "FuelLabs",
+        "id": 55993183,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU1OTkzMTgz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/55993183?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/FuelLabs",
+        "html_url": "https://github.com/FuelLabs",
+        "followers_url": "https://api.github.com/users/FuelLabs/followers",
+        "following_url": "https://api.github.com/users/FuelLabs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/FuelLabs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/FuelLabs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/FuelLabs/subscriptions",
+        "organizations_url": "https://api.github.com/users/FuelLabs/orgs",
+        "repos_url": "https://api.github.com/users/FuelLabs/repos",
+        "events_url": "https://api.github.com/users/FuelLabs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/FuelLabs/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/FuelLabs/fuel-core",
+    "description": "Rust full node implementation of the Fuel v2 protocol.",
+    "fork": false,
+    "url": "https://api.github.com/repos/FuelLabs/fuel-core",
+    "forks_url": "https://api.github.com/repos/FuelLabs/fuel-core/forks",
+    "keys_url": "https://api.github.com/repos/FuelLabs/fuel-core/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/FuelLabs/fuel-core/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/FuelLabs/fuel-core/teams",
+    "hooks_url": "https://api.github.com/repos/FuelLabs/fuel-core/hooks",
+    "issue_events_url": "https://api.github.com/repos/FuelLabs/fuel-core/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/FuelLabs/fuel-core/events",
+    "assignees_url": "https://api.github.com/repos/FuelLabs/fuel-core/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/FuelLabs/fuel-core/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/FuelLabs/fuel-core/tags",
+    "blobs_url": "https://api.github.com/repos/FuelLabs/fuel-core/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/FuelLabs/fuel-core/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/FuelLabs/fuel-core/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/FuelLabs/fuel-core/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/FuelLabs/fuel-core/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/FuelLabs/fuel-core/languages",
+    "stargazers_url": "https://api.github.com/repos/FuelLabs/fuel-core/stargazers",
+    "contributors_url": "https://api.github.com/repos/FuelLabs/fuel-core/contributors",
+    "subscribers_url": "https://api.github.com/repos/FuelLabs/fuel-core/subscribers",
+    "subscription_url": "https://api.github.com/repos/FuelLabs/fuel-core/subscription",
+    "commits_url": "https://api.github.com/repos/FuelLabs/fuel-core/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/FuelLabs/fuel-core/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/FuelLabs/fuel-core/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/FuelLabs/fuel-core/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/FuelLabs/fuel-core/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/FuelLabs/fuel-core/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/FuelLabs/fuel-core/merges",
+    "archive_url": "https://api.github.com/repos/FuelLabs/fuel-core/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/FuelLabs/fuel-core/downloads",
+    "issues_url": "https://api.github.com/repos/FuelLabs/fuel-core/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/FuelLabs/fuel-core/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/FuelLabs/fuel-core/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/FuelLabs/fuel-core/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/FuelLabs/fuel-core/labels{/name}",
+    "releases_url": "https://api.github.com/repos/FuelLabs/fuel-core/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/FuelLabs/fuel-core/deployments",
+    "created_at": "2020-08-27T21:12:14Z",
+    "updated_at": "2025-01-25T10:54:29Z",
+    "pushed_at": "2025-01-24T23:38:45Z",
+    "git_url": "git://github.com/FuelLabs/fuel-core.git",
+    "ssh_url": "git@github.com:FuelLabs/fuel-core.git",
+    "clone_url": "https://github.com/FuelLabs/fuel-core.git",
+    "svn_url": "https://github.com/FuelLabs/fuel-core",
+    "homepage": "",
+    "size": 886497,
+    "stargazers_count": 57860,
+    "watchers_count": 57860,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 2826,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 192,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "blockchain",
+        "fuel"
+    ],
+    "visibility": "public",
+    "forks": 2826,
+    "open_issues": 192,
+    "watchers": 57860,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.41.4",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.41.4",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.41.4",
+            "commit": {
+                "sha": "2a45c9b6cee642cb11ab55e381cd73527ecfb45b",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/2a45c9b6cee642cb11ab55e381cd73527ecfb45b"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MS40"
+        },
+        {
+            "name": "v0.41.3",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.41.3",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.41.3",
+            "commit": {
+                "sha": "56ebfab04895bf839c1e30148e4a3387fc3a40ed",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/56ebfab04895bf839c1e30148e4a3387fc3a40ed"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MS4z"
+        },
+        {
+            "name": "v0.41.2",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.41.2",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.41.2",
+            "commit": {
+                "sha": "90fc82bc0832103ede04a6d8174cc849d2f1897f",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/90fc82bc0832103ede04a6d8174cc849d2f1897f"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MS4y"
+        },
+        {
+            "name": "v0.41.1",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.41.1",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.41.1",
+            "commit": {
+                "sha": "d4b2b647a7a20143b2bfe6af0c89df810e54e81f",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/d4b2b647a7a20143b2bfe6af0c89df810e54e81f"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MS4x"
+        },
+        {
+            "name": "v0.41.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.41.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.41.0",
+            "commit": {
+                "sha": "2287292fcef2ddafae0ab9b8ab9f8bad93151439",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/2287292fcef2ddafae0ab9b8ab9f8bad93151439"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MS4w"
+        },
+        {
+            "name": "v0.40.3",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.40.3",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.40.3",
+            "commit": {
+                "sha": "a1bf2b879053e5dcfcacebc794cd036358b2182c",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/a1bf2b879053e5dcfcacebc794cd036358b2182c"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MC4z"
+        },
+        {
+            "name": "v0.40.2",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.40.2",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.40.2",
+            "commit": {
+                "sha": "ab12fb6772ca8a01b39203de8736933d2e17d3f8",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/ab12fb6772ca8a01b39203de8736933d2e17d3f8"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MC4y"
+        },
+        {
+            "name": "v0.40.1",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.40.1",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.40.1",
+            "commit": {
+                "sha": "f9f719aad012f9e762117a7e104bd305bea1db35",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/f9f719aad012f9e762117a7e104bd305bea1db35"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MC4x"
+        },
+        {
+            "name": "v0.40.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.40.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.40.0",
+            "commit": {
+                "sha": "eea8c605258d79d5243f3f822c0e1205b0802f3c",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/eea8c605258d79d5243f3f822c0e1205b0802f3c"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC40MC4w"
+        },
+        {
+            "name": "v0.39.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.39.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.39.0",
+            "commit": {
+                "sha": "5e272eb1544263a4bb81d79ef989ec9d7a03e930",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/5e272eb1544263a4bb81d79ef989ec9d7a03e930"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zOS4w"
+        },
+        {
+            "name": "v0.38.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.38.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.38.0",
+            "commit": {
+                "sha": "94fe64e876bbb651311f1e05a6ad77c54366ee65",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/94fe64e876bbb651311f1e05a6ad77c54366ee65"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zOC4w"
+        },
+        {
+            "name": "v0.37.1",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.37.1",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.37.1",
+            "commit": {
+                "sha": "8c92d37598b760d64a14df1588ff27b3d14c7d2c",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/8c92d37598b760d64a14df1588ff27b3d14c7d2c"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zNy4x"
+        },
+        {
+            "name": "v0.37.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.37.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.37.0",
+            "commit": {
+                "sha": "d4ffb2ef8f230096ad7ca7ad822502cf39060677",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/d4ffb2ef8f230096ad7ca7ad822502cf39060677"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zNy4w"
+        },
+        {
+            "name": "v0.36.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.36.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.36.0",
+            "commit": {
+                "sha": "b00bd0dee192a836ae6debfe7415e16f5695754d",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/b00bd0dee192a836ae6debfe7415e16f5695754d"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zNi4w"
+        },
+        {
+            "name": "v0.35.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.35.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.35.0",
+            "commit": {
+                "sha": "9f96573224056aa5a11233b821d34cb8ae4fad20",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/9f96573224056aa5a11233b821d34cb8ae4fad20"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zNS4w"
+        },
+        {
+            "name": "v0.34.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.34.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.34.0",
+            "commit": {
+                "sha": "000646b0d65fced91f607fadb2127923f744fbea",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/000646b0d65fced91f607fadb2127923f744fbea"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zNC4w"
+        },
+        {
+            "name": "v0.33.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.33.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.33.0",
+            "commit": {
+                "sha": "c73431ac7dfc06906dbaf32bef229a6a2aef99d5",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/c73431ac7dfc06906dbaf32bef229a6a2aef99d5"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zMy4w"
+        },
+        {
+            "name": "v0.32.1",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.32.1",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.32.1",
+            "commit": {
+                "sha": "a9e5e89f5fb38e3b3d6e6bdfe1ad339a01f2f3b9",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/a9e5e89f5fb38e3b3d6e6bdfe1ad339a01f2f3b9"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zMi4x"
+        },
+        {
+            "name": "v0.32.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.32.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.32.0",
+            "commit": {
+                "sha": "ecf5d23e8671d8bb2ecef688cac05baa0c1eadb1",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/ecf5d23e8671d8bb2ecef688cac05baa0c1eadb1"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zMi4w"
+        },
+        {
+            "name": "v0.31.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.31.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.31.0",
+            "commit": {
+                "sha": "c5b425e2b3e05899e83bed0090865a7f4ec30c78",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/c5b425e2b3e05899e83bed0090865a7f4ec30c78"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zMS4w"
+        },
+        {
+            "name": "v0.30.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.30.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.30.0",
+            "commit": {
+                "sha": "8b1bf02103b8c90ce3ef2ba715214fb452b99885",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/8b1bf02103b8c90ce3ef2ba715214fb452b99885"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4zMC4w"
+        },
+        {
+            "name": "v0.29.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.29.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.29.0",
+            "commit": {
+                "sha": "e3730f843b9d4afa0058492289e7f056cbf814df",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/e3730f843b9d4afa0058492289e7f056cbf814df"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yOS4w"
+        },
+        {
+            "name": "v0.28.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.28.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.28.0",
+            "commit": {
+                "sha": "d5b99e10110f0229fc1104d70ed1f24ab2e1c67a",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/d5b99e10110f0229fc1104d70ed1f24ab2e1c67a"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yOC4w"
+        },
+        {
+            "name": "v0.27.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.27.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.27.0",
+            "commit": {
+                "sha": "4d680c40c8387aa77fad15d78cd13fdcca399ec7",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/4d680c40c8387aa77fad15d78cd13fdcca399ec7"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNy4w"
+        },
+        {
+            "name": "v0.26.0",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.26.0",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.26.0",
+            "commit": {
+                "sha": "9fddeccb4d112c148f6793bc3d21131a13778a25",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/9fddeccb4d112c148f6793bc3d21131a13778a25"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNi4w"
+        },
+        {
+            "name": "v0.25.3",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.25.3",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.25.3",
+            "commit": {
+                "sha": "eb7302bd9f3d1b310fdeee3c83e323736da6d18b",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/eb7302bd9f3d1b310fdeee3c83e323736da6d18b"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNS4z"
+        },
+        {
+            "name": "v0.25.2",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.25.2",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.25.2",
+            "commit": {
+                "sha": "dbc6a1d88873aa5f916abe344795a3cb1ec01840",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/dbc6a1d88873aa5f916abe344795a3cb1ec01840"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNS4y"
+        },
+        {
+            "name": "v0.24.3",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.24.3",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.24.3",
+            "commit": {
+                "sha": "68d962d59e4ebc75c702cc992b56ae6827e02014",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/68d962d59e4ebc75c702cc992b56ae6827e02014"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNC4z"
+        },
+        {
+            "name": "v0.24.2",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.24.2",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.24.2",
+            "commit": {
+                "sha": "0a168ec9dde5797a90fb05939f1ecf7ffc7dd14d",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/0a168ec9dde5797a90fb05939f1ecf7ffc7dd14d"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNC4y"
+        },
+        {
+            "name": "v0.24.1",
+            "zipball_url": "https://api.github.com/repos/FuelLabs/fuel-core/zipball/refs/tags/v0.24.1",
+            "tarball_url": "https://api.github.com/repos/FuelLabs/fuel-core/tarball/refs/tags/v0.24.1",
+            "commit": {
+                "sha": "f4cd69dfd72fec0db57fbeaeb4ee693cda5ed128",
+                "url": "https://api.github.com/repos/FuelLabs/fuel-core/commits/f4cd69dfd72fec0db57fbeaeb4ee693cda5ed128"
+            },
+            "node_id": "MDM6UmVmMjkwODgyNzg3OnJlZnMvdGFncy92MC4yNC4x"
+        }
+    ]
+}

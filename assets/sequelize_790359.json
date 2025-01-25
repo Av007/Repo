@@ -1,0 +1,436 @@
+{
+    "id": 790359,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3OTAzNTk=",
+    "name": "sequelize",
+    "full_name": "sequelize/sequelize",
+    "private": false,
+    "owner": {
+        "login": "sequelize",
+        "id": 3591786,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1OTE3ODY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3591786?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sequelize",
+        "html_url": "https://github.com/sequelize",
+        "followers_url": "https://api.github.com/users/sequelize/followers",
+        "following_url": "https://api.github.com/users/sequelize/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sequelize/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sequelize/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sequelize/subscriptions",
+        "organizations_url": "https://api.github.com/users/sequelize/orgs",
+        "repos_url": "https://api.github.com/users/sequelize/repos",
+        "events_url": "https://api.github.com/users/sequelize/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sequelize/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/sequelize/sequelize",
+    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.",
+    "fork": false,
+    "url": "https://api.github.com/repos/sequelize/sequelize",
+    "forks_url": "https://api.github.com/repos/sequelize/sequelize/forks",
+    "keys_url": "https://api.github.com/repos/sequelize/sequelize/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/sequelize/sequelize/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/sequelize/sequelize/teams",
+    "hooks_url": "https://api.github.com/repos/sequelize/sequelize/hooks",
+    "issue_events_url": "https://api.github.com/repos/sequelize/sequelize/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/sequelize/sequelize/events",
+    "assignees_url": "https://api.github.com/repos/sequelize/sequelize/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/sequelize/sequelize/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/sequelize/sequelize/tags",
+    "blobs_url": "https://api.github.com/repos/sequelize/sequelize/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/sequelize/sequelize/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/sequelize/sequelize/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/sequelize/sequelize/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/sequelize/sequelize/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/sequelize/sequelize/languages",
+    "stargazers_url": "https://api.github.com/repos/sequelize/sequelize/stargazers",
+    "contributors_url": "https://api.github.com/repos/sequelize/sequelize/contributors",
+    "subscribers_url": "https://api.github.com/repos/sequelize/sequelize/subscribers",
+    "subscription_url": "https://api.github.com/repos/sequelize/sequelize/subscription",
+    "commits_url": "https://api.github.com/repos/sequelize/sequelize/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/sequelize/sequelize/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/sequelize/sequelize/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/sequelize/sequelize/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/sequelize/sequelize/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/sequelize/sequelize/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/sequelize/sequelize/merges",
+    "archive_url": "https://api.github.com/repos/sequelize/sequelize/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/sequelize/sequelize/downloads",
+    "issues_url": "https://api.github.com/repos/sequelize/sequelize/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/sequelize/sequelize/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/sequelize/sequelize/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/sequelize/sequelize/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/sequelize/sequelize/labels{/name}",
+    "releases_url": "https://api.github.com/repos/sequelize/sequelize/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/sequelize/sequelize/deployments",
+    "created_at": "2010-07-22T07:11:11Z",
+    "updated_at": "2025-01-25T05:35:31Z",
+    "pushed_at": "2025-01-25T05:36:44Z",
+    "git_url": "git://github.com/sequelize/sequelize.git",
+    "ssh_url": "git@github.com:sequelize/sequelize.git",
+    "clone_url": "https://github.com/sequelize/sequelize.git",
+    "svn_url": "https://github.com/sequelize/sequelize",
+    "homepage": "https://sequelize.org/",
+    "size": 68446,
+    "stargazers_count": 29725,
+    "watchers_count": 29725,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 4284,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 951,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "db2-ibm-i",
+        "feature-rich",
+        "javascript",
+        "mariadb",
+        "microsoft-sql-server",
+        "mssql",
+        "mssql-server",
+        "mysql",
+        "nodejs",
+        "oracle-db",
+        "orm",
+        "postgresql",
+        "sequelize",
+        "snowflakedb",
+        "sql",
+        "sqlite",
+        "transactions",
+        "typescript"
+    ],
+    "visibility": "public",
+    "forks": 4284,
+    "open_issues": 951,
+    "watchers": 29725,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v7.0.0-oc-test.4",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-oc-test.4",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-oc-test.4",
+            "commit": {
+                "sha": "0fd5f01eae996c5a9a10dbe6cb7a37ed9e6390d9",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/0fd5f01eae996c5a9a10dbe6cb7a37ed9e6390d9"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtb2MtdGVzdC40"
+        },
+        {
+            "name": "v7.0.0-oc-test.3",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-oc-test.3",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-oc-test.3",
+            "commit": {
+                "sha": "00f8a9779dd48f38e569eb1513869382c7a5ab9a",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/00f8a9779dd48f38e569eb1513869382c7a5ab9a"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtb2MtdGVzdC4z"
+        },
+        {
+            "name": "v7.0.0-oc-test.2",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-oc-test.2",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-oc-test.2",
+            "commit": {
+                "sha": "3bcb474857f4693b17d5a9c18e909ee087367a8b",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/3bcb474857f4693b17d5a9c18e909ee087367a8b"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtb2MtdGVzdC4y"
+        },
+        {
+            "name": "v7.0.0-oc-test.1",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-oc-test.1",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-oc-test.1",
+            "commit": {
+                "sha": "7bca4cb7cf393f9c7c9f0fa9bd6f427d320cc107",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/7bca4cb7cf393f9c7c9f0fa9bd6f427d320cc107"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtb2MtdGVzdC4x"
+        },
+        {
+            "name": "v7.0.0-alpha.43",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.43",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.43",
+            "commit": {
+                "sha": "1f38ae7e01e36d2497eb22eec78ea58e7bec7e31",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/1f38ae7e01e36d2497eb22eec78ea58e7bec7e31"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuNDM="
+        },
+        {
+            "name": "v7.0.0-alpha.42",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.42",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.42",
+            "commit": {
+                "sha": "4fd3f5c33e3dc1faecb8841d840a3ea2c327fc84",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/4fd3f5c33e3dc1faecb8841d840a3ea2c327fc84"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuNDI="
+        },
+        {
+            "name": "v7.0.0-alpha.41",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.41",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.41",
+            "commit": {
+                "sha": "e926d0c6511c0eeaaaed89936778ea2030abc049",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/e926d0c6511c0eeaaaed89936778ea2030abc049"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuNDE="
+        },
+        {
+            "name": "v7.0.0-alpha.40",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.40",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.40",
+            "commit": {
+                "sha": "23091a3ed15109202fa4c8556cfc9e00d883bf6d",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/23091a3ed15109202fa4c8556cfc9e00d883bf6d"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuNDA="
+        },
+        {
+            "name": "v7.0.0-alpha.39",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.39",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.39",
+            "commit": {
+                "sha": "4cab6ac87ef3173e5f8f9cfa409279ae4042b6f6",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/4cab6ac87ef3173e5f8f9cfa409279ae4042b6f6"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzk="
+        },
+        {
+            "name": "v7.0.0-alpha.38",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.38",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.38",
+            "commit": {
+                "sha": "581b4a6e78654acc021012622fa4a9f8ba60c09e",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/581b4a6e78654acc021012622fa4a9f8ba60c09e"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzg="
+        },
+        {
+            "name": "v7.0.0-alpha.37",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.37",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.37",
+            "commit": {
+                "sha": "63ba367cd3f19fbaadee2e0daf1a0eb71808983b",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/63ba367cd3f19fbaadee2e0daf1a0eb71808983b"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzc="
+        },
+        {
+            "name": "v7.0.0-alpha.36",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.36",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.36",
+            "commit": {
+                "sha": "48bfa8f3f0d87bfd7ccab2367be89793f8bc9338",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/48bfa8f3f0d87bfd7ccab2367be89793f8bc9338"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzY="
+        },
+        {
+            "name": "v7.0.0-alpha.35",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.35",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.35",
+            "commit": {
+                "sha": "facad43fda20cdcd1a49ec1167110edca2d9ccf8",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/facad43fda20cdcd1a49ec1167110edca2d9ccf8"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzU="
+        },
+        {
+            "name": "v7.0.0-alpha.34",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.34",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.34",
+            "commit": {
+                "sha": "5f96e1a88885fd52f85f98d212164107cd4235e0",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/5f96e1a88885fd52f85f98d212164107cd4235e0"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzQ="
+        },
+        {
+            "name": "v7.0.0-alpha.33",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.33",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.33",
+            "commit": {
+                "sha": "3189745c4936dffc5c9aababed40b61152493fb2",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/3189745c4936dffc5c9aababed40b61152493fb2"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzM="
+        },
+        {
+            "name": "v7.0.0-alpha.32",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.32",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.32",
+            "commit": {
+                "sha": "8132d946ab0b69578e4fc3fd436b6a9e58305394",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/8132d946ab0b69578e4fc3fd436b6a9e58305394"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzI="
+        },
+        {
+            "name": "v7.0.0-alpha.31",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.31",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.31",
+            "commit": {
+                "sha": "eaa2488c2053e48ee85e05da07499980d69a534c",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/eaa2488c2053e48ee85e05da07499980d69a534c"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzE="
+        },
+        {
+            "name": "v7.0.0-alpha.30",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.30",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.30",
+            "commit": {
+                "sha": "9920043e47574e056a2079cc859093fcf04dadb3",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/9920043e47574e056a2079cc859093fcf04dadb3"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMzA="
+        },
+        {
+            "name": "v7.0.0-alpha.29",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.29",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.29",
+            "commit": {
+                "sha": "48c6288056b0871478e11dfab820e1c9ee07ba8a",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/48c6288056b0871478e11dfab820e1c9ee07ba8a"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjk="
+        },
+        {
+            "name": "v7.0.0-alpha.28",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.28",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.28",
+            "commit": {
+                "sha": "1e8e7f08e46a2056525446aa2274eba9e493d521",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/1e8e7f08e46a2056525446aa2274eba9e493d521"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjg="
+        },
+        {
+            "name": "v7.0.0-alpha.27",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.27",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.27",
+            "commit": {
+                "sha": "73126cf7106f98e3cf3a1e873c6751887f8af3ed",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/73126cf7106f98e3cf3a1e873c6751887f8af3ed"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjc="
+        },
+        {
+            "name": "v7.0.0-alpha.26",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.26",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.26",
+            "commit": {
+                "sha": "d925bb18f3ecea395d021b34af8873bde849d1bb",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/d925bb18f3ecea395d021b34af8873bde849d1bb"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjY="
+        },
+        {
+            "name": "v7.0.0-alpha.25",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.25",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.25",
+            "commit": {
+                "sha": "4294cea0fe28543364fc2796b05285b3fa301a8e",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/4294cea0fe28543364fc2796b05285b3fa301a8e"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjU="
+        },
+        {
+            "name": "v7.0.0-alpha.24",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.24",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.24",
+            "commit": {
+                "sha": "01103860ab3f0a5db7d1f233305d0dde76b6d2e4",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/01103860ab3f0a5db7d1f233305d0dde76b6d2e4"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjQ="
+        },
+        {
+            "name": "v7.0.0-alpha.23",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.23",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.23",
+            "commit": {
+                "sha": "6d97203580ada986b6e97ea7c36fb1b013129908",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/6d97203580ada986b6e97ea7c36fb1b013129908"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjM="
+        },
+        {
+            "name": "v7.0.0-alpha.22",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.22",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.22",
+            "commit": {
+                "sha": "f16beb9a66f035c086f3f24b512160b04ee9df07",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/f16beb9a66f035c086f3f24b512160b04ee9df07"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjI="
+        },
+        {
+            "name": "v7.0.0-alpha.21",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.21",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.21",
+            "commit": {
+                "sha": "58c333afa9cc2da36e7b9650fab1982c8019a04f",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/58c333afa9cc2da36e7b9650fab1982c8019a04f"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjE="
+        },
+        {
+            "name": "v7.0.0-alpha.20",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.20",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.20",
+            "commit": {
+                "sha": "3fdfb148e56554cabbdf2df8a1555c2129df01db",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/3fdfb148e56554cabbdf2df8a1555c2129df01db"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMjA="
+        },
+        {
+            "name": "v7.0.0-alpha.19",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.19",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.19",
+            "commit": {
+                "sha": "1ce257f4d1be1b8c76845112933df29d32be9eed",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/1ce257f4d1be1b8c76845112933df29d32be9eed"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMTk="
+        },
+        {
+            "name": "v7.0.0-alpha.18",
+            "zipball_url": "https://api.github.com/repos/sequelize/sequelize/zipball/refs/tags/v7.0.0-alpha.18",
+            "tarball_url": "https://api.github.com/repos/sequelize/sequelize/tarball/refs/tags/v7.0.0-alpha.18",
+            "commit": {
+                "sha": "a1b20c320330a59d2131d4206a200490733bca60",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/a1b20c320330a59d2131d4206a200490733bca60"
+            },
+            "node_id": "MDM6UmVmNzkwMzU5OnJlZnMvdGFncy92Ny4wLjAtYWxwaGEuMTg="
+        }
+    ]
+}

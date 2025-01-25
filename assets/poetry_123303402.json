@@ -1,0 +1,423 @@
+{
+    "id": 123303402,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMjMzMDM0MDI=",
+    "name": "poetry",
+    "full_name": "python-poetry/poetry",
+    "private": false,
+    "owner": {
+        "login": "python-poetry",
+        "id": 48722593,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NzIyNTkz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48722593?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/python-poetry",
+        "html_url": "https://github.com/python-poetry",
+        "followers_url": "https://api.github.com/users/python-poetry/followers",
+        "following_url": "https://api.github.com/users/python-poetry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/python-poetry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/python-poetry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/python-poetry/subscriptions",
+        "organizations_url": "https://api.github.com/users/python-poetry/orgs",
+        "repos_url": "https://api.github.com/users/python-poetry/repos",
+        "events_url": "https://api.github.com/users/python-poetry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/python-poetry/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/python-poetry/poetry",
+    "description": "Python packaging and dependency management made easy",
+    "fork": false,
+    "url": "https://api.github.com/repos/python-poetry/poetry",
+    "forks_url": "https://api.github.com/repos/python-poetry/poetry/forks",
+    "keys_url": "https://api.github.com/repos/python-poetry/poetry/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/python-poetry/poetry/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/python-poetry/poetry/teams",
+    "hooks_url": "https://api.github.com/repos/python-poetry/poetry/hooks",
+    "issue_events_url": "https://api.github.com/repos/python-poetry/poetry/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/python-poetry/poetry/events",
+    "assignees_url": "https://api.github.com/repos/python-poetry/poetry/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/python-poetry/poetry/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/python-poetry/poetry/tags",
+    "blobs_url": "https://api.github.com/repos/python-poetry/poetry/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/python-poetry/poetry/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/python-poetry/poetry/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/python-poetry/poetry/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/python-poetry/poetry/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/python-poetry/poetry/languages",
+    "stargazers_url": "https://api.github.com/repos/python-poetry/poetry/stargazers",
+    "contributors_url": "https://api.github.com/repos/python-poetry/poetry/contributors",
+    "subscribers_url": "https://api.github.com/repos/python-poetry/poetry/subscribers",
+    "subscription_url": "https://api.github.com/repos/python-poetry/poetry/subscription",
+    "commits_url": "https://api.github.com/repos/python-poetry/poetry/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/python-poetry/poetry/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/python-poetry/poetry/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/python-poetry/poetry/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/python-poetry/poetry/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/python-poetry/poetry/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/python-poetry/poetry/merges",
+    "archive_url": "https://api.github.com/repos/python-poetry/poetry/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/python-poetry/poetry/downloads",
+    "issues_url": "https://api.github.com/repos/python-poetry/poetry/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/python-poetry/poetry/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/python-poetry/poetry/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/python-poetry/poetry/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/python-poetry/poetry/labels{/name}",
+    "releases_url": "https://api.github.com/repos/python-poetry/poetry/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/python-poetry/poetry/deployments",
+    "created_at": "2018-02-28T15:23:47Z",
+    "updated_at": "2025-01-25T16:59:47Z",
+    "pushed_at": "2025-01-25T15:57:29Z",
+    "git_url": "git://github.com/python-poetry/poetry.git",
+    "ssh_url": "git@github.com:python-poetry/poetry.git",
+    "clone_url": "https://github.com/python-poetry/poetry.git",
+    "svn_url": "https://github.com/python-poetry/poetry",
+    "homepage": "https://python-poetry.org",
+    "size": 23207,
+    "stargazers_count": 32411,
+    "watchers_count": 32411,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2314,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 535,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "dependency-manager",
+        "package-manager",
+        "packaging",
+        "poetry",
+        "python"
+    ],
+    "visibility": "public",
+    "forks": 2314,
+    "open_issues": 535,
+    "watchers": 32411,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "2.0.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/2.0.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/2.0.1",
+            "commit": {
+                "sha": "bd500dd3bdfaec3de6894144c9cedb3a9358be84",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/bd500dd3bdfaec3de6894144c9cedb3a9358be84"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8yLjAuMQ=="
+        },
+        {
+            "name": "2.0.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/2.0.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/2.0.0",
+            "commit": {
+                "sha": "8cad7a423b459871e9ed6094252b15c9ddb8a7dd",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/8cad7a423b459871e9ed6094252b15c9ddb8a7dd"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8yLjAuMA=="
+        },
+        {
+            "name": "1.8.5",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.8.5",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.8.5",
+            "commit": {
+                "sha": "19a2f7bddb9bdf931a229ea0913a84021f3f9b93",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/19a2f7bddb9bdf931a229ea0913a84021f3f9b93"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjguNQ=="
+        },
+        {
+            "name": "1.8.4",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.8.4",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.8.4",
+            "commit": {
+                "sha": "6a071c181ad82ec3a5d4ecd54d50d08a75470e78",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/6a071c181ad82ec3a5d4ecd54d50d08a75470e78"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjguNA=="
+        },
+        {
+            "name": "1.8.3",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.8.3",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.8.3",
+            "commit": {
+                "sha": "e5e4b0ce9d2f4a50f6feeacac3a7d995f0880979",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/e5e4b0ce9d2f4a50f6feeacac3a7d995f0880979"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjguMw=="
+        },
+        {
+            "name": "1.8.2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.8.2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.8.2",
+            "commit": {
+                "sha": "c3e22d63f50256f588bd1438eedcd761a1507a43",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/c3e22d63f50256f588bd1438eedcd761a1507a43"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjguMg=="
+        },
+        {
+            "name": "1.8.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.8.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.8.1",
+            "commit": {
+                "sha": "78f7dd6b762b78e657ee9c74cf0ae50ccb0904ec",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/78f7dd6b762b78e657ee9c74cf0ae50ccb0904ec"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjguMQ=="
+        },
+        {
+            "name": "1.8.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.8.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.8.0",
+            "commit": {
+                "sha": "a3789fec54390e8cca8a6b399b59b8b45cc26dd3",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/a3789fec54390e8cca8a6b399b59b8b45cc26dd3"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjguMA=="
+        },
+        {
+            "name": "1.7.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.7.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.7.1",
+            "commit": {
+                "sha": "8fe16f82ed3d0379e9a187909203700c9fb332e7",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/8fe16f82ed3d0379e9a187909203700c9fb332e7"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjcuMQ=="
+        },
+        {
+            "name": "1.7.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.7.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.7.0",
+            "commit": {
+                "sha": "5f08ac19f2719c2f805bc863f61c2ea74a0db5b4",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/5f08ac19f2719c2f805bc863f61c2ea74a0db5b4"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjcuMA=="
+        },
+        {
+            "name": "1.6.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.6.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.6.1",
+            "commit": {
+                "sha": "719831a759e7e37e010b65ff7dad926977e27fd1",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/719831a759e7e37e010b65ff7dad926977e27fd1"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjYuMQ=="
+        },
+        {
+            "name": "1.6.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.6.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.6.0",
+            "commit": {
+                "sha": "03841708a4e5b4aab3400c6f3bb6b1099e1eaccd",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/03841708a4e5b4aab3400c6f3bb6b1099e1eaccd"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjYuMA=="
+        },
+        {
+            "name": "1.5.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.5.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.5.1",
+            "commit": {
+                "sha": "3fbd794ab8ab09bf99f90116c463996031b5544d",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/3fbd794ab8ab09bf99f90116c463996031b5544d"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjUuMQ=="
+        },
+        {
+            "name": "1.5.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.5.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.5.0",
+            "commit": {
+                "sha": "68b88e5390720a3dd84f02940ec5200bfce39ac6",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/68b88e5390720a3dd84f02940ec5200bfce39ac6"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjUuMA=="
+        },
+        {
+            "name": "1.4.2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.4.2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.4.2",
+            "commit": {
+                "sha": "c4c857e917c863bff9e97371c7dff45b704f6140",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/c4c857e917c863bff9e97371c7dff45b704f6140"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjQuMg=="
+        },
+        {
+            "name": "1.4.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.4.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.4.1",
+            "commit": {
+                "sha": "fc1014b592290796f6d6a7d43a39b41aa77b0704",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/fc1014b592290796f6d6a7d43a39b41aa77b0704"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjQuMQ=="
+        },
+        {
+            "name": "1.4.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.4.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.4.0",
+            "commit": {
+                "sha": "0e72a55c43a993ec0258facec23416c9212964ba",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/0e72a55c43a993ec0258facec23416c9212964ba"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjQuMA=="
+        },
+        {
+            "name": "1.3.2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.3.2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.3.2",
+            "commit": {
+                "sha": "7889f70319c68574b68b7c7a04a2cd9d648caae0",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/7889f70319c68574b68b7c7a04a2cd9d648caae0"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjMuMg=="
+        },
+        {
+            "name": "1.3.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.3.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.3.1",
+            "commit": {
+                "sha": "9a4bf9f80b74c2e888b8dc2058e37c9f2589c32e",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/9a4bf9f80b74c2e888b8dc2058e37c9f2589c32e"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjMuMQ=="
+        },
+        {
+            "name": "1.3.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.3.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.3.0",
+            "commit": {
+                "sha": "aa48815d2253e318d6e70c9a15fc4def0b48c870",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/aa48815d2253e318d6e70c9a15fc4def0b48c870"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjMuMA=="
+        },
+        {
+            "name": "1.2.2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.2",
+            "commit": {
+                "sha": "337e90f9a0731836a6806b26f594643674736467",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/337e90f9a0731836a6806b26f594643674736467"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMg=="
+        },
+        {
+            "name": "1.2.1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.1",
+            "commit": {
+                "sha": "7cd761a6a0bdec7fab76cf742ee4109db854ab76",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/7cd761a6a0bdec7fab76cf742ee4109db854ab76"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMQ=="
+        },
+        {
+            "name": "1.2.0",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0",
+            "commit": {
+                "sha": "85993df4fa7b67dbfe573cce7b2a397846b9c320",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/85993df4fa7b67dbfe573cce7b2a397846b9c320"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMA=="
+        },
+        {
+            "name": "1.2.0rc2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0rc2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0rc2",
+            "commit": {
+                "sha": "74d6781eb5ece8a3ee027aac560fdf488a764c16",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/74d6781eb5ece8a3ee027aac560fdf488a764c16"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMHJjMg=="
+        },
+        {
+            "name": "1.2.0rc1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0rc1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0rc1",
+            "commit": {
+                "sha": "77e9d35360317a22dde1650a18d8b2429838c071",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/77e9d35360317a22dde1650a18d8b2429838c071"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMHJjMQ=="
+        },
+        {
+            "name": "1.2.0b3",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0b3",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0b3",
+            "commit": {
+                "sha": "93b313b790c13267f7df87e383c61610fd732d0f",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/93b313b790c13267f7df87e383c61610fd732d0f"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMGIz"
+        },
+        {
+            "name": "1.2.0b2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0b2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0b2",
+            "commit": {
+                "sha": "ccbeffc1f1a5809e999cc18c584ed2cee2a8f580",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/ccbeffc1f1a5809e999cc18c584ed2cee2a8f580"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMGIy"
+        },
+        {
+            "name": "1.2.0b1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0b1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0b1",
+            "commit": {
+                "sha": "dca6ff2699a06c0217ed6d5a278fa3146e4136ff",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/dca6ff2699a06c0217ed6d5a278fa3146e4136ff"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMGIx"
+        },
+        {
+            "name": "1.2.0a2",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0a2",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0a2",
+            "commit": {
+                "sha": "6659a22e2a03ad13bae142b66c7c31aea68dd114",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/6659a22e2a03ad13bae142b66c7c31aea68dd114"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMGEy"
+        },
+        {
+            "name": "1.2.0a1",
+            "zipball_url": "https://api.github.com/repos/python-poetry/poetry/zipball/refs/tags/1.2.0a1",
+            "tarball_url": "https://api.github.com/repos/python-poetry/poetry/tarball/refs/tags/1.2.0a1",
+            "commit": {
+                "sha": "ea92ec14d4f999b5f3cbf07202840e606e2226f1",
+                "url": "https://api.github.com/repos/python-poetry/poetry/commits/ea92ec14d4f999b5f3cbf07202840e606e2226f1"
+            },
+            "node_id": "MDM6UmVmMTIzMzAzNDAyOnJlZnMvdGFncy8xLjIuMGEx"
+        }
+    ]
+}

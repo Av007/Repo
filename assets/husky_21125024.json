@@ -1,0 +1,422 @@
+{
+    "id": 21125024,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMTEyNTAyNA==",
+    "name": "husky",
+    "full_name": "typicode/husky",
+    "private": false,
+    "owner": {
+        "login": "typicode",
+        "id": 5502029,
+        "node_id": "MDQ6VXNlcjU1MDIwMjk=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5502029?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/typicode",
+        "html_url": "https://github.com/typicode",
+        "followers_url": "https://api.github.com/users/typicode/followers",
+        "following_url": "https://api.github.com/users/typicode/following{/other_user}",
+        "gists_url": "https://api.github.com/users/typicode/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/typicode/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/typicode/subscriptions",
+        "organizations_url": "https://api.github.com/users/typicode/orgs",
+        "repos_url": "https://api.github.com/users/typicode/repos",
+        "events_url": "https://api.github.com/users/typicode/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/typicode/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/typicode/husky",
+    "description": "Git hooks made easy \ud83d\udc36 woof!",
+    "fork": false,
+    "url": "https://api.github.com/repos/typicode/husky",
+    "forks_url": "https://api.github.com/repos/typicode/husky/forks",
+    "keys_url": "https://api.github.com/repos/typicode/husky/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/typicode/husky/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/typicode/husky/teams",
+    "hooks_url": "https://api.github.com/repos/typicode/husky/hooks",
+    "issue_events_url": "https://api.github.com/repos/typicode/husky/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/typicode/husky/events",
+    "assignees_url": "https://api.github.com/repos/typicode/husky/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/typicode/husky/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/typicode/husky/tags",
+    "blobs_url": "https://api.github.com/repos/typicode/husky/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/typicode/husky/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/typicode/husky/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/typicode/husky/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/typicode/husky/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/typicode/husky/languages",
+    "stargazers_url": "https://api.github.com/repos/typicode/husky/stargazers",
+    "contributors_url": "https://api.github.com/repos/typicode/husky/contributors",
+    "subscribers_url": "https://api.github.com/repos/typicode/husky/subscribers",
+    "subscription_url": "https://api.github.com/repos/typicode/husky/subscription",
+    "commits_url": "https://api.github.com/repos/typicode/husky/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/typicode/husky/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/typicode/husky/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/typicode/husky/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/typicode/husky/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/typicode/husky/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/typicode/husky/merges",
+    "archive_url": "https://api.github.com/repos/typicode/husky/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/typicode/husky/downloads",
+    "issues_url": "https://api.github.com/repos/typicode/husky/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/typicode/husky/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/typicode/husky/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/typicode/husky/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/typicode/husky/labels{/name}",
+    "releases_url": "https://api.github.com/repos/typicode/husky/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/typicode/husky/deployments",
+    "created_at": "2014-06-23T12:14:21Z",
+    "updated_at": "2025-01-25T10:43:23Z",
+    "pushed_at": "2024-11-26T00:20:16Z",
+    "git_url": "git://github.com/typicode/husky.git",
+    "ssh_url": "git@github.com:typicode/husky.git",
+    "clone_url": "https://github.com/typicode/husky.git",
+    "svn_url": "https://github.com/typicode/husky",
+    "homepage": "https://typicode.github.io/husky",
+    "size": 4438,
+    "stargazers_count": 32991,
+    "watchers_count": 32991,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 1041,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 62,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "commit",
+        "git",
+        "hooks",
+        "pre-commit"
+    ],
+    "visibility": "public",
+    "forks": 1041,
+    "open_issues": 62,
+    "watchers": 32991,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v9.1.7",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.7",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.7",
+            "commit": {
+                "sha": "799e84b716d0e03db80db5d5b0dcdd15b9d555fc",
+                "url": "https://api.github.com/repos/typicode/husky/commits/799e84b716d0e03db80db5d5b0dcdd15b9d555fc"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuNw=="
+        },
+        {
+            "name": "v9.1.6",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.6",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.6",
+            "commit": {
+                "sha": "a2d942a670b3d6a04578005a0fd2dc310e511849",
+                "url": "https://api.github.com/repos/typicode/husky/commits/a2d942a670b3d6a04578005a0fd2dc310e511849"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuNg=="
+        },
+        {
+            "name": "v9.1.5",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.5",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.5",
+            "commit": {
+                "sha": "2fee8d212c601942ad146ea9209f15c20a07fb6d",
+                "url": "https://api.github.com/repos/typicode/husky/commits/2fee8d212c601942ad146ea9209f15c20a07fb6d"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuNQ=="
+        },
+        {
+            "name": "v9.1.4",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.4",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.4",
+            "commit": {
+                "sha": "fc549e0e5c8723a6d796f6ad26ef6590769f5d82",
+                "url": "https://api.github.com/repos/typicode/husky/commits/fc549e0e5c8723a6d796f6ad26ef6590769f5d82"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuNA=="
+        },
+        {
+            "name": "v9.1.3",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.3",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.3",
+            "commit": {
+                "sha": "712cb004c17b2bdf824ff74de3ec4855c06d72ef",
+                "url": "https://api.github.com/repos/typicode/husky/commits/712cb004c17b2bdf824ff74de3ec4855c06d72ef"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuMw=="
+        },
+        {
+            "name": "v9.1.2",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.2",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.2",
+            "commit": {
+                "sha": "35fba846c4a9b83f64a95d8a0bde5aa648fdc449",
+                "url": "https://api.github.com/repos/typicode/husky/commits/35fba846c4a9b83f64a95d8a0bde5aa648fdc449"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuMg=="
+        },
+        {
+            "name": "v9.1.1",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.1",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.1",
+            "commit": {
+                "sha": "2968998755465f69069f297b5bb603e26d6b1772",
+                "url": "https://api.github.com/repos/typicode/husky/commits/2968998755465f69069f297b5bb603e26d6b1772"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuMQ=="
+        },
+        {
+            "name": "v9.1.0",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.1.0",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.1.0",
+            "commit": {
+                "sha": "9cef99b8213ac42656c16c059346b5c095a274ac",
+                "url": "https://api.github.com/repos/typicode/husky/commits/9cef99b8213ac42656c16c059346b5c095a274ac"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjEuMA=="
+        },
+        {
+            "name": "v9.0.11",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.11",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.11",
+            "commit": {
+                "sha": "a9c658405470a562b86af4db349959a2fed208c2",
+                "url": "https://api.github.com/repos/typicode/husky/commits/a9c658405470a562b86af4db349959a2fed208c2"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuMTE="
+        },
+        {
+            "name": "v9.0.10",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.10",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.10",
+            "commit": {
+                "sha": "c042d9b4d409caaa9be48e1e635359931c944760",
+                "url": "https://api.github.com/repos/typicode/husky/commits/c042d9b4d409caaa9be48e1e635359931c944760"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuMTA="
+        },
+        {
+            "name": "v9.0.9",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.9",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.9",
+            "commit": {
+                "sha": "6219cac421679c7714f8ea91f94c9e163244914f",
+                "url": "https://api.github.com/repos/typicode/husky/commits/6219cac421679c7714f8ea91f94c9e163244914f"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuOQ=="
+        },
+        {
+            "name": "v9.0.8",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.8",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.8",
+            "commit": {
+                "sha": "211b80ada3b37e1d3fbae00c69758b75e47fe03a",
+                "url": "https://api.github.com/repos/typicode/husky/commits/211b80ada3b37e1d3fbae00c69758b75e47fe03a"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuOA=="
+        },
+        {
+            "name": "v9.0.7",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.7",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.7",
+            "commit": {
+                "sha": "9e08ef013cd638e9f342e700fa2aa063e1065e54",
+                "url": "https://api.github.com/repos/typicode/husky/commits/9e08ef013cd638e9f342e700fa2aa063e1065e54"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuNw=="
+        },
+        {
+            "name": "v9.0.6",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.6",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.6",
+            "commit": {
+                "sha": "2da78cb5ebec4d84c2e7e5eeea6e118fdcf88610",
+                "url": "https://api.github.com/repos/typicode/husky/commits/2da78cb5ebec4d84c2e7e5eeea6e118fdcf88610"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuNg=="
+        },
+        {
+            "name": "v9.0.5",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.5",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.5",
+            "commit": {
+                "sha": "8314bef03770cfb8f69ac95616f5c325709eacce",
+                "url": "https://api.github.com/repos/typicode/husky/commits/8314bef03770cfb8f69ac95616f5c325709eacce"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuNQ=="
+        },
+        {
+            "name": "v9.0.4",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.4",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.4",
+            "commit": {
+                "sha": "1e57dc963ec1d043b39cbfd4c8d440271912ffa6",
+                "url": "https://api.github.com/repos/typicode/husky/commits/1e57dc963ec1d043b39cbfd4c8d440271912ffa6"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuNA=="
+        },
+        {
+            "name": "v9.0.3",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.3",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.3",
+            "commit": {
+                "sha": "417568d8ff0394099684feda593e7133ce990100",
+                "url": "https://api.github.com/repos/typicode/husky/commits/417568d8ff0394099684feda593e7133ce990100"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuMw=="
+        },
+        {
+            "name": "v9.0.2",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.2",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.2",
+            "commit": {
+                "sha": "36fa2e52042d1932ba6f9b0fb05378c86dff9917",
+                "url": "https://api.github.com/repos/typicode/husky/commits/36fa2e52042d1932ba6f9b0fb05378c86dff9917"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuMg=="
+        },
+        {
+            "name": "v9.0.1",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.1",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.1",
+            "commit": {
+                "sha": "513c2c95be44966afb0aaf7d96716c52782bcba3",
+                "url": "https://api.github.com/repos/typicode/husky/commits/513c2c95be44966afb0aaf7d96716c52782bcba3"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuMQ=="
+        },
+        {
+            "name": "v9.0.0",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v9.0.0",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v9.0.0",
+            "commit": {
+                "sha": "c68cc2625fc574bc44ed3d42e3289dbef6b0ed16",
+                "url": "https://api.github.com/repos/typicode/husky/commits/c68cc2625fc574bc44ed3d42e3289dbef6b0ed16"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y5LjAuMA=="
+        },
+        {
+            "name": "v8.0.3",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v8.0.3",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v8.0.3",
+            "commit": {
+                "sha": "3c0e08d3ca4d01d04ebb92089e68c47e131ab6be",
+                "url": "https://api.github.com/repos/typicode/husky/commits/3c0e08d3ca4d01d04ebb92089e68c47e131ab6be"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y4LjAuMw=="
+        },
+        {
+            "name": "v8.0.2",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v8.0.2",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v8.0.2",
+            "commit": {
+                "sha": "9efb720c165ffcfec774b4584aa61f59dae774c7",
+                "url": "https://api.github.com/repos/typicode/husky/commits/9efb720c165ffcfec774b4584aa61f59dae774c7"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y4LjAuMg=="
+        },
+        {
+            "name": "v8.0.1",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v8.0.1",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v8.0.1",
+            "commit": {
+                "sha": "c4207f28fbd96ef3f8a8089965671f2aac806884",
+                "url": "https://api.github.com/repos/typicode/husky/commits/c4207f28fbd96ef3f8a8089965671f2aac806884"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y4LjAuMQ=="
+        },
+        {
+            "name": "v8.0.0",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v8.0.0",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v8.0.0",
+            "commit": {
+                "sha": "f5b5c33381c03d8e77970e58b9af4a641fc1f153",
+                "url": "https://api.github.com/repos/typicode/husky/commits/f5b5c33381c03d8e77970e58b9af4a641fc1f153"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y4LjAuMA=="
+        },
+        {
+            "name": "v7.0.4",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v7.0.4",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v7.0.4",
+            "commit": {
+                "sha": "38083d384c5a54459278668003be1004b6d15f7c",
+                "url": "https://api.github.com/repos/typicode/husky/commits/38083d384c5a54459278668003be1004b6d15f7c"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y3LjAuNA=="
+        },
+        {
+            "name": "v7.0.3",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v7.0.3",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v7.0.3",
+            "commit": {
+                "sha": "5856b5f82ea99128ccc80a1f8ca88abfe6286997",
+                "url": "https://api.github.com/repos/typicode/husky/commits/5856b5f82ea99128ccc80a1f8ca88abfe6286997"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y3LjAuMw=="
+        },
+        {
+            "name": "v7.0.2",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v7.0.2",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v7.0.2",
+            "commit": {
+                "sha": "74ce9c581b115654cc7a31afaba73a6bf332975e",
+                "url": "https://api.github.com/repos/typicode/husky/commits/74ce9c581b115654cc7a31afaba73a6bf332975e"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y3LjAuMg=="
+        },
+        {
+            "name": "v7.0.1",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v7.0.1",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v7.0.1",
+            "commit": {
+                "sha": "f248876e1d659166c2cf146127116e3dd5e9e1de",
+                "url": "https://api.github.com/repos/typicode/husky/commits/f248876e1d659166c2cf146127116e3dd5e9e1de"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y3LjAuMQ=="
+        },
+        {
+            "name": "v7.0.0",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v7.0.0",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v7.0.0",
+            "commit": {
+                "sha": "d47ffe1b6d80eaab3e1706d8a22562c737beb888",
+                "url": "https://api.github.com/repos/typicode/husky/commits/d47ffe1b6d80eaab3e1706d8a22562c737beb888"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y3LjAuMA=="
+        },
+        {
+            "name": "v6.0.0",
+            "zipball_url": "https://api.github.com/repos/typicode/husky/zipball/refs/tags/v6.0.0",
+            "tarball_url": "https://api.github.com/repos/typicode/husky/tarball/refs/tags/v6.0.0",
+            "commit": {
+                "sha": "cb4e3b913e2d8963af3179650ed550d3a0e210f5",
+                "url": "https://api.github.com/repos/typicode/husky/commits/cb4e3b913e2d8963af3179650ed550d3a0e210f5"
+            },
+            "node_id": "MDM6UmVmMjExMjUwMjQ6cmVmcy90YWdzL3Y2LjAuMA=="
+        }
+    ]
+}

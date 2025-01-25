@@ -1,0 +1,417 @@
+{
+    "id": 1129010,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTI5MDEw",
+    "name": "jQuery-File-Upload",
+    "full_name": "blueimp/jQuery-File-Upload",
+    "private": false,
+    "owner": {
+        "login": "blueimp",
+        "id": 244586,
+        "node_id": "MDQ6VXNlcjI0NDU4Ng==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/244586?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/blueimp",
+        "html_url": "https://github.com/blueimp",
+        "followers_url": "https://api.github.com/users/blueimp/followers",
+        "following_url": "https://api.github.com/users/blueimp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/blueimp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/blueimp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/blueimp/subscriptions",
+        "organizations_url": "https://api.github.com/users/blueimp/orgs",
+        "repos_url": "https://api.github.com/users/blueimp/repos",
+        "events_url": "https://api.github.com/users/blueimp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/blueimp/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/blueimp/jQuery-File-Upload",
+    "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+    "fork": false,
+    "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload",
+    "forks_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/forks",
+    "keys_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/teams",
+    "hooks_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/hooks",
+    "issue_events_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/events",
+    "assignees_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tags",
+    "blobs_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/languages",
+    "stargazers_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/stargazers",
+    "contributors_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/contributors",
+    "subscribers_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/subscribers",
+    "subscription_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/subscription",
+    "commits_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/merges",
+    "archive_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/downloads",
+    "issues_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/labels{/name}",
+    "releases_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/deployments",
+    "created_at": "2010-12-01T15:35:32Z",
+    "updated_at": "2025-01-24T05:37:11Z",
+    "pushed_at": "2023-05-25T09:11:07Z",
+    "git_url": "git://github.com/blueimp/jQuery-File-Upload.git",
+    "ssh_url": "git@github.com:blueimp/jQuery-File-Upload.git",
+    "clone_url": "https://github.com/blueimp/jQuery-File-Upload.git",
+    "svn_url": "https://github.com/blueimp/jQuery-File-Upload",
+    "homepage": "https://blueimp.github.io/jQuery-File-Upload/",
+    "size": 4767,
+    "stargazers_count": 30944,
+    "watchers_count": 30944,
+    "language": "PHP",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 7928,
+    "mirror_url": null,
+    "archived": true,
+    "disabled": false,
+    "open_issues_count": 52,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 7928,
+    "open_issues": 52,
+    "watchers": 30944,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v10.32.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.32.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.32.0",
+            "commit": {
+                "sha": "0c85627dfb551e2ce25b82cddef557069bd803ed",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/0c85627dfb551e2ce25b82cddef557069bd803ed"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjMyLjA="
+        },
+        {
+            "name": "v10.31.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.31.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.31.0",
+            "commit": {
+                "sha": "7e655a866677184412fe16a512c61c547a1e875c",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/7e655a866677184412fe16a512c61c547a1e875c"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjMxLjA="
+        },
+        {
+            "name": "v10.30.1",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.30.1",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.30.1",
+            "commit": {
+                "sha": "67d3f5bae532df367d6301970ce369969c7592a0",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/67d3f5bae532df367d6301970ce369969c7592a0"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjMwLjE="
+        },
+        {
+            "name": "v10.30.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.30.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.30.0",
+            "commit": {
+                "sha": "d8ed9359a64a9bf08e5e5d20ff8bb29925cac1bb",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/d8ed9359a64a9bf08e5e5d20ff8bb29925cac1bb"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjMwLjA="
+        },
+        {
+            "name": "v10.29.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.29.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.29.0",
+            "commit": {
+                "sha": "53992c2ddf43b0f43465d1a55c64d8ca02657118",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/53992c2ddf43b0f43465d1a55c64d8ca02657118"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjI5LjA="
+        },
+        {
+            "name": "v10.28.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.28.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.28.0",
+            "commit": {
+                "sha": "6d1dd9b0a9215f7ff01545f34c701dc6e9f08df2",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/6d1dd9b0a9215f7ff01545f34c701dc6e9f08df2"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjI4LjA="
+        },
+        {
+            "name": "v10.27.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.27.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.27.0",
+            "commit": {
+                "sha": "f5d629abdaf480fefad8ad823cb1e2c96805bd4e",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/f5d629abdaf480fefad8ad823cb1e2c96805bd4e"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjI3LjA="
+        },
+        {
+            "name": "v10.26.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.26.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.26.0",
+            "commit": {
+                "sha": "6b7081cf0c4881a9ecfbb72532743818aa5751ce",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/6b7081cf0c4881a9ecfbb72532743818aa5751ce"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjI2LjA="
+        },
+        {
+            "name": "v10.25.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.25.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.25.0",
+            "commit": {
+                "sha": "e3b526084c9f4a6d5e94f8f88a63e31f48d4a799",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/e3b526084c9f4a6d5e94f8f88a63e31f48d4a799"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjI1LjA="
+        },
+        {
+            "name": "v10.24.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.24.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.24.0",
+            "commit": {
+                "sha": "90743ce2dd690c84407a39ce814e580a6102380f",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/90743ce2dd690c84407a39ce814e580a6102380f"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjI0LjA="
+        },
+        {
+            "name": "v10.23.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.23.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.23.0",
+            "commit": {
+                "sha": "928e532e9370b312f5b66bd1e64651507b96b374",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/928e532e9370b312f5b66bd1e64651507b96b374"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjIzLjA="
+        },
+        {
+            "name": "v10.22.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.22.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.22.0",
+            "commit": {
+                "sha": "ee0b8c73ffa8af0397dae0018741fcb26e692630",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/ee0b8c73ffa8af0397dae0018741fcb26e692630"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjIyLjA="
+        },
+        {
+            "name": "v10.21.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.21.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.21.0",
+            "commit": {
+                "sha": "8f63deefbcbf496b05436d3154727fa1d23d9307",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/8f63deefbcbf496b05436d3154727fa1d23d9307"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjIxLjA="
+        },
+        {
+            "name": "v10.20.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.20.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.20.0",
+            "commit": {
+                "sha": "3857404b23ffe22d76275cf6a5b620ddc5bacd68",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/3857404b23ffe22d76275cf6a5b620ddc5bacd68"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjIwLjA="
+        },
+        {
+            "name": "v10.19.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.19.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.19.0",
+            "commit": {
+                "sha": "f94f2d3d117a87329cfbac930a1fc541f837da85",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/f94f2d3d117a87329cfbac930a1fc541f837da85"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjE5LjA="
+        },
+        {
+            "name": "v10.18.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.18.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.18.0",
+            "commit": {
+                "sha": "ba11d8445add291ace7ac1c158f3a4ccea0db769",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/ba11d8445add291ace7ac1c158f3a4ccea0db769"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjE4LjA="
+        },
+        {
+            "name": "v10.17.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.17.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.17.0",
+            "commit": {
+                "sha": "888852709bd74c649d7d55287c870d47d53dcea1",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/888852709bd74c649d7d55287c870d47d53dcea1"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjE3LjA="
+        },
+        {
+            "name": "v10.16.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.16.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.16.0",
+            "commit": {
+                "sha": "b0a7579151ca3633d2b138a82cad53d62baf5800",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/b0a7579151ca3633d2b138a82cad53d62baf5800"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjE2LjA="
+        },
+        {
+            "name": "v10.15.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.15.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.15.0",
+            "commit": {
+                "sha": "825d340f3f9d2b5cf3fb2341c12afc8d44ac810a",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/825d340f3f9d2b5cf3fb2341c12afc8d44ac810a"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjE1LjA="
+        },
+        {
+            "name": "v10.14.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.14.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.14.0",
+            "commit": {
+                "sha": "ba57bb3c63ff160d96ec024ddb85069dc059912b",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/ba57bb3c63ff160d96ec024ddb85069dc059912b"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjE0LjA="
+        },
+        {
+            "name": "v10.13.1",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.13.1",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.13.1",
+            "commit": {
+                "sha": "f978db4a3002f7f23d7aafc7394a2ee854857bcb",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/f978db4a3002f7f23d7aafc7394a2ee854857bcb"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjEzLjE="
+        },
+        {
+            "name": "v10.13.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.13.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.13.0",
+            "commit": {
+                "sha": "8f944afb4b848a6565bd4533a5f2452cb158daa4",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/8f944afb4b848a6565bd4533a5f2452cb158daa4"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjEzLjA="
+        },
+        {
+            "name": "v10.12.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.12.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.12.0",
+            "commit": {
+                "sha": "25909b05594dbd2153bd9d10a3a60e29c96f475f",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/25909b05594dbd2153bd9d10a3a60e29c96f475f"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjEyLjA="
+        },
+        {
+            "name": "v10.11.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.11.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.11.0",
+            "commit": {
+                "sha": "c5f3f2e49b82d0a208318977ea08beaac116d64f",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/c5f3f2e49b82d0a208318977ea08beaac116d64f"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjExLjA="
+        },
+        {
+            "name": "v10.10.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.10.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.10.0",
+            "commit": {
+                "sha": "9b294373a70058f78cd3ad9955adcb5bdcc01979",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/9b294373a70058f78cd3ad9955adcb5bdcc01979"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjEwLjA="
+        },
+        {
+            "name": "v10.9.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.9.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.9.0",
+            "commit": {
+                "sha": "6c2f48dc13c0c5fb6d4f6bb080d95452b97c15f6",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/6c2f48dc13c0c5fb6d4f6bb080d95452b97c15f6"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjkuMA=="
+        },
+        {
+            "name": "v10.8.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.8.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.8.0",
+            "commit": {
+                "sha": "3b4cec8f357c10251648ead434a581b77afa9b84",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/3b4cec8f357c10251648ead434a581b77afa9b84"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjguMA=="
+        },
+        {
+            "name": "v10.7.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.7.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.7.0",
+            "commit": {
+                "sha": "faad01e7073b0ed1088efc285b16c7504d813674",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/faad01e7073b0ed1088efc285b16c7504d813674"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjcuMA=="
+        },
+        {
+            "name": "v10.6.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.6.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.6.0",
+            "commit": {
+                "sha": "e0d494989cd08c444c90ac20acc5f2690b6e653a",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/e0d494989cd08c444c90ac20acc5f2690b6e653a"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjYuMA=="
+        },
+        {
+            "name": "v10.5.0",
+            "zipball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/refs/tags/v10.5.0",
+            "tarball_url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/tarball/refs/tags/v10.5.0",
+            "commit": {
+                "sha": "613f7e0ac6f2060967ecb271fb70fd2d555f8041",
+                "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/commits/613f7e0ac6f2060967ecb271fb70fd2d555f8041"
+            },
+            "node_id": "MDM6UmVmMTEyOTAxMDpyZWZzL3RhZ3MvdjEwLjUuMA=="
+        }
+    ]
+}

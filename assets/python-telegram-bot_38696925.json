@@ -1,0 +1,423 @@
+{
+    "id": 38696925,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzODY5NjkyNQ==",
+    "name": "python-telegram-bot",
+    "full_name": "python-telegram-bot/python-telegram-bot",
+    "private": false,
+    "owner": {
+        "login": "python-telegram-bot",
+        "id": 16178365,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTc4MzY1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16178365?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/python-telegram-bot",
+        "html_url": "https://github.com/python-telegram-bot",
+        "followers_url": "https://api.github.com/users/python-telegram-bot/followers",
+        "following_url": "https://api.github.com/users/python-telegram-bot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/python-telegram-bot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/python-telegram-bot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/python-telegram-bot/subscriptions",
+        "organizations_url": "https://api.github.com/users/python-telegram-bot/orgs",
+        "repos_url": "https://api.github.com/users/python-telegram-bot/repos",
+        "events_url": "https://api.github.com/users/python-telegram-bot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/python-telegram-bot/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "description": "We have made you a wrapper you can't refuse",
+    "fork": false,
+    "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot",
+    "forks_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/forks",
+    "keys_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/teams",
+    "hooks_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/hooks",
+    "issue_events_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/events",
+    "assignees_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tags",
+    "blobs_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/languages",
+    "stargazers_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/stargazers",
+    "contributors_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/contributors",
+    "subscribers_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/subscribers",
+    "subscription_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/subscription",
+    "commits_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/merges",
+    "archive_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/downloads",
+    "issues_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/labels{/name}",
+    "releases_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/deployments",
+    "created_at": "2015-07-07T15:30:39Z",
+    "updated_at": "2025-01-25T16:29:27Z",
+    "pushed_at": "2025-01-24T18:05:01Z",
+    "git_url": "git://github.com/python-telegram-bot/python-telegram-bot.git",
+    "ssh_url": "git@github.com:python-telegram-bot/python-telegram-bot.git",
+    "clone_url": "https://github.com/python-telegram-bot/python-telegram-bot.git",
+    "svn_url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "homepage": "https://python-telegram-bot.org",
+    "size": 16425,
+    "stargazers_count": 26800,
+    "watchers_count": 26800,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5430,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 20,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bot",
+        "chatbot",
+        "framework",
+        "python",
+        "telegram"
+    ],
+    "visibility": "public",
+    "forks": 5430,
+    "open_issues": 20,
+    "watchers": 26800,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v21.10",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.10",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.10",
+            "commit": {
+                "sha": "e4b0f8cb640439ac8d49ee2072a0d8147f7623f2",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/e4b0f8cb640439ac8d49ee2072a0d8147f7623f2"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4xMA=="
+        },
+        {
+            "name": "v21.9",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.9",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.9",
+            "commit": {
+                "sha": "2ac52018c29c791aa0438750e5bcdf2da8945bf8",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/2ac52018c29c791aa0438750e5bcdf2da8945bf8"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS45"
+        },
+        {
+            "name": "v21.8",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.8",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.8",
+            "commit": {
+                "sha": "cec34e4bca3c0f6d301f6e5c328696bee05f85ea",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/cec34e4bca3c0f6d301f6e5c328696bee05f85ea"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS44"
+        },
+        {
+            "name": "v21.7",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.7",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.7",
+            "commit": {
+                "sha": "151123745e9e8d53c54fd6715008b3e8c85bdc82",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/151123745e9e8d53c54fd6715008b3e8c85bdc82"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS43"
+        },
+        {
+            "name": "v21.6",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.6",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.6",
+            "commit": {
+                "sha": "e314e78d06f78b5fff12cdfa1d8cd4516c78638d",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/e314e78d06f78b5fff12cdfa1d8cd4516c78638d"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS42"
+        },
+        {
+            "name": "v21.5",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.5",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.5",
+            "commit": {
+                "sha": "8c692d1008f35c4c4b0f125807592e5f1cf1189d",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/8c692d1008f35c4c4b0f125807592e5f1cf1189d"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS41"
+        },
+        {
+            "name": "v21.4",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.4",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.4",
+            "commit": {
+                "sha": "2ac4e009d02e991b46e5c4363446dc3bd6dbb8be",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/2ac4e009d02e991b46e5c4363446dc3bd6dbb8be"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS40"
+        },
+        {
+            "name": "v21.3",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.3",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.3",
+            "commit": {
+                "sha": "a9f6afd0152e30f32db69d35211fc05eceb9edfe",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/a9f6afd0152e30f32db69d35211fc05eceb9edfe"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4z"
+        },
+        {
+            "name": "v21.2",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.2",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.2",
+            "commit": {
+                "sha": "6fc45a803dee783df52a8648664a37d08c0981ec",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/6fc45a803dee783df52a8648664a37d08c0981ec"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4y"
+        },
+        {
+            "name": "v21.1.1",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.1.1",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.1.1",
+            "commit": {
+                "sha": "75d946e4be493316a98a638adedf537d1000889e",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/75d946e4be493316a98a638adedf537d1000889e"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4xLjE="
+        },
+        {
+            "name": "v21.1",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.1",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.1",
+            "commit": {
+                "sha": "f6d009d3acd18f7bbc2cba7cdfe6524d69a32383",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/f6d009d3acd18f7bbc2cba7cdfe6524d69a32383"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4x"
+        },
+        {
+            "name": "v21.0.1",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.0.1",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.0.1",
+            "commit": {
+                "sha": "c0716dd34483b302a9c290d4e61b96a7ee941567",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/c0716dd34483b302a9c290d4e61b96a7ee941567"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4wLjE="
+        },
+        {
+            "name": "v21.0",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v21.0",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v21.0",
+            "commit": {
+                "sha": "22eb434a62eacc2273b15f1644aa18c1acb76b34",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/22eb434a62eacc2273b15f1644aa18c1acb76b34"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMS4w"
+        },
+        {
+            "name": "v20.8",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.8",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.8",
+            "commit": {
+                "sha": "680dc2b6b8ad152044c68ef3d0e2f62b64e7a17c",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/680dc2b6b8ad152044c68ef3d0e2f62b64e7a17c"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC44"
+        },
+        {
+            "name": "v20.7",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.7",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.7",
+            "commit": {
+                "sha": "a8f1164b0cb9bb1e26920a03ae5c88b167bd3041",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/a8f1164b0cb9bb1e26920a03ae5c88b167bd3041"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC43"
+        },
+        {
+            "name": "v20.6",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.6",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.6",
+            "commit": {
+                "sha": "9ef8826f33ec1ce204d7a13ae6bbb1a9eb9c255b",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/9ef8826f33ec1ce204d7a13ae6bbb1a9eb9c255b"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC42"
+        },
+        {
+            "name": "v20.5",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.5",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.5",
+            "commit": {
+                "sha": "82c98b64a7bc092ba69df41cadef4eb6da5b0552",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/82c98b64a7bc092ba69df41cadef4eb6da5b0552"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC41"
+        },
+        {
+            "name": "v20.4",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.4",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.4",
+            "commit": {
+                "sha": "59105b240fdca81b881539dd55f37097a1ccc0a5",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/59105b240fdca81b881539dd55f37097a1ccc0a5"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC40"
+        },
+        {
+            "name": "v20.3",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.3",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.3",
+            "commit": {
+                "sha": "bfbf6d3f9474d03a7d267b9d858bc3ba420e991d",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/bfbf6d3f9474d03a7d267b9d858bc3ba420e991d"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4z"
+        },
+        {
+            "name": "v20.2",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.2",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.2",
+            "commit": {
+                "sha": "4aedb33d377b3683b16965abb52ad4e1b2368012",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/4aedb33d377b3683b16965abb52ad4e1b2368012"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4y"
+        },
+        {
+            "name": "v20.1",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.1",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.1",
+            "commit": {
+                "sha": "49ea8d39fb787ea1bf74f160526931a6281caef3",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/49ea8d39fb787ea1bf74f160526931a6281caef3"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4x"
+        },
+        {
+            "name": "v20.0",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0",
+            "commit": {
+                "sha": "171953f10921810e081557e17c2b06c123bf59c0",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/171953f10921810e081557e17c2b06c123bf59c0"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4w"
+        },
+        {
+            "name": "v20.0b0",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0b0",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0b0",
+            "commit": {
+                "sha": "28afeccf7068e39de17e37db17ddb6626c06b28e",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/28afeccf7068e39de17e37db17ddb6626c06b28e"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYjA="
+        },
+        {
+            "name": "v20.0a6",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a6",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a6",
+            "commit": {
+                "sha": "3042f187ed5d3cf456d9ab9bcce61a781c4b6a47",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/3042f187ed5d3cf456d9ab9bcce61a781c4b6a47"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTY="
+        },
+        {
+            "name": "v20.0a5",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a5",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a5",
+            "commit": {
+                "sha": "20c3532e019d5159d842576129a93f5692d07717",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/20c3532e019d5159d842576129a93f5692d07717"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTU="
+        },
+        {
+            "name": "v20.0a4",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a4",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a4",
+            "commit": {
+                "sha": "2642ecc7379907a72dc5ef68791b30b18c18c1d2",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/2642ecc7379907a72dc5ef68791b30b18c18c1d2"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTQ="
+        },
+        {
+            "name": "v20.0a3",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a3",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a3",
+            "commit": {
+                "sha": "0e044804d2bdff09362d6b6c0820e72876e8af51",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/0e044804d2bdff09362d6b6c0820e72876e8af51"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTM="
+        },
+        {
+            "name": "v20.0a2",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a2",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a2",
+            "commit": {
+                "sha": "df07148e2d78dfbf35873ae99eac1fe9d7993ada",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/df07148e2d78dfbf35873ae99eac1fe9d7993ada"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTI="
+        },
+        {
+            "name": "v20.0a1",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a1",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a1",
+            "commit": {
+                "sha": "e25c523b69e2a30240a9c32be0eeabddea8e2337",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/e25c523b69e2a30240a9c32be0eeabddea8e2337"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTE="
+        },
+        {
+            "name": "v20.0a0",
+            "zipball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/zipball/refs/tags/v20.0a0",
+            "tarball_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/tarball/refs/tags/v20.0a0",
+            "commit": {
+                "sha": "95d6272d208ef46e7ca0e7e5f065facfcafb5920",
+                "url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/commits/95d6272d208ef46e7ca0e7e5f065facfcafb5920"
+            },
+            "node_id": "MDM6UmVmMzg2OTY5MjU6cmVmcy90YWdzL3YyMC4wYTA="
+        }
+    ]
+}

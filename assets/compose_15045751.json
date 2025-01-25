@@ -1,0 +1,423 @@
+{
+    "id": 15045751,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNTA0NTc1MQ==",
+    "name": "compose",
+    "full_name": "docker/compose",
+    "private": false,
+    "owner": {
+        "login": "docker",
+        "id": 5429470,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0Mjk0NzA=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/docker",
+        "html_url": "https://github.com/docker",
+        "followers_url": "https://api.github.com/users/docker/followers",
+        "following_url": "https://api.github.com/users/docker/following{/other_user}",
+        "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+        "organizations_url": "https://api.github.com/users/docker/orgs",
+        "repos_url": "https://api.github.com/users/docker/repos",
+        "events_url": "https://api.github.com/users/docker/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/docker/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/docker/compose",
+    "description": "Define and run multi-container applications with Docker",
+    "fork": false,
+    "url": "https://api.github.com/repos/docker/compose",
+    "forks_url": "https://api.github.com/repos/docker/compose/forks",
+    "keys_url": "https://api.github.com/repos/docker/compose/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/docker/compose/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/docker/compose/teams",
+    "hooks_url": "https://api.github.com/repos/docker/compose/hooks",
+    "issue_events_url": "https://api.github.com/repos/docker/compose/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/docker/compose/events",
+    "assignees_url": "https://api.github.com/repos/docker/compose/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/docker/compose/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/docker/compose/tags",
+    "blobs_url": "https://api.github.com/repos/docker/compose/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/docker/compose/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/docker/compose/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/docker/compose/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/docker/compose/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/docker/compose/languages",
+    "stargazers_url": "https://api.github.com/repos/docker/compose/stargazers",
+    "contributors_url": "https://api.github.com/repos/docker/compose/contributors",
+    "subscribers_url": "https://api.github.com/repos/docker/compose/subscribers",
+    "subscription_url": "https://api.github.com/repos/docker/compose/subscription",
+    "commits_url": "https://api.github.com/repos/docker/compose/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/docker/compose/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/docker/compose/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/docker/compose/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/docker/compose/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/docker/compose/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/docker/compose/merges",
+    "archive_url": "https://api.github.com/repos/docker/compose/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/docker/compose/downloads",
+    "issues_url": "https://api.github.com/repos/docker/compose/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/docker/compose/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/docker/compose/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/docker/compose/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/docker/compose/labels{/name}",
+    "releases_url": "https://api.github.com/repos/docker/compose/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/docker/compose/deployments",
+    "created_at": "2013-12-09T11:40:58Z",
+    "updated_at": "2025-01-25T06:01:06Z",
+    "pushed_at": "2025-01-24T09:20:47Z",
+    "git_url": "git://github.com/docker/compose.git",
+    "ssh_url": "git@github.com:docker/compose.git",
+    "clone_url": "https://github.com/docker/compose.git",
+    "svn_url": "https://github.com/docker/compose",
+    "homepage": "https://docs.docker.com/compose/",
+    "size": 26352,
+    "stargazers_count": 34545,
+    "watchers_count": 34545,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5291,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 107,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": true,
+    "topics": [
+        "docker",
+        "docker-compose",
+        "go",
+        "golang",
+        "orchestration"
+    ],
+    "visibility": "public",
+    "forks": 5291,
+    "open_issues": 107,
+    "watchers": 34545,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.32.4",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.32.4",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.32.4",
+            "commit": {
+                "sha": "ef1931c8de74c96a01f5b9541f893ba6ed0d7a19",
+                "url": "https://api.github.com/repos/docker/compose/commits/ef1931c8de74c96a01f5b9541f893ba6ed0d7a19"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMyLjQ="
+        },
+        {
+            "name": "v2.32.3",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.32.3",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.32.3",
+            "commit": {
+                "sha": "083f676214409113be442d066e7c10441db7c426",
+                "url": "https://api.github.com/repos/docker/compose/commits/083f676214409113be442d066e7c10441db7c426"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMyLjM="
+        },
+        {
+            "name": "v2.32.2",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.32.2",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.32.2",
+            "commit": {
+                "sha": "d474515d4574ab64faabe717d6e771672d72eb53",
+                "url": "https://api.github.com/repos/docker/compose/commits/d474515d4574ab64faabe717d6e771672d72eb53"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMyLjI="
+        },
+        {
+            "name": "v2.32.1",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.32.1",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.32.1",
+            "commit": {
+                "sha": "c01c9c29f4212b9dc2dd7a6b480d402fe759efee",
+                "url": "https://api.github.com/repos/docker/compose/commits/c01c9c29f4212b9dc2dd7a6b480d402fe759efee"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMyLjE="
+        },
+        {
+            "name": "v2.32.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.32.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.32.0",
+            "commit": {
+                "sha": "a20b69ac5b860f1aa270519e4d02207246d7cb6b",
+                "url": "https://api.github.com/repos/docker/compose/commits/a20b69ac5b860f1aa270519e4d02207246d7cb6b"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMyLjA="
+        },
+        {
+            "name": "v2.31.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.31.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.31.0",
+            "commit": {
+                "sha": "a8469db83f514a5abe4681c7fee773061f1941c6",
+                "url": "https://api.github.com/repos/docker/compose/commits/a8469db83f514a5abe4681c7fee773061f1941c6"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMxLjA="
+        },
+        {
+            "name": "v2.30.3",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.30.3",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.30.3",
+            "commit": {
+                "sha": "a8bfbc147a8b77bb0c0f9553365babb643b0a4f7",
+                "url": "https://api.github.com/repos/docker/compose/commits/a8bfbc147a8b77bb0c0f9553365babb643b0a4f7"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMwLjM="
+        },
+        {
+            "name": "v2.30.2",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.30.2",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.30.2",
+            "commit": {
+                "sha": "a000978980f10c742033381cd74f39d441ab72b1",
+                "url": "https://api.github.com/repos/docker/compose/commits/a000978980f10c742033381cd74f39d441ab72b1"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMwLjI="
+        },
+        {
+            "name": "v2.30.1",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.30.1",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.30.1",
+            "commit": {
+                "sha": "f51bc4cd0077988ec4799bd49f78e21a4d28e8e1",
+                "url": "https://api.github.com/repos/docker/compose/commits/f51bc4cd0077988ec4799bd49f78e21a4d28e8e1"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMwLjE="
+        },
+        {
+            "name": "v2.30.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.30.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.30.0",
+            "commit": {
+                "sha": "517f87a3727e50fa4762e6b5b2afbd24d2ca41ff",
+                "url": "https://api.github.com/repos/docker/compose/commits/517f87a3727e50fa4762e6b5b2afbd24d2ca41ff"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjMwLjA="
+        },
+        {
+            "name": "v2.29.7",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.7",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.7",
+            "commit": {
+                "sha": "9c60fe67df0763c81f2276fd4163ee5354d70b09",
+                "url": "https://api.github.com/repos/docker/compose/commits/9c60fe67df0763c81f2276fd4163ee5354d70b09"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5Ljc="
+        },
+        {
+            "name": "v2.29.6",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.6",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.6",
+            "commit": {
+                "sha": "c16df17e1f2022c907a68b010f380bce53ac3e36",
+                "url": "https://api.github.com/repos/docker/compose/commits/c16df17e1f2022c907a68b010f380bce53ac3e36"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjY="
+        },
+        {
+            "name": "v2.29.5",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.5",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.5",
+            "commit": {
+                "sha": "cb00aaad288ff83ed98835a1edea635800f5b083",
+                "url": "https://api.github.com/repos/docker/compose/commits/cb00aaad288ff83ed98835a1edea635800f5b083"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjU="
+        },
+        {
+            "name": "v2.29.4",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.4",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.4",
+            "commit": {
+                "sha": "73d3a25ebd2aa04a38e6f486866a2197e2b01d38",
+                "url": "https://api.github.com/repos/docker/compose/commits/73d3a25ebd2aa04a38e6f486866a2197e2b01d38"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjQ="
+        },
+        {
+            "name": "v2.29.3",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.3",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.3",
+            "commit": {
+                "sha": "8bf0627ea977610b2a5fb234300527ac7bdf2f60",
+                "url": "https://api.github.com/repos/docker/compose/commits/8bf0627ea977610b2a5fb234300527ac7bdf2f60"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjM="
+        },
+        {
+            "name": "v2.29.2",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.2",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.2",
+            "commit": {
+                "sha": "234036756b94e296b6ff4dc4d54896993b60db36",
+                "url": "https://api.github.com/repos/docker/compose/commits/234036756b94e296b6ff4dc4d54896993b60db36"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjI="
+        },
+        {
+            "name": "v2.29.1",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.1",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.1",
+            "commit": {
+                "sha": "44337d2bbf4e4b1bac2c174fd77d12fc969e873f",
+                "url": "https://api.github.com/repos/docker/compose/commits/44337d2bbf4e4b1bac2c174fd77d12fc969e873f"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjE="
+        },
+        {
+            "name": "v2.29.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.29.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.29.0",
+            "commit": {
+                "sha": "06bf339a42f59c0231aad5d0e0fd67d9496b7e60",
+                "url": "https://api.github.com/repos/docker/compose/commits/06bf339a42f59c0231aad5d0e0fd67d9496b7e60"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI5LjA="
+        },
+        {
+            "name": "v2.28.1",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.28.1",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.28.1",
+            "commit": {
+                "sha": "f79c28168bf6a95ea0cbd1c298f4a0ff4c3ac36b",
+                "url": "https://api.github.com/repos/docker/compose/commits/f79c28168bf6a95ea0cbd1c298f4a0ff4c3ac36b"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI4LjE="
+        },
+        {
+            "name": "v2.28.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.28.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.28.0",
+            "commit": {
+                "sha": "6a000dcff1300e137bb52467d3934e9211a017ed",
+                "url": "https://api.github.com/repos/docker/compose/commits/6a000dcff1300e137bb52467d3934e9211a017ed"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI4LjA="
+        },
+        {
+            "name": "v2.27.3",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.27.3",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.27.3",
+            "commit": {
+                "sha": "77377f2df636aa5d78cdc6826da7d2c606ad5054",
+                "url": "https://api.github.com/repos/docker/compose/commits/77377f2df636aa5d78cdc6826da7d2c606ad5054"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI3LjM="
+        },
+        {
+            "name": "v2.27.2",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.27.2",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.27.2",
+            "commit": {
+                "sha": "e1fd7a6567afe2637e055868fbf469b9e69b439b",
+                "url": "https://api.github.com/repos/docker/compose/commits/e1fd7a6567afe2637e055868fbf469b9e69b439b"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI3LjI="
+        },
+        {
+            "name": "v2.27.1",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.27.1",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.27.1",
+            "commit": {
+                "sha": "bf1dd0c267fa4fc63a43fecd62c0919de1cd5db3",
+                "url": "https://api.github.com/repos/docker/compose/commits/bf1dd0c267fa4fc63a43fecd62c0919de1cd5db3"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI3LjE="
+        },
+        {
+            "name": "v2.27.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.27.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.27.0",
+            "commit": {
+                "sha": "9c0b92259737c0baf886619517c3222626c2a247",
+                "url": "https://api.github.com/repos/docker/compose/commits/9c0b92259737c0baf886619517c3222626c2a247"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI3LjA="
+        },
+        {
+            "name": "v2.26.1",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.26.1",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.26.1",
+            "commit": {
+                "sha": "ff20b641c7f1cce588faea476fbd1a6fdd953b36",
+                "url": "https://api.github.com/repos/docker/compose/commits/ff20b641c7f1cce588faea476fbd1a6fdd953b36"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI2LjE="
+        },
+        {
+            "name": "v2.26.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.26.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.26.0",
+            "commit": {
+                "sha": "3371227794f5f3645f4f19829c60a741635ed329",
+                "url": "https://api.github.com/repos/docker/compose/commits/3371227794f5f3645f4f19829c60a741635ed329"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI2LjA="
+        },
+        {
+            "name": "v2.25.0",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.25.0",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.25.0",
+            "commit": {
+                "sha": "f937e42aaf7d0ecc186c8abc229960e4e01c51b5",
+                "url": "https://api.github.com/repos/docker/compose/commits/f937e42aaf7d0ecc186c8abc229960e4e01c51b5"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI1LjA="
+        },
+        {
+            "name": "v2.24.7",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.24.7",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.24.7",
+            "commit": {
+                "sha": "4efb89709ccb9f11ce0b6571a1c4674be37a42b7",
+                "url": "https://api.github.com/repos/docker/compose/commits/4efb89709ccb9f11ce0b6571a1c4674be37a42b7"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI0Ljc="
+        },
+        {
+            "name": "v2.24.6",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.24.6",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.24.6",
+            "commit": {
+                "sha": "eb5f7d76fee2027bb4e25711e0d2666b3891dcd3",
+                "url": "https://api.github.com/repos/docker/compose/commits/eb5f7d76fee2027bb4e25711e0d2666b3891dcd3"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI0LjY="
+        },
+        {
+            "name": "v2.24.5",
+            "zipball_url": "https://api.github.com/repos/docker/compose/zipball/refs/tags/v2.24.5",
+            "tarball_url": "https://api.github.com/repos/docker/compose/tarball/refs/tags/v2.24.5",
+            "commit": {
+                "sha": "8fdd45cd4ce0035968efef3cae44529690fbea60",
+                "url": "https://api.github.com/repos/docker/compose/commits/8fdd45cd4ce0035968efef3cae44529690fbea60"
+            },
+            "node_id": "MDM6UmVmMTUwNDU3NTE6cmVmcy90YWdzL3YyLjI0LjU="
+        }
+    ]
+}

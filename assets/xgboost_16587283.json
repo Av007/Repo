@@ -1,0 +1,424 @@
+{
+    "id": 16587283,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjU4NzI4Mw==",
+    "name": "xgboost",
+    "full_name": "dmlc/xgboost",
+    "private": false,
+    "owner": {
+        "login": "dmlc",
+        "id": 11508361,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNTA4MzYx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11508361?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dmlc",
+        "html_url": "https://github.com/dmlc",
+        "followers_url": "https://api.github.com/users/dmlc/followers",
+        "following_url": "https://api.github.com/users/dmlc/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dmlc/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dmlc/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dmlc/subscriptions",
+        "organizations_url": "https://api.github.com/users/dmlc/orgs",
+        "repos_url": "https://api.github.com/users/dmlc/repos",
+        "events_url": "https://api.github.com/users/dmlc/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dmlc/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/dmlc/xgboost",
+    "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+    "fork": false,
+    "url": "https://api.github.com/repos/dmlc/xgboost",
+    "forks_url": "https://api.github.com/repos/dmlc/xgboost/forks",
+    "keys_url": "https://api.github.com/repos/dmlc/xgboost/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/dmlc/xgboost/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/dmlc/xgboost/teams",
+    "hooks_url": "https://api.github.com/repos/dmlc/xgboost/hooks",
+    "issue_events_url": "https://api.github.com/repos/dmlc/xgboost/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/dmlc/xgboost/events",
+    "assignees_url": "https://api.github.com/repos/dmlc/xgboost/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/dmlc/xgboost/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/dmlc/xgboost/tags",
+    "blobs_url": "https://api.github.com/repos/dmlc/xgboost/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/dmlc/xgboost/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/dmlc/xgboost/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/dmlc/xgboost/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/dmlc/xgboost/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/dmlc/xgboost/languages",
+    "stargazers_url": "https://api.github.com/repos/dmlc/xgboost/stargazers",
+    "contributors_url": "https://api.github.com/repos/dmlc/xgboost/contributors",
+    "subscribers_url": "https://api.github.com/repos/dmlc/xgboost/subscribers",
+    "subscription_url": "https://api.github.com/repos/dmlc/xgboost/subscription",
+    "commits_url": "https://api.github.com/repos/dmlc/xgboost/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/dmlc/xgboost/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/dmlc/xgboost/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/dmlc/xgboost/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/dmlc/xgboost/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/dmlc/xgboost/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/dmlc/xgboost/merges",
+    "archive_url": "https://api.github.com/repos/dmlc/xgboost/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/dmlc/xgboost/downloads",
+    "issues_url": "https://api.github.com/repos/dmlc/xgboost/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/dmlc/xgboost/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/dmlc/xgboost/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/dmlc/xgboost/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/dmlc/xgboost/labels{/name}",
+    "releases_url": "https://api.github.com/repos/dmlc/xgboost/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/dmlc/xgboost/deployments",
+    "created_at": "2014-02-06T17:28:03Z",
+    "updated_at": "2025-01-25T17:19:14Z",
+    "pushed_at": "2025-01-22T10:34:32Z",
+    "git_url": "git://github.com/dmlc/xgboost.git",
+    "ssh_url": "git@github.com:dmlc/xgboost.git",
+    "clone_url": "https://github.com/dmlc/xgboost.git",
+    "svn_url": "https://github.com/dmlc/xgboost",
+    "homepage": "https://xgboost.readthedocs.io/en/stable/",
+    "size": 33028,
+    "stargazers_count": 26522,
+    "watchers_count": 26522,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 8740,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 447,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "distributed-systems",
+        "gbdt",
+        "gbm",
+        "gbrt",
+        "machine-learning",
+        "xgboost"
+    ],
+    "visibility": "public",
+    "forks": 8740,
+    "open_issues": 447,
+    "watchers": 26522,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.1.3",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.1.3",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.1.3",
+            "commit": {
+                "sha": "600be4dbb54ec5cda4cb61a2bb8fc4bce6f3fc58",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/600be4dbb54ec5cda4cb61a2bb8fc4bce6f3fc58"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjEuMw=="
+        },
+        {
+            "name": "v2.1.2",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.1.2",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.1.2",
+            "commit": {
+                "sha": "f1990391e0eb401bc1aa1309dd9f86085749c4a3",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/f1990391e0eb401bc1aa1309dd9f86085749c4a3"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjEuMg=="
+        },
+        {
+            "name": "v2.1.1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.1.1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.1.1",
+            "commit": {
+                "sha": "9c9db1259240bffe9040ed7ca6e3fb2c1bda80e4",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/9c9db1259240bffe9040ed7ca6e3fb2c1bda80e4"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjEuMQ=="
+        },
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "213ebf7796b757448dfa2cfba532074696fa1524",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/213ebf7796b757448dfa2cfba532074696fa1524"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjEuMA=="
+        },
+        {
+            "name": "v2.1.0rc1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.1.0rc1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.1.0rc1",
+            "commit": {
+                "sha": "7de9112d4eeb38312b2f7e5dfc9d9e3992ca99a0",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/7de9112d4eeb38312b2f7e5dfc9d9e3992ca99a0"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjEuMHJjMQ=="
+        },
+        {
+            "name": "v2.0.3",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.0.3",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.0.3",
+            "commit": {
+                "sha": "82d846bbeb83c652a0b1dff0e3519e67569c4a3d",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/82d846bbeb83c652a0b1dff0e3519e67569c4a3d"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjAuMw=="
+        },
+        {
+            "name": "v2.0.2",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.0.2",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.0.2",
+            "commit": {
+                "sha": "41ce8f28b269dbb7efc70e3a120af3c0bb85efe3",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/41ce8f28b269dbb7efc70e3a120af3c0bb85efe3"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjAuMg=="
+        },
+        {
+            "name": "v2.0.1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.0.1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.0.1",
+            "commit": {
+                "sha": "a408254c2f0c4a39a04430f9894579038414cb31",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/a408254c2f0c4a39a04430f9894579038414cb31"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjAuMQ=="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "096047c547aa71af7d53a507cecdd2a1d3124651",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/096047c547aa71af7d53a507cecdd2a1d3124651"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjAuMA=="
+        },
+        {
+            "name": "v2.0.0rc1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v2.0.0rc1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v2.0.0rc1",
+            "commit": {
+                "sha": "4301558a5711e63bbf004d2b6fca003906fb743c",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/4301558a5711e63bbf004d2b6fca003906fb743c"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YyLjAuMHJjMQ=="
+        },
+        {
+            "name": "v1.7.6",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.6",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.6",
+            "commit": {
+                "sha": "36eb41c960483c8b52b44082663c99e6a0de440a",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/36eb41c960483c8b52b44082663c99e6a0de440a"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuNg=="
+        },
+        {
+            "name": "v1.7.5",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.5",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.5",
+            "commit": {
+                "sha": "21d95f3d8f23873a76f8afaad0fee5fa3e00eafe",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/21d95f3d8f23873a76f8afaad0fee5fa3e00eafe"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuNQ=="
+        },
+        {
+            "name": "v1.7.4",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.4",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.4",
+            "commit": {
+                "sha": "36ad160501251336bfe69b602acc37ab3ec32d69",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/36ad160501251336bfe69b602acc37ab3ec32d69"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuNA=="
+        },
+        {
+            "name": "v1.7.3",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.3",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.3",
+            "commit": {
+                "sha": "ccf43d4ba0a94e2f0a3cc5a526197539ae46f410",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/ccf43d4ba0a94e2f0a3cc5a526197539ae46f410"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuMw=="
+        },
+        {
+            "name": "v1.7.2",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.2",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.2",
+            "commit": {
+                "sha": "62ed8b5fef01d960b5e180b6c3ab170b5f7a85d2",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/62ed8b5fef01d960b5e180b6c3ab170b5f7a85d2"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuMg=="
+        },
+        {
+            "name": "v1.7.1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.1",
+            "commit": {
+                "sha": "534c940a7ea50ab3b8a827546ac9908f859379f2",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/534c940a7ea50ab3b8a827546ac9908f859379f2"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuMQ=="
+        },
+        {
+            "name": "v1.7.0",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.0",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.0",
+            "commit": {
+                "sha": "4bc59ef7c33061d17820137253d617b051a72d65",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/4bc59ef7c33061d17820137253d617b051a72d65"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuMA=="
+        },
+        {
+            "name": "v1.7.0rc1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.7.0rc1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.7.0rc1",
+            "commit": {
+                "sha": "463313d9be3a0aa6da65da852cfb2c1e2a026cd2",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/463313d9be3a0aa6da65da852cfb2c1e2a026cd2"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjcuMHJjMQ=="
+        },
+        {
+            "name": "v1.6.2",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.6.2",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.6.2",
+            "commit": {
+                "sha": "b9934246faa9a25e10a12339685dfbe56d56f70b",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/b9934246faa9a25e10a12339685dfbe56d56f70b"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjYuMg=="
+        },
+        {
+            "name": "v1.6.1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.6.1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.6.1",
+            "commit": {
+                "sha": "5d92a7d936fc3fad4c7ecb6031c3c1c7da882a14",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/5d92a7d936fc3fad4c7ecb6031c3c1c7da882a14"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjYuMQ=="
+        },
+        {
+            "name": "v1.6.0",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.6.0",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.6.0",
+            "commit": {
+                "sha": "f75c007f27ae2a3b0f8b4db7930a2179431ea55f",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/f75c007f27ae2a3b0f8b4db7930a2179431ea55f"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjYuMA=="
+        },
+        {
+            "name": "v1.6.0rc1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.6.0rc1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.6.0rc1",
+            "commit": {
+                "sha": "4bd5a33b10a6a07d8e88ec6182874415eb6aab17",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/4bd5a33b10a6a07d8e88ec6182874415eb6aab17"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjYuMHJjMQ=="
+        },
+        {
+            "name": "v1.5.2",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.5.2",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.5.2",
+            "commit": {
+                "sha": "742c19f3ecf2135b4e008a4f4a10b59add8b1045",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/742c19f3ecf2135b4e008a4f4a10b59add8b1045"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjUuMg=="
+        },
+        {
+            "name": "v1.5.1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.5.1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.5.1",
+            "commit": {
+                "sha": "eb69c6110ae991ffcf05b60940e25ff8eb134a28",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/eb69c6110ae991ffcf05b60940e25ff8eb134a28"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjUuMQ=="
+        },
+        {
+            "name": "v1.5.0",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.5.0",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.5.0",
+            "commit": {
+                "sha": "584b45a9cca23340b756578b8a87377e5fc5ba8e",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/584b45a9cca23340b756578b8a87377e5fc5ba8e"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjUuMA=="
+        },
+        {
+            "name": "v1.5.0rc1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.5.0rc1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.5.0rc1",
+            "commit": {
+                "sha": "1debabb321cafcebc7fbb9bdc5a7ba0bad60cdb4",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/1debabb321cafcebc7fbb9bdc5a7ba0bad60cdb4"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjUuMHJjMQ=="
+        },
+        {
+            "name": "v1.4.2",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.4.2",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.4.2",
+            "commit": {
+                "sha": "522b8977c27b422a4cdbe1ecc59a4d57a5df2c36",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/522b8977c27b422a4cdbe1ecc59a4d57a5df2c36"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjQuMg=="
+        },
+        {
+            "name": "v1.4.1",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.4.1",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.4.1",
+            "commit": {
+                "sha": "a347ef7c66a5630d05314cbbf75900e03d8ab7f4",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/a347ef7c66a5630d05314cbbf75900e03d8ab7f4"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjQuMQ=="
+        },
+        {
+            "name": "v1.4.0",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.4.0",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.4.0",
+            "commit": {
+                "sha": "12200244422e8eb8cdcb6b6fed4897c63061d591",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/12200244422e8eb8cdcb6b6fed4897c63061d591"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjQuMA=="
+        },
+        {
+            "name": "v1.3.3",
+            "zipball_url": "https://api.github.com/repos/dmlc/xgboost/zipball/refs/tags/v1.3.3",
+            "tarball_url": "https://api.github.com/repos/dmlc/xgboost/tarball/refs/tags/v1.3.3",
+            "commit": {
+                "sha": "000292ce6d99ed658f6f9aebabc6e9b330696e7e",
+                "url": "https://api.github.com/repos/dmlc/xgboost/commits/000292ce6d99ed658f6f9aebabc6e9b330696e7e"
+            },
+            "node_id": "MDM6UmVmMTY1ODcyODM6cmVmcy90YWdzL3YxLjMuMw=="
+        }
+    ]
+}

@@ -1,0 +1,433 @@
+{
+    "id": 400215964,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0MDAyMTU5NjQ=",
+    "name": "novu",
+    "full_name": "novuhq/novu",
+    "private": false,
+    "owner": {
+        "login": "novuhq",
+        "id": 77433905,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3NDMzOTA1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77433905?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/novuhq",
+        "html_url": "https://github.com/novuhq",
+        "followers_url": "https://api.github.com/users/novuhq/followers",
+        "following_url": "https://api.github.com/users/novuhq/following{/other_user}",
+        "gists_url": "https://api.github.com/users/novuhq/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/novuhq/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/novuhq/subscriptions",
+        "organizations_url": "https://api.github.com/users/novuhq/orgs",
+        "repos_url": "https://api.github.com/users/novuhq/repos",
+        "events_url": "https://api.github.com/users/novuhq/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/novuhq/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/novuhq/novu",
+    "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+    "fork": false,
+    "url": "https://api.github.com/repos/novuhq/novu",
+    "forks_url": "https://api.github.com/repos/novuhq/novu/forks",
+    "keys_url": "https://api.github.com/repos/novuhq/novu/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/novuhq/novu/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/novuhq/novu/teams",
+    "hooks_url": "https://api.github.com/repos/novuhq/novu/hooks",
+    "issue_events_url": "https://api.github.com/repos/novuhq/novu/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/novuhq/novu/events",
+    "assignees_url": "https://api.github.com/repos/novuhq/novu/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/novuhq/novu/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/novuhq/novu/tags",
+    "blobs_url": "https://api.github.com/repos/novuhq/novu/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/novuhq/novu/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/novuhq/novu/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/novuhq/novu/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/novuhq/novu/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/novuhq/novu/languages",
+    "stargazers_url": "https://api.github.com/repos/novuhq/novu/stargazers",
+    "contributors_url": "https://api.github.com/repos/novuhq/novu/contributors",
+    "subscribers_url": "https://api.github.com/repos/novuhq/novu/subscribers",
+    "subscription_url": "https://api.github.com/repos/novuhq/novu/subscription",
+    "commits_url": "https://api.github.com/repos/novuhq/novu/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/novuhq/novu/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/novuhq/novu/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/novuhq/novu/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/novuhq/novu/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/novuhq/novu/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/novuhq/novu/merges",
+    "archive_url": "https://api.github.com/repos/novuhq/novu/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/novuhq/novu/downloads",
+    "issues_url": "https://api.github.com/repos/novuhq/novu/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/novuhq/novu/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/novuhq/novu/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/novuhq/novu/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/novuhq/novu/labels{/name}",
+    "releases_url": "https://api.github.com/repos/novuhq/novu/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/novuhq/novu/deployments",
+    "created_at": "2021-08-26T15:22:44Z",
+    "updated_at": "2025-01-25T12:36:55Z",
+    "pushed_at": "2025-01-25T12:36:46Z",
+    "git_url": "git://github.com/novuhq/novu.git",
+    "ssh_url": "git@github.com:novuhq/novu.git",
+    "clone_url": "https://github.com/novuhq/novu.git",
+    "svn_url": "https://github.com/novuhq/novu",
+    "homepage": "https://novu.co",
+    "size": 205871,
+    "stargazers_count": 36017,
+    "watchers_count": 36017,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 3943,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 275,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "communication",
+        "css",
+        "email",
+        "hacktoberfest",
+        "html",
+        "javascript",
+        "nodejs",
+        "notification-center",
+        "notifications",
+        "push-notifications",
+        "react",
+        "reactjs",
+        "sms",
+        "transactional",
+        "typescript"
+    ],
+    "visibility": "public",
+    "forks": 3943,
+    "open_issues": 275,
+    "watchers": 36017,
+    "default_branch": "next",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2.1.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v2.1.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v2.1.0",
+            "commit": {
+                "sha": "0a1e34c00d1af0e7469c1f176ab2240460779ce0",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/0a1e34c00d1af0e7469c1f176ab2240460779ce0"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92Mi4xLjA="
+        },
+        {
+            "name": "v2.0.2",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v2.0.2",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v2.0.2",
+            "commit": {
+                "sha": "baaca7e820219d4734a1c2ba6fa472d9989743db",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/baaca7e820219d4734a1c2ba6fa472d9989743db"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92Mi4wLjI="
+        },
+        {
+            "name": "v2.0.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v2.0.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v2.0.1",
+            "commit": {
+                "sha": "47aa5de3337ff24862069c7ca28f998fb3108056",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/47aa5de3337ff24862069c7ca28f998fb3108056"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92Mi4wLjE="
+        },
+        {
+            "name": "v2.0.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v2.0.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v2.0.0",
+            "commit": {
+                "sha": "f12ef8f89c0ac345ce86c41727dd11ac27cb9212",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/f12ef8f89c0ac345ce86c41727dd11ac27cb9212"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92Mi4wLjA="
+        },
+        {
+            "name": "v1.0.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v1.0.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v1.0.1",
+            "commit": {
+                "sha": "76d369c9f2166868f5d6bb59bf653e3856b84e5d",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/76d369c9f2166868f5d6bb59bf653e3856b84e5d"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MS4wLjE="
+        },
+        {
+            "name": "v0.24.3",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.24.3",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.24.3",
+            "commit": {
+                "sha": "253133e1a6a1016d6c07f6970ae97aa182831d17",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/253133e1a6a1016d6c07f6970ae97aa182831d17"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yNC4z"
+        },
+        {
+            "name": "v0.24.2",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.24.2",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.24.2",
+            "commit": {
+                "sha": "9e238eef361b0baf378b30301ba7b1979e9ffa27",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/9e238eef361b0baf378b30301ba7b1979e9ffa27"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yNC4y"
+        },
+        {
+            "name": "v0.24.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.24.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.24.1",
+            "commit": {
+                "sha": "64a7fe6ca18b2ec9be2a2d5b6ae648a25377d780",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/64a7fe6ca18b2ec9be2a2d5b6ae648a25377d780"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yNC4x"
+        },
+        {
+            "name": "v0.24.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.24.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.24.0",
+            "commit": {
+                "sha": "5d584beb283b5cd4fcb59b0aa8e4a74ac3ef9bbf",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/5d584beb283b5cd4fcb59b0aa8e4a74ac3ef9bbf"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yNC4w"
+        },
+        {
+            "name": "v0.23.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.23.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.23.1",
+            "commit": {
+                "sha": "b744f0f71e457d3e4df947cc2ef003a9f0228c9e",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/b744f0f71e457d3e4df947cc2ef003a9f0228c9e"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yMy4x"
+        },
+        {
+            "name": "v0.23.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.23.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.23.0",
+            "commit": {
+                "sha": "08bd4266fab88417a974b06b3a502fd96d7354ed",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/08bd4266fab88417a974b06b3a502fd96d7354ed"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yMy4w"
+        },
+        {
+            "name": "v0.22.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.22.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.22.0",
+            "commit": {
+                "sha": "c8bec33862b7cbefacb94badf6b11bf25607a913",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/c8bec33862b7cbefacb94badf6b11bf25607a913"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yMi4w"
+        },
+        {
+            "name": "v0.21.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.21.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.21.0",
+            "commit": {
+                "sha": "4228d9c3a058bb4a376ff16840cfa95a7cf21d41",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/4228d9c3a058bb4a376ff16840cfa95a7cf21d41"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yMS4w"
+        },
+        {
+            "name": "v0.20.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.20.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.20.0",
+            "commit": {
+                "sha": "a09cf80054a158d5bd5cc5e6172e397c969b45e7",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/a09cf80054a158d5bd5cc5e6172e397c969b45e7"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yMC4w"
+        },
+        {
+            "name": "v0.20.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.20.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.20.0-alpha.0",
+            "commit": {
+                "sha": "620a589cb524409acbe8e481f09ade0667000023",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/620a589cb524409acbe8e481f09ade0667000023"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4yMC4wLWFscGhhLjA="
+        },
+        {
+            "name": "v0.19.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.19.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.19.0",
+            "commit": {
+                "sha": "8a10c63319b0608d54204fad45c4fee45d2f5788",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/8a10c63319b0608d54204fad45c4fee45d2f5788"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xOS4w"
+        },
+        {
+            "name": "v0.19.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.19.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.19.0-alpha.2",
+            "commit": {
+                "sha": "9f583872f367e368710776ac37b448641e22e4b7",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/9f583872f367e368710776ac37b448641e22e4b7"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xOS4wLWFscGhhLjI="
+        },
+        {
+            "name": "v0.19.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.19.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.19.0-alpha.1",
+            "commit": {
+                "sha": "821fab81a70b63b055481dac71baed971dc6876c",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/821fab81a70b63b055481dac71baed971dc6876c"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xOS4wLWFscGhhLjE="
+        },
+        {
+            "name": "v0.19.0-alpha.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.19.0-alpha.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.19.0-alpha.0",
+            "commit": {
+                "sha": "4547148a32b71917e81bd8b7c74025e3d3ca57f5",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/4547148a32b71917e81bd8b7c74025e3d3ca57f5"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xOS4wLWFscGhhLjA="
+        },
+        {
+            "name": "v0.18.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.18.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.18.0",
+            "commit": {
+                "sha": "9094f81c40da8fe71387fe41e172a47798610623",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/9094f81c40da8fe71387fe41e172a47798610623"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xOC4w"
+        },
+        {
+            "name": "v0.17.2",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.17.2",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.17.2",
+            "commit": {
+                "sha": "e24a311e3f2b80c91a086337501d271960c98c76",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/e24a311e3f2b80c91a086337501d271960c98c76"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNy4y"
+        },
+        {
+            "name": "v0.17.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.17.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.17.1",
+            "commit": {
+                "sha": "3bd16bc763e776f518fb44bd4e852f0b9272c534",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/3bd16bc763e776f518fb44bd4e852f0b9272c534"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNy4x"
+        },
+        {
+            "name": "v0.17.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.17.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.17.0",
+            "commit": {
+                "sha": "313bdeaddf27b8f22af0b76ff24ad0766c999281",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/313bdeaddf27b8f22af0b76ff24ad0766c999281"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNy4w"
+        },
+        {
+            "name": "v0.16.4",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.16.4",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.16.4",
+            "commit": {
+                "sha": "fb4c302d689b9e4bd0b0425d4d9bb1f2837b6b9a",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/fb4c302d689b9e4bd0b0425d4d9bb1f2837b6b9a"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNi40"
+        },
+        {
+            "name": "v0.16.3",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.16.3",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.16.3",
+            "commit": {
+                "sha": "abe1e94e2e54c2510dc6c9bbcbc8cddeea08483e",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/abe1e94e2e54c2510dc6c9bbcbc8cddeea08483e"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNi4z"
+        },
+        {
+            "name": "v0.16.2",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.16.2",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.16.2",
+            "commit": {
+                "sha": "e6a93d2f140f43b8a7ab556c0eac80b5b9f527e7",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/e6a93d2f140f43b8a7ab556c0eac80b5b9f527e7"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNi4y"
+        },
+        {
+            "name": "v0.16.1",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.16.1",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.16.1",
+            "commit": {
+                "sha": "55f541b38682c96e0fb2dd3649c33af5e9e456af",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/55f541b38682c96e0fb2dd3649c33af5e9e456af"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNi4x"
+        },
+        {
+            "name": "v0.16.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.16.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.16.0",
+            "commit": {
+                "sha": "9408da49debdc2914444f4986ca1a8a067711469",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/9408da49debdc2914444f4986ca1a8a067711469"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNi4w"
+        },
+        {
+            "name": "v0.15.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.15.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.15.0",
+            "commit": {
+                "sha": "93738963e14621dcc10c609befa641880dbb706c",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/93738963e14621dcc10c609befa641880dbb706c"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNS4w"
+        },
+        {
+            "name": "v0.14.0",
+            "zipball_url": "https://api.github.com/repos/novuhq/novu/zipball/refs/tags/v0.14.0",
+            "tarball_url": "https://api.github.com/repos/novuhq/novu/tarball/refs/tags/v0.14.0",
+            "commit": {
+                "sha": "376f568d340cdc7ba2df83823d7efdfc5a80cb5f",
+                "url": "https://api.github.com/repos/novuhq/novu/commits/376f568d340cdc7ba2df83823d7efdfc5a80cb5f"
+            },
+            "node_id": "MDM6UmVmNDAwMjE1OTY0OnJlZnMvdGFncy92MC4xNC4w"
+        }
+    ]
+}

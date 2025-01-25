@@ -1,0 +1,427 @@
+{
+    "id": 21484781,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMTQ4NDc4MQ==",
+    "name": "jumpserver",
+    "full_name": "jumpserver/jumpserver",
+    "private": false,
+    "owner": {
+        "login": "jumpserver",
+        "id": 6006570,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMDY1NzA=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6006570?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jumpserver",
+        "html_url": "https://github.com/jumpserver",
+        "followers_url": "https://api.github.com/users/jumpserver/followers",
+        "following_url": "https://api.github.com/users/jumpserver/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jumpserver/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jumpserver/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jumpserver/subscriptions",
+        "organizations_url": "https://api.github.com/users/jumpserver/orgs",
+        "repos_url": "https://api.github.com/users/jumpserver/repos",
+        "events_url": "https://api.github.com/users/jumpserver/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jumpserver/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/jumpserver/jumpserver",
+    "description": "An open-source PAM tool alternative to CyberArk.  \u5e7f\u53d7\u6b22\u8fce\u7684\u5f00\u6e90\u5821\u5792\u673a\u3002",
+    "fork": false,
+    "url": "https://api.github.com/repos/jumpserver/jumpserver",
+    "forks_url": "https://api.github.com/repos/jumpserver/jumpserver/forks",
+    "keys_url": "https://api.github.com/repos/jumpserver/jumpserver/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/jumpserver/jumpserver/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/jumpserver/jumpserver/teams",
+    "hooks_url": "https://api.github.com/repos/jumpserver/jumpserver/hooks",
+    "issue_events_url": "https://api.github.com/repos/jumpserver/jumpserver/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/jumpserver/jumpserver/events",
+    "assignees_url": "https://api.github.com/repos/jumpserver/jumpserver/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/jumpserver/jumpserver/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/jumpserver/jumpserver/tags",
+    "blobs_url": "https://api.github.com/repos/jumpserver/jumpserver/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/jumpserver/jumpserver/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/jumpserver/jumpserver/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/jumpserver/jumpserver/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/jumpserver/jumpserver/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/jumpserver/jumpserver/languages",
+    "stargazers_url": "https://api.github.com/repos/jumpserver/jumpserver/stargazers",
+    "contributors_url": "https://api.github.com/repos/jumpserver/jumpserver/contributors",
+    "subscribers_url": "https://api.github.com/repos/jumpserver/jumpserver/subscribers",
+    "subscription_url": "https://api.github.com/repos/jumpserver/jumpserver/subscription",
+    "commits_url": "https://api.github.com/repos/jumpserver/jumpserver/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/jumpserver/jumpserver/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/jumpserver/jumpserver/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/jumpserver/jumpserver/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/jumpserver/jumpserver/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/jumpserver/jumpserver/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/jumpserver/jumpserver/merges",
+    "archive_url": "https://api.github.com/repos/jumpserver/jumpserver/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/jumpserver/jumpserver/downloads",
+    "issues_url": "https://api.github.com/repos/jumpserver/jumpserver/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/jumpserver/jumpserver/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/jumpserver/jumpserver/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/jumpserver/jumpserver/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/jumpserver/jumpserver/labels{/name}",
+    "releases_url": "https://api.github.com/repos/jumpserver/jumpserver/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/jumpserver/jumpserver/deployments",
+    "created_at": "2014-07-04T03:54:59Z",
+    "updated_at": "2025-01-25T14:28:09Z",
+    "pushed_at": "2025-01-23T09:21:35Z",
+    "git_url": "git://github.com/jumpserver/jumpserver.git",
+    "ssh_url": "git@github.com:jumpserver/jumpserver.git",
+    "clone_url": "https://github.com/jumpserver/jumpserver.git",
+    "svn_url": "https://github.com/jumpserver/jumpserver",
+    "homepage": "https://jumpserver.com",
+    "size": 90999,
+    "stargazers_count": 25984,
+    "watchers_count": 25984,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5398,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 71,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "bastion-host",
+        "cyberark",
+        "django",
+        "jumpserver",
+        "pam",
+        "python",
+        "ssh-server",
+        "teleport",
+        "terminal"
+    ],
+    "visibility": "public",
+    "forks": 5398,
+    "open_issues": 71,
+    "watchers": 25984,
+    "default_branch": "dev",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.6.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.6.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.6.0",
+            "commit": {
+                "sha": "2ca40026241811ec7ecb49ffed6f93b5111c0460",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/2ca40026241811ec7ecb49ffed6f93b5111c0460"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjYuMA=="
+        },
+        {
+            "name": "v4.5.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.5.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.5.0",
+            "commit": {
+                "sha": "48bf227dd178448621179a669f72cac9bad13849",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/48bf227dd178448621179a669f72cac9bad13849"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjUuMA=="
+        },
+        {
+            "name": "v4.4.1",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.4.1",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.4.1",
+            "commit": {
+                "sha": "bef329298a0694da9695d33d3542ba5823ad8a15",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/bef329298a0694da9695d33d3542ba5823ad8a15"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjQuMQ=="
+        },
+        {
+            "name": "v4.4.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.4.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.4.0",
+            "commit": {
+                "sha": "eea34e6032ae8967e63a90034efc253f1d007d91",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/eea34e6032ae8967e63a90034efc253f1d007d91"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjQuMA=="
+        },
+        {
+            "name": "v4.3.1",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.3.1",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.3.1",
+            "commit": {
+                "sha": "38115970aa54a5c944da7692471c3e4e4ba051e0",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/38115970aa54a5c944da7692471c3e4e4ba051e0"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjMuMQ=="
+        },
+        {
+            "name": "v4.3.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.3.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.3.0",
+            "commit": {
+                "sha": "0d16879d265a0f6350b5d58b12e71786a6541206",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/0d16879d265a0f6350b5d58b12e71786a6541206"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjMuMA=="
+        },
+        {
+            "name": "v4.2.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.2.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.2.0",
+            "commit": {
+                "sha": "91d37ddc40cfe75bcf6ad8c99be71d8264e60d35",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/91d37ddc40cfe75bcf6ad8c99be71d8264e60d35"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjIuMA=="
+        },
+        {
+            "name": "v4.1.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.1.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.1.0",
+            "commit": {
+                "sha": "55557d1b2dc5eb4c2308ee658080ffaac48f8ce3",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/55557d1b2dc5eb4c2308ee658080ffaac48f8ce3"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjEuMA=="
+        },
+        {
+            "name": "v4.0.2",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.0.2",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.0.2",
+            "commit": {
+                "sha": "c8eb7cccb1dc3755bacd6b93ea585b48eb5b252a",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/c8eb7cccb1dc3755bacd6b93ea585b48eb5b252a"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjAuMg=="
+        },
+        {
+            "name": "v4.0.1",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.0.1",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.0.1",
+            "commit": {
+                "sha": "c8eb7cccb1dc3755bacd6b93ea585b48eb5b252a",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/c8eb7cccb1dc3755bacd6b93ea585b48eb5b252a"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjAuMQ=="
+        },
+        {
+            "name": "v4.0.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v4.0.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v4.0.0",
+            "commit": {
+                "sha": "6e7c11d6c0d113a883500a8cbd4bff04863d98cd",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/6e7c11d6c0d113a883500a8cbd4bff04863d98cd"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3Y0LjAuMA=="
+        },
+        {
+            "name": "v3.10.17",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.17",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.17",
+            "commit": {
+                "sha": "4de90a72e69d0e98b9cb25a2d5b7176335b89e9e",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/4de90a72e69d0e98b9cb25a2d5b7176335b89e9e"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjE3"
+        },
+        {
+            "name": "v3.10.16",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.16",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.16",
+            "commit": {
+                "sha": "98b53703af84449c0b132f7714fde342abaa0048",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/98b53703af84449c0b132f7714fde342abaa0048"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjE2"
+        },
+        {
+            "name": "v3.10.15",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.15",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.15",
+            "commit": {
+                "sha": "d09f5dd44b52fb327afdecc4f0f22a0aed516bec",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/d09f5dd44b52fb327afdecc4f0f22a0aed516bec"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjE1"
+        },
+        {
+            "name": "v3.10.14",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.14",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.14",
+            "commit": {
+                "sha": "8ac277b82e7a9e74eaf36daeb8989c3b6adde6dc",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/8ac277b82e7a9e74eaf36daeb8989c3b6adde6dc"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjE0"
+        },
+        {
+            "name": "v3.10.13",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.13",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.13",
+            "commit": {
+                "sha": "6d6517779650175b07227127d9bfa9dd99e6a0fe",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/6d6517779650175b07227127d9bfa9dd99e6a0fe"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjEz"
+        },
+        {
+            "name": "v3.10.12",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.12",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.12",
+            "commit": {
+                "sha": "79e4c8623412982f7f738b49ec5223a23d544889",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/79e4c8623412982f7f738b49ec5223a23d544889"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjEy"
+        },
+        {
+            "name": "v3.10.11",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.11",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.11",
+            "commit": {
+                "sha": "e1382c2a78852f695bb39577c6474c23dbf0775e",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/e1382c2a78852f695bb39577c6474c23dbf0775e"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjEx"
+        },
+        {
+            "name": "v3.10.10",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.10",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.10",
+            "commit": {
+                "sha": "873fca4530cac54933b79016bf913a6c3bc2833e",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/873fca4530cac54933b79016bf913a6c3bc2833e"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjEw"
+        },
+        {
+            "name": "v3.10.9",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.9",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.9",
+            "commit": {
+                "sha": "15491f633519249881a5a64de03f93fab6e66cf8",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/15491f633519249881a5a64de03f93fab6e66cf8"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjk="
+        },
+        {
+            "name": "v3.10.8",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.8",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.8",
+            "commit": {
+                "sha": "65a34aea6eb3de5dd7a57506ba3a3b607899c021",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/65a34aea6eb3de5dd7a57506ba3a3b607899c021"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjg="
+        },
+        {
+            "name": "v3.10.7",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.7",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.7",
+            "commit": {
+                "sha": "4f34ce5edb6be43fe01468faad4f158a82a08dce",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/4f34ce5edb6be43fe01468faad4f158a82a08dce"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjc="
+        },
+        {
+            "name": "v3.10.6",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.6",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.6",
+            "commit": {
+                "sha": "6892523df74c7dbce772370d30591ef2c1162511",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/6892523df74c7dbce772370d30591ef2c1162511"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjY="
+        },
+        {
+            "name": "v3.10.5",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.5",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.5",
+            "commit": {
+                "sha": "728f6b08dc77dfa9f3fe94531c961ef66ca85c73",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/728f6b08dc77dfa9f3fe94531c961ef66ca85c73"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjU="
+        },
+        {
+            "name": "v3.10.4",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.4",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.4",
+            "commit": {
+                "sha": "68135f3b79f8b51f8a7bc0e6df82df0157646fad",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/68135f3b79f8b51f8a7bc0e6df82df0157646fad"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjQ="
+        },
+        {
+            "name": "v3.10.3",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.3",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.3",
+            "commit": {
+                "sha": "3689bc62ab997b3025ecfc518da8fafaaf7032e1",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/3689bc62ab997b3025ecfc518da8fafaaf7032e1"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjM="
+        },
+        {
+            "name": "v3.10.2",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.2",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.2",
+            "commit": {
+                "sha": "7b10a07c09b90e655284a1ee397997a35ad338b8",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/7b10a07c09b90e655284a1ee397997a35ad338b8"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjI="
+        },
+        {
+            "name": "v3.10.1",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.1",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.1",
+            "commit": {
+                "sha": "e77c8a0ec61a509a5392d9211e62523ae069760a",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/e77c8a0ec61a509a5392d9211e62523ae069760a"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjE="
+        },
+        {
+            "name": "v3.10.0",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.10.0",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.10.0",
+            "commit": {
+                "sha": "191b783f0a5275358fc1b95912022ee0d638a1cd",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/191b783f0a5275358fc1b95912022ee0d638a1cd"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjEwLjA="
+        },
+        {
+            "name": "v3.9.3",
+            "zipball_url": "https://api.github.com/repos/jumpserver/jumpserver/zipball/refs/tags/v3.9.3",
+            "tarball_url": "https://api.github.com/repos/jumpserver/jumpserver/tarball/refs/tags/v3.9.3",
+            "commit": {
+                "sha": "96dfb8ddf1b49a59d9fb3c1799833a6737c26155",
+                "url": "https://api.github.com/repos/jumpserver/jumpserver/commits/96dfb8ddf1b49a59d9fb3c1799833a6737c26155"
+            },
+            "node_id": "MDM6UmVmMjE0ODQ3ODE6cmVmcy90YWdzL3YzLjkuMw=="
+        }
+    ]
+}

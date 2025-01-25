@@ -1,0 +1,422 @@
+{
+    "id": 23096959,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==",
+    "name": "go",
+    "full_name": "golang/go",
+    "private": false,
+    "owner": {
+        "login": "golang",
+        "id": 4314092,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMTQwOTI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4314092?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/golang",
+        "html_url": "https://github.com/golang",
+        "followers_url": "https://api.github.com/users/golang/followers",
+        "following_url": "https://api.github.com/users/golang/following{/other_user}",
+        "gists_url": "https://api.github.com/users/golang/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/golang/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/golang/subscriptions",
+        "organizations_url": "https://api.github.com/users/golang/orgs",
+        "repos_url": "https://api.github.com/users/golang/repos",
+        "events_url": "https://api.github.com/users/golang/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/golang/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "fork": false,
+    "url": "https://api.github.com/repos/golang/go",
+    "forks_url": "https://api.github.com/repos/golang/go/forks",
+    "keys_url": "https://api.github.com/repos/golang/go/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/golang/go/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/golang/go/teams",
+    "hooks_url": "https://api.github.com/repos/golang/go/hooks",
+    "issue_events_url": "https://api.github.com/repos/golang/go/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/golang/go/events",
+    "assignees_url": "https://api.github.com/repos/golang/go/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/golang/go/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/golang/go/tags",
+    "blobs_url": "https://api.github.com/repos/golang/go/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/golang/go/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/golang/go/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/golang/go/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/golang/go/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/golang/go/languages",
+    "stargazers_url": "https://api.github.com/repos/golang/go/stargazers",
+    "contributors_url": "https://api.github.com/repos/golang/go/contributors",
+    "subscribers_url": "https://api.github.com/repos/golang/go/subscribers",
+    "subscription_url": "https://api.github.com/repos/golang/go/subscription",
+    "commits_url": "https://api.github.com/repos/golang/go/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/golang/go/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/golang/go/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/golang/go/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/golang/go/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/golang/go/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/golang/go/merges",
+    "archive_url": "https://api.github.com/repos/golang/go/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/golang/go/downloads",
+    "issues_url": "https://api.github.com/repos/golang/go/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/golang/go/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/golang/go/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/golang/go/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/golang/go/labels{/name}",
+    "releases_url": "https://api.github.com/repos/golang/go/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/golang/go/deployments",
+    "created_at": "2014-08-19T04:33:40Z",
+    "updated_at": "2025-01-25T15:22:18Z",
+    "pushed_at": "2025-01-22T18:13:33Z",
+    "git_url": "git://github.com/golang/go.git",
+    "ssh_url": "git@github.com:golang/go.git",
+    "clone_url": "https://github.com/golang/go.git",
+    "svn_url": "https://github.com/golang/go",
+    "homepage": "https://go.dev",
+    "size": 385825,
+    "stargazers_count": 125269,
+    "watchers_count": 125269,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 17800,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 9629,
+    "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "go",
+        "golang",
+        "language",
+        "programming-language"
+    ],
+    "visibility": "public",
+    "forks": 17800,
+    "open_issues": 9629,
+    "watchers": 125269,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "weekly.2012-03-27",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-03-27",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-03-27",
+            "commit": {
+                "sha": "3895b5051df256b442d0b0af50debfffd8d75164",
+                "url": "https://api.github.com/repos/golang/go/commits/3895b5051df256b442d0b0af50debfffd8d75164"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAzLTI3"
+        },
+        {
+            "name": "weekly.2012-03-22",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-03-22",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-03-22",
+            "commit": {
+                "sha": "da7959d5dd1a230868d8eca9dbf11b4d54e8915a",
+                "url": "https://api.github.com/repos/golang/go/commits/da7959d5dd1a230868d8eca9dbf11b4d54e8915a"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAzLTIy"
+        },
+        {
+            "name": "weekly.2012-03-13",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-03-13",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-03-13",
+            "commit": {
+                "sha": "9ef03fdf7778f23aa304a03888e4e0f698a3ef84",
+                "url": "https://api.github.com/repos/golang/go/commits/9ef03fdf7778f23aa304a03888e4e0f698a3ef84"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAzLTEz"
+        },
+        {
+            "name": "weekly.2012-03-04",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-03-04",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-03-04",
+            "commit": {
+                "sha": "56208edb8dfc297efde71f18730dfb09b3dcb928",
+                "url": "https://api.github.com/repos/golang/go/commits/56208edb8dfc297efde71f18730dfb09b3dcb928"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAzLTA0"
+        },
+        {
+            "name": "weekly.2012-02-22",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-02-22",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-02-22",
+            "commit": {
+                "sha": "6419bbbfd310d0e48b3de60c8891a8f0fcc98b6f",
+                "url": "https://api.github.com/repos/golang/go/commits/6419bbbfd310d0e48b3de60c8891a8f0fcc98b6f"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAyLTIy"
+        },
+        {
+            "name": "weekly.2012-02-14",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-02-14",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-02-14",
+            "commit": {
+                "sha": "da8f037b57241b0b84fab9d4c9e69b53e7118850",
+                "url": "https://api.github.com/repos/golang/go/commits/da8f037b57241b0b84fab9d4c9e69b53e7118850"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAyLTE0"
+        },
+        {
+            "name": "weekly.2012-02-07",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-02-07",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-02-07",
+            "commit": {
+                "sha": "d3f8f0c258be17e742abb59da26025a6b5656c7b",
+                "url": "https://api.github.com/repos/golang/go/commits/d3f8f0c258be17e742abb59da26025a6b5656c7b"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAyLTA3"
+        },
+        {
+            "name": "weekly.2012-01-27",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-01-27",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-01-27",
+            "commit": {
+                "sha": "6786185fd6245c522dce647163d2b33708c0b46d",
+                "url": "https://api.github.com/repos/golang/go/commits/6786185fd6245c522dce647163d2b33708c0b46d"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAxLTI3"
+        },
+        {
+            "name": "weekly.2012-01-20",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-01-20",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-01-20",
+            "commit": {
+                "sha": "22ef504654079bd0a6f227b7485ce0657bf205e1",
+                "url": "https://api.github.com/repos/golang/go/commits/22ef504654079bd0a6f227b7485ce0657bf205e1"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAxLTIw"
+        },
+        {
+            "name": "weekly.2012-01-15",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2012-01-15",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2012-01-15",
+            "commit": {
+                "sha": "a19870744979bdce3eff58776be42e399ed8f6f1",
+                "url": "https://api.github.com/repos/golang/go/commits/a19870744979bdce3eff58776be42e399ed8f6f1"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDEyLTAxLTE1"
+        },
+        {
+            "name": "weekly.2011-12-22",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-12-22",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-12-22",
+            "commit": {
+                "sha": "1a06b513e758355f769cd894782c34751ba5722d",
+                "url": "https://api.github.com/repos/golang/go/commits/1a06b513e758355f769cd894782c34751ba5722d"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEyLTIy"
+        },
+        {
+            "name": "weekly.2011-12-14",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-12-14",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-12-14",
+            "commit": {
+                "sha": "3388e9f67b2ebb30bbd115c13b3ac4728c7ff9c1",
+                "url": "https://api.github.com/repos/golang/go/commits/3388e9f67b2ebb30bbd115c13b3ac4728c7ff9c1"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEyLTE0"
+        },
+        {
+            "name": "weekly.2011-12-06",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-12-06",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-12-06",
+            "commit": {
+                "sha": "8d1da1c66ad9e2d9bf6028e7dfff5d1f2151d494",
+                "url": "https://api.github.com/repos/golang/go/commits/8d1da1c66ad9e2d9bf6028e7dfff5d1f2151d494"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEyLTA2"
+        },
+        {
+            "name": "weekly.2011-12-02",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-12-02",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-12-02",
+            "commit": {
+                "sha": "7af813a7f2b62734e40628c341cb3afa4c85641c",
+                "url": "https://api.github.com/repos/golang/go/commits/7af813a7f2b62734e40628c341cb3afa4c85641c"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEyLTAy"
+        },
+        {
+            "name": "weekly.2011-12-01",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-12-01",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-12-01",
+            "commit": {
+                "sha": "9dd07f680a4a8ddb0f750a0de89ccc880e322147",
+                "url": "https://api.github.com/repos/golang/go/commits/9dd07f680a4a8ddb0f750a0de89ccc880e322147"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEyLTAx"
+        },
+        {
+            "name": "weekly.2011-11-18",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-11-18",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-11-18",
+            "commit": {
+                "sha": "3af28bd886ca5a64128aa2118aac818c61871dad",
+                "url": "https://api.github.com/repos/golang/go/commits/3af28bd886ca5a64128aa2118aac818c61871dad"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTExLTE4"
+        },
+        {
+            "name": "weekly.2011-11-09",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-11-09",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-11-09",
+            "commit": {
+                "sha": "d83cc435e4c324e34aa10af72c1aa7f4fa47d4c1",
+                "url": "https://api.github.com/repos/golang/go/commits/d83cc435e4c324e34aa10af72c1aa7f4fa47d4c1"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTExLTA5"
+        },
+        {
+            "name": "weekly.2011-11-08",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-11-08",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-11-08",
+            "commit": {
+                "sha": "4b39d115a0228d9c88b47f2fd86c9d6377ba7273",
+                "url": "https://api.github.com/repos/golang/go/commits/4b39d115a0228d9c88b47f2fd86c9d6377ba7273"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTExLTA4"
+        },
+        {
+            "name": "weekly.2011-11-02",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-11-02",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-11-02",
+            "commit": {
+                "sha": "ede44c68a48ba579defa08d1df94b268c93ab8e3",
+                "url": "https://api.github.com/repos/golang/go/commits/ede44c68a48ba579defa08d1df94b268c93ab8e3"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTExLTAy"
+        },
+        {
+            "name": "weekly.2011-11-01",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-11-01",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-11-01",
+            "commit": {
+                "sha": "08757f722c84260399d3eb1236c0c1ed305e017a",
+                "url": "https://api.github.com/repos/golang/go/commits/08757f722c84260399d3eb1236c0c1ed305e017a"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTExLTAx"
+        },
+        {
+            "name": "weekly.2011-10-26",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-10-26",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-10-26",
+            "commit": {
+                "sha": "659f1f208af02a3dd5cc13da0d4f8756a3cc5369",
+                "url": "https://api.github.com/repos/golang/go/commits/659f1f208af02a3dd5cc13da0d4f8756a3cc5369"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEwLTI2"
+        },
+        {
+            "name": "weekly.2011-10-25",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-10-25",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-10-25",
+            "commit": {
+                "sha": "cdd3d6932853ec2fb2ac0a693143b22098adb012",
+                "url": "https://api.github.com/repos/golang/go/commits/cdd3d6932853ec2fb2ac0a693143b22098adb012"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEwLTI1"
+        },
+        {
+            "name": "weekly.2011-10-18",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-10-18",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-10-18",
+            "commit": {
+                "sha": "ac21766c958dc1341d79f17c36cc686ed936e6d4",
+                "url": "https://api.github.com/repos/golang/go/commits/ac21766c958dc1341d79f17c36cc686ed936e6d4"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEwLTE4"
+        },
+        {
+            "name": "weekly.2011-10-06",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-10-06",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-10-06",
+            "commit": {
+                "sha": "2b0d7f0836b87dd346e3a815d3bbb593f8e1a3f6",
+                "url": "https://api.github.com/repos/golang/go/commits/2b0d7f0836b87dd346e3a815d3bbb593f8e1a3f6"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTEwLTA2"
+        },
+        {
+            "name": "weekly.2011-09-21",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-09-21",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-09-21",
+            "commit": {
+                "sha": "e4ac43b7f07379715cbed7355bc3710e709c34ef",
+                "url": "https://api.github.com/repos/golang/go/commits/e4ac43b7f07379715cbed7355bc3710e709c34ef"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTA5LTIx"
+        },
+        {
+            "name": "weekly.2011-09-16",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-09-16",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-09-16",
+            "commit": {
+                "sha": "b0e3edab0e5439505f6ac79a9a96ab19478a065b",
+                "url": "https://api.github.com/repos/golang/go/commits/b0e3edab0e5439505f6ac79a9a96ab19478a065b"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTA5LTE2"
+        },
+        {
+            "name": "weekly.2011-09-07",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-09-07",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-09-07",
+            "commit": {
+                "sha": "c5c656aee37f8e6f53a574bacf42c944bd2630a2",
+                "url": "https://api.github.com/repos/golang/go/commits/c5c656aee37f8e6f53a574bacf42c944bd2630a2"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTA5LTA3"
+        },
+        {
+            "name": "weekly.2011-09-01",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-09-01",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-09-01",
+            "commit": {
+                "sha": "ca64a37d9d925dec179e1142097dc9f135807656",
+                "url": "https://api.github.com/repos/golang/go/commits/ca64a37d9d925dec179e1142097dc9f135807656"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTA5LTAx"
+        },
+        {
+            "name": "weekly.2011-08-17",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-08-17",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-08-17",
+            "commit": {
+                "sha": "1491a20540f377b6f83f5c4a8e823ca20d27d6c5",
+                "url": "https://api.github.com/repos/golang/go/commits/1491a20540f377b6f83f5c4a8e823ca20d27d6c5"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTA4LTE3"
+        },
+        {
+            "name": "weekly.2011-08-10",
+            "zipball_url": "https://api.github.com/repos/golang/go/zipball/refs/tags/weekly.2011-08-10",
+            "tarball_url": "https://api.github.com/repos/golang/go/tarball/refs/tags/weekly.2011-08-10",
+            "commit": {
+                "sha": "da7e1ba00b7c223b24a175b0bbefb7b1f26ec1af",
+                "url": "https://api.github.com/repos/golang/go/commits/da7e1ba00b7c223b24a175b0bbefb7b1f26ec1af"
+            },
+            "node_id": "MDM6UmVmMjMwOTY5NTk6cmVmcy90YWdzL3dlZWtseS4yMDExLTA4LTEw"
+        }
+    ]
+}

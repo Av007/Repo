@@ -1,0 +1,422 @@
+{
+    "id": 20929025,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+    "name": "TypeScript",
+    "full_name": "microsoft/TypeScript",
+    "private": false,
+    "owner": {
+        "login": "microsoft",
+        "id": 6154722,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/microsoft",
+        "html_url": "https://github.com/microsoft",
+        "followers_url": "https://api.github.com/users/microsoft/followers",
+        "following_url": "https://api.github.com/users/microsoft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/microsoft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/microsoft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/microsoft/subscriptions",
+        "organizations_url": "https://api.github.com/users/microsoft/orgs",
+        "repos_url": "https://api.github.com/users/microsoft/repos",
+        "events_url": "https://api.github.com/users/microsoft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/microsoft/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "fork": false,
+    "url": "https://api.github.com/repos/microsoft/TypeScript",
+    "forks_url": "https://api.github.com/repos/microsoft/TypeScript/forks",
+    "keys_url": "https://api.github.com/repos/microsoft/TypeScript/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/microsoft/TypeScript/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/microsoft/TypeScript/teams",
+    "hooks_url": "https://api.github.com/repos/microsoft/TypeScript/hooks",
+    "issue_events_url": "https://api.github.com/repos/microsoft/TypeScript/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/microsoft/TypeScript/events",
+    "assignees_url": "https://api.github.com/repos/microsoft/TypeScript/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/microsoft/TypeScript/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/microsoft/TypeScript/tags",
+    "blobs_url": "https://api.github.com/repos/microsoft/TypeScript/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/microsoft/TypeScript/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/microsoft/TypeScript/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/microsoft/TypeScript/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/microsoft/TypeScript/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/microsoft/TypeScript/languages",
+    "stargazers_url": "https://api.github.com/repos/microsoft/TypeScript/stargazers",
+    "contributors_url": "https://api.github.com/repos/microsoft/TypeScript/contributors",
+    "subscribers_url": "https://api.github.com/repos/microsoft/TypeScript/subscribers",
+    "subscription_url": "https://api.github.com/repos/microsoft/TypeScript/subscription",
+    "commits_url": "https://api.github.com/repos/microsoft/TypeScript/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/microsoft/TypeScript/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/microsoft/TypeScript/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/microsoft/TypeScript/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/microsoft/TypeScript/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/microsoft/TypeScript/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/microsoft/TypeScript/merges",
+    "archive_url": "https://api.github.com/repos/microsoft/TypeScript/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/microsoft/TypeScript/downloads",
+    "issues_url": "https://api.github.com/repos/microsoft/TypeScript/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/microsoft/TypeScript/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/microsoft/TypeScript/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/microsoft/TypeScript/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/microsoft/TypeScript/labels{/name}",
+    "releases_url": "https://api.github.com/repos/microsoft/TypeScript/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/microsoft/TypeScript/deployments",
+    "created_at": "2014-06-17T15:28:39Z",
+    "updated_at": "2025-01-25T14:48:23Z",
+    "pushed_at": "2025-01-24T20:28:40Z",
+    "git_url": "git://github.com/microsoft/TypeScript.git",
+    "ssh_url": "git@github.com:microsoft/TypeScript.git",
+    "clone_url": "https://github.com/microsoft/TypeScript.git",
+    "svn_url": "https://github.com/microsoft/TypeScript",
+    "homepage": "https://www.typescriptlang.org",
+    "size": 2821924,
+    "stargazers_count": 101921,
+    "watchers_count": 101921,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 12621,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 5985,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "javascript",
+        "language",
+        "typechecker",
+        "typescript"
+    ],
+    "visibility": "public",
+    "forks": 12621,
+    "open_issues": 5985,
+    "watchers": 101921,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v5.7.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.7.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.7.3",
+            "commit": {
+                "sha": "a5e123d9e0690fcea92878ea8a0a382922009fc9",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/a5e123d9e0690fcea92878ea8a0a382922009fc9"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjcuMw=="
+        },
+        {
+            "name": "v5.7.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.7.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.7.2",
+            "commit": {
+                "sha": "d701d908d534e68cfab24b6df15539014ac348a3",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/d701d908d534e68cfab24b6df15539014ac348a3"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjcuMg=="
+        },
+        {
+            "name": "v5.7-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.7-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.7-rc",
+            "commit": {
+                "sha": "c1216dea1a504da7b89b5221b925abcd1702d7e4",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/c1216dea1a504da7b89b5221b925abcd1702d7e4"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjctcmM="
+        },
+        {
+            "name": "v5.7-beta",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.7-beta",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.7-beta",
+            "commit": {
+                "sha": "69fb689edbbce517a4615be9d356c6c812639849",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/69fb689edbbce517a4615be9d356c6c812639849"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjctYmV0YQ=="
+        },
+        {
+            "name": "v5.6.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.6.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.6.3",
+            "commit": {
+                "sha": "d48a5cf89a62a62d6c6ed53ffa18f070d9458b85",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/d48a5cf89a62a62d6c6ed53ffa18f070d9458b85"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjYuMw=="
+        },
+        {
+            "name": "v5.6.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.6.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.6.2",
+            "commit": {
+                "sha": "a7e3374f13327483fbe94e32806d65785b0b6cda",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/a7e3374f13327483fbe94e32806d65785b0b6cda"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjYuMg=="
+        },
+        {
+            "name": "v5.6-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.6-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.6-rc",
+            "commit": {
+                "sha": "6212132b835145b1a8fd49982680ac668caf3ddc",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/6212132b835145b1a8fd49982680ac668caf3ddc"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjYtcmM="
+        },
+        {
+            "name": "v5.6-beta",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.6-beta",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.6-beta",
+            "commit": {
+                "sha": "b4732bdd6199ec353ec0873f334515f391d80d3b",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/b4732bdd6199ec353ec0873f334515f391d80d3b"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjYtYmV0YQ=="
+        },
+        {
+            "name": "v5.5.4",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.5.4",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.5.4",
+            "commit": {
+                "sha": "c8a7d589e647e19c94150d9892909f3aa93e48eb",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/c8a7d589e647e19c94150d9892909f3aa93e48eb"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjUuNA=="
+        },
+        {
+            "name": "v5.5.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.5.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.5.3",
+            "commit": {
+                "sha": "f0e992167440686f948965e5441a918b34251886",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/f0e992167440686f948965e5441a918b34251886"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjUuMw=="
+        },
+        {
+            "name": "v5.5.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.5.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.5.2",
+            "commit": {
+                "sha": "ce2e60e4ea15a65992e54a9e8877d16be9d42abb",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/ce2e60e4ea15a65992e54a9e8877d16be9d42abb"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjUuMg=="
+        },
+        {
+            "name": "v5.5-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.5-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.5-rc",
+            "commit": {
+                "sha": "f7bf3b22310485b1235754236ead4c242e96ccec",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/f7bf3b22310485b1235754236ead4c242e96ccec"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjUtcmM="
+        },
+        {
+            "name": "v5.5-beta",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.5-beta",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.5-beta",
+            "commit": {
+                "sha": "b574864abc989d0f8b15367baea1058819e126ba",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/b574864abc989d0f8b15367baea1058819e126ba"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjUtYmV0YQ=="
+        },
+        {
+            "name": "v5.4.5",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.4.5",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.4.5",
+            "commit": {
+                "sha": "27bcd4cb5a98bce46c9cdd749752703ead021a4b",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/27bcd4cb5a98bce46c9cdd749752703ead021a4b"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjQuNQ=="
+        },
+        {
+            "name": "v5.4.4",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.4.4",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.4.4",
+            "commit": {
+                "sha": "8eb3367164dd9cdc9c0b85424ed39ab28eff2312",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/8eb3367164dd9cdc9c0b85424ed39ab28eff2312"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjQuNA=="
+        },
+        {
+            "name": "v5.4.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.4.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.4.3",
+            "commit": {
+                "sha": "6ea273cdcca99db809074d2b2d38d0e5b59ee81b",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/6ea273cdcca99db809074d2b2d38d0e5b59ee81b"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjQuMw=="
+        },
+        {
+            "name": "v5.4.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.4.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.4.2",
+            "commit": {
+                "sha": "42bb138173e3b3869b6a6f68d277c7172387a4cf",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/42bb138173e3b3869b6a6f68d277c7172387a4cf"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjQuMg=="
+        },
+        {
+            "name": "v5.4-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.4-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.4-rc",
+            "commit": {
+                "sha": "db6b2a980280a9c87799b9c1edd6d71e92bb255b",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/db6b2a980280a9c87799b9c1edd6d71e92bb255b"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjQtcmM="
+        },
+        {
+            "name": "v5.4-beta",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.4-beta",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.4-beta",
+            "commit": {
+                "sha": "e80675868dff622d0870939e7c9930c68904e7e7",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/e80675868dff622d0870939e7c9930c68904e7e7"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjQtYmV0YQ=="
+        },
+        {
+            "name": "v5.3.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.3.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.3.3",
+            "commit": {
+                "sha": "63717cf44a64585175c76c336c8f8d87d5384d16",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/63717cf44a64585175c76c336c8f8d87d5384d16"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjMuMw=="
+        },
+        {
+            "name": "v5.3.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.3.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.3.2",
+            "commit": {
+                "sha": "27047e3391323fa2d8987f46a4c42f5361d07926",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/27047e3391323fa2d8987f46a4c42f5361d07926"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjMuMg=="
+        },
+        {
+            "name": "v5.3-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.3-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.3-rc",
+            "commit": {
+                "sha": "88f80c75e1a4ab6aaec605aa4ec6281b87871ff0",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/88f80c75e1a4ab6aaec605aa4ec6281b87871ff0"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjMtcmM="
+        },
+        {
+            "name": "v5.3-beta",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.3-beta",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.3-beta",
+            "commit": {
+                "sha": "c5de6b57b7f09a6d17eb4a5dab91ecf8f5b25f29",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/c5de6b57b7f09a6d17eb4a5dab91ecf8f5b25f29"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjMtYmV0YQ=="
+        },
+        {
+            "name": "v5.2.2",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.2.2",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.2.2",
+            "commit": {
+                "sha": "9684ba6b0d73c37546ada901e5d0a5324de7fc1d",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/9684ba6b0d73c37546ada901e5d0a5324de7fc1d"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjIuMg=="
+        },
+        {
+            "name": "v5.2-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.2-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.2-rc",
+            "commit": {
+                "sha": "6074b9d12b70757fe68ab2b4da059ea363c4df04",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/6074b9d12b70757fe68ab2b4da059ea363c4df04"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjItcmM="
+        },
+        {
+            "name": "v5.2-beta",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.2-beta",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.2-beta",
+            "commit": {
+                "sha": "d6e7eb6cf08a1cc8fb6d9888f74b0e694cc2a7b0",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/d6e7eb6cf08a1cc8fb6d9888f74b0e694cc2a7b0"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjItYmV0YQ=="
+        },
+        {
+            "name": "v5.1.6",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.1.6",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.1.6",
+            "commit": {
+                "sha": "6e4aa901f25ffa90096dc0cc1d0dd13243dec3e6",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/6e4aa901f25ffa90096dc0cc1d0dd13243dec3e6"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjEuNg=="
+        },
+        {
+            "name": "v5.1.5",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.1.5",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.1.5",
+            "commit": {
+                "sha": "e7f1caf7178c8421c6729e5bac22f7ae9cc6415c",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/e7f1caf7178c8421c6729e5bac22f7ae9cc6415c"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjEuNQ=="
+        },
+        {
+            "name": "v5.1.3",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.1.3",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.1.3",
+            "commit": {
+                "sha": "7275ded359554bbef410c96cd8cfc32a2f31ed84",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/7275ded359554bbef410c96cd8cfc32a2f31ed84"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjEuMw=="
+        },
+        {
+            "name": "v5.1-rc",
+            "zipball_url": "https://api.github.com/repos/microsoft/TypeScript/zipball/refs/tags/v5.1-rc",
+            "tarball_url": "https://api.github.com/repos/microsoft/TypeScript/tarball/refs/tags/v5.1-rc",
+            "commit": {
+                "sha": "5c47c6ab567cace50ab5f331a7381b9f0edb56ca",
+                "url": "https://api.github.com/repos/microsoft/TypeScript/commits/5c47c6ab567cace50ab5f331a7381b9f0edb56ca"
+            },
+            "node_id": "MDM6UmVmMjA5MjkwMjU6cmVmcy90YWdzL3Y1LjEtcmM="
+        }
+    ]
+}

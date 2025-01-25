@@ -1,0 +1,424 @@
+{
+    "id": 16563587,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjU2MzU4Nw==",
+    "name": "cockroach",
+    "full_name": "cockroachdb/cockroach",
+    "private": false,
+    "owner": {
+        "login": "cockroachdb",
+        "id": 6748139,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NDgxMzk=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6748139?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cockroachdb",
+        "html_url": "https://github.com/cockroachdb",
+        "followers_url": "https://api.github.com/users/cockroachdb/followers",
+        "following_url": "https://api.github.com/users/cockroachdb/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cockroachdb/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/cockroachdb/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cockroachdb/subscriptions",
+        "organizations_url": "https://api.github.com/users/cockroachdb/orgs",
+        "repos_url": "https://api.github.com/users/cockroachdb/repos",
+        "events_url": "https://api.github.com/users/cockroachdb/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/cockroachdb/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/cockroachdb/cockroach",
+    "description": "CockroachDB \u2014 the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+    "fork": false,
+    "url": "https://api.github.com/repos/cockroachdb/cockroach",
+    "forks_url": "https://api.github.com/repos/cockroachdb/cockroach/forks",
+    "keys_url": "https://api.github.com/repos/cockroachdb/cockroach/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/cockroachdb/cockroach/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/cockroachdb/cockroach/teams",
+    "hooks_url": "https://api.github.com/repos/cockroachdb/cockroach/hooks",
+    "issue_events_url": "https://api.github.com/repos/cockroachdb/cockroach/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/cockroachdb/cockroach/events",
+    "assignees_url": "https://api.github.com/repos/cockroachdb/cockroach/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/cockroachdb/cockroach/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/cockroachdb/cockroach/tags",
+    "blobs_url": "https://api.github.com/repos/cockroachdb/cockroach/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/cockroachdb/cockroach/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/cockroachdb/cockroach/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/cockroachdb/cockroach/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/cockroachdb/cockroach/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
+    "stargazers_url": "https://api.github.com/repos/cockroachdb/cockroach/stargazers",
+    "contributors_url": "https://api.github.com/repos/cockroachdb/cockroach/contributors",
+    "subscribers_url": "https://api.github.com/repos/cockroachdb/cockroach/subscribers",
+    "subscription_url": "https://api.github.com/repos/cockroachdb/cockroach/subscription",
+    "commits_url": "https://api.github.com/repos/cockroachdb/cockroach/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/cockroachdb/cockroach/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/cockroachdb/cockroach/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/cockroachdb/cockroach/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/cockroachdb/cockroach/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/cockroachdb/cockroach/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/cockroachdb/cockroach/merges",
+    "archive_url": "https://api.github.com/repos/cockroachdb/cockroach/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/cockroachdb/cockroach/downloads",
+    "issues_url": "https://api.github.com/repos/cockroachdb/cockroach/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/cockroachdb/cockroach/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/cockroachdb/cockroach/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/cockroachdb/cockroach/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/cockroachdb/cockroach/labels{/name}",
+    "releases_url": "https://api.github.com/repos/cockroachdb/cockroach/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/cockroachdb/cockroach/deployments",
+    "created_at": "2014-02-06T00:18:47Z",
+    "updated_at": "2025-01-25T08:47:23Z",
+    "pushed_at": "2025-01-25T15:55:43Z",
+    "git_url": "git://github.com/cockroachdb/cockroach.git",
+    "ssh_url": "git@github.com:cockroachdb/cockroach.git",
+    "clone_url": "https://github.com/cockroachdb/cockroach.git",
+    "svn_url": "https://github.com/cockroachdb/cockroach",
+    "homepage": "https://www.cockroachlabs.com",
+    "size": 2948173,
+    "stargazers_count": 30418,
+    "watchers_count": 30418,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": false,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 3846,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 6784,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cockroachdb",
+        "database",
+        "distributed-database",
+        "go",
+        "hacktoberfest",
+        "sql"
+    ],
+    "visibility": "public",
+    "forks": 3846,
+    "open_issues": 6784,
+    "watchers": 30418,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v25.1.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v25.1.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v25.1.0-beta.1",
+            "commit": {
+                "sha": "ee90ad7305dca35234b83e0f664377d0be02815f",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/ee90ad7305dca35234b83e0f664377d0be02815f"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNS4xLjAtYmV0YS4x"
+        },
+        {
+            "name": "v25.1.0-alpha.3",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v25.1.0-alpha.3",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v25.1.0-alpha.3",
+            "commit": {
+                "sha": "31e84cb3a57c52a779ff0982c95fb26646b54926",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/31e84cb3a57c52a779ff0982c95fb26646b54926"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNS4xLjAtYWxwaGEuMw=="
+        },
+        {
+            "name": "v25.1.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v25.1.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v25.1.0-alpha.2",
+            "commit": {
+                "sha": "0a82539a44f38b6cb94c4d15d791537d3afbd200",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/0a82539a44f38b6cb94c4d15d791537d3afbd200"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNS4xLjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v25.1.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v25.1.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v25.1.0-alpha.1",
+            "commit": {
+                "sha": "d18eb683b2759fd8814dacf0baa913f596074a17",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/d18eb683b2759fd8814dacf0baa913f596074a17"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNS4xLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v24.3.3",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.3",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.3",
+            "commit": {
+                "sha": "343b4202e553d58a76a36c60018588615bd4c30a",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/343b4202e553d58a76a36c60018588615bd4c30a"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjM="
+        },
+        {
+            "name": "v24.3.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.2",
+            "commit": {
+                "sha": "2c5477e5ba1a433059b1d36bb725a6a89c840092",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/2c5477e5ba1a433059b1d36bb725a6a89c840092"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjI="
+        },
+        {
+            "name": "v24.3.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.1",
+            "commit": {
+                "sha": "950be288db97fe1d8f9c19918e37695d3c1f4bb0",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/950be288db97fe1d8f9c19918e37695d3c1f4bb0"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjE="
+        },
+        {
+            "name": "v24.3.0",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0",
+            "commit": {
+                "sha": "ef2ebe96f3a26fd6d6716e2ec4a0c8c6fe0fb567",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/ef2ebe96f3a26fd6d6716e2ec4a0c8c6fe0fb567"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjA="
+        },
+        {
+            "name": "v24.3.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0-rc.1",
+            "commit": {
+                "sha": "391a57d45cf444d74940a9f62a3e9baa080113e2",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/391a57d45cf444d74940a9f62a3e9baa080113e2"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjAtcmMuMQ=="
+        },
+        {
+            "name": "v24.3.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0-beta.3",
+            "commit": {
+                "sha": "c077ebf6e98bcd579481b93c83f14184ab94f2e6",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/c077ebf6e98bcd579481b93c83f14184ab94f2e6"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjAtYmV0YS4z"
+        },
+        {
+            "name": "v24.3.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0-beta.2",
+            "commit": {
+                "sha": "36f5b311f33775bbeb26d56003f6831ec9ddd837",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/36f5b311f33775bbeb26d56003f6831ec9ddd837"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjAtYmV0YS4y"
+        },
+        {
+            "name": "v24.3.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0-beta.1",
+            "commit": {
+                "sha": "330f659a3f244d1386bb86c89a258d2da6063959",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/330f659a3f244d1386bb86c89a258d2da6063959"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjAtYmV0YS4x"
+        },
+        {
+            "name": "v24.3.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0-alpha.2",
+            "commit": {
+                "sha": "45b47f90445fdb0e0c8e07df863c3bbe17daa491",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/45b47f90445fdb0e0c8e07df863c3bbe17daa491"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v24.3.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.3.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.3.0-alpha.1",
+            "commit": {
+                "sha": "2e408b09d11e5486eadf8e47a2fc29ecbd77eda9",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/2e408b09d11e5486eadf8e47a2fc29ecbd77eda9"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4zLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v24.2.8",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.8",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.8",
+            "commit": {
+                "sha": "900a2cc120ab6bccd235e76e08ee3c070b8ccdc3",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/900a2cc120ab6bccd235e76e08ee3c070b8ccdc3"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjg="
+        },
+        {
+            "name": "v24.2.7",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.7",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.7",
+            "commit": {
+                "sha": "03bb14ae64deb420ff6e36d7c56201c5aa206f26",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/03bb14ae64deb420ff6e36d7c56201c5aa206f26"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjc="
+        },
+        {
+            "name": "v24.2.6",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.6",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.6",
+            "commit": {
+                "sha": "74f60821a82c570ab58b8d7716c1d74b85e87df0",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/74f60821a82c570ab58b8d7716c1d74b85e87df0"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjY="
+        },
+        {
+            "name": "v24.2.5",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.5",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.5",
+            "commit": {
+                "sha": "beddec16a5a438d66bd3f5f4202085cf21c0973c",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/beddec16a5a438d66bd3f5f4202085cf21c0973c"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjU="
+        },
+        {
+            "name": "v24.2.4",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.4",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.4",
+            "commit": {
+                "sha": "8140b8e294fb16a293d0aae662bcf5c1d488c852",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/8140b8e294fb16a293d0aae662bcf5c1d488c852"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjQ="
+        },
+        {
+            "name": "v24.2.3",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.3",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.3",
+            "commit": {
+                "sha": "217b43e69da61e9712d73e3e19fd5076fbdb26df",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/217b43e69da61e9712d73e3e19fd5076fbdb26df"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjM="
+        },
+        {
+            "name": "v24.2.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.2",
+            "commit": {
+                "sha": "8fb18e7ae08fdd481b959f74330e273a2500e1df",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/8fb18e7ae08fdd481b959f74330e273a2500e1df"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjI="
+        },
+        {
+            "name": "v24.2.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.1",
+            "commit": {
+                "sha": "b95f17a1ddc0676a7cd64c1a0e3415cd85c221ba",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/b95f17a1ddc0676a7cd64c1a0e3415cd85c221ba"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjE="
+        },
+        {
+            "name": "v24.2.0",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0",
+            "commit": {
+                "sha": "953d09cce5a01cc0053e138516d80a27454f027c",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/953d09cce5a01cc0053e138516d80a27454f027c"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjA="
+        },
+        {
+            "name": "v24.2.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0-rc.1",
+            "commit": {
+                "sha": "3d1bcc1df630c10c4065a22fc846daa911b436d6",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/3d1bcc1df630c10c4065a22fc846daa911b436d6"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjAtcmMuMQ=="
+        },
+        {
+            "name": "v24.2.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0-beta.3",
+            "commit": {
+                "sha": "742a2251a05088a238fc6eb4c2466dace3cb1bb2",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/742a2251a05088a238fc6eb4c2466dace3cb1bb2"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjAtYmV0YS4z"
+        },
+        {
+            "name": "v24.2.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0-beta.2",
+            "commit": {
+                "sha": "60d3fb84a73f5e31c99404223f3a0ba91e67f489",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/60d3fb84a73f5e31c99404223f3a0ba91e67f489"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjAtYmV0YS4y"
+        },
+        {
+            "name": "v24.2.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0-beta.1",
+            "commit": {
+                "sha": "4483498612573da6df27124a0b39dc66a285114d",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/4483498612573da6df27124a0b39dc66a285114d"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjAtYmV0YS4x"
+        },
+        {
+            "name": "v24.2.0-alpha.2",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0-alpha.2",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0-alpha.2",
+            "commit": {
+                "sha": "ed3109a3d4ccb94e68bc46142ba275d4bbd8ee88",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/ed3109a3d4ccb94e68bc46142ba275d4bbd8ee88"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjAtYWxwaGEuMg=="
+        },
+        {
+            "name": "v24.2.0-alpha.1",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.2.0-alpha.1",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.2.0-alpha.1",
+            "commit": {
+                "sha": "8c6afbbb8507e1a0f7ade18cab04ddec1fae2aa3",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/8c6afbbb8507e1a0f7ade18cab04ddec1fae2aa3"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4yLjAtYWxwaGEuMQ=="
+        },
+        {
+            "name": "v24.1.10",
+            "zipball_url": "https://api.github.com/repos/cockroachdb/cockroach/zipball/refs/tags/v24.1.10",
+            "tarball_url": "https://api.github.com/repos/cockroachdb/cockroach/tarball/refs/tags/v24.1.10",
+            "commit": {
+                "sha": "b602f18f632ec086635ebe719cf5ede5e2bf2775",
+                "url": "https://api.github.com/repos/cockroachdb/cockroach/commits/b602f18f632ec086635ebe719cf5ede5e2bf2775"
+            },
+            "node_id": "MDM6UmVmMTY1NjM1ODc6cmVmcy90YWdzL3YyNC4xLjEw"
+        }
+    ]
+}

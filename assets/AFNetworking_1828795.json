@@ -1,0 +1,417 @@
+{
+    "id": 1828795,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODI4Nzk1",
+    "name": "AFNetworking",
+    "full_name": "AFNetworking/AFNetworking",
+    "private": false,
+    "owner": {
+        "login": "AFNetworking",
+        "id": 1181541,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjExODE1NDE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1181541?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/AFNetworking",
+        "html_url": "https://github.com/AFNetworking",
+        "followers_url": "https://api.github.com/users/AFNetworking/followers",
+        "following_url": "https://api.github.com/users/AFNetworking/following{/other_user}",
+        "gists_url": "https://api.github.com/users/AFNetworking/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/AFNetworking/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/AFNetworking/subscriptions",
+        "organizations_url": "https://api.github.com/users/AFNetworking/orgs",
+        "repos_url": "https://api.github.com/users/AFNetworking/repos",
+        "events_url": "https://api.github.com/users/AFNetworking/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/AFNetworking/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/AFNetworking/AFNetworking",
+    "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+    "fork": false,
+    "url": "https://api.github.com/repos/AFNetworking/AFNetworking",
+    "forks_url": "https://api.github.com/repos/AFNetworking/AFNetworking/forks",
+    "keys_url": "https://api.github.com/repos/AFNetworking/AFNetworking/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/AFNetworking/AFNetworking/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/AFNetworking/AFNetworking/teams",
+    "hooks_url": "https://api.github.com/repos/AFNetworking/AFNetworking/hooks",
+    "issue_events_url": "https://api.github.com/repos/AFNetworking/AFNetworking/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/AFNetworking/AFNetworking/events",
+    "assignees_url": "https://api.github.com/repos/AFNetworking/AFNetworking/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/AFNetworking/AFNetworking/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tags",
+    "blobs_url": "https://api.github.com/repos/AFNetworking/AFNetworking/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/AFNetworking/AFNetworking/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/AFNetworking/AFNetworking/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/AFNetworking/AFNetworking/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/AFNetworking/AFNetworking/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/AFNetworking/AFNetworking/languages",
+    "stargazers_url": "https://api.github.com/repos/AFNetworking/AFNetworking/stargazers",
+    "contributors_url": "https://api.github.com/repos/AFNetworking/AFNetworking/contributors",
+    "subscribers_url": "https://api.github.com/repos/AFNetworking/AFNetworking/subscribers",
+    "subscription_url": "https://api.github.com/repos/AFNetworking/AFNetworking/subscription",
+    "commits_url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/AFNetworking/AFNetworking/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/AFNetworking/AFNetworking/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/AFNetworking/AFNetworking/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/AFNetworking/AFNetworking/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/AFNetworking/AFNetworking/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/AFNetworking/AFNetworking/merges",
+    "archive_url": "https://api.github.com/repos/AFNetworking/AFNetworking/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/AFNetworking/AFNetworking/downloads",
+    "issues_url": "https://api.github.com/repos/AFNetworking/AFNetworking/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/AFNetworking/AFNetworking/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/AFNetworking/AFNetworking/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/AFNetworking/AFNetworking/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/AFNetworking/AFNetworking/labels{/name}",
+    "releases_url": "https://api.github.com/repos/AFNetworking/AFNetworking/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/AFNetworking/AFNetworking/deployments",
+    "created_at": "2011-05-31T21:28:44Z",
+    "updated_at": "2025-01-25T17:00:46Z",
+    "pushed_at": "2023-01-17T19:30:05Z",
+    "git_url": "git://github.com/AFNetworking/AFNetworking.git",
+    "ssh_url": "git@github.com:AFNetworking/AFNetworking.git",
+    "clone_url": "https://github.com/AFNetworking/AFNetworking.git",
+    "svn_url": "https://github.com/AFNetworking/AFNetworking",
+    "homepage": "http://afnetworking.com",
+    "size": 6129,
+    "stargazers_count": 33353,
+    "watchers_count": 33353,
+    "language": "Objective-C",
+    "has_issues": false,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 10401,
+    "mirror_url": null,
+    "archived": true,
+    "disabled": false,
+    "open_issues_count": 103,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 10401,
+    "open_issues": 103,
+    "watchers": 33353,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "4.0.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/4.0.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/4.0.1",
+            "commit": {
+                "sha": "ffae2391ab0c29dc88eb0a58d2f5b2c2c27cadbf",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/ffae2391ab0c29dc88eb0a58d2f5b2c2c27cadbf"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvNC4wLjE="
+        },
+        {
+            "name": "4.0.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/4.0.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/4.0.0",
+            "commit": {
+                "sha": "6ec99c9134c7eef2c10a93a80bd26db33f921bb4",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/6ec99c9134c7eef2c10a93a80bd26db33f921bb4"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvNC4wLjA="
+        },
+        {
+            "name": "3.2.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.2.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.2.1",
+            "commit": {
+                "sha": "746f6c3a1e2c3a3dfbac1c3d18c08a5d121c8df3",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/746f6c3a1e2c3a3dfbac1c3d18c08a5d121c8df3"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4yLjE="
+        },
+        {
+            "name": "3.2.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.2.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.2.0",
+            "commit": {
+                "sha": "e976d63ed220ebe0a6d7c9292ebc0624988c0567",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/e976d63ed220ebe0a6d7c9292ebc0624988c0567"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4yLjA="
+        },
+        {
+            "name": "3.1.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.1.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.1.0",
+            "commit": {
+                "sha": "88f13053b1d1f20bf657f5c36459b87a5d317ad7",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/88f13053b1d1f20bf657f5c36459b87a5d317ad7"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4xLjA="
+        },
+        {
+            "name": "3.0.4",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.4",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.4",
+            "commit": {
+                "sha": "942c0c5b9f80cbe469e8d7acaab779f067bfc533",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/942c0c5b9f80cbe469e8d7acaab779f067bfc533"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjQ="
+        },
+        {
+            "name": "3.0.3",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.3",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.3",
+            "commit": {
+                "sha": "86ecc120506d124a28c1582dc81179cc4dd979e2",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/86ecc120506d124a28c1582dc81179cc4dd979e2"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjM="
+        },
+        {
+            "name": "3.0.2",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.2",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.2",
+            "commit": {
+                "sha": "301f1e3ecbb539aec3b1c64ea2d2847cbba1d9dd",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/301f1e3ecbb539aec3b1c64ea2d2847cbba1d9dd"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjI="
+        },
+        {
+            "name": "3.0.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.1",
+            "commit": {
+                "sha": "68e36deeaebbdf6df34149822ea280711d0e9689",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/68e36deeaebbdf6df34149822ea280711d0e9689"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjE="
+        },
+        {
+            "name": "3.0.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.0",
+            "commit": {
+                "sha": "97aa010602bae4b74794993efe4412571df32fd8",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/97aa010602bae4b74794993efe4412571df32fd8"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjA="
+        },
+        {
+            "name": "3.0.0-beta.3",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.0-beta.3",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.0-beta.3",
+            "commit": {
+                "sha": "c893bd08b65ddf87bb18ff230ba718f075e599ee",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/c893bd08b65ddf87bb18ff230ba718f075e599ee"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjAtYmV0YS4z"
+        },
+        {
+            "name": "3.0.0-beta.2",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.0-beta.2",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.0-beta.2",
+            "commit": {
+                "sha": "94023386c391a30a8268b6eaa0b95d6e04ce0fe5",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/94023386c391a30a8268b6eaa0b95d6e04ce0fe5"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjAtYmV0YS4y"
+        },
+        {
+            "name": "3.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/3.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/3.0.0-beta.1",
+            "commit": {
+                "sha": "1d7f58b6da134b6f0b7b26b847461b1c12c6fe4d",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/1d7f58b6da134b6f0b7b26b847461b1c12c6fe4d"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMy4wLjAtYmV0YS4x"
+        },
+        {
+            "name": "2.7.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.7.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.7.0",
+            "commit": {
+                "sha": "4f592b6aeaee78f6770c8ea96560b6041916f342",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/4f592b6aeaee78f6770c8ea96560b6041916f342"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi43LjA="
+        },
+        {
+            "name": "2.6.3",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.6.3",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.6.3",
+            "commit": {
+                "sha": "ee89cc988e2709a025908ef952a7377ce7ba83b8",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/ee89cc988e2709a025908ef952a7377ce7ba83b8"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi42LjM="
+        },
+        {
+            "name": "2.6.2",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.6.2",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.6.2",
+            "commit": {
+                "sha": "928858869dfb09714f3828413a0366d6374e08a0",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/928858869dfb09714f3828413a0366d6374e08a0"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi42LjI="
+        },
+        {
+            "name": "2.6.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.6.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.6.1",
+            "commit": {
+                "sha": "dad1b8bfcc6962915332285f74399a33e1f375dd",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/dad1b8bfcc6962915332285f74399a33e1f375dd"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi42LjE="
+        },
+        {
+            "name": "2.6.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.6.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.6.0",
+            "commit": {
+                "sha": "f28d4af6c47bad1192f87debcc76586e3a8a141a",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/f28d4af6c47bad1192f87debcc76586e3a8a141a"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi42LjA="
+        },
+        {
+            "name": "2.5.4",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.5.4",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.5.4",
+            "commit": {
+                "sha": "f38608bf2f7f5e13e673f3d77cf9b4fa5e4aad97",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/f38608bf2f7f5e13e673f3d77cf9b4fa5e4aad97"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi41LjQ="
+        },
+        {
+            "name": "2.5.3",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.5.3",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.5.3",
+            "commit": {
+                "sha": "598eec5e1a1248f1bb313e5b7fcf9b6dfed00e01",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/598eec5e1a1248f1bb313e5b7fcf9b6dfed00e01"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi41LjM="
+        },
+        {
+            "name": "2.5.2",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.5.2",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.5.2",
+            "commit": {
+                "sha": "b0dd3d98346e98c9b1700ddd083559d7d4f15a68",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/b0dd3d98346e98c9b1700ddd083559d7d4f15a68"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi41LjI="
+        },
+        {
+            "name": "2.5.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.5.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.5.1",
+            "commit": {
+                "sha": "4682b8c88ac003efaa9b2e97c05df1500a9d9a31",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/4682b8c88ac003efaa9b2e97c05df1500a9d9a31"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi41LjE="
+        },
+        {
+            "name": "2.5.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.5.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.5.0",
+            "commit": {
+                "sha": "8ccc3f6d6c1e7ab5062de75ad43d10dba24177e7",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/8ccc3f6d6c1e7ab5062de75ad43d10dba24177e7"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi41LjA="
+        },
+        {
+            "name": "2.4.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.4.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.4.1",
+            "commit": {
+                "sha": "58ca2e9ba0dd03fd158695a426df3e2b475d1c8d",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/58ca2e9ba0dd03fd158695a426df3e2b475d1c8d"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi40LjE="
+        },
+        {
+            "name": "2.4.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.4.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.4.0",
+            "commit": {
+                "sha": "3babb48b6fe078a96a6a9edf49c577d1e6902853",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/3babb48b6fe078a96a6a9edf49c577d1e6902853"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi40LjA="
+        },
+        {
+            "name": "2.3.1",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.3.1",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.3.1",
+            "commit": {
+                "sha": "81d54e5192b8fe22e55a1d8a96c3236687dfd912",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/81d54e5192b8fe22e55a1d8a96c3236687dfd912"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi4zLjE="
+        },
+        {
+            "name": "2.3.0",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.3.0",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.3.0",
+            "commit": {
+                "sha": "4d712542ef942855dda6df80518f256ca3a76563",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/4d712542ef942855dda6df80518f256ca3a76563"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi4zLjA="
+        },
+        {
+            "name": "2.2.4",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.2.4",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.2.4",
+            "commit": {
+                "sha": "0f7ab0e4c009ed6908e8cb46f09049029cd1b80d",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/0f7ab0e4c009ed6908e8cb46f09049029cd1b80d"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi4yLjQ="
+        },
+        {
+            "name": "2.2.3",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.2.3",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.2.3",
+            "commit": {
+                "sha": "c66282b09855bbf8f83cb0b49df69349a07134d9",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/c66282b09855bbf8f83cb0b49df69349a07134d9"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi4yLjM="
+        },
+        {
+            "name": "2.2.2",
+            "zipball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/zipball/refs/tags/2.2.2",
+            "tarball_url": "https://api.github.com/repos/AFNetworking/AFNetworking/tarball/refs/tags/2.2.2",
+            "commit": {
+                "sha": "a6dee128aa8c6b5a3bc3b16ebda2f5d5d4de0c35",
+                "url": "https://api.github.com/repos/AFNetworking/AFNetworking/commits/a6dee128aa8c6b5a3bc3b16ebda2f5d5d4de0c35"
+            },
+            "node_id": "MDM6UmVmMTgyODc5NTpyZWZzL3RhZ3MvMi4yLjI="
+        }
+    ]
+}

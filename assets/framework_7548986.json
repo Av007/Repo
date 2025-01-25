@@ -1,0 +1,421 @@
+{
+    "id": 7548986,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3NTQ4OTg2",
+    "name": "framework",
+    "full_name": "laravel/framework",
+    "private": false,
+    "owner": {
+        "login": "laravel",
+        "id": 958072,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjk1ODA3Mg==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/958072?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/laravel",
+        "html_url": "https://github.com/laravel",
+        "followers_url": "https://api.github.com/users/laravel/followers",
+        "following_url": "https://api.github.com/users/laravel/following{/other_user}",
+        "gists_url": "https://api.github.com/users/laravel/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/laravel/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/laravel/subscriptions",
+        "organizations_url": "https://api.github.com/users/laravel/orgs",
+        "repos_url": "https://api.github.com/users/laravel/repos",
+        "events_url": "https://api.github.com/users/laravel/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/laravel/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/laravel/framework",
+    "description": "The Laravel Framework.",
+    "fork": false,
+    "url": "https://api.github.com/repos/laravel/framework",
+    "forks_url": "https://api.github.com/repos/laravel/framework/forks",
+    "keys_url": "https://api.github.com/repos/laravel/framework/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/laravel/framework/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/laravel/framework/teams",
+    "hooks_url": "https://api.github.com/repos/laravel/framework/hooks",
+    "issue_events_url": "https://api.github.com/repos/laravel/framework/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/laravel/framework/events",
+    "assignees_url": "https://api.github.com/repos/laravel/framework/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/laravel/framework/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/laravel/framework/tags",
+    "blobs_url": "https://api.github.com/repos/laravel/framework/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/laravel/framework/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/laravel/framework/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/laravel/framework/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/laravel/framework/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/laravel/framework/languages",
+    "stargazers_url": "https://api.github.com/repos/laravel/framework/stargazers",
+    "contributors_url": "https://api.github.com/repos/laravel/framework/contributors",
+    "subscribers_url": "https://api.github.com/repos/laravel/framework/subscribers",
+    "subscription_url": "https://api.github.com/repos/laravel/framework/subscription",
+    "commits_url": "https://api.github.com/repos/laravel/framework/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/laravel/framework/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/laravel/framework/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/laravel/framework/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/laravel/framework/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/laravel/framework/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/laravel/framework/merges",
+    "archive_url": "https://api.github.com/repos/laravel/framework/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/laravel/framework/downloads",
+    "issues_url": "https://api.github.com/repos/laravel/framework/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/laravel/framework/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/laravel/framework/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/laravel/framework/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/laravel/framework/labels{/name}",
+    "releases_url": "https://api.github.com/repos/laravel/framework/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/laravel/framework/deployments",
+    "created_at": "2013-01-10T21:27:28Z",
+    "updated_at": "2025-01-25T14:04:39Z",
+    "pushed_at": "2025-01-25T01:58:24Z",
+    "git_url": "git://github.com/laravel/framework.git",
+    "ssh_url": "git@github.com:laravel/framework.git",
+    "clone_url": "https://github.com/laravel/framework.git",
+    "svn_url": "https://github.com/laravel/framework",
+    "homepage": "https://laravel.com",
+    "size": 86912,
+    "stargazers_count": 32989,
+    "watchers_count": 32989,
+    "language": "PHP",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 11154,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 71,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "framework",
+        "laravel",
+        "php"
+    ],
+    "visibility": "public",
+    "forks": 11154,
+    "open_issues": 71,
+    "watchers": 32989,
+    "default_branch": "11.x",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v11.40.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.40.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.40.0",
+            "commit": {
+                "sha": "599a28196d284fee158cc10086fd56ac625ad7a3",
+                "url": "https://api.github.com/repos/laravel/framework/commits/599a28196d284fee158cc10086fd56ac625ad7a3"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjQwLjA="
+        },
+        {
+            "name": "v11.39.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.39.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.39.1",
+            "commit": {
+                "sha": "3d693dd36e78121bcd51fc02eda4bc137d2a17f2",
+                "url": "https://api.github.com/repos/laravel/framework/commits/3d693dd36e78121bcd51fc02eda4bc137d2a17f2"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM5LjE="
+        },
+        {
+            "name": "v11.39.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.39.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.39.0",
+            "commit": {
+                "sha": "996c96955f78e8a2b26a24c490a1721cfb14574f",
+                "url": "https://api.github.com/repos/laravel/framework/commits/996c96955f78e8a2b26a24c490a1721cfb14574f"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM5LjA="
+        },
+        {
+            "name": "v11.38.2",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.38.2",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.38.2",
+            "commit": {
+                "sha": "9d290aa90fcad44048bedca5219d2b872e98772a",
+                "url": "https://api.github.com/repos/laravel/framework/commits/9d290aa90fcad44048bedca5219d2b872e98772a"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM4LjI="
+        },
+        {
+            "name": "v11.38.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.38.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.38.1",
+            "commit": {
+                "sha": "297652d91811fda163cc1929716117dccae2adbd",
+                "url": "https://api.github.com/repos/laravel/framework/commits/297652d91811fda163cc1929716117dccae2adbd"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM4LjE="
+        },
+        {
+            "name": "v11.38.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.38.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.38.0",
+            "commit": {
+                "sha": "5d964a15efc8fffcb175aed3976796c0420bcf99",
+                "url": "https://api.github.com/repos/laravel/framework/commits/5d964a15efc8fffcb175aed3976796c0420bcf99"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM4LjA="
+        },
+        {
+            "name": "v11.37.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.37.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.37.0",
+            "commit": {
+                "sha": "6cb103d2024b087eae207654b3f4b26646119ba5",
+                "url": "https://api.github.com/repos/laravel/framework/commits/6cb103d2024b087eae207654b3f4b26646119ba5"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM3LjA="
+        },
+        {
+            "name": "v11.36.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.36.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.36.1",
+            "commit": {
+                "sha": "df06f5163f4550641fdf349ebc04916a61135a64",
+                "url": "https://api.github.com/repos/laravel/framework/commits/df06f5163f4550641fdf349ebc04916a61135a64"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM2LjE="
+        },
+        {
+            "name": "v11.36.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.36.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.36.0",
+            "commit": {
+                "sha": "153254cac5210eba8e14709f5eb7450e73fa690e",
+                "url": "https://api.github.com/repos/laravel/framework/commits/153254cac5210eba8e14709f5eb7450e73fa690e"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM2LjA="
+        },
+        {
+            "name": "v11.35.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.35.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.35.1",
+            "commit": {
+                "sha": "dcfa130ede1a6fa4343dc113410963e791ad34fb",
+                "url": "https://api.github.com/repos/laravel/framework/commits/dcfa130ede1a6fa4343dc113410963e791ad34fb"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM1LjE="
+        },
+        {
+            "name": "v11.35.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.35.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.35.0",
+            "commit": {
+                "sha": "f1a7aaa3c1235b7a95ccaa58db90e0cd9d8c3fcc",
+                "url": "https://api.github.com/repos/laravel/framework/commits/f1a7aaa3c1235b7a95ccaa58db90e0cd9d8c3fcc"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM1LjA="
+        },
+        {
+            "name": "v11.34.2",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.34.2",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.34.2",
+            "commit": {
+                "sha": "865da6d73dd353f07a7bcbd778c55966a620121f",
+                "url": "https://api.github.com/repos/laravel/framework/commits/865da6d73dd353f07a7bcbd778c55966a620121f"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM0LjI="
+        },
+        {
+            "name": "v11.34.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.34.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.34.1",
+            "commit": {
+                "sha": "ed07324892c87277b7d37ba76b1a6f93a37401b5",
+                "url": "https://api.github.com/repos/laravel/framework/commits/ed07324892c87277b7d37ba76b1a6f93a37401b5"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM0LjE="
+        },
+        {
+            "name": "v11.34.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.34.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.34.0",
+            "commit": {
+                "sha": "858184e8def3f20f588f9ab88355003750845a6c",
+                "url": "https://api.github.com/repos/laravel/framework/commits/858184e8def3f20f588f9ab88355003750845a6c"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjM0LjA="
+        },
+        {
+            "name": "v11.33.2",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.33.2",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.33.2",
+            "commit": {
+                "sha": "6b9832751cf8eed18b3c73df5071f78f0682aa5d",
+                "url": "https://api.github.com/repos/laravel/framework/commits/6b9832751cf8eed18b3c73df5071f78f0682aa5d"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjMzLjI="
+        },
+        {
+            "name": "v11.33.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.33.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.33.1",
+            "commit": {
+                "sha": "8b139ac898a5c32657dcdce66549f299f282b7a7",
+                "url": "https://api.github.com/repos/laravel/framework/commits/8b139ac898a5c32657dcdce66549f299f282b7a7"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjMzLjE="
+        },
+        {
+            "name": "v11.33.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.33.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.33.0",
+            "commit": {
+                "sha": "fd33fa57ced24944ecff846e15ead5bcfab7425a",
+                "url": "https://api.github.com/repos/laravel/framework/commits/fd33fa57ced24944ecff846e15ead5bcfab7425a"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjMzLjA="
+        },
+        {
+            "name": "v11.32.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.32.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.32.0",
+            "commit": {
+                "sha": "bc2aad63f83ee5089be7b21cf29d645ccf31e927",
+                "url": "https://api.github.com/repos/laravel/framework/commits/bc2aad63f83ee5089be7b21cf29d645ccf31e927"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjMyLjA="
+        },
+        {
+            "name": "v11.31.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.31.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.31.0",
+            "commit": {
+                "sha": "365090ed2c68244e3141cdb5e247cdf3dfba2c40",
+                "url": "https://api.github.com/repos/laravel/framework/commits/365090ed2c68244e3141cdb5e247cdf3dfba2c40"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjMxLjA="
+        },
+        {
+            "name": "v11.30.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.30.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.30.0",
+            "commit": {
+                "sha": "dff716442d9c229d716be82ccc9a7de52eb97193",
+                "url": "https://api.github.com/repos/laravel/framework/commits/dff716442d9c229d716be82ccc9a7de52eb97193"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjMwLjA="
+        },
+        {
+            "name": "v11.29.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.29.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.29.0",
+            "commit": {
+                "sha": "425054512c362835ba9c0307561973c8eeac7385",
+                "url": "https://api.github.com/repos/laravel/framework/commits/425054512c362835ba9c0307561973c8eeac7385"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI5LjA="
+        },
+        {
+            "name": "v11.28.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.28.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.28.1",
+            "commit": {
+                "sha": "3ef5c8a85b4c598d5ffaf98afd72f6a5d6a0be2c",
+                "url": "https://api.github.com/repos/laravel/framework/commits/3ef5c8a85b4c598d5ffaf98afd72f6a5d6a0be2c"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI4LjE="
+        },
+        {
+            "name": "v11.28.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.28.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.28.0",
+            "commit": {
+                "sha": "80843d20cf9337b94fb71e7f25f33f4b1e6c7c5f",
+                "url": "https://api.github.com/repos/laravel/framework/commits/80843d20cf9337b94fb71e7f25f33f4b1e6c7c5f"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI4LjA="
+        },
+        {
+            "name": "v11.27.2",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.27.2",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.27.2",
+            "commit": {
+                "sha": "a51d1f2b771c542324a3d9b76a98b1bbc75c0ee9",
+                "url": "https://api.github.com/repos/laravel/framework/commits/a51d1f2b771c542324a3d9b76a98b1bbc75c0ee9"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI3LjI="
+        },
+        {
+            "name": "v11.27.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.27.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.27.1",
+            "commit": {
+                "sha": "2634ad4a6a71da3288943f058a8abbfec6a65ebb",
+                "url": "https://api.github.com/repos/laravel/framework/commits/2634ad4a6a71da3288943f058a8abbfec6a65ebb"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI3LjE="
+        },
+        {
+            "name": "v11.27.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.27.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.27.0",
+            "commit": {
+                "sha": "fa6ce79f02d35c045605534bc9b105763c4eff1b",
+                "url": "https://api.github.com/repos/laravel/framework/commits/fa6ce79f02d35c045605534bc9b105763c4eff1b"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI3LjA="
+        },
+        {
+            "name": "v11.26.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.26.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.26.0",
+            "commit": {
+                "sha": "b8cb8998701d5b3cfe68539d3c3da1fc59ddd82b",
+                "url": "https://api.github.com/repos/laravel/framework/commits/b8cb8998701d5b3cfe68539d3c3da1fc59ddd82b"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI2LjA="
+        },
+        {
+            "name": "v11.25.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.25.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.25.0",
+            "commit": {
+                "sha": "b487a9089c0b1c71ac63bb6bc44fb4b00dc6da2e",
+                "url": "https://api.github.com/repos/laravel/framework/commits/b487a9089c0b1c71ac63bb6bc44fb4b00dc6da2e"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI1LjA="
+        },
+        {
+            "name": "v11.24.1",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.24.1",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.24.1",
+            "commit": {
+                "sha": "e063fa80ac5818099f45a3a57dd803476c8f3a2a",
+                "url": "https://api.github.com/repos/laravel/framework/commits/e063fa80ac5818099f45a3a57dd803476c8f3a2a"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI0LjE="
+        },
+        {
+            "name": "v11.24.0",
+            "zipball_url": "https://api.github.com/repos/laravel/framework/zipball/refs/tags/v11.24.0",
+            "tarball_url": "https://api.github.com/repos/laravel/framework/tarball/refs/tags/v11.24.0",
+            "commit": {
+                "sha": "557da2b02e298acbd12b3fb7d04d16ea253c5f20",
+                "url": "https://api.github.com/repos/laravel/framework/commits/557da2b02e298acbd12b3fb7d04d16ea253c5f20"
+            },
+            "node_id": "MDM6UmVmNzU0ODk4NjpyZWZzL3RhZ3MvdjExLjI0LjA="
+        }
+    ]
+}

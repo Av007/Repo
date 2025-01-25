@@ -1,0 +1,422 @@
+{
+    "id": 724712,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+    "name": "rust",
+    "full_name": "rust-lang/rust",
+    "private": false,
+    "owner": {
+        "login": "rust-lang",
+        "id": 5430905,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0MzA5MDU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5430905?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rust-lang",
+        "html_url": "https://github.com/rust-lang",
+        "followers_url": "https://api.github.com/users/rust-lang/followers",
+        "following_url": "https://api.github.com/users/rust-lang/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rust-lang/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rust-lang/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rust-lang/subscriptions",
+        "organizations_url": "https://api.github.com/users/rust-lang/orgs",
+        "repos_url": "https://api.github.com/users/rust-lang/repos",
+        "events_url": "https://api.github.com/users/rust-lang/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rust-lang/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "fork": false,
+    "url": "https://api.github.com/repos/rust-lang/rust",
+    "forks_url": "https://api.github.com/repos/rust-lang/rust/forks",
+    "keys_url": "https://api.github.com/repos/rust-lang/rust/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/rust-lang/rust/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/rust-lang/rust/teams",
+    "hooks_url": "https://api.github.com/repos/rust-lang/rust/hooks",
+    "issue_events_url": "https://api.github.com/repos/rust-lang/rust/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/rust-lang/rust/events",
+    "assignees_url": "https://api.github.com/repos/rust-lang/rust/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/rust-lang/rust/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/rust-lang/rust/tags",
+    "blobs_url": "https://api.github.com/repos/rust-lang/rust/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/rust-lang/rust/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/rust-lang/rust/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/rust-lang/rust/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/rust-lang/rust/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
+    "stargazers_url": "https://api.github.com/repos/rust-lang/rust/stargazers",
+    "contributors_url": "https://api.github.com/repos/rust-lang/rust/contributors",
+    "subscribers_url": "https://api.github.com/repos/rust-lang/rust/subscribers",
+    "subscription_url": "https://api.github.com/repos/rust-lang/rust/subscription",
+    "commits_url": "https://api.github.com/repos/rust-lang/rust/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/rust-lang/rust/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/rust-lang/rust/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/rust-lang/rust/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/rust-lang/rust/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/rust-lang/rust/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/rust-lang/rust/merges",
+    "archive_url": "https://api.github.com/repos/rust-lang/rust/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/rust-lang/rust/downloads",
+    "issues_url": "https://api.github.com/repos/rust-lang/rust/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/rust-lang/rust/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/rust-lang/rust/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/rust-lang/rust/labels{/name}",
+    "releases_url": "https://api.github.com/repos/rust-lang/rust/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/rust-lang/rust/deployments",
+    "created_at": "2010-06-16T20:39:03Z",
+    "updated_at": "2025-01-25T17:17:58Z",
+    "pushed_at": "2025-01-25T14:21:32Z",
+    "git_url": "git://github.com/rust-lang/rust.git",
+    "ssh_url": "git@github.com:rust-lang/rust.git",
+    "clone_url": "https://github.com/rust-lang/rust.git",
+    "svn_url": "https://github.com/rust-lang/rust",
+    "homepage": "https://www.rust-lang.org",
+    "size": 579620,
+    "stargazers_count": 100745,
+    "watchers_count": 100745,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 13018,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 10615,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "compiler",
+        "hacktoberfest",
+        "language",
+        "rust"
+    ],
+    "visibility": "public",
+    "forks": 13018,
+    "open_issues": 10615,
+    "watchers": 100745,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "release-0.7",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.7",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.7",
+            "commit": {
+                "sha": "a2db7c15ce9f586164cabb15d83fb3f6bbeb3cf5",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/a2db7c15ce9f586164cabb15d83fb3f6bbeb3cf5"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuNw=="
+        },
+        {
+            "name": "release-0.6",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.6",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.6",
+            "commit": {
+                "sha": "00dbbd01c2aee72982b3e0f9511ae1d4428c3ba9",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/00dbbd01c2aee72982b3e0f9511ae1d4428c3ba9"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuNg=="
+        },
+        {
+            "name": "release-0.5",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.5",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.5",
+            "commit": {
+                "sha": "8b98e5a296d95c5e832db0756828e5bec31c6f50",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/8b98e5a296d95c5e832db0756828e5bec31c6f50"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuNQ=="
+        },
+        {
+            "name": "release-0.4",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.4",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.4",
+            "commit": {
+                "sha": "39c0d3591e0326874b7263a621ce09ecd64f0eb2",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/39c0d3591e0326874b7263a621ce09ecd64f0eb2"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuNA=="
+        },
+        {
+            "name": "release-0.3.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.3.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.3.1",
+            "commit": {
+                "sha": "33a055638c637d2f63d1d7a18b235c93c08d10b8",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/33a055638c637d2f63d1d7a18b235c93c08d10b8"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuMy4x"
+        },
+        {
+            "name": "release-0.3",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.3",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.3",
+            "commit": {
+                "sha": "2f32a1581f522e524009138b33b1c7049ced668d",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/2f32a1581f522e524009138b33b1c7049ced668d"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuMw=="
+        },
+        {
+            "name": "release-0.2",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.2",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.2",
+            "commit": {
+                "sha": "0622a74c48a708aec28d25964f4e9b4489580bc7",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/0622a74c48a708aec28d25964f4e9b4489580bc7"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuMg=="
+        },
+        {
+            "name": "release-0.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/release-0.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/release-0.1",
+            "commit": {
+                "sha": "16e4369fe3b5f00aa3cdc584a4e41c51c0d3ca8a",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/16e4369fe3b5f00aa3cdc584a4e41c51c0d3ca8a"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy9yZWxlYXNlLTAuMQ=="
+        },
+        {
+            "name": "1.84.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.84.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.84.0",
+            "commit": {
+                "sha": "9fc6b43126469e3858e2fe86cafb4f0fd5068869",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/9fc6b43126469e3858e2fe86cafb4f0fd5068869"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjg0LjA="
+        },
+        {
+            "name": "1.83.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.83.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.83.0",
+            "commit": {
+                "sha": "90b35a6239c3d8bdabc530a6a0816f7ff89a0aaf",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/90b35a6239c3d8bdabc530a6a0816f7ff89a0aaf"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjgzLjA="
+        },
+        {
+            "name": "1.82.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.82.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.82.0",
+            "commit": {
+                "sha": "f6e511eec7342f59a25f7c0534f1dbea00d01b14",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/f6e511eec7342f59a25f7c0534f1dbea00d01b14"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjgyLjA="
+        },
+        {
+            "name": "1.81.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.81.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.81.0",
+            "commit": {
+                "sha": "eeb90cda1969383f56a2637cbd3037bdf598841c",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/eeb90cda1969383f56a2637cbd3037bdf598841c"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjgxLjA="
+        },
+        {
+            "name": "1.80.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.80.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.80.1",
+            "commit": {
+                "sha": "3f5fd8dd41153bc5fdca9427e9e05be2c767ba23",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/3f5fd8dd41153bc5fdca9427e9e05be2c767ba23"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjgwLjE="
+        },
+        {
+            "name": "1.80.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.80.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.80.0",
+            "commit": {
+                "sha": "051478957371ee0084a7c0913941d2a8c4757bb9",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/051478957371ee0084a7c0913941d2a8c4757bb9"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjgwLjA="
+        },
+        {
+            "name": "1.79.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.79.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.79.0",
+            "commit": {
+                "sha": "129f3b9964af4d4a709d1383930ade12dfe7c081",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/129f3b9964af4d4a709d1383930ade12dfe7c081"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc5LjA="
+        },
+        {
+            "name": "1.78.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.78.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.78.0",
+            "commit": {
+                "sha": "9b00956e56009bab2aa15d7bff10916599e3d6d6",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/9b00956e56009bab2aa15d7bff10916599e3d6d6"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc4LjA="
+        },
+        {
+            "name": "1.77.2",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.77.2",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.77.2",
+            "commit": {
+                "sha": "25ef9e3d85d934b27d9dada2f9dd52b1dc63bb04",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/25ef9e3d85d934b27d9dada2f9dd52b1dc63bb04"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc3LjI="
+        },
+        {
+            "name": "1.77.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.77.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.77.1",
+            "commit": {
+                "sha": "7cf61ebde7b22796c69757901dd346d0fe70bd97",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/7cf61ebde7b22796c69757901dd346d0fe70bd97"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc3LjE="
+        },
+        {
+            "name": "1.77.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.77.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.77.0",
+            "commit": {
+                "sha": "aedd173a2c086e558c2b66d3743b344f977621a7",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/aedd173a2c086e558c2b66d3743b344f977621a7"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc3LjA="
+        },
+        {
+            "name": "1.76.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.76.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.76.0",
+            "commit": {
+                "sha": "07dca489ac2d933c78d3c5158e3f43beefeb02ce",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/07dca489ac2d933c78d3c5158e3f43beefeb02ce"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc2LjA="
+        },
+        {
+            "name": "1.75.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.75.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.75.0",
+            "commit": {
+                "sha": "82e1608dfa6e0b5569232559e3d385fea5a93112",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/82e1608dfa6e0b5569232559e3d385fea5a93112"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc1LjA="
+        },
+        {
+            "name": "1.74.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.74.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.74.1",
+            "commit": {
+                "sha": "a28077b28a02b92985b3a3faecf92813155f1ea1",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/a28077b28a02b92985b3a3faecf92813155f1ea1"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc0LjE="
+        },
+        {
+            "name": "1.74.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.74.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.74.0",
+            "commit": {
+                "sha": "79e9716c980570bfd1f666e3b16ac583f0168962",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/79e9716c980570bfd1f666e3b16ac583f0168962"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjc0LjA="
+        },
+        {
+            "name": "1.73.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.73.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.73.0",
+            "commit": {
+                "sha": "cc66ad468955717ab92600c770da8c1601a4ff33",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/cc66ad468955717ab92600c770da8c1601a4ff33"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjczLjA="
+        },
+        {
+            "name": "1.72.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.72.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.72.1",
+            "commit": {
+                "sha": "d5c2e9c342b358556da91d61ed4133f6f50fc0c3",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/d5c2e9c342b358556da91d61ed4133f6f50fc0c3"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjcyLjE="
+        },
+        {
+            "name": "1.72.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.72.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.72.0",
+            "commit": {
+                "sha": "5680fa18feaa87f3ff04063800aec256c3d4b4be",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/5680fa18feaa87f3ff04063800aec256c3d4b4be"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjcyLjA="
+        },
+        {
+            "name": "1.71.1",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.71.1",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.71.1",
+            "commit": {
+                "sha": "eb26296b556cef10fb713a38f3d16b9886080f26",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/eb26296b556cef10fb713a38f3d16b9886080f26"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjcxLjE="
+        },
+        {
+            "name": "1.71.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.71.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.71.0",
+            "commit": {
+                "sha": "8ede3aae28fe6e4d52b38157d7bfe0d3bceef225",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/8ede3aae28fe6e4d52b38157d7bfe0d3bceef225"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjcxLjA="
+        },
+        {
+            "name": "1.70.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.70.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.70.0",
+            "commit": {
+                "sha": "90c541806f23a127002de5b4038be731ba1458ca",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/90c541806f23a127002de5b4038be731ba1458ca"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjcwLjA="
+        },
+        {
+            "name": "1.69.0",
+            "zipball_url": "https://api.github.com/repos/rust-lang/rust/zipball/refs/tags/1.69.0",
+            "tarball_url": "https://api.github.com/repos/rust-lang/rust/tarball/refs/tags/1.69.0",
+            "commit": {
+                "sha": "84c898d65adf2f39a5a98507f1fe0ce10a2b8dbc",
+                "url": "https://api.github.com/repos/rust-lang/rust/commits/84c898d65adf2f39a5a98507f1fe0ce10a2b8dbc"
+            },
+            "node_id": "MDM6UmVmNzI0NzEyOnJlZnMvdGFncy8xLjY5LjA="
+        }
+    ]
+}

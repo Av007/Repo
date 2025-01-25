@@ -1,0 +1,437 @@
+{
+    "id": 626805178,
+    "node_id": "R_kgDOJVxJug",
+    "name": "dify",
+    "full_name": "langgenius/dify",
+    "private": false,
+    "owner": {
+        "login": "langgenius",
+        "id": 127165244,
+        "node_id": "O_kgDOB5RjPA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127165244?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/langgenius",
+        "html_url": "https://github.com/langgenius",
+        "followers_url": "https://api.github.com/users/langgenius/followers",
+        "following_url": "https://api.github.com/users/langgenius/following{/other_user}",
+        "gists_url": "https://api.github.com/users/langgenius/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/langgenius/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/langgenius/subscriptions",
+        "organizations_url": "https://api.github.com/users/langgenius/orgs",
+        "repos_url": "https://api.github.com/users/langgenius/repos",
+        "events_url": "https://api.github.com/users/langgenius/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/langgenius/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/langgenius/dify",
+    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "fork": false,
+    "url": "https://api.github.com/repos/langgenius/dify",
+    "forks_url": "https://api.github.com/repos/langgenius/dify/forks",
+    "keys_url": "https://api.github.com/repos/langgenius/dify/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/langgenius/dify/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/langgenius/dify/teams",
+    "hooks_url": "https://api.github.com/repos/langgenius/dify/hooks",
+    "issue_events_url": "https://api.github.com/repos/langgenius/dify/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/langgenius/dify/events",
+    "assignees_url": "https://api.github.com/repos/langgenius/dify/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/langgenius/dify/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/langgenius/dify/tags",
+    "blobs_url": "https://api.github.com/repos/langgenius/dify/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/langgenius/dify/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/langgenius/dify/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/langgenius/dify/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/langgenius/dify/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/langgenius/dify/languages",
+    "stargazers_url": "https://api.github.com/repos/langgenius/dify/stargazers",
+    "contributors_url": "https://api.github.com/repos/langgenius/dify/contributors",
+    "subscribers_url": "https://api.github.com/repos/langgenius/dify/subscribers",
+    "subscription_url": "https://api.github.com/repos/langgenius/dify/subscription",
+    "commits_url": "https://api.github.com/repos/langgenius/dify/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/langgenius/dify/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/langgenius/dify/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/langgenius/dify/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/langgenius/dify/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/langgenius/dify/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/langgenius/dify/merges",
+    "archive_url": "https://api.github.com/repos/langgenius/dify/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/langgenius/dify/downloads",
+    "issues_url": "https://api.github.com/repos/langgenius/dify/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/langgenius/dify/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/langgenius/dify/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/langgenius/dify/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/langgenius/dify/labels{/name}",
+    "releases_url": "https://api.github.com/repos/langgenius/dify/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/langgenius/dify/deployments",
+    "created_at": "2023-04-12T07:40:24Z",
+    "updated_at": "2025-01-25T17:13:06Z",
+    "pushed_at": "2025-01-25T11:30:27Z",
+    "git_url": "git://github.com/langgenius/dify.git",
+    "ssh_url": "git@github.com:langgenius/dify.git",
+    "clone_url": "https://github.com/langgenius/dify.git",
+    "svn_url": "https://github.com/langgenius/dify",
+    "homepage": "https://dify.ai",
+    "size": 70390,
+    "stargazers_count": 59997,
+    "watchers_count": 59997,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 8941,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 403,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "backend-as-a-service",
+        "chatbot",
+        "gemini",
+        "genai",
+        "gpt",
+        "gpt-4",
+        "llama3",
+        "llm",
+        "llmops",
+        "nextjs",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "workflow",
+        "workflows"
+    ],
+    "visibility": "public",
+    "forks": 8941,
+    "open_issues": 403,
+    "watchers": 59997,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v0.8.3-fix1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/v0.8.3-fix1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/v0.8.3-fix1",
+            "commit": {
+                "sha": "2a046cc94549ebc8bc8ac370478b48e00209a384",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/2a046cc94549ebc8bc8ac370478b48e00209a384"
+            },
+            "node_id": "REF_kwDOJVxJurVyZWZzL3RhZ3MvdjAuOC4zLWZpeDE"
+        },
+        {
+            "name": "1.0.0-beta.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/1.0.0-beta.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/1.0.0-beta.1",
+            "commit": {
+                "sha": "28edbbac0b4f3da7403de1f00b6cf0a8e4c0e24b",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/28edbbac0b4f3da7403de1f00b6cf0a8e4c0e24b"
+            },
+            "node_id": "REF_kwDOJVxJurZyZWZzL3RhZ3MvMS4wLjAtYmV0YS4x"
+        },
+        {
+            "name": "0.15.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.15.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.15.2",
+            "commit": {
+                "sha": "1e73f63ff8b6181963244cf72f3841ab70de11a4",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/1e73f63ff8b6181963244cf72f3841ab70de11a4"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xNS4y"
+        },
+        {
+            "name": "0.15.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.15.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.15.1",
+            "commit": {
+                "sha": "6e0fb055d18969eb923e719ad92ecac3a5c5d534",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/6e0fb055d18969eb923e719ad92ecac3a5c5d534"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xNS4x"
+        },
+        {
+            "name": "0.15.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.15.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.15.0",
+            "commit": {
+                "sha": "c236f05f4b575884b42fc45819ad71b05a22115c",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/c236f05f4b575884b42fc45819ad71b05a22115c"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xNS4w"
+        },
+        {
+            "name": "0.14.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.14.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.14.2",
+            "commit": {
+                "sha": "e88ea71aefd2adca64683ce0cca836df015d0f4f",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/e88ea71aefd2adca64683ce0cca836df015d0f4f"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xNC4y"
+        },
+        {
+            "name": "0.14.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.14.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.14.1",
+            "commit": {
+                "sha": "926546b153a701dfbfc71eb8157f9a41320444f8",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/926546b153a701dfbfc71eb8157f9a41320444f8"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xNC4x"
+        },
+        {
+            "name": "0.14.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.14.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.14.0",
+            "commit": {
+                "sha": "967eb811120417a57f95eb72e3d9ee9086a929af",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/967eb811120417a57f95eb72e3d9ee9086a929af"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xNC4w"
+        },
+        {
+            "name": "0.13.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.13.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.13.2",
+            "commit": {
+                "sha": "0ff8bd2aa92065d19fa21823135357a3bf18c220",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/0ff8bd2aa92065d19fa21823135357a3bf18c220"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMy4y"
+        },
+        {
+            "name": "0.13.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.13.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.13.1",
+            "commit": {
+                "sha": "a5d6082418e50a6ada910c833f91e661e429f8cb",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/a5d6082418e50a6ada910c833f91e661e429f8cb"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMy4x"
+        },
+        {
+            "name": "0.13.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.13.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.13.0",
+            "commit": {
+                "sha": "c58d2fce89c0f8d198b4d8fe8b558bd1b93874af",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/c58d2fce89c0f8d198b4d8fe8b558bd1b93874af"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMy4w"
+        },
+        {
+            "name": "0.12.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.12.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.12.1",
+            "commit": {
+                "sha": "208d6d6d94975742d84483bdaa0625c78ad582ff",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/208d6d6d94975742d84483bdaa0625c78ad582ff"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMi4x"
+        },
+        {
+            "name": "0.12.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.12.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.12.0",
+            "commit": {
+                "sha": "625aaceb005a43fe4602da70e4c48affa4d250e5",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/625aaceb005a43fe4602da70e4c48affa4d250e5"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMi4w"
+        },
+        {
+            "name": "0.11.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.11.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.11.2",
+            "commit": {
+                "sha": "7f1fdb774c4fa304b67a3d914037edecd31c93d6",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/7f1fdb774c4fa304b67a3d914037edecd31c93d6"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMS4y"
+        },
+        {
+            "name": "0.11.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.11.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.11.1",
+            "commit": {
+                "sha": "9550b884f71450ac380a71cdf13ab67816777e0f",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/9550b884f71450ac380a71cdf13ab67816777e0f"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMS4x"
+        },
+        {
+            "name": "0.11.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.11.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.11.0",
+            "commit": {
+                "sha": "7f583ec1ac6e7fb5269ed696f40a96a8b6b6f5fc",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/7f583ec1ac6e7fb5269ed696f40a96a8b6b6f5fc"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMS4w"
+        },
+        {
+            "name": "0.10.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.2",
+            "commit": {
+                "sha": "de57af46c03d65f1f0c951e8f530516ea450656d",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/de57af46c03d65f1f0c951e8f530516ea450656d"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMC4y"
+        },
+        {
+            "name": "0.10.2-fix1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.2-fix1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.2-fix1",
+            "commit": {
+                "sha": "f8c6eef17042d0ef7bf69a7c2b3adf3493a85157",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/f8c6eef17042d0ef7bf69a7c2b3adf3493a85157"
+            },
+            "node_id": "REF_kwDOJVxJurVyZWZzL3RhZ3MvMC4xMC4yLWZpeDE"
+        },
+        {
+            "name": "0.10.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.1",
+            "commit": {
+                "sha": "400392230b47fff5d011b55afd8b0f8b8083ade0",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/400392230b47fff5d011b55afd8b0f8b8083ade0"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMC4x"
+        },
+        {
+            "name": "0.10.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.0",
+            "commit": {
+                "sha": "ca21c285b00a4a72993a4400cc7902646b0bda0e",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/ca21c285b00a4a72993a4400cc7902646b0bda0e"
+            },
+            "node_id": "REF_kwDOJVxJurByZWZzL3RhZ3MvMC4xMC4w"
+        },
+        {
+            "name": "0.10.0-beta3",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.0-beta3",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.0-beta3",
+            "commit": {
+                "sha": "24d06eb741a91a2b43e6a7f72821fa620c44bee0",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/24d06eb741a91a2b43e6a7f72821fa620c44bee0"
+            },
+            "node_id": "REF_kwDOJVxJurZyZWZzL3RhZ3MvMC4xMC4wLWJldGEz"
+        },
+        {
+            "name": "0.10.0-beta2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.0-beta2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.0-beta2",
+            "commit": {
+                "sha": "ce774c6d1558b0ad217b04e08951ed58e9dfb09f",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/ce774c6d1558b0ad217b04e08951ed58e9dfb09f"
+            },
+            "node_id": "REF_kwDOJVxJurZyZWZzL3RhZ3MvMC4xMC4wLWJldGEy"
+        },
+        {
+            "name": "0.10.0-beta1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.10.0-beta1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.10.0-beta1",
+            "commit": {
+                "sha": "afb3e317d3671e79b642328ef10ccbf5e1c10d9d",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/afb3e317d3671e79b642328ef10ccbf5e1c10d9d"
+            },
+            "node_id": "REF_kwDOJVxJurZyZWZzL3RhZ3MvMC4xMC4wLWJldGEx"
+        },
+        {
+            "name": "0.9.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.9.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.9.2",
+            "commit": {
+                "sha": "5c7b1358d49c8df54bc39eea7b9c4d9b41c09fcb",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/5c7b1358d49c8df54bc39eea7b9c4d9b41c09fcb"
+            },
+            "node_id": "REF_kwDOJVxJuq9yZWZzL3RhZ3MvMC45LjI"
+        },
+        {
+            "name": "0.9.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.9.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.9.1",
+            "commit": {
+                "sha": "1f5cc071f8e3541df5d16b258059b157a7b60b73",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/1f5cc071f8e3541df5d16b258059b157a7b60b73"
+            },
+            "node_id": "REF_kwDOJVxJuq9yZWZzL3RhZ3MvMC45LjE"
+        },
+        {
+            "name": "0.9.1-fix1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.9.1-fix1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.9.1-fix1",
+            "commit": {
+                "sha": "c2328cb6769066d9816c137b39d3e2758d3c0fb4",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/c2328cb6769066d9816c137b39d3e2758d3c0fb4"
+            },
+            "node_id": "REF_kwDOJVxJurRyZWZzL3RhZ3MvMC45LjEtZml4MQ"
+        },
+        {
+            "name": "0.9.0",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.9.0",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.9.0",
+            "commit": {
+                "sha": "d2ce4960f121783ff970c9ffe7183a7bdb1b9e01",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/d2ce4960f121783ff970c9ffe7183a7bdb1b9e01"
+            },
+            "node_id": "REF_kwDOJVxJuq9yZWZzL3RhZ3MvMC45LjA"
+        },
+        {
+            "name": "0.8.3",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.8.3",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.8.3",
+            "commit": {
+                "sha": "7f3282ec04d87cfb8fcff892e824c96094b92636",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/7f3282ec04d87cfb8fcff892e824c96094b92636"
+            },
+            "node_id": "REF_kwDOJVxJuq9yZWZzL3RhZ3MvMC44LjM"
+        },
+        {
+            "name": "0.8.2",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.8.2",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.8.2",
+            "commit": {
+                "sha": "80a322aaa2223871013a0e1aa0d58903d38778b1",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/80a322aaa2223871013a0e1aa0d58903d38778b1"
+            },
+            "node_id": "REF_kwDOJVxJuq9yZWZzL3RhZ3MvMC44LjI"
+        },
+        {
+            "name": "0.8.1",
+            "zipball_url": "https://api.github.com/repos/langgenius/dify/zipball/refs/tags/0.8.1",
+            "tarball_url": "https://api.github.com/repos/langgenius/dify/tarball/refs/tags/0.8.1",
+            "commit": {
+                "sha": "c78828ab7ce36647985b2c2ec104940180a006d2",
+                "url": "https://api.github.com/repos/langgenius/dify/commits/c78828ab7ce36647985b2c2ec104940180a006d2"
+            },
+            "node_id": "REF_kwDOJVxJuq9yZWZzL3RhZ3MvMC44LjE"
+        }
+    ]
+}

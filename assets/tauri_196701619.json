@@ -1,0 +1,425 @@
+{
+    "id": 196701619,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=",
+    "name": "tauri",
+    "full_name": "tauri-apps/tauri",
+    "private": false,
+    "owner": {
+        "login": "tauri-apps",
+        "id": 54536011,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0NTM2MDEx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/54536011?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tauri-apps",
+        "html_url": "https://github.com/tauri-apps",
+        "followers_url": "https://api.github.com/users/tauri-apps/followers",
+        "following_url": "https://api.github.com/users/tauri-apps/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tauri-apps/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tauri-apps/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tauri-apps/subscriptions",
+        "organizations_url": "https://api.github.com/users/tauri-apps/orgs",
+        "repos_url": "https://api.github.com/users/tauri-apps/repos",
+        "events_url": "https://api.github.com/users/tauri-apps/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tauri-apps/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "fork": false,
+    "url": "https://api.github.com/repos/tauri-apps/tauri",
+    "forks_url": "https://api.github.com/repos/tauri-apps/tauri/forks",
+    "keys_url": "https://api.github.com/repos/tauri-apps/tauri/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/tauri-apps/tauri/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/tauri-apps/tauri/teams",
+    "hooks_url": "https://api.github.com/repos/tauri-apps/tauri/hooks",
+    "issue_events_url": "https://api.github.com/repos/tauri-apps/tauri/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/tauri-apps/tauri/events",
+    "assignees_url": "https://api.github.com/repos/tauri-apps/tauri/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/tauri-apps/tauri/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/tauri-apps/tauri/tags",
+    "blobs_url": "https://api.github.com/repos/tauri-apps/tauri/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/tauri-apps/tauri/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/tauri-apps/tauri/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/tauri-apps/tauri/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/tauri-apps/tauri/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/tauri-apps/tauri/languages",
+    "stargazers_url": "https://api.github.com/repos/tauri-apps/tauri/stargazers",
+    "contributors_url": "https://api.github.com/repos/tauri-apps/tauri/contributors",
+    "subscribers_url": "https://api.github.com/repos/tauri-apps/tauri/subscribers",
+    "subscription_url": "https://api.github.com/repos/tauri-apps/tauri/subscription",
+    "commits_url": "https://api.github.com/repos/tauri-apps/tauri/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/tauri-apps/tauri/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/tauri-apps/tauri/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/tauri-apps/tauri/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/tauri-apps/tauri/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/tauri-apps/tauri/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/tauri-apps/tauri/merges",
+    "archive_url": "https://api.github.com/repos/tauri-apps/tauri/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/tauri-apps/tauri/downloads",
+    "issues_url": "https://api.github.com/repos/tauri-apps/tauri/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/tauri-apps/tauri/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/tauri-apps/tauri/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/tauri-apps/tauri/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/tauri-apps/tauri/labels{/name}",
+    "releases_url": "https://api.github.com/repos/tauri-apps/tauri/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/tauri-apps/tauri/deployments",
+    "created_at": "2019-07-13T09:09:37Z",
+    "updated_at": "2025-01-25T17:04:50Z",
+    "pushed_at": "2025-01-25T17:12:54Z",
+    "git_url": "git://github.com/tauri-apps/tauri.git",
+    "ssh_url": "git@github.com:tauri-apps/tauri.git",
+    "clone_url": "https://github.com/tauri-apps/tauri.git",
+    "svn_url": "https://github.com/tauri-apps/tauri",
+    "homepage": "https://tauri.app",
+    "size": 92864,
+    "stargazers_count": 88756,
+    "watchers_count": 88756,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 2703,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 957,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "desktop-app",
+        "high-performance",
+        "mobile-app",
+        "native-app",
+        "rust",
+        "web-frontend",
+        "webview"
+    ],
+    "visibility": "public",
+    "forks": 2703,
+    "open_issues": 957,
+    "watchers": 88756,
+    "default_branch": "dev",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v1.0.5",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.5",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.5",
+            "commit": {
+                "sha": "679abc6a9a662a10a1c8f358364fdcb9d288f020",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/679abc6a9a662a10a1c8f358364fdcb9d288f020"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjU="
+        },
+        {
+            "name": "v1.0.4",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.4",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.4",
+            "commit": {
+                "sha": "b1d53426d1481524961715ce537f92eca81ae34d",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/b1d53426d1481524961715ce537f92eca81ae34d"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjQ="
+        },
+        {
+            "name": "v1.0.3",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.3",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.3",
+            "commit": {
+                "sha": "7bbf167c1c84493ea6e2353f720edafd7daa47e4",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/7bbf167c1c84493ea6e2353f720edafd7daa47e4"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjM="
+        },
+        {
+            "name": "v1.0.2",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.2",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.2",
+            "commit": {
+                "sha": "35b53784ee392dfca1b4e1633397ba8064139028",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/35b53784ee392dfca1b4e1633397ba8064139028"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjI="
+        },
+        {
+            "name": "v1.0.1",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.1",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.1",
+            "commit": {
+                "sha": "1a9b13330f074f6d4fa76ddbee19fc88494ffb5c",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/1a9b13330f074f6d4fa76ddbee19fc88494ffb5c"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjE="
+        },
+        {
+            "name": "v1.0.0",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0",
+            "commit": {
+                "sha": "13c2fc1ffe93163ec5ab0521fffe936e4f2b8077",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/13c2fc1ffe93163ec5ab0521fffe936e4f2b8077"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjA="
+        },
+        {
+            "name": "v1.0.0-rc.16",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.16",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.16",
+            "commit": {
+                "sha": "f5f9f105f768c0a0b86009c4a9058ce28563211d",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/f5f9f105f768c0a0b86009c4a9058ce28563211d"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTY="
+        },
+        {
+            "name": "v1.0.0-rc.15",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.15",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.15",
+            "commit": {
+                "sha": "dc432ef8b0cf1c0676f23825f7dea59ddd66b1b7",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/dc432ef8b0cf1c0676f23825f7dea59ddd66b1b7"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTU="
+        },
+        {
+            "name": "v1.0.0-rc.14",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.14",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.14",
+            "commit": {
+                "sha": "0e95a74950bfa219344fbff33888cf13fd8ad131",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/0e95a74950bfa219344fbff33888cf13fd8ad131"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTQ="
+        },
+        {
+            "name": "v1.0.0-rc.13",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.13",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.13",
+            "commit": {
+                "sha": "2c040eaaddca90adc008417dcfda24958d9ba221",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/2c040eaaddca90adc008417dcfda24958d9ba221"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTM="
+        },
+        {
+            "name": "v1.0.0-rc.12",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.12",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.12",
+            "commit": {
+                "sha": "c479922f9a5695afc9bf62946174d4d01b043cfa",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/c479922f9a5695afc9bf62946174d4d01b043cfa"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTI="
+        },
+        {
+            "name": "v1.0.0-rc.11",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.11",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.11",
+            "commit": {
+                "sha": "393c774dfd0d523bf10ceef2a03393640bf0f44d",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/393c774dfd0d523bf10ceef2a03393640bf0f44d"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTE="
+        },
+        {
+            "name": "v1.0.0-rc.10",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.10",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.10",
+            "commit": {
+                "sha": "87a2c2f8f6bd513e6c1f925ec7da480370f5a2a7",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/87a2c2f8f6bd513e6c1f925ec7da480370f5a2a7"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMTA="
+        },
+        {
+            "name": "v1.0.0-rc.9",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.9",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.9",
+            "commit": {
+                "sha": "feac1d193c6d618e49916ad0707201f43d5cdd36",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/feac1d193c6d618e49916ad0707201f43d5cdd36"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuOQ=="
+        },
+        {
+            "name": "v1.0.0-rc.8",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.8",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.8",
+            "commit": {
+                "sha": "f93f96970c84b55d4f77ac7ef69236460e0fa195",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/f93f96970c84b55d4f77ac7ef69236460e0fa195"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuOA=="
+        },
+        {
+            "name": "v1.0.0-rc.7",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.7",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.7",
+            "commit": {
+                "sha": "a30712fde246e05cd6ca2850c591131318ced39b",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/a30712fde246e05cd6ca2850c591131318ced39b"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuNw=="
+        },
+        {
+            "name": "v1.0.0-rc.6",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.6",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.6",
+            "commit": {
+                "sha": "fbb90178408fd47ea6066afaeed21fca3e0bc81c",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/fbb90178408fd47ea6066afaeed21fca3e0bc81c"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuNg=="
+        },
+        {
+            "name": "v1.0.0-rc.5",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.5",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.5",
+            "commit": {
+                "sha": "82b7f5195697596a84dbc2c05be29f2ee679e254",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/82b7f5195697596a84dbc2c05be29f2ee679e254"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuNQ=="
+        },
+        {
+            "name": "v1.0.0-rc.4",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.4",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.4",
+            "commit": {
+                "sha": "8d290cb2d763df0e9568c746a9f4ba0a23a357d3",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/8d290cb2d763df0e9568c746a9f4ba0a23a357d3"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuNA=="
+        },
+        {
+            "name": "v1.0.0-rc.2",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.2",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.2",
+            "commit": {
+                "sha": "9f0395ae3ce2e5a67f529d2c9d0ac0a38f6f723c",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/9f0395ae3ce2e5a67f529d2c9d0ac0a38f6f723c"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMg=="
+        },
+        {
+            "name": "v1.0.0-rc.1",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.1",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.1",
+            "commit": {
+                "sha": "fe0cfea03ef01c23996ec7e2f9acbce439ebb653",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/fe0cfea03ef01c23996ec7e2f9acbce439ebb653"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMQ=="
+        },
+        {
+            "name": "v1.0.0-rc.0",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v1.0.0-rc.0",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v1.0.0-rc.0",
+            "commit": {
+                "sha": "7c0fb73bb88096a9691ca282b86ff06aa6c64163",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/7c0fb73bb88096a9691ca282b86ff06aa6c64163"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MS4wLjAtcmMuMA=="
+        },
+        {
+            "name": "v0.3.1",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v0.3.1",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v0.3.1",
+            "commit": {
+                "sha": "7ae7c9dfc2a829b50a75c4fbea4e6d512d18c053",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/7ae7c9dfc2a829b50a75c4fbea4e6d512d18c053"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MC4zLjE="
+        },
+        {
+            "name": "v0.3.0",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v0.3.0",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v0.3.0",
+            "commit": {
+                "sha": "91afd431264f38080bbc14427a8d2a645948ec71",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/91afd431264f38080bbc14427a8d2a645948ec71"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MC4zLjA="
+        },
+        {
+            "name": "v0.2.1",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v0.2.1",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v0.2.1",
+            "commit": {
+                "sha": "48b79534daff64cfe2104c604b8c1c7531e75da7",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/48b79534daff64cfe2104c604b8c1c7531e75da7"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MC4yLjE="
+        },
+        {
+            "name": "v0.2.1-tauri-js",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v0.2.1-tauri-js",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v0.2.1-tauri-js",
+            "commit": {
+                "sha": "48b79534daff64cfe2104c604b8c1c7531e75da7",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/48b79534daff64cfe2104c604b8c1c7531e75da7"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MC4yLjEtdGF1cmktanM="
+        },
+        {
+            "name": "v0.2.1-tauri.js",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v0.2.1-tauri.js",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v0.2.1-tauri.js",
+            "commit": {
+                "sha": "48b79534daff64cfe2104c604b8c1c7531e75da7",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/48b79534daff64cfe2104c604b8c1c7531e75da7"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MC4yLjEtdGF1cmkuanM="
+        },
+        {
+            "name": "v0.2.0",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/v0.2.0",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/v0.2.0",
+            "commit": {
+                "sha": "da1a72a1448a1b15ed7bcbbbdb985dc1e106805b",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/da1a72a1448a1b15ed7bcbbbdb985dc1e106805b"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy92MC4yLjA="
+        },
+        {
+            "name": "tauri-v2.2.4",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/tauri-v2.2.4",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/tauri-v2.2.4",
+            "commit": {
+                "sha": "dc1997b77d10ce06a2e585bff6910b56dab0634a",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/dc1997b77d10ce06a2e585bff6910b56dab0634a"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy90YXVyaS12Mi4yLjQ="
+        },
+        {
+            "name": "tauri-v2.2.3",
+            "zipball_url": "https://api.github.com/repos/tauri-apps/tauri/zipball/refs/tags/tauri-v2.2.3",
+            "tarball_url": "https://api.github.com/repos/tauri-apps/tauri/tarball/refs/tags/tauri-v2.2.3",
+            "commit": {
+                "sha": "a70e690fe794fa7c7dd77c0cb0b77c5340392c8c",
+                "url": "https://api.github.com/repos/tauri-apps/tauri/commits/a70e690fe794fa7c7dd77c0cb0b77c5340392c8c"
+            },
+            "node_id": "MDM6UmVmMTk2NzAxNjE5OnJlZnMvdGFncy90YXVyaS12Mi4yLjM="
+        }
+    ]
+}

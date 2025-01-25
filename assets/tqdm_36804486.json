@@ -1,0 +1,438 @@
+{
+    "id": 36804486,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNjgwNDQ4Ng==",
+    "name": "tqdm",
+    "full_name": "tqdm/tqdm",
+    "private": false,
+    "owner": {
+        "login": "tqdm",
+        "id": 12731565,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNzMxNTY1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12731565?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tqdm",
+        "html_url": "https://github.com/tqdm",
+        "followers_url": "https://api.github.com/users/tqdm/followers",
+        "following_url": "https://api.github.com/users/tqdm/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tqdm/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tqdm/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tqdm/subscriptions",
+        "organizations_url": "https://api.github.com/users/tqdm/orgs",
+        "repos_url": "https://api.github.com/users/tqdm/repos",
+        "events_url": "https://api.github.com/users/tqdm/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tqdm/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/tqdm/tqdm",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI",
+    "fork": false,
+    "url": "https://api.github.com/repos/tqdm/tqdm",
+    "forks_url": "https://api.github.com/repos/tqdm/tqdm/forks",
+    "keys_url": "https://api.github.com/repos/tqdm/tqdm/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/tqdm/tqdm/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/tqdm/tqdm/teams",
+    "hooks_url": "https://api.github.com/repos/tqdm/tqdm/hooks",
+    "issue_events_url": "https://api.github.com/repos/tqdm/tqdm/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/tqdm/tqdm/events",
+    "assignees_url": "https://api.github.com/repos/tqdm/tqdm/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/tqdm/tqdm/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/tqdm/tqdm/tags",
+    "blobs_url": "https://api.github.com/repos/tqdm/tqdm/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/tqdm/tqdm/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/tqdm/tqdm/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/tqdm/tqdm/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/tqdm/tqdm/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/tqdm/tqdm/languages",
+    "stargazers_url": "https://api.github.com/repos/tqdm/tqdm/stargazers",
+    "contributors_url": "https://api.github.com/repos/tqdm/tqdm/contributors",
+    "subscribers_url": "https://api.github.com/repos/tqdm/tqdm/subscribers",
+    "subscription_url": "https://api.github.com/repos/tqdm/tqdm/subscription",
+    "commits_url": "https://api.github.com/repos/tqdm/tqdm/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/tqdm/tqdm/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/tqdm/tqdm/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/tqdm/tqdm/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/tqdm/tqdm/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/tqdm/tqdm/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/tqdm/tqdm/merges",
+    "archive_url": "https://api.github.com/repos/tqdm/tqdm/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/tqdm/tqdm/downloads",
+    "issues_url": "https://api.github.com/repos/tqdm/tqdm/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/tqdm/tqdm/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/tqdm/tqdm/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/tqdm/tqdm/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/tqdm/tqdm/labels{/name}",
+    "releases_url": "https://api.github.com/repos/tqdm/tqdm/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/tqdm/tqdm/deployments",
+    "created_at": "2015-06-03T13:13:14Z",
+    "updated_at": "2025-01-25T13:50:23Z",
+    "pushed_at": "2024-12-20T11:39:22Z",
+    "git_url": "git://github.com/tqdm/tqdm.git",
+    "ssh_url": "git@github.com:tqdm/tqdm.git",
+    "clone_url": "https://github.com/tqdm/tqdm.git",
+    "svn_url": "https://github.com/tqdm/tqdm",
+    "homepage": "https://tqdm.github.io",
+    "size": 6014,
+    "stargazers_count": 29126,
+    "watchers_count": 29126,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": true,
+    "forks_count": 1365,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 547,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+        "cli",
+        "closember",
+        "console",
+        "discord",
+        "gui",
+        "jupyter",
+        "keras",
+        "meter",
+        "pandas",
+        "parallel",
+        "progress",
+        "progress-bar",
+        "progressbar",
+        "progressmeter",
+        "python",
+        "rate",
+        "telegram",
+        "terminal",
+        "time",
+        "utilities"
+    ],
+    "visibility": "public",
+    "forks": 1365,
+    "open_issues": 547,
+    "watchers": 29126,
+    "default_branch": "master",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v4.67.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.67.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.67.1",
+            "commit": {
+                "sha": "0ed5d7f18fa3153834cbac0aa57e8092b217cc16",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/0ed5d7f18fa3153834cbac0aa57e8092b217cc16"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY3LjE="
+        },
+        {
+            "name": "v4.67.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.67.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.67.0",
+            "commit": {
+                "sha": "35a6ee9a4527bab5c0c7234531269e0c7fd0f2fd",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/35a6ee9a4527bab5c0c7234531269e0c7fd0f2fd"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY3LjA="
+        },
+        {
+            "name": "v4.66.6",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.6",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.6",
+            "commit": {
+                "sha": "5b84012637e1fa6b5fec1b5ce0ac4d7c08eef5fe",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/5b84012637e1fa6b5fec1b5ce0ac4d7c08eef5fe"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjY="
+        },
+        {
+            "name": "v4.66.5",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.5",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.5",
+            "commit": {
+                "sha": "951a2ba8d8754b7385e6e8c08dae9045f73b1438",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/951a2ba8d8754b7385e6e8c08dae9045f73b1438"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjU="
+        },
+        {
+            "name": "v4.66.4",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.4",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.4",
+            "commit": {
+                "sha": "74722959a8626fd2057be03e14dcf899c25a3fd5",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/74722959a8626fd2057be03e14dcf899c25a3fd5"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjQ="
+        },
+        {
+            "name": "v4.66.3",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.3",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.3",
+            "commit": {
+                "sha": "4e613f84ed2ae029559f539464df83fa91feb316",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/4e613f84ed2ae029559f539464df83fa91feb316"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjM="
+        },
+        {
+            "name": "v4.66.2",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.2",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.2",
+            "commit": {
+                "sha": "cc372d09dcd5a5eabdc6ed4cf365bdb0be004d44",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/cc372d09dcd5a5eabdc6ed4cf365bdb0be004d44"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjI="
+        },
+        {
+            "name": "v4.66.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.1",
+            "commit": {
+                "sha": "4c956c20b83be4312460fc0c4812eeb3fef5e7df",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/4c956c20b83be4312460fc0c4812eeb3fef5e7df"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjE="
+        },
+        {
+            "name": "v4.66.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.66.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.66.0",
+            "commit": {
+                "sha": "d69cc908d8dcfcad792b803c0bb3fa67d626918d",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/d69cc908d8dcfcad792b803c0bb3fa67d626918d"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY2LjA="
+        },
+        {
+            "name": "v4.65.2",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.65.2",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.65.2",
+            "commit": {
+                "sha": "87414bce2b389db40fbe1910b6e795257e58369c",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/87414bce2b389db40fbe1910b6e795257e58369c"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY1LjI="
+        },
+        {
+            "name": "v4.65.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.65.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.65.1",
+            "commit": {
+                "sha": "a6c9a2132055dff4061fad1e649bc6a564f80001",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/a6c9a2132055dff4061fad1e649bc6a564f80001"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY1LjE="
+        },
+        {
+            "name": "v4.65.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.65.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.65.0",
+            "commit": {
+                "sha": "0bb91857eca0d4aea08f66cf1c8949abe0cd6b7a",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/0bb91857eca0d4aea08f66cf1c8949abe0cd6b7a"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY1LjA="
+        },
+        {
+            "name": "v4.64.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.64.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.64.1",
+            "commit": {
+                "sha": "6791e8c5b3d6c30bdd2060c346996bfb5a6f10d1",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/6791e8c5b3d6c30bdd2060c346996bfb5a6f10d1"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY0LjE="
+        },
+        {
+            "name": "v4.64.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.64.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.64.0",
+            "commit": {
+                "sha": "4f208e72552c4d916aa4fe6a955349ee8b2ed353",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/4f208e72552c4d916aa4fe6a955349ee8b2ed353"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjY0LjA="
+        },
+        {
+            "name": "v4.63.2",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.63.2",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.63.2",
+            "commit": {
+                "sha": "87d253f65621884c9a4020fecabc7824029e2358",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/87d253f65621884c9a4020fecabc7824029e2358"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYzLjI="
+        },
+        {
+            "name": "v4.63.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.63.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.63.1",
+            "commit": {
+                "sha": "165a23a31c746447707bb1ec6417776e9fd06140",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/165a23a31c746447707bb1ec6417776e9fd06140"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYzLjE="
+        },
+        {
+            "name": "v4.63.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.63.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.63.0",
+            "commit": {
+                "sha": "f3fb54eb161a9f5de13352e16a70a9960946605b",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/f3fb54eb161a9f5de13352e16a70a9960946605b"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYzLjA="
+        },
+        {
+            "name": "v4.62.3",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.62.3",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.62.3",
+            "commit": {
+                "sha": "18d7aa4d3992d6f526fadc2b11a9066d87f70da6",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/18d7aa4d3992d6f526fadc2b11a9066d87f70da6"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYyLjM="
+        },
+        {
+            "name": "v4.62.2",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.62.2",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.62.2",
+            "commit": {
+                "sha": "140c94855bf98e7e0fda55b040a7a2c8ac76e786",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/140c94855bf98e7e0fda55b040a7a2c8ac76e786"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYyLjI="
+        },
+        {
+            "name": "v4.62.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.62.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.62.1",
+            "commit": {
+                "sha": "1ac732c10db18509e5b7c6571629a5013d35268b",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/1ac732c10db18509e5b7c6571629a5013d35268b"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYyLjE="
+        },
+        {
+            "name": "v4.62.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.62.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.62.0",
+            "commit": {
+                "sha": "4b7aab2e9b4b0fdaf9f1735e3c68b63d2733f1c5",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/4b7aab2e9b4b0fdaf9f1735e3c68b63d2733f1c5"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYyLjA="
+        },
+        {
+            "name": "v4.61.2",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.61.2",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.61.2",
+            "commit": {
+                "sha": "d986637bced9f989ba9442d8f24d8a9cb4dad172",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/d986637bced9f989ba9442d8f24d8a9cb4dad172"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYxLjI="
+        },
+        {
+            "name": "v4.61.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.61.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.61.1",
+            "commit": {
+                "sha": "c1ec3b18cf7c0ff2c980c16346b87b9fea48aae8",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/c1ec3b18cf7c0ff2c980c16346b87b9fea48aae8"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYxLjE="
+        },
+        {
+            "name": "v4.61.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.61.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.61.0",
+            "commit": {
+                "sha": "05ad200df3ccbc21c5c840d064e619ec9838f902",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/05ad200df3ccbc21c5c840d064e619ec9838f902"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYxLjA="
+        },
+        {
+            "name": "v4.60.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.60.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.60.0",
+            "commit": {
+                "sha": "4591083884c8ca079ccd1192c079113c7baeadc8",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/4591083884c8ca079ccd1192c079113c7baeadc8"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjYwLjA="
+        },
+        {
+            "name": "v4.59.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.59.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.59.0",
+            "commit": {
+                "sha": "bcce20f771a16cb8e4ac5cc5b2307374a2c0e535",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/bcce20f771a16cb8e4ac5cc5b2307374a2c0e535"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjU5LjA="
+        },
+        {
+            "name": "v4.58.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.58.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.58.0",
+            "commit": {
+                "sha": "0ed778e5c3048ae525da56be68611ffeb7185f84",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/0ed778e5c3048ae525da56be68611ffeb7185f84"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjU4LjA="
+        },
+        {
+            "name": "v4.57.0",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.57.0",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.57.0",
+            "commit": {
+                "sha": "b9507b31beb67c9903073f8ae6f89c9735c5f1d0",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/b9507b31beb67c9903073f8ae6f89c9735c5f1d0"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjU3LjA="
+        },
+        {
+            "name": "v4.56.2",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.56.2",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.56.2",
+            "commit": {
+                "sha": "7f971d5008de2374db58408d903e7c1a921f6b7f",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/7f971d5008de2374db58408d903e7c1a921f6b7f"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjU2LjI="
+        },
+        {
+            "name": "v4.56.1",
+            "zipball_url": "https://api.github.com/repos/tqdm/tqdm/zipball/refs/tags/v4.56.1",
+            "tarball_url": "https://api.github.com/repos/tqdm/tqdm/tarball/refs/tags/v4.56.1",
+            "commit": {
+                "sha": "94842e1027570867885788dc9d7fe038484f085b",
+                "url": "https://api.github.com/repos/tqdm/tqdm/commits/94842e1027570867885788dc9d7fe038484f085b"
+            },
+            "node_id": "MDM6UmVmMzY4MDQ0ODY6cmVmcy90YWdzL3Y0LjU2LjE="
+        }
+    ]
+}

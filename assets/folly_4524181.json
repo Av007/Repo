@@ -1,0 +1,417 @@
+{
+    "id": 4524181,
+    "node_id": "MDEwOlJlcG9zaXRvcnk0NTI0MTgx",
+    "name": "folly",
+    "full_name": "facebook/folly",
+    "private": false,
+    "owner": {
+        "login": "facebook",
+        "id": 69631,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NjMx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/69631?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/facebook",
+        "html_url": "https://github.com/facebook",
+        "followers_url": "https://api.github.com/users/facebook/followers",
+        "following_url": "https://api.github.com/users/facebook/following{/other_user}",
+        "gists_url": "https://api.github.com/users/facebook/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/facebook/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/facebook/subscriptions",
+        "organizations_url": "https://api.github.com/users/facebook/orgs",
+        "repos_url": "https://api.github.com/users/facebook/repos",
+        "events_url": "https://api.github.com/users/facebook/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/facebook/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "fork": false,
+    "url": "https://api.github.com/repos/facebook/folly",
+    "forks_url": "https://api.github.com/repos/facebook/folly/forks",
+    "keys_url": "https://api.github.com/repos/facebook/folly/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/facebook/folly/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/facebook/folly/teams",
+    "hooks_url": "https://api.github.com/repos/facebook/folly/hooks",
+    "issue_events_url": "https://api.github.com/repos/facebook/folly/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/facebook/folly/events",
+    "assignees_url": "https://api.github.com/repos/facebook/folly/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/facebook/folly/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/facebook/folly/tags",
+    "blobs_url": "https://api.github.com/repos/facebook/folly/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/facebook/folly/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/facebook/folly/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/facebook/folly/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/facebook/folly/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/facebook/folly/languages",
+    "stargazers_url": "https://api.github.com/repos/facebook/folly/stargazers",
+    "contributors_url": "https://api.github.com/repos/facebook/folly/contributors",
+    "subscribers_url": "https://api.github.com/repos/facebook/folly/subscribers",
+    "subscription_url": "https://api.github.com/repos/facebook/folly/subscription",
+    "commits_url": "https://api.github.com/repos/facebook/folly/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/facebook/folly/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/facebook/folly/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/facebook/folly/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/facebook/folly/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/facebook/folly/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/facebook/folly/merges",
+    "archive_url": "https://api.github.com/repos/facebook/folly/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/facebook/folly/downloads",
+    "issues_url": "https://api.github.com/repos/facebook/folly/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/facebook/folly/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/facebook/folly/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/facebook/folly/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/facebook/folly/labels{/name}",
+    "releases_url": "https://api.github.com/repos/facebook/folly/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/facebook/folly/deployments",
+    "created_at": "2012-06-01T20:49:04Z",
+    "updated_at": "2025-01-25T16:49:04Z",
+    "pushed_at": "2025-01-25T07:15:16Z",
+    "git_url": "git://github.com/facebook/folly.git",
+    "ssh_url": "git@github.com:facebook/folly.git",
+    "clone_url": "https://github.com/facebook/folly.git",
+    "svn_url": "https://github.com/facebook/folly",
+    "homepage": "",
+    "size": 46292,
+    "stargazers_count": 28913,
+    "watchers_count": 28913,
+    "language": "C++",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 5634,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 349,
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 5634,
+    "open_issues": 349,
+    "watchers": 28913,
+    "default_branch": "main",
+    "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": true
+    },
+    "score": 1.0,
+    "tags": [
+        {
+            "name": "v2025.01.20.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2025.01.20.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2025.01.20.00",
+            "commit": {
+                "sha": "0ca60440cd8bc7292e724ff5e5aff3ffb0cc9e63",
+                "url": "https://api.github.com/repos/facebook/folly/commits/0ca60440cd8bc7292e724ff5e5aff3ffb0cc9e63"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjUuMDEuMjAuMDA="
+        },
+        {
+            "name": "v2025.01.13.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2025.01.13.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2025.01.13.00",
+            "commit": {
+                "sha": "94a7bd4976a0ff53cae3ffd756add2d5df0a6d67",
+                "url": "https://api.github.com/repos/facebook/folly/commits/94a7bd4976a0ff53cae3ffd756add2d5df0a6d67"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjUuMDEuMTMuMDA="
+        },
+        {
+            "name": "v2025.01.06.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2025.01.06.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2025.01.06.00",
+            "commit": {
+                "sha": "7828768079d6876db2834bd75d7356757f88be86",
+                "url": "https://api.github.com/repos/facebook/folly/commits/7828768079d6876db2834bd75d7356757f88be86"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjUuMDEuMDYuMDA="
+        },
+        {
+            "name": "v2024.12.30.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.12.30.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.12.30.00",
+            "commit": {
+                "sha": "7fad06e3d1ce4e427ea68abca9e862cced07607a",
+                "url": "https://api.github.com/repos/facebook/folly/commits/7fad06e3d1ce4e427ea68abca9e862cced07607a"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTIuMzAuMDA="
+        },
+        {
+            "name": "v2024.12.23.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.12.23.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.12.23.00",
+            "commit": {
+                "sha": "10713ddc674b3f18a4a88c1da2656702d2c7526a",
+                "url": "https://api.github.com/repos/facebook/folly/commits/10713ddc674b3f18a4a88c1da2656702d2c7526a"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTIuMjMuMDA="
+        },
+        {
+            "name": "v2024.12.16.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.12.16.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.12.16.00",
+            "commit": {
+                "sha": "132d899b9423526dfcfd205c749878f3d7905feb",
+                "url": "https://api.github.com/repos/facebook/folly/commits/132d899b9423526dfcfd205c749878f3d7905feb"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTIuMTYuMDA="
+        },
+        {
+            "name": "v2024.12.09.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.12.09.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.12.09.00",
+            "commit": {
+                "sha": "e270aa1727d89bb486d0f278d69ddfb4a51c5800",
+                "url": "https://api.github.com/repos/facebook/folly/commits/e270aa1727d89bb486d0f278d69ddfb4a51c5800"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTIuMDkuMDA="
+        },
+        {
+            "name": "v2024.12.02.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.12.02.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.12.02.00",
+            "commit": {
+                "sha": "b59298fd63cc9f5b31b85d3bfa3627578d3333fa",
+                "url": "https://api.github.com/repos/facebook/folly/commits/b59298fd63cc9f5b31b85d3bfa3627578d3333fa"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTIuMDIuMDA="
+        },
+        {
+            "name": "v2024.11.25.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.11.25.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.11.25.00",
+            "commit": {
+                "sha": "87a00286dbf93aa76652161ee54a506a8bf80ff5",
+                "url": "https://api.github.com/repos/facebook/folly/commits/87a00286dbf93aa76652161ee54a506a8bf80ff5"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTEuMjUuMDA="
+        },
+        {
+            "name": "v2024.11.18.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.11.18.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.11.18.00",
+            "commit": {
+                "sha": "0660ead5b610047a279cc291129e98e3f2a1fc37",
+                "url": "https://api.github.com/repos/facebook/folly/commits/0660ead5b610047a279cc291129e98e3f2a1fc37"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTEuMTguMDA="
+        },
+        {
+            "name": "v2024.11.11.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.11.11.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.11.11.00",
+            "commit": {
+                "sha": "23d7a4c430cb6bc6c0bceac7d5ff7599a965c9db",
+                "url": "https://api.github.com/repos/facebook/folly/commits/23d7a4c430cb6bc6c0bceac7d5ff7599a965c9db"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTEuMTEuMDA="
+        },
+        {
+            "name": "v2024.11.04.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.11.04.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.11.04.00",
+            "commit": {
+                "sha": "30a4e783a7618f17a5b24048625872e363068887",
+                "url": "https://api.github.com/repos/facebook/folly/commits/30a4e783a7618f17a5b24048625872e363068887"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTEuMDQuMDA="
+        },
+        {
+            "name": "v2024.10.28.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.10.28.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.10.28.00",
+            "commit": {
+                "sha": "265a484efce787e7540de54be02b3cefc72a2f6d",
+                "url": "https://api.github.com/repos/facebook/folly/commits/265a484efce787e7540de54be02b3cefc72a2f6d"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTAuMjguMDA="
+        },
+        {
+            "name": "v2024.10.21.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.10.21.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.10.21.00",
+            "commit": {
+                "sha": "d460e425eb5f55dab7fe1c52c86a29cb7a28868e",
+                "url": "https://api.github.com/repos/facebook/folly/commits/d460e425eb5f55dab7fe1c52c86a29cb7a28868e"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTAuMjEuMDA="
+        },
+        {
+            "name": "v2024.10.14.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.10.14.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.10.14.00",
+            "commit": {
+                "sha": "ad90720829db5ba0c3d0e44994856dcce33d7940",
+                "url": "https://api.github.com/repos/facebook/folly/commits/ad90720829db5ba0c3d0e44994856dcce33d7940"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTAuMTQuMDA="
+        },
+        {
+            "name": "v2024.10.07.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.10.07.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.10.07.00",
+            "commit": {
+                "sha": "45ffb40f2beebb08b37df9b81b39193a6e2057a4",
+                "url": "https://api.github.com/repos/facebook/folly/commits/45ffb40f2beebb08b37df9b81b39193a6e2057a4"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMTAuMDcuMDA="
+        },
+        {
+            "name": "v2024.09.30.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.09.30.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.09.30.00",
+            "commit": {
+                "sha": "4ab180a3572d183f1515a5f0a9f2c4ad5bbe150a",
+                "url": "https://api.github.com/repos/facebook/folly/commits/4ab180a3572d183f1515a5f0a9f2c4ad5bbe150a"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDkuMzAuMDA="
+        },
+        {
+            "name": "v2024.09.23.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.09.23.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.09.23.00",
+            "commit": {
+                "sha": "dc28381834ab1c9cae55f6d3bf3a122335220ab0",
+                "url": "https://api.github.com/repos/facebook/folly/commits/dc28381834ab1c9cae55f6d3bf3a122335220ab0"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDkuMjMuMDA="
+        },
+        {
+            "name": "v2024.09.16.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.09.16.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.09.16.00",
+            "commit": {
+                "sha": "f7189afafc220bf1fea3aa118158cf0b7ad6b9ed",
+                "url": "https://api.github.com/repos/facebook/folly/commits/f7189afafc220bf1fea3aa118158cf0b7ad6b9ed"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDkuMTYuMDA="
+        },
+        {
+            "name": "v2024.09.09.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.09.09.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.09.09.00",
+            "commit": {
+                "sha": "2fb0ca3c553c803a8c9bf6b7b4bc98f1b0a79d4e",
+                "url": "https://api.github.com/repos/facebook/folly/commits/2fb0ca3c553c803a8c9bf6b7b4bc98f1b0a79d4e"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDkuMDkuMDA="
+        },
+        {
+            "name": "v2024.09.02.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.09.02.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.09.02.00",
+            "commit": {
+                "sha": "02e0109fe64be0e7e73fc8021bc6e069b20b0233",
+                "url": "https://api.github.com/repos/facebook/folly/commits/02e0109fe64be0e7e73fc8021bc6e069b20b0233"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDkuMDIuMDA="
+        },
+        {
+            "name": "v2024.08.26.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.08.26.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.08.26.00",
+            "commit": {
+                "sha": "67c3f7dc7cdd3943bb4a2dd75b4c0598d5b967d6",
+                "url": "https://api.github.com/repos/facebook/folly/commits/67c3f7dc7cdd3943bb4a2dd75b4c0598d5b967d6"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDguMjYuMDA="
+        },
+        {
+            "name": "v2024.08.19.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.08.19.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.08.19.00",
+            "commit": {
+                "sha": "31a4de6e9b8d81314b5a21e09154c867171810f6",
+                "url": "https://api.github.com/repos/facebook/folly/commits/31a4de6e9b8d81314b5a21e09154c867171810f6"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDguMTkuMDA="
+        },
+        {
+            "name": "v2024.08.12.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.08.12.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.08.12.00",
+            "commit": {
+                "sha": "c5aa5c46291a27f69acc920894d43605ceb43eba",
+                "url": "https://api.github.com/repos/facebook/folly/commits/c5aa5c46291a27f69acc920894d43605ceb43eba"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDguMTIuMDA="
+        },
+        {
+            "name": "v2024.08.05.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.08.05.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.08.05.00",
+            "commit": {
+                "sha": "dc875e505b94733bdc07d10990e54f4af5d3110e",
+                "url": "https://api.github.com/repos/facebook/folly/commits/dc875e505b94733bdc07d10990e54f4af5d3110e"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDguMDUuMDA="
+        },
+        {
+            "name": "v2024.07.29.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.07.29.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.07.29.00",
+            "commit": {
+                "sha": "99a4f5aa3791b3c65e26802861e1e786b84da276",
+                "url": "https://api.github.com/repos/facebook/folly/commits/99a4f5aa3791b3c65e26802861e1e786b84da276"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDcuMjkuMDA="
+        },
+        {
+            "name": "v2024.07.22.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.07.22.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.07.22.00",
+            "commit": {
+                "sha": "03273703302c301564606cdbb68c11c77ac0eede",
+                "url": "https://api.github.com/repos/facebook/folly/commits/03273703302c301564606cdbb68c11c77ac0eede"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDcuMjIuMDA="
+        },
+        {
+            "name": "v2024.07.15.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.07.15.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.07.15.00",
+            "commit": {
+                "sha": "661331d60533c2ef8e82d9650cb9f78306e12e0e",
+                "url": "https://api.github.com/repos/facebook/folly/commits/661331d60533c2ef8e82d9650cb9f78306e12e0e"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDcuMTUuMDA="
+        },
+        {
+            "name": "v2024.07.08.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.07.08.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.07.08.00",
+            "commit": {
+                "sha": "b0d11fa422d9715fbd2936932a0ad61e10efcaf3",
+                "url": "https://api.github.com/repos/facebook/folly/commits/b0d11fa422d9715fbd2936932a0ad61e10efcaf3"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDcuMDguMDA="
+        },
+        {
+            "name": "v2024.07.01.00",
+            "zipball_url": "https://api.github.com/repos/facebook/folly/zipball/refs/tags/v2024.07.01.00",
+            "tarball_url": "https://api.github.com/repos/facebook/folly/tarball/refs/tags/v2024.07.01.00",
+            "commit": {
+                "sha": "0ba07a2ec34668e98b9789e6c67a85704bfecd01",
+                "url": "https://api.github.com/repos/facebook/folly/commits/0ba07a2ec34668e98b9789e6c67a85704bfecd01"
+            },
+            "node_id": "MDM6UmVmNDUyNDE4MTpyZWZzL3RhZ3MvdjIwMjQuMDcuMDEuMDA="
+        }
+    ]
+}
