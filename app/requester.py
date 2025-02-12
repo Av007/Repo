@@ -1,5 +1,7 @@
 import asyncio
 import json
+from typing import Any, Optional, List, Union, Dict
+
 import aiofiles
 from httpx import AsyncClient
 import logging
@@ -9,12 +11,12 @@ from .config import config
 logger = logging.getLogger('uvicorn.error')
 
 
-async def get_request(url, params):
+async def get_request(url: str, params: dict[str, Any]) -> dict[str, Any]:
     """
     Request Github API handler
     :param url: github api url
     :param params: github params
-    :return: dict
+    :return: dict[str, Any]
     """
     headers = {
         "Accept": "application/vnd.github+json",
@@ -30,7 +32,7 @@ async def get_request(url, params):
         response.raise_for_status()
     return response.json()
 
-async def get_repos_io(count: int, page: int | None):
+async def get_repos_io(count: int, page: int | None) -> None:
     """
     Fetch top GitHub repositories by stars, up to the specified count
 
@@ -56,11 +58,17 @@ async def get_repos_io(count: int, page: int | None):
     await asyncio.gather(*tags_tasks, return_exceptions=True)
     logger.info("complete writing file")
 
-async def get_tags(url):
+async def get_tags(url: str) -> dict[str, Any]:
+    """
+    Fetching Github tags
+
+    :param url: tag API endpoint url
+    :return: API response
+    """
     logger.debug(f"Requesting {url}...")
     return await get_request(url, {})
 
-async def fetch_data(url, params):
+async def fetch_data(url: str, params: dict[str, Any]) -> List[dict[str, Any]]:
     """
     Fetch data asynchronously
 
@@ -86,7 +94,7 @@ async def fetch_data(url, params):
 
     return result
 
-async def write_file(data):
+async def write_file(data: dict[str, Any]) -> None:
     """
     Writing json file to fs
     :param data: repo dto
@@ -96,7 +104,7 @@ async def write_file(data):
     async with aiofiles.open(f"{file_name}", mode="w") as file:
         await file.write(json.dumps(data, indent=4))
 
-async def read_dir(prefix=None):
+async def read_dir(prefix: Optional[str]=None) -> List[str]:
     """
     Reading directory
     :param prefix: for matching files by names
@@ -112,7 +120,7 @@ async def read_dir(prefix=None):
             logger.info(f"Scanning directory")
             return await loop.run_in_executor(None, listdir, directory)
 
-async def read_files(file_path: str, single_file="") -> object:
+async def read_files(file_path: str, single_file: Optional[str] ="") -> Union[Dict[str, Any], str, None]:
     """
     Asynchronously read the contents of a file.
 
